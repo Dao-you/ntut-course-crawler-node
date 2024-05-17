@@ -26,12 +26,12 @@
   {
     "name": "張秉宸",
     "email": "pcchang@ntut.edu.tw",
-    "latestUpdate": "2023-12-12 16:00:01",
+    "latestUpdate": "2024-05-16 13:09:29",
     "objective": "本課程旨在概述人工智慧的應用及其對製造業和物流業的影響。 隨機器學習、深度學習、啟發式演算法和其他人工智能方法的發展，相關新興技術的應用越來越多地被應用於製造和物流行業以提高決策能力。本課程將通過介紹人工智慧的基礎知識和實際應用之案例研究闡述使用人工智慧技術對於產業決策之幫助。學生將深入了解人工智慧技術及其在製造和物流領域如需求預測、生產計劃、調度、質量控製或運輸的潛在應用，課程內容亦將應用 ChatGPT 做為開發製造物流問題求解方法之輔助工具。通過本課程，學生將了解人工智慧對製造和物流系統之影響及現況，評估使用人工智慧之益處和局限性，並了解人工智慧對於相關產業之改善。\nThis course provides an overview of AI application and its impact on manufacturing and logistics. Emerging technologies like machine learning, deep learning, heuristics are being utilized to enhance decision-making capabilities. The course covers the fundamentals of AI, practical case studies, and its benefits. Latest AI technologies and their potential applications in manufacturing and logistics such as demand forecasting, production planning, scheduling, quality control, or transportation will be introduced. ChatGPT will be used as an auxiliary tool for developing problem-solving methods. The course develops the ability to analyze the impact of AI on manufacturing and logistics systems, assess benefits and limitations, and evaluate AI improvement for related industries.",
     "schedule": "張秉宸老師部分：\n第一週 / 物流管理導論\n第二週 / 智慧物流概念\n第三週 / 物聯網與物流\n第四週 / 大數據與物流\n第五週 / 區塊鏈與物流\n第六週 / Project",
     "scorePolicy": "張秉宸老師部分：\n課堂討論及課堂作業 15%\nProject 18%",
     "materials": "張秉宸老師部分：\n\n【中文參考書籍】\n現代物流管理：開啟智慧物流新時代\n作者：葉清江\n出版日：2022/7/26\n出版商：全華\nISBN (13 碼)：9789865034726",
-    "consultation": "EmailOffice hour: Mon. 16:00 - 18:00",
+    "consultation": "17、18 週為洪子晏老師授課，若此期間對張秉宸老師課程有需要諮詢處，仍歡迎並請以 email 聯繫 Email：pcchang@ntut.edu.twOffice hour: Mon. 16:00 - 18:00",
     "remarks": "SDGs 7 Affordable and Clean EnergySDGs 8 Decent Work and Economic GrowthSDGs 9 Industry, Innovation and InfrastructureSDGs 12 Responsible Consumption and ProductionSDGs 17 Partnerships",
     "foreignLanguageTextbooks": false
   }

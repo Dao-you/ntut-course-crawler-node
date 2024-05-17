@@ -7026,7 +7026,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "76",
+    "people": "77",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21711,7 +21711,13 @@
         "code": "2990"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳柏瑄",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12343",
+        "code": "12343"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -22286,7 +22292,28 @@
         "code": "2997"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "梁曉帆",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11088",
+        "code": "11088"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "劉建浩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11537",
+        "code": "11537"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -28252,7 +28279,7 @@
       }
     ],
     "people": "11",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -36222,7 +36249,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子所日職與電資外生所合開，英語授課",
