@@ -2252,6 +2252,11 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=112&sem=2&code=2928",
         "code": "2928"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2966",
+        "code": "2966"
       }
     ],
     "teacher": [
@@ -22069,7 +22074,18 @@
         "code": "2996"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳牧恩",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=11985",
+        "code": "11985"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=112&sem=2&code=12148",
+        "code": "12148"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],

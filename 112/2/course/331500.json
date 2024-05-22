@@ -2,12 +2,12 @@
   {
     "name": "洪子晏",
     "email": "georgehong618@gmail.com",
-    "latestUpdate": "2023-12-15 16:42:58",
+    "latestUpdate": "2024-05-21 14:12:21",
     "objective": "本課程旨在概述人工智慧的應用及其對製造業和物流業的影響。 隨機器學習、深度學習、啟發式演算法和其他人工智能方法的發展，相關新興技術的應用越來越多地被應用於製造和物流行業以提高決策能力。本課程將通過介紹人工智慧的基礎知識和實際應用之案例研究闡述使用人工智慧技術對於產業決策之幫助。學生將深入了解人工智慧技術及其在製造和物流領域如需求預測、生產計劃、調度、質量控製或運輸的潛在應用，課程內容亦將應用 ChatGPT 做為開發製造物流問題求解方法之輔助工具。通過本課程，學生將了解人工智慧對製造和物流系統之影響及現況，評估使用人工智慧之益處和局限性，並了解人工智慧對於相關產業之改善。\nThis course provides an overview of AI application and its impact on manufacturing and logistics. Emerging technologies like machine learning, deep learning, heuristics are being utilized to enhance decision-making capabilities. The course covers the fundamentals of AI, practical case studies, and its benefits. Latest AI technologies and their potential applications in manufacturing and logistics such as demand forecasting, production planning, scheduling, quality control, or transportation will be introduced. ChatGPT will be used as an auxiliary tool for developing problem-solving methods. The course develops the ability to analyze the impact of AI on manufacturing and logistics systems, assess benefits and limitations, and evaluate AI improvement for related industries.",
     "schedule": "洪子晏老師部分：\n第一週 / 生產管理與智慧製造導論\n第二週 / 演算法於製造之應用與實踐 (I)\n第三週 / 演算法於製造之應用與實踐 (II)\n第四週 / 資料科學於製造之應用與實踐 (I)\n第五週 / 資料科學於製造之應用與實踐 (II)\n第六週 / Project",
     "scorePolicy": "課堂參與及作業 14%\nProject 20%",
     "materials": "參考書籍:\nSoroush, M., Baldea, M., & Edgar, T. F. (Eds.). (2020). Smart Manufacturing: Concepts and Methods. Elsevier.",
-    "consultation": "聯繫課程助教或 e-mail 至 tyhong@ntut.edu.tw",
+    "consultation": "聯繫課程助教或 e-mail 至 tyhong@ntut.edu.tw 本課程 17 週正常上課、18 週線上報告繳交",
     "remarks": "SDGs 7 Affordable and Clean EnergySDGs 8 Decent Work and Economic GrowthSDGs 9 Industry, Innovation and InfrastructureSDGs 12 Responsible Consumption and ProductionSDGs 17 Partnerships",
     "foreignLanguageTextbooks": true
   },
