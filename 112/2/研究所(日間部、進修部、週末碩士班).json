@@ -49172,5 +49172,46 @@
     "notes": "經系所核准可修第二門論文始得修習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105001",
     "syllabusLinks": []
+  },
+  {
+    "code": "4406002",
+    "description": {
+      "zh": "碩士論文寫作",
+      "en": "A Student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "332958",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "車輛所",
+        "link": "Subj.jsp?format=-4&year=112&sem=2&code=2931",
+        "code": "2931"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "經系所核准可修第二門論文始得修習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406002",
+    "syllabusLinks": []
   }
 ]
