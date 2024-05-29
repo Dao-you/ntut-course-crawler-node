@@ -1,0 +1,26 @@
+[
+  {
+    "name": "吳玉娟",
+    "email": "wuyc@ntut.edu.tw",
+    "latestUpdate": "2024-05-22 17:39:57",
+    "objective": "專題報告、專題演講、研究小組討論。",
+    "schedule": "邀請校外專家演講及碩二生上台報告",
+    "scorePolicy": "報告 + 出席率 = 100",
+    "materials": "以上內容，授課老師有權修改上課進度及評量方式",
+    "consultation": "如有任何問題，請 e-mail 至 wuyc@ntut.edu.tw",
+    "remarks": "遠距以 teams 為主",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "邱揚淳",
+    "email": "ycchiu@ntut.edu.tw",
+    "latestUpdate": "2024-05-22 10:42:06",
+    "objective": "專題報告、專題演講、研究小組討論。\nCase Study. Seminar. Group meeting.",
+    "schedule": "1-8. 專題演講\n9-16. 碩士班學生專題報告",
+    "scorePolicy": "每周心得報告",
+    "materials": "無",
+    "consultation": "Office Hours (Wednesday 10~12 & 14~16 )",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

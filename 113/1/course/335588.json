@@ -1,0 +1,14 @@
+[
+  {
+    "name": "邱垂昱",
+    "email": "cychiu@ntut.edu.tw",
+    "latestUpdate": "2024-05-23 09:45:29",
+    "objective": "作業研究是用來處理將有限資源分配於許多競爭性活動的問題上之一種有用的技術，它已經變成眾多企業工業機構的一種標準工具。高等作業研究課程主要在基於線性規劃等作業研究基本知識上，探討如何以數量模式求出相關作業問題之最佳解。課程內容包括線性規畫、運輸與指派問題、網路分析、專案管理、整數規畫等主題並就作業研究相關個案及研究文獻進行探討。\nThis course discusses linear programming, transportation problems, network analysis, project management, dynamic programming",
+    "schedule": "Week 1 作業研究概論\nWeek 2 線性規劃概論 (1)\nWeek 3 線性規劃概論 (2)\nWeek 4 單形法 (1)\nWeek 5 單形法 (2)\nWeek 6 線性規劃的高等主題\nWeek 7 對偶理論 (1)\nWeek 8 對偶理論 (2)\nWeek 9 期中考\nWeek 10 敏感度與參數分析 (1)\nWeek 11 敏感度與參數分析 (2)\nWeek 12 運輸與指派問題 (1)\nWeek 13 運輸與指派問題 (2)\nWeek 14 網路模式 (1)\nWeek 15 網路模式 (2)\nWeek 16 整數規劃 (1)\nWeek 17 整數規劃 (2)\nWeek 18 期末考",
+    "scorePolicy": "1. 期中考試（40%）：於學期之期中舉行，有特殊原因需事先通知，否則不予補考。\n2. 期末考試（40%）：於學期之期末舉行，有特殊原因需事先通知，否則不予補考。\n3. 參與率（20%）：以出席率為主要評分依據，另外上課參與情形酌予加分。\n4. 彈性分數：依據全班平均成績適度調整分數。",
+    "materials": "教科書：廖慶榮著，作業研究，華泰書局   \n參考書：Hiller and Lieberman, Introduction to Operations Research, McGraw-Hill",
+    "consultation": "cychiu@ntut.edu.tw",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

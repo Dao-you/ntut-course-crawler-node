@@ -1,0 +1,14 @@
+[
+  {
+    "name": "吳牧恩",
+    "email": "mnasia1@gmail.com",
+    "latestUpdate": "2024-05-28 21:48:13",
+    "objective": "本課程將介紹大數據分析緣起與理論基礎，大數據分析與企業經營間之獲利關聯，並輔以大數據分析案例讓學員對於大數據應用有更深層的認識與啟發。\nThe big data opportunity, extracting insight from an immense volume, variety and velocity of data, in context, beyond what was previously possible, will be addressed in this course. Applications for big data analytics could include smarter healthcare, multi-channel, finance, computer log analysis, homeland security, traffic control, telecom, search quality, manufacturing, trading analytics, fraud and risk, retailing, among others.",
+    "schedule": "機率與統計\n相對熵\nR 語言介紹\n機器學習概念\n應用於財金資料",
+    "scorePolicy": "上課討論、作業",
+    "materials": "自編教材",
+    "consultation": "Line 群組",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "賴建宏",
+    "email": "ee12245@ntut.edu.tw",
+    "latestUpdate": "2024-05-22 10:58:57",
+    "objective": "本課程將從基礎深度學習理論、邊緣智慧硬體應用、資料集建置、客製化模型訓練到推論環境佈署，讓學員透過 Google Colab, OpenCV, Tensorflow/Keras 等開源工具，學習如何規畫及實踐不同類型的低功耗、低延時、低成本及高隱私的邊緣智慧應用專案。",
+    "schedule": "This course will cover basic deep learning theory, edge smart hardware applications, data set construction, customized model training, and inference environment deployment. Students will learn how to plan through open source tools such as Google Colab, OpenCV, and Tensorflow/Keras. Draw and practice different types of edge intelligence application projects with low power consumption, low latency, low cost and high privacy.",
+    "scorePolicy": "期中期末都 50%",
+    "materials": "References:\n\nkeras tutorial\n\n有 PDF 檔案，另有我們的簡報跟範例",
+    "consultation": "ext. 2237",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

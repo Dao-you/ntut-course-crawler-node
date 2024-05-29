@@ -1,0 +1,14 @@
+[
+  {
+    "name": "黃盈庭",
+    "email": "huangyt@ntut.edu.tw",
+    "latestUpdate": "2024-05-24 21:03:35",
+    "objective": "靜電場理論：庫侖定律、高斯定律、電場、電位、電容；靜磁場理論：安培定律、磁場、電流、電感、法拉第定律、冷次定律。",
+    "schedule": "第一週：概論\t\n第二週：Ch21 庫侖定律\t\n第三週：Ch22 電場\n第四週：Ch23 高斯定律\t\n第五週：Ch24 電位 Part 1\n第六週：Ch24 電位 Part 2\n第七週：Ch25 電容 Part 1\n第八週：Ch25 電容 Part 2\n第九週：期中考\t\n第十週：Ch26 電流與電阻\n第十一週：Ch27 迴路電路\t\n第十二週：Ch27RC 電路\t\n第十三週：Ch28 磁場\t\n第十四週：Ch29 安培定律\t\n第十五週：Ch30 法拉第定律、冷次定律\t\n第十六週：Ch30 電感\t\n第十七週：Ch31 電磁振盪與交流電\t\n第十八週：期末考",
+    "scorePolicy": "平時成績 (出席率與課堂表現)：20%\n期中考：40%\n期末考：40%",
+    "materials": "參考書目：Halliday and Resnick's, Principles of Physics, 11th edition",
+    "consultation": "課程助教的諮詢時段提供學生詢問問題。也可以透過 email 聯繫老師，討論課程相關問題。",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

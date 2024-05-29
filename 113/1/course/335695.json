@@ -1,0 +1,14 @@
+[
+  {
+    "name": "李有豐",
+    "email": "yfli@ntut.edu.tw",
+    "latestUpdate": "2024-05-23 15:58:29",
+    "objective": "本課程將介紹\n1. 變分法        2. 線性彈性力學       3. 變分法應用到彈性力學\n4.Euler 梁與 Timoshenko 梁      5. 扭力    6. 古典板理論\n7. 彈性穩定.\nThis course will introduces:\n1.Calculus of Variations\n2.Linear Elasticity\n3.Variational Principles of Elasticity\n4.Euler Beam and Timoshenko Beam\n5.Torsion\n6.Classical Theory of Plates\n7.Elastic Stability",
+    "schedule": "Week: 1~2  Calculus of Variations\nWeek: 3~5 Linear Elasticity\nWeek: 6~8 Variational Principles of Elasticity\nWeek: 9 Midterm Exam\nWeek: 10~11 Euler Beam and Timoshenko Beam\nWeek: 12~13 Torsion\nWeek: 14~15 Classical Theory of Plates\nWeek: 16~17 Elastic Stability\nWeek: 18 Final Exam",
+    "scorePolicy": "Midterm Exam: 30%\nFinal Exam: 30%\nAttendance, homework, quiz etc. 40%",
+    "materials": "Solid Mechanics : A Variational Approach",
+    "consultation": "1. After class2. Consultant time.",
+    "remarks": "Nil.",
+    "foreignLanguageTextbooks": true
+  }
+]

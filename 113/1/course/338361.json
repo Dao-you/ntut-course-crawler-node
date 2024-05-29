@@ -1,0 +1,14 @@
+[
+  {
+    "name": "李旻璁",
+    "email": "mtlee@ntut.edu.tw",
+    "latestUpdate": "2024-05-22 11:50:27",
+    "objective": "This course introduces the concepts of machine learning and the fundamentals of computer programming. Students will learn the essential components of computer language and the algorithms for coding. The goal is to help students feel confident mapping scientific problems into computational frameworks, designing mathematical algorithms, and writing and debugging programs for specific tasks.",
+    "schedule": "Part I. Theory and Tools (2-3 weeks)\n1. Introduction to AI, machine learning, and the purposes of learning computer programming. Introduction to resources such as GitHub. The choice of computer language, and the basic concepts of programming.\n2. Linux platform, vim editor, compiler and interpreter, gnuplot, etc. Data collection, analysis, and visualization.\n\nPart II. Fundamentals of programming (7 weeks)\n1. Input and Output\n2. Variables and Declaration\n3. Math functions\n4. Do loop\n5. If and logical control\n6. Array and data handling\n7. Subroutine and module, random number generator\n\nPart III. Algorithm (4-6 weeks)\n1. Solve special problem: data sorting\n2. Solve special problem: statistical analysis\n3. Solve special problem: probability and histogram\n4. Solve special problem: regression",
+    "scorePolicy": "class participation: 5 points x 12 weeks (60%)\nIn-class problem: 10 points x 4 weeks (40%)\n\nThere is no midterm and final in this course. Students need to attend the class in person and answer questions on Zuvio to get scores for class participation. The knowledge acquired in Part II will be applied to solve the special problems in Part III.",
+    "materials": "Online resources.",
+    "consultation": "Email: mtlee@mail.ntut.edu.tw",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

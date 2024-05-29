@@ -1,0 +1,14 @@
+[
+  {
+    "name": "施陽正",
+    "email": "f10958@ntut.edu.tw",
+    "latestUpdate": "2024-05-28 17:32:49",
+    "objective": "本課程適合修過工程數學及基礎熱流的碩博士班學生選修。授課內容主要是應用 Matlab 及 CFD 套裝軟體分析能源與熱流科學領域的相關問題，並著重於案例分析。課程內容主要包括利用數值分析解析邊界層問題、有限差分法求解穩態與暫態熱傳導以及二維強制驅動流問題，案例分析包括室內氣流運動、潔淨室氣流分佈、熱交換器性能分析、儲冰系統分析、電子散熱以及氫能系統等。\nThis course is suitable for the graduate students who have taken fundamental courses of engineering mathematics and thermofluid sciences. The objective of this course is to apply Matlab and CFD packages to analyze the problems related to energy and thermofluid sciences. Case study is the focus of this course. Course contents mainly include the application of numerical methods on solving boundary-layer problems, analyzing steady and transient heat conduction problems, and 2-D lid-driven flow problems by finite difference method. Case study covers room air flow motion, clean room simulation, heat exchanger performance, electronic cooling, thermal ice storage system and hydrogen energy, etc.",
+    "schedule": "Refer to course outline",
+    "scorePolicy": "Homework 20%\nFinal Exam 40%\nFinal Report 40%",
+    "materials": "None",
+    "consultation": "Email: f10958@ntut.edu.tw",
+    "remarks": "None",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "name": "陳澤興",
+    "email": "tzershing.chen@ntut.edu.tw",
+    "latestUpdate": "2024-05-28 17:33:25",
+    "objective": "由介紹基本熱傳有關現象，配合熱力守恆有關公式之應用，討論各種熱交換環境下應考慮之因素，分析熱傳導、熱對流、熱輻射及相變熱傳之計算方法。並將要更深入地探討在各不同熱傳導系統內所可能形成之熱力分佈現象，以期學習者能以淺入深地對相關熱傳導系統工程設計上培養出最佳能力。\nIntroduction of basic heat transfer phenomena, using thermodynamic conservation equations to discuss the parameters under different heat exchange circumstances, heat conduction, heat convection, heat radiation and phase change are analyzed, discussion in depth on the heat transfer problems in application to cultivate heat transfer design capability.",
+    "schedule": "第 01 週 (09/14) : 基本概念及定義 1\n第 02 週 (09/21) : 基本概念及定義 2\n第 03 週 (09/28) : 熱傳導 1\n第 04 週 (10/05) : 熱傳導 2\n第 05 週 (10/12) : 一維穩態熱傳導 1\n第 06 週 (10/19) : 一維穩態熱傳導 2 (含小考 1)\n第 07 週 (10/26) : 非穩態熱傳導 1\n第 08 週 (11/02) : 非穩態熱傳導 2 (含小考 1 考題講解)\n第 09 週 (11/09) : 期中考\n第 10 週 (11/16) : 對流熱傳遞 1\n第 11 週 (11/23) : 對流熱傳遞 2\n第 12 週 (12/30) : 輻射熱傳遞 1\n第 13 週 (12/07) : 輻射熱傳遞 2\n第 14 週 (12/14) : 質量傳遞\n第 15 週 (12/21) : 沸騰與凝結 (含小考 2)\n第 16 週 (12/28) : 熱交換器 1\n第 17 週 (01/04) : 熱交換器 2 (小考 2 考題講解)\n第 18 週 (01/11) : 期末考",
+    "scorePolicy": "1. 出缺席狀況 (18 %) → 無故缺席扣 3% / 次 (向教務處請事病假扣 1%/ 次)\n2. 期中考        (30 %)\n3. 期末考        (30 %)\n4. 小考 2 次      (22 %)",
+    "materials": "使用教材: \n1. 使用自編教材",
+    "consultation": "1. 課程諮詢時間 Office hour: 每周三 (17:00~20:00) 2. 開學後組成線上群組 Line group discussion: to be announced.",
+    "remarks": "遠距上課授課及評量方式說明如下：1. 上課方式：線上會議室 Google Meet2. 課程資訊 line 群組: to be announced.3. 評量方式：期中考、期末考改採自主測驗 (take home exam) 加線上口試。",
+    "foreignLanguageTextbooks": false
+  }
+]
