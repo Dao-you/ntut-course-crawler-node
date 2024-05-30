@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "傅子恒",
+    "email": "jomo0825@gmail.com",
+    "latestUpdate": "2024-05-30 00:38:33",
+    "objective": "<請注意！！！本課程之期末專案包含設計與實作，與課同學必須將所設計之遊戲實作出來，作為期末評分標的物之一。最多兩人一組>\n\n本課程之目標在於介紹行動裝置遊戲設計企劃所需了解之專業知識與技術，並透過設計實務的操作使學生能具備行動裝置遊戲開發能力。課程內容包含行動遊戲個案研究、行動遊戲市場分析、行動平台與技術研究、行動遊戲內容設計、遊戲規則與架構設計、遊戲腳本製作、遊戲情境設定等。教學將以課堂講授、分組討論、設計專案執行等方式進行，並以專題報告繳交與課堂發表為評量依據。\n\nThis course is focused on introducing the knowledge of mobile game design planning, accompanying with design practice. This will allow students to be equipped with the capability of mobile game design planning. Course contents include mobile game case study, marketing analysis, mobile platform and technologies study, content design, game structure design, script planning and scenario settings. The course is preceded by means of lecturing, group discussion and design project. Students will be evaluated by reports and oral presentation.",
+    "schedule": "09/10\tW1\t手機遊戲簡介、歷史、與類型\n09/17\tW2\t中秋節\n09/24\tW3\t手機遊戲設計框架與案例分析\n10/01\tW4\t手機遊戲設計流程\n10/08\tW5\t概念發展期、Prototype 階段\n10/15\tW6\tAlpha 階段\n10/22\tW7\tBeta 階段\n10/29\tW8\t【期中報告】手機遊戲研究報告\n11/05\tW9\t期中考週\n11/12\tW10\t【實作】MVC - Model\n11/19\tW11\t【實作】MVC 設計 - View\n11/26\tW12\t【實作】MVC 設計 - Controller\n12/03\tW13\t【實作】Live Coding 01\n12/10\tW14\t【實作】Live Coding 02\n12/17\tW15\t【實作】Live Coding 03\n12/24\tW16\t【期末 Demo】現場 Demo\n12/31\tW17\t【期末 Demo】現場 Demo\n01/07\tW18\t期末考週",
+    "scorePolicy": "Participation：10%  \nMid-term project: 40%  \nFinal Project: 50%",
+    "materials": "1. 教師自編教材\n2. 手遊開發：從架構到行銷的 49 堂課 - 永田峰弘等\n=====\n產品為王：移動游戲產品設計規則 - 林賓華\n遊戲 UI 設計原則與實例指導手冊 - 李世欽",
+    "consultation": "將於開學後成立 MS Teams 群組，輔助各項課程環節，包括諮詢。",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

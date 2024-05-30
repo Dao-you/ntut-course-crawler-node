@@ -1,5 +1,17 @@
 [
   {
+    "name": "李鎮宇",
+    "email": "G.C.Li@ntut.edu.tw",
+    "latestUpdate": "2024-05-29 12:25:49",
+    "objective": "This course introduces the methods essential to business research. \nIn my session, the students will be introduced to data analysis using R. Whether you decide to pursue it or not, the introduction will be helpful for understanding data analysis techniques and help you interpret results in quantitative research papers.",
+    "schedule": "This course will be team-taught by various professors.\n1) Installation, basic input\n2) Statistical tests\n3) Regression models (using and presentation)",
+    "scorePolicy": "For my session,\ngrading will be based on weekly homework.",
+    "materials": "Examples and codes to be shared in class.",
+    "consultation": "LINE or Email the instructor",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "蔡榮發",
     "email": "jftsai@ntut.edu.tw",
     "latestUpdate": "2024-05-22 16:54:12",

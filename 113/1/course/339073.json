@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "蔡宜學",
+    "email": "yihsuehtsai@g.ntu.edu.tw",
+    "latestUpdate": "2024-05-30 08:19:48",
+    "objective": "本課程之目標為：充實生活技能、提升科技素養、豐富生活內涵、培養繼續進修之興趣與能力，以奠定終身學習及生涯發展之基礎。本課程之內容為：一、電腦基本概念，二、電腦功能與應用，三、資料處理，四、資訊管理，五、資訊網路，六、電腦的聲光世界，七、電腦的安全問題與防治，八、未來的資訊社會。\nThis course is designed to help student to learn another skill, better understand technology, enrich there live and inspire their interests for further study. The course includes: 1.basic knowledge of computer; 2.the application of computer; 3.data procession; 4.data control; 5.internet; 6.multimedia; 7.computer virus; 8. the world of information.",
+    "schedule": "週次\t課程進度\n第 01 週\t課程介紹與導論 AI 技術對生活與工作的影響 (上)\n第 02 週\t3GPP 國際標準參與經驗分享\n第 03 週\t全球衛星導航系統 (GNSS) 簡介\n第 04 週\t第五代行動通訊系統 (5G) 簡介\n第 05 週\t資訊安全與隱私權\n第 06 週\t行動通訊於物聯網 (IoT/NB-IoT) 的應用\n第 07 週\t資安大會技術分享 (一)\n第 08 週\t期中報告\n第 09 週\t期中報告\n第 10 週\t行動通訊於車聯網 (V2X) 的應用\n第 11 週\t第六代行動通訊系統 (6G) 簡介\n第 12 週\tAI 技術對生活與工作的影響 (下)\n第 13 週\t如何應用費的工具於日常生活\n第 14 週\t邁入低軌道衛星整合行動通訊的時代\n第 15 週\t資安大會技術分享 (二)\n第 16 週\t如何讓資訊性統更安全 如何成為白帽駭客\n第 17 週\t期末報告\n第 18 週\t期末報告",
+    "scorePolicy": "出席率與課堂作業 (40%~50%)\n期中報告 (20%~30%)\n期末報告 (30%~40%)\n\n學生自行選擇加權比例\n總和加權上限 100%",
+    "materials": "3GPP 標準文件\n資安大會簡報",
+    "consultation": "email: yihsueh.tsai@ntut.edu.twemail: yihsuehtsai@g.ntu.edu.tw",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -10,5 +10,17 @@
     "consultation": "以 line 即時聯繫，實體在研究室討論或是線上遠距會議討論。",
     "remarks": "",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "蘇春",
+    "email": "such@ntut.edu.tw",
+    "latestUpdate": "2024-05-29 10:07:21",
+    "objective": "先修課程：負責教授同意。\n此為連續兩學期之課程的一部分，包含 (A) 材料試驗、(B) 固力實驗、(C) 熱工實驗、(D) 流力實驗。不分順序，(A)、(B)、(C)、(D) 都需完成。\nThis is a part of a 2-semester courses in which (A) Materials testing, (B) Solid mechanics testing, (C) Thermal Lab and (D) Fluid Mechanics Lab Experiments are included. Sequence of (A), (B), (C) and (D) may be changed, but all of them have to be completed.",
+    "schedule": "第一週：課程講解\n第二週: TRUSS 實驗、應變計實驗\n第三週：樑彎曲力矩實驗、樑彎曲應力實驗\n第四週：樑剪應力實驗、樑撓度實驗\n第五週：圓柱扭轉撓度實驗\n第六週：支撐桿挫曲實驗、連續與不確定樑實驗\n第七週：滑輪實驗\n第八週：旋轉系統實驗\n第九週：報告繳交\n第十週：課程講解\n第十一週: TRUSS 實驗、應變計實驗\n第十二週：樑彎曲力矩實驗、樑彎曲應力實驗\n第十三週：樑剪應力實驗、樑撓度實驗\n第十四週：圓柱扭轉撓度實驗\n第十五週：支撐桿挫曲實驗、連續與不確定樑實驗\n第十六週：滑輪實驗\n第十七週：旋轉系統實驗\n第十八週：報告繳交",
+    "scorePolicy": "學習態度與課堂表現: 20%\n實驗報告成績: 60%\n測驗: 20%",
+    "materials": "系編教材\n補充資料",
+    "consultation": "教學助理：校內分機 2056 教授：校內分機 2087；Email: such@ntut.edu.tw",
+    "remarks": "其餘措施配合校方，隨時調整。",
+    "foreignLanguageTextbooks": false
   }
 ]

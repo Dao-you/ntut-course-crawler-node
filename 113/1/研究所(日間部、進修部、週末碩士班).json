@@ -4597,7 +4597,8 @@
       "ShowSyllabus.jsp?snum=335877&code=11016",
       "ShowSyllabus.jsp?snum=335877&code=10467",
       "ShowSyllabus.jsp?snum=335877&code=12235",
-      "ShowSyllabus.jsp?snum=335877&code=12244"
+      "ShowSyllabus.jsp?snum=335877&code=12244",
+      "ShowSyllabus.jsp?snum=335877&code=12392"
     ]
   },
   {
@@ -5647,7 +5648,9 @@
     "language": "",
     "notes": "英語",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336010&code=12390"
+    ]
   },
   {
     "code": "5705268",
@@ -8403,7 +8406,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336353&code=10955"
+    ]
   },
   {
     "code": "7306006",
@@ -9719,7 +9724,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336489&code=12390"
+    ]
   },
   {
     "code": "9805001",
@@ -10305,7 +10312,9 @@
     "language": "",
     "notes": "英文授課；適合碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336517&code=11931"
+    ]
   },
   {
     "code": "A405001",
@@ -10614,7 +10623,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505103",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336540&code=11979"
+    ]
   },
   {
     "code": "A505108",
@@ -10776,7 +10787,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336553&code=23286"
+    ]
   },
   {
     "code": "AB05081",
@@ -11054,7 +11067,9 @@
     "language": "",
     "notes": "科研 825",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336576&code=12342"
+    ]
   },
   {
     "code": "AB05108",
@@ -12311,12 +12326,21 @@
         "code": "3076"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蘇程裕",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11075",
+        "code": "11075"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "3",
+        "4"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -15801,7 +15825,9 @@
     "language": "",
     "notes": "共同科館 302 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906557",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337186&code=12449"
+    ]
   },
   {
     "code": "4906707",
@@ -15857,7 +15883,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906707",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337191&code=11896"
+    ]
   },
   {
     "code": "4906737",
@@ -16629,7 +16657,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235436",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337264&code=12392"
+    ]
   },
   {
     "code": "5415100",
@@ -17117,7 +17147,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705472",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337330&code=11224"
+    ]
   },
   {
     "code": "5705501",
@@ -17179,6 +17211,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337331&code=12246",
       "ShowSyllabus.jsp?snum=337331&code=11117"
     ]
   },
@@ -18288,6 +18321,7 @@
     "notes": "排進修部教室，限本系生 14 人修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05103",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337570&code=11680",
       "ShowSyllabus.jsp?snum=337570&code=11969"
     ]
   },
@@ -18648,293 +18682,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "C215044",
-    "description": {
-      "zh": "聯合國全球契約 (UN Global Compact) 於 2004 年首次提出 ESG 的概念，由環境 (environment)、社會 (social)、公司治理 (corporate governancer) 評估一家企業的永續 (sustainability) 發展指標，提出如何實踐 CSR 的原則。2008 年全球金融海嘯爆發時，更獲得關注。ESG 為衡量一家企業經營的績效指標，亦即市場參照的投資標準。因此，注重環境永續、社會責任與公司治理的 ESG 原則，已成全球風潮，更是決定企業未來是否能順利接到訂單之關鍵，也是維繫企業在產業鏈永續發展之命脈。換言之，落實 ESG 原則，將帶動企業高成長、創造更多的社會福祉。本課程介紹環境永續、社會責任與公司治理面向的理論與實務及其實踐的能力，結合國內企業推動 ESG 之相關做法與成功發展經驗，進而發掘、陳述、分析 ESG 如何促使企業創造出新的商業經營模式？推動 ESG 創造企業新價值與股東財富以及公司利潤間如何求取平衡？並進而提供解決問題之能力。",
-      "en": "The UN Global Compact first proposed the concept of ESG in 2004. The environment, social, and corporate governance assess the sustainability development indicators of a corporation and propose how to practice CSR. When the global financial tsunami broke out in 2008, ESG gained more attention. ESG is a performance indicator that measures the operation of an enterprise, that is, the investment standard referenced by the market. Therefore, ESG principles focusing on environmental sustainability, social responsibility and corporate governance have become a global trend. It is also the key to determining whether a corporation can successfully receive orders in the future, and it is also the lifeblood of maintaining the sustainable development of the company in the industry supply-chain. In other words, the implementation of ESG principles will drive high growth of corporation and create more social well-being.This course introduces the theory and practice of environmental sustainability,"
-    },
-    "id": "337631",
-    "name": {
-      "zh": "ESG 與企業價值創造",
-      "en": "ESG and corporate value creation"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215044",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215047",
-    "description": {
-      "zh": "本課程的主要目的在介紹人工智慧技術在各項金融主題的實務應用，內容包括：人工智慧介紹、金融概念介紹、機器人理財、大數據徵信、智慧借貸、5G 金融服務、區塊鏈金融服務、智慧物聯網金融、加密貨幣金融等。",
-      "en": "The objective of this course is to introduce the smart finance. Topics include artificial intelligence introduction, finance introduction, robo-advisory, credit analysis, AI lending, 5G financial services, blockchain financial services,  AIoT finance, cryptocurrency finance."
-    },
-    "id": "337632",
-    "name": {
-      "zh": "智慧金融",
-      "en": "Smart Finance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215047",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215048",
-    "description": {
-      "zh": "隨著科技不斷進步，人工智慧技術逐漸成熟，無論在生產流程、企業管理及分析決策等方面都陸續開始導入生成式 AI 工具，應用場景橫跨企業營運、數據應用以及產品與服務創新等。本課程將介紹生成式人工智慧原理並結合實作方式，透過實際案例和演練來教授生成式 AI 技術和應用。課程內容包括人工智慧的基礎知識，如深度學習、自然語言處理、圖像處理、推薦系統、預測分析等，並導入人工智慧在企業管理和決策、金融、數據分析、智慧製造等領域等應用案例。課程中將結合 Azure OpenAI 雲端服務資源，並以人工智慧跨域應用學習模式來跨域應用至數據分析、智慧運算、智慧製造及物流、商情預測、經營管理、金融等領域，以培育學生具備領先同儕之人工智慧跨域應用專業能力。",
-      "en": "This course introduces the principles of generative artificial intelligence and combines practical exercises regarding the technology and applications of generative AI through real case studies and drills. The course covers fundamental knowledge of AI, such as deep learning, natural language processing, image processing, recommendation systems, predictive analytics, and introduces the application cases of AI in enterprise management and decision-making, finance, data analysis, intelligent manufacturing, among others. The course will also utilize Azure OpenAI cloud service resources and cross-domain application learning mode to cultivate students’ technical abilities in AI cross-domain applications, spanning across data analytics, intelligent computing, intelligent manufacturing and logistics, business forecasting, management, finance, etc., leading them to stand out among their peers."
-    },
-    "id": "337633",
-    "name": {
-      "zh": "生成式人工智慧於企業實務之應用",
-      "en": "Application of Generative Artificial Intelligence in Enterprise Practice"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215048",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C225003",
-    "description": {
-      "zh": "以營利模式方法對企業，產業進行分析。研究宏觀經濟與企業生存的關係，以個案或個別產業為例深入研究。將研究結果應用於企業管理與投資。",
-      "en": "Application of profit model's analytical tool to analyze an enterprise in depth. The same method is also applied to analyze an industrial sector. The objectives are to help a business in business decision making in order to improve its profitability."
-    },
-    "id": "337634",
-    "name": {
-      "zh": "營利模式專題",
-      "en": "Special Topics on Profit Model"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225003",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C225019",
-    "description": {
-      "zh": "公司治理已成為廿一世紀企業組織架構調整之重大議題，如何經由管理策略及法制設計使台灣企業經營回歸股東長期價值及利益，為政府、交易所與公會等自律機關、及企業經營者必須面對之問題。在法制上，獨立董事監察人、審計委員會之設置、公司自律守則之擬議、股東會之運作，均衝擊我國公司法、證券交易法及交易所規則現行管理架構及規範；在實務上，上市櫃公司如何順利接受公司治理之理念及管理規範，以提昇公司營運的外在評價與體質。",
-      "en": "The corporate governance had been the enterprise framework adjustment of the main issue of the 21 century. How do the manage the corporate strategy and system of the law to make the profit for the shareholder, government and enterprise. The main purpose of the course to help the learner to understand the law of corporate and the practice of the enterprise."
-    },
-    "id": "337637",
-    "name": {
-      "zh": "公司治理專題",
-      "en": "Seminar on Corporate Governance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C235006",
-    "description": {
-      "zh": "為因應瞬息萬變的金融投資環境，期許學生具備宏觀的投資管理知識，本課程主要本課程結合資訊工具與軟體運用、以深入淺出方式介紹投資決策之基本觀念及理論架構，並搭配財務軟體、財金資料庫、與財金資訊網站的應用。藉由這些資訊工具與技術，將財務投資的觀念與原理加以運用於重要的投資決策。課程內容架構包括：(1) 財務與投資學原理；(2) 資料庫的使用；(3) 財務軟體的操作；(4) 財務與投資個案分析。透過本課程之學習，促使投資人能獲取合理的投資報酬或擊敗大盤，領先各基金之績效，以制訂出正確的長短期投資決策。",
-      "en": "In response to the rapidly changing environment of financial investments, expecting that students have knowledge of macro investment management, this course combines information and software tools to use, the major goal of this course is to help students understanding the basic principles and theories of investments. By mixing explanation and implementation using financial software and database, it can give students the skills to conduct a sophisticated assessment on investment decisions. The major topics include the following: (1) principles of investments, (2) financial database, (3) financial software, and (4) case study in investments. Through the learning of this course, prompting investors to be able to obtain a reasonable return on investment or beat the market, ahead of the performance of each Fund, in order to work out the correct short and long term investment decisions."
-    },
-    "id": "337639",
-    "name": {
-      "zh": "投資決策與資訊應用",
-      "en": "Application of Investment Decision and Information"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C235006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C235012",
-    "description": {
-      "zh": "本課程上半學期以 R 語言為工具，處理分析金融交易資料於股票期貨與選擇權等商品，包含理論模擬與實務分析。",
-      "en": "In this course, we use R language as a tool to deal with the analysis of financial data in the stock, futures and options and other commodities, including theoretical simulation and practical analysis."
-    },
-    "id": "337641",
-    "name": {
-      "zh": "財金資料分析",
-      "en": "Financial Data Analysis"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C235012",
-    "syllabusLinks": []
-  },
-  {
     "code": "C275009",
     "description": {
       "zh": "介紹概念和解決問題的技術在生產管理和運營管理中的重要性。主題包括需求預測、容量管理、資源配置、庫存管理、供應鏈管理、品質控制和專案管理。",
@@ -19248,6 +18995,11 @@
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
         "code": "11315"
+      },
+      {
+        "name": "劉亮志",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11982",
+        "code": "11982"
       }
     ],
     "time": {
@@ -19359,6 +19111,7 @@
     "notes": "碩一必修，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337676&code=11429",
       "ShowSyllabus.jsp?snum=337676&code=10821",
       "ShowSyllabus.jsp?snum=337676&code=10938",
       "ShowSyllabus.jsp?snum=337676&code=11537"
@@ -19429,7 +19182,9 @@
     "language": "",
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337677&code=11396"
+    ]
   },
   {
     "code": "C205003",
@@ -20026,15 +19781,15 @@
     ],
     "time": {
       "sun": [],
-      "mon": [
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
         "A",
         "B",
         "C"
       ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -20118,170 +19873,6 @@
     ]
   },
   {
-    "code": "C215044",
-    "description": {
-      "zh": "聯合國全球契約 (UN Global Compact) 於 2004 年首次提出 ESG 的概念，由環境 (environment)、社會 (social)、公司治理 (corporate governancer) 評估一家企業的永續 (sustainability) 發展指標，提出如何實踐 CSR 的原則。2008 年全球金融海嘯爆發時，更獲得關注。ESG 為衡量一家企業經營的績效指標，亦即市場參照的投資標準。因此，注重環境永續、社會責任與公司治理的 ESG 原則，已成全球風潮，更是決定企業未來是否能順利接到訂單之關鍵，也是維繫企業在產業鏈永續發展之命脈。換言之，落實 ESG 原則，將帶動企業高成長、創造更多的社會福祉。本課程介紹環境永續、社會責任與公司治理面向的理論與實務及其實踐的能力，結合國內企業推動 ESG 之相關做法與成功發展經驗，進而發掘、陳述、分析 ESG 如何促使企業創造出新的商業經營模式？推動 ESG 創造企業新價值與股東財富以及公司利潤間如何求取平衡？並進而提供解決問題之能力。",
-      "en": "The UN Global Compact first proposed the concept of ESG in 2004. The environment, social, and corporate governance assess the sustainability development indicators of a corporation and propose how to practice CSR. When the global financial tsunami broke out in 2008, ESG gained more attention. ESG is a performance indicator that measures the operation of an enterprise, that is, the investment standard referenced by the market. Therefore, ESG principles focusing on environmental sustainability, social responsibility and corporate governance have become a global trend. It is also the key to determining whether a corporation can successfully receive orders in the future, and it is also the lifeblood of maintaining the sustainable development of the company in the industry supply-chain. In other words, the implementation of ESG principles will drive high growth of corporation and create more social well-being.This course introduces the theory and practice of environmental sustainability,"
-    },
-    "id": "337688",
-    "name": {
-      "zh": "ESG 與企業價值創造",
-      "en": "ESG and corporate value creation"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215044",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215047",
-    "description": {
-      "zh": "本課程的主要目的在介紹人工智慧技術在各項金融主題的實務應用，內容包括：人工智慧介紹、金融概念介紹、機器人理財、大數據徵信、智慧借貸、5G 金融服務、區塊鏈金融服務、智慧物聯網金融、加密貨幣金融等。",
-      "en": "The objective of this course is to introduce the smart finance. Topics include artificial intelligence introduction, finance introduction, robo-advisory, credit analysis, AI lending, 5G financial services, blockchain financial services,  AIoT finance, cryptocurrency finance."
-    },
-    "id": "337689",
-    "name": {
-      "zh": "智慧金融",
-      "en": "Smart Finance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215047",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215048",
-    "description": {
-      "zh": "隨著科技不斷進步，人工智慧技術逐漸成熟，無論在生產流程、企業管理及分析決策等方面都陸續開始導入生成式 AI 工具，應用場景橫跨企業營運、數據應用以及產品與服務創新等。本課程將介紹生成式人工智慧原理並結合實作方式，透過實際案例和演練來教授生成式 AI 技術和應用。課程內容包括人工智慧的基礎知識，如深度學習、自然語言處理、圖像處理、推薦系統、預測分析等，並導入人工智慧在企業管理和決策、金融、數據分析、智慧製造等領域等應用案例。課程中將結合 Azure OpenAI 雲端服務資源，並以人工智慧跨域應用學習模式來跨域應用至數據分析、智慧運算、智慧製造及物流、商情預測、經營管理、金融等領域，以培育學生具備領先同儕之人工智慧跨域應用專業能力。",
-      "en": "This course introduces the principles of generative artificial intelligence and combines practical exercises regarding the technology and applications of generative AI through real case studies and drills. The course covers fundamental knowledge of AI, such as deep learning, natural language processing, image processing, recommendation systems, predictive analytics, and introduces the application cases of AI in enterprise management and decision-making, finance, data analysis, intelligent manufacturing, among others. The course will also utilize Azure OpenAI cloud service resources and cross-domain application learning mode to cultivate students’ technical abilities in AI cross-domain applications, spanning across data analytics, intelligent computing, intelligent manufacturing and logistics, business forecasting, management, finance, etc., leading them to stand out among their peers."
-    },
-    "id": "337690",
-    "name": {
-      "zh": "生成式人工智慧於企業實務之應用",
-      "en": "Application of Generative Artificial Intelligence in Enterprise Practice"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215048",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C225003",
-    "description": {
-      "zh": "以營利模式方法對企業，產業進行分析。研究宏觀經濟與企業生存的關係，以個案或個別產業為例深入研究。將研究結果應用於企業管理與投資。",
-      "en": "Application of profit model's analytical tool to analyze an enterprise in depth. The same method is also applied to analyze an industrial sector. The objectives are to help a business in business decision making in order to improve its profitability."
-    },
-    "id": "337691",
-    "name": {
-      "zh": "營利模式專題",
-      "en": "Special Topics on Profit Model"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225003",
-    "syllabusLinks": []
-  },
-  {
     "code": "C225004",
     "description": {
       "zh": "本課程專注在探討全球組織經營策略與領導決策之關鍵議題，聚焦在不同時空的國際經營環境中，企業經營者如何因應政府的政策與財經情勢改變，能夠快速回應與彈性應變的領導思維與決策。透過本課程將能夠理解高階主管面對政經環境的調整能有效因應變化，並且提升領導才能與創造市場優勢之創新能力。",
@@ -20360,7 +19951,10 @@
     "language": "",
     "notes": "(群組 1) 經營與策略管理 (關聯群 2) 　",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337692&code=11429",
+      "ShowSyllabus.jsp?snum=337692&code=12390"
+    ]
   },
   {
     "code": "C225005",
@@ -20431,48 +20025,9 @@
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225005",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C225019",
-    "description": {
-      "zh": "公司治理已成為廿一世紀企業組織架構調整之重大議題，如何經由管理策略及法制設計使台灣企業經營回歸股東長期價值及利益，為政府、交易所與公會等自律機關、及企業經營者必須面對之問題。在法制上，獨立董事監察人、審計委員會之設置、公司自律守則之擬議、股東會之運作，均衝擊我國公司法、證券交易法及交易所規則現行管理架構及規範；在實務上，上市櫃公司如何順利接受公司治理之理念及管理規範，以提昇公司營運的外在評價與體質。",
-      "en": "The corporate governance had been the enterprise framework adjustment of the main issue of the 21 century. How do the manage the corporate strategy and system of the law to make the profit for the shareholder, government and enterprise. The main purpose of the course to help the learner to understand the law of corporate and the practice of the enterprise."
-    },
-    "id": "337694",
-    "name": {
-      "zh": "公司治理專題",
-      "en": "Seminar on Corporate Governance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337693&code=11224"
+    ]
   },
   {
     "code": "C225021",
@@ -20548,47 +20103,6 @@
     "language": "",
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C235006",
-    "description": {
-      "zh": "為因應瞬息萬變的金融投資環境，期許學生具備宏觀的投資管理知識，本課程主要本課程結合資訊工具與軟體運用、以深入淺出方式介紹投資決策之基本觀念及理論架構，並搭配財務軟體、財金資料庫、與財金資訊網站的應用。藉由這些資訊工具與技術，將財務投資的觀念與原理加以運用於重要的投資決策。課程內容架構包括：(1) 財務與投資學原理；(2) 資料庫的使用；(3) 財務軟體的操作；(4) 財務與投資個案分析。透過本課程之學習，促使投資人能獲取合理的投資報酬或擊敗大盤，領先各基金之績效，以制訂出正確的長短期投資決策。",
-      "en": "In response to the rapidly changing environment of financial investments, expecting that students have knowledge of macro investment management, this course combines information and software tools to use, the major goal of this course is to help students understanding the basic principles and theories of investments. By mixing explanation and implementation using financial software and database, it can give students the skills to conduct a sophisticated assessment on investment decisions. The major topics include the following: (1) principles of investments, (2) financial database, (3) financial software, and (4) case study in investments. Through the learning of this course, prompting investors to be able to obtain a reasonable return on investment or beat the market, ahead of the performance of each Fund, in order to work out the correct short and long term investment decisions."
-    },
-    "id": "337696",
-    "name": {
-      "zh": "投資決策與資訊應用",
-      "en": "Application of Investment Decision and Information"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C235006",
     "syllabusLinks": []
   },
   {
@@ -20671,47 +20185,6 @@
     ]
   },
   {
-    "code": "C235012",
-    "description": {
-      "zh": "本課程上半學期以 R 語言為工具，處理分析金融交易資料於股票期貨與選擇權等商品，包含理論模擬與實務分析。",
-      "en": "In this course, we use R language as a tool to deal with the analysis of financial data in the stock, futures and options and other commodities, including theoretical simulation and practical analysis."
-    },
-    "id": "337698",
-    "name": {
-      "zh": "財金資料分析",
-      "en": "Financial Data Analysis"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C235012",
-    "syllabusLinks": []
-  },
-  {
     "code": "C285002",
     "description": {
       "zh": "本課程的主旨在研討資訊管理的發展及新趨勢，內容包含資訊策略管理、資料庫管理、網路管理、電腦硬體技術、系統分析、軟體工程、管理資訊系統、決策支援系統、商業智慧、資訊倫理、資訊安全、知識管理、社會網絡等。",
@@ -20743,10 +20216,35 @@
         "code": "3108"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳建文",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10662",
+        "code": "10662"
+      },
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11396",
+        "code": "11396"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12173",
+        "code": "12173"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12148",
+        "code": "12148"
+      }
+    ],
     "time": {
       "sun": [],
-      "mon": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
       "tue": [],
       "wed": [],
       "thu": [],
@@ -23944,9 +23442,9 @@
         "code": "11401"
       },
       {
-        "name": "魏銪志",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12148",
-        "code": "12148"
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
+        "code": "12342"
       }
     ],
     "time": {
@@ -23967,7 +23465,9 @@
     "language": "",
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337863&code=11429"
+    ]
   },
   {
     "code": "C205001",
@@ -31384,7 +30884,9 @@
     "language": "",
     "notes": "建築四與日職建都所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211415",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338369&code=10450"
+    ]
   },
   {
     "code": "3105217",
@@ -32838,22 +32340,16 @@
       "sun": [],
       "mon": [],
       "tue": [
-        "7",
-        "8",
-        "9"
+        "2",
+        "3",
+        "4"
       ],
       "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "先鋒1401",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=569",
-        "code": "569"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33099,6 +32595,7 @@
     "notes": "英文授課；日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405005",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338468&code=11931",
       "ShowSyllabus.jsp?snum=338468&code=12438"
     ]
   },
@@ -33157,7 +32654,9 @@
     "language": "",
     "notes": "英文授課；適合碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405208",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338469&code=11931"
+    ]
   },
   {
     "code": "A405207",
@@ -33212,7 +32711,9 @@
     "language": "",
     "notes": "英文授課；適合碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405207",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338470&code=11931"
+    ]
   },
   {
     "code": "A405003",
@@ -33392,6 +32893,7 @@
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405005",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338473&code=11931",
       "ShowSyllabus.jsp?snum=338473&code=12438"
     ]
   },
@@ -35183,7 +34685,9 @@
     "language": "",
     "notes": "計中電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905192",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338598&code=12528"
+    ]
   },
   {
     "code": "3105005",
@@ -35541,7 +35045,9 @@
     "language": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405207",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338660&code=11931"
+    ]
   },
   {
     "code": "5105033",
@@ -36760,9 +36266,9 @@
         "code": "12439"
       },
       {
-        "name": "鄭麗珍",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12173",
-        "code": "12173"
+        "name": "戴元峰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23780",
+        "code": "23780"
       },
       {
         "name": "魏銪志",
@@ -36792,7 +36298,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338733&code=11985",
-      "ShowSyllabus.jsp?snum=338733&code=12173",
       "ShowSyllabus.jsp?snum=338733&code=12148"
     ]
   },
@@ -36905,12 +36410,12 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [
+      "thu": [],
+      "fri": [
         "A",
         "B",
         "C"
       ],
-      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -36921,6 +36426,7 @@
     "notes": "(群組 7) 資訊管理 (關聯群 6) 　",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338735&code=11396",
       "ShowSyllabus.jsp?snum=338735&code=12173"
     ]
   },
@@ -37134,7 +36640,9 @@
     "language": "",
     "notes": "前六週密集授課、科技大樓國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705049",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338741&code=11429"
+    ]
   },
   {
     "code": "6017030",
@@ -37365,7 +36873,9 @@
     "language": "",
     "notes": "博班",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4907011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338745&code=12449"
+    ]
   },
   {
     "code": "4906557",
@@ -37421,7 +36931,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906557",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338746&code=12449"
+    ]
   },
   {
     "code": "4907551",
@@ -37477,7 +36989,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4907551",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338748&code=12449"
+    ]
   },
   {
     "code": "C215045",
@@ -37682,6 +37196,7 @@
     "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338757&code=11429",
       "ShowSyllabus.jsp?snum=338757&code=10821",
       "ShowSyllabus.jsp?snum=338757&code=11315",
       "ShowSyllabus.jsp?snum=338757&code=10938",
@@ -37755,47 +37270,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338758&code=11537"
     ]
-  },
-  {
-    "code": "C215049",
-    "description": {
-      "zh": "這門課將深入探討從巴黎協定到 Net Zero 的全球淨零碳排發展歷程，並闡述碳訂價政策工具的概念與國際主要實踐。透過企業淨零實務分享，學生將了解目標訂定、策略制定、管理制度建立以及追蹤管理等步驟。課程還涵蓋 ISO 14064 碳盤查和 ISO 14067 產品碳足跡的概念與實作，並結合企業減碳經驗分享。最後，課程將介紹數位轉型在碳管理上的應用，包括資訊治理和低碳轉型等技術，旨在培養學生對於全球氣候行動及企業永續發展的深刻理解與實踐能力。",
-      "en": "This course explores the evolution towards global net-zero carbon emissions, from the Paris Agreement to Net Zero, along with the concept and implementation of carbon pricing policies. Through real-world examples, students learn how companies set goals, develop strategies, and establish management systems for achieving net-zero emissions. Additionally, the course covers carbon footprint verification and product carbon footprinting practices, alongside insights from businesses reducing carbon emissions. Finally, it examines the application of digital transformation in carbon management, fostering understanding of climate action and corporate sustainability."
-    },
-    "id": "338761",
-    "name": {
-      "zh": "永續發展與淨零碳管理",
-      "en": "Sustainable Development and Net Zero Carbon Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
-        "code": "3108"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215049",
-    "syllabusLinks": []
   },
   {
     "code": "C215050",
@@ -37916,88 +37390,6 @@
     "language": "",
     "notes": "(群組 8) 社會人文藝術與其他領域",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215051",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215050",
-    "description": {
-      "zh": "這門課程將深入探討 ESG 概念及其在國際趨勢中的地位，包括 CBAM、CCA、TCFD 等法規，亦將闡述國際評比、CSRD、IFRS S1/S2 等要求，以及國內主管機關的法規，尤其關於公司治理藍圖的要求。透過工作坊形式，我們將聚焦氣候變遷和財務相關揭露的重點，並以案例分享產業實務。從國際法規如 SB253、CBAM 到國際標準 ISO 20400，我們也將討論供應鏈管理和永續採購的趨勢。此外，將涵蓋人權相關議題，如 TIFD 和 DEI，以及永續報告書撰寫注意事項。最後，我們將介紹永續金融和責任投融資，並討論金融業永續法規對企業的影響。",
-      "en": "This course explores ESG concepts and global trends like CBAM, CCA, and TCFD. We'll cover international ratings, CSRD, IFRS S1/S2, and domestic regulatory requirements, focusing on corporate governance. Through workshops and case studies, we'll highlight climate change and financial disclosures. We'll discuss supply chain management trends, ISO 20400, and human rights issues like TIFD and DEI. Additionally, we'll cover sustainability reporting guidelines and introduce sustainable finance and responsible investment, examining their impact on businesses and financial regulations."
-    },
-    "id": "338765",
-    "name": {
-      "zh": "永續發展與綠色金融管理",
-      "en": "Sustainable Development and Green Banking Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA桃園",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3107",
-        "code": "3107"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "(群組 6) 財金管理",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215049",
-    "description": {
-      "zh": "這門課將深入探討從巴黎協定到 Net Zero 的全球淨零碳排發展歷程，並闡述碳訂價政策工具的概念與國際主要實踐。透過企業淨零實務分享，學生將了解目標訂定、策略制定、管理制度建立以及追蹤管理等步驟。課程還涵蓋 ISO 14064 碳盤查和 ISO 14067 產品碳足跡的概念與實作，並結合企業減碳經驗分享。最後，課程將介紹數位轉型在碳管理上的應用，包括資訊治理和低碳轉型等技術，旨在培養學生對於全球氣候行動及企業永續發展的深刻理解與實踐能力。",
-      "en": "This course explores the evolution towards global net-zero carbon emissions, from the Paris Agreement to Net Zero, along with the concept and implementation of carbon pricing policies. Through real-world examples, students learn how companies set goals, develop strategies, and establish management systems for achieving net-zero emissions. Additionally, the course covers carbon footprint verification and product carbon footprinting practices, alongside insights from businesses reducing carbon emissions. Finally, it examines the application of digital transformation in carbon management, fostering understanding of climate action and corporate sustainability."
-    },
-    "id": "338770",
-    "name": {
-      "zh": "永續發展與淨零碳管理",
-      "en": "Sustainable Development and Net Zero Carbon Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3105",
-        "code": "3105"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215049",
     "syllabusLinks": []
   },
   {
@@ -39169,9 +38561,9 @@
         "code": "11401"
       },
       {
-        "name": "魏銪志",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12148",
-        "code": "12148"
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
+        "code": "12342"
       }
     ],
     "time": {
@@ -39192,7 +38584,9 @@
     "language": "",
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338829&code=11429"
+    ]
   },
   {
     "code": "5105111",
@@ -39404,5 +38798,50 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338940&code=12036"
     ]
+  },
+  {
+    "code": "3735017",
+    "description": {
+      "zh": "本課程主要是介紹六標準差方法。六標準差 (Six Sigma) 是一套管理系統，它是透過聆聽顧客的聲音 (Voice of Customer)，經由關鍵品質 (Critical to Quality) 的分析，利用專案的方式，以流程改善工具解決有問題的企業流程。本課程著重了解 “Six Sigma” 理論、分析工具及統計應用軟體 (Minitab) 之運用，針對六標準差綠帶、黑帶專業培訓課程，藉由理論分析與實際操作使用的說明，協助學生將”Six Sigma” 導入企業，以獲得關鍵流程的改進。",
+      "en": "This course primarily introduces the Six Sigma methodology. Six Sigma is a management system that listens to the Voice of Customer, analyzes Critical to Quality factors, and utilizes project-based approaches with process improvement tools to address problematic business processes. The course focuses on understanding the theory of Six Sigma, analysis tools, and the application of statistical software (Minitab). It is designed for Green Belt and Black Belt professional training in Six Sigma. Through theoretical analysis and practical exercises, the course assists students in implementing Six Sigma in enterprises to achieve improvements in key processes."
+    },
+    "id": "338941",
+    "name": {
+      "zh": "企業流程改善",
+      "en": "Business Process Improvemen"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3045",
+        "code": "3045"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "2",
+        "3",
+        "4"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "新聘教師",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3735017",
+    "syllabusLinks": []
   }
 ]
