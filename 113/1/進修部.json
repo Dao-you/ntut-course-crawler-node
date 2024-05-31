@@ -6016,7 +6016,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336924&code=23257"
+    ]
   },
   {
     "code": "3105008",
@@ -8775,7 +8777,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337265&code=11967"
+    ]
   },
   {
     "code": "5416100",
@@ -9187,9 +9191,19 @@
     ],
     "teacher": [
       {
+        "name": "徐啟勝",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23623",
+        "code": "23623"
+      },
+      {
         "name": "陳建丞",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11224",
         "code": "11224"
+      },
+      {
+        "name": "葛建培",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=22833",
+        "code": "22833"
       }
     ],
     "time": {
@@ -9277,6 +9291,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337331&code=12246",
+      "ShowSyllabus.jsp?snum=337331&code=12532",
       "ShowSyllabus.jsp?snum=337331&code=11117"
     ]
   },
@@ -10386,6 +10401,7 @@
     "notes": "排進修部教室，限本系生 14 人修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05103",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337570&code=11533",
       "ShowSyllabus.jsp?snum=337570&code=11680",
       "ShowSyllabus.jsp?snum=337570&code=11969"
     ]
@@ -11088,7 +11104,8 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337671&code=11315"
+      "ShowSyllabus.jsp?snum=337671&code=11315",
+      "ShowSyllabus.jsp?snum=337671&code=11982"
     ]
   },
   {
@@ -11638,7 +11655,23 @@
         "code": "3108"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳群隆",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24394",
+        "code": "24394"
+      },
+      {
+        "name": "林家振",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24302",
+        "code": "24302"
+      },
+      {
+        "name": "謝閔瑜",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24356",
+        "code": "24356"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -11725,7 +11758,9 @@
     "language": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337684&code=12499"
+    ]
   },
   {
     "code": "C215028",
@@ -11922,7 +11957,11 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
       "fri": [],
       "sat": []
     },
@@ -12426,7 +12465,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337701&code=12355"
+    ]
   },
   {
     "code": "1401032",
@@ -14422,9 +14463,9 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
       },
       {
         "name": "翁頌舜",
@@ -14460,9 +14501,7 @@
     "language": "",
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337863&code=11429"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "C205001",
@@ -17114,7 +17153,9 @@
     "language": "",
     "notes": "限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338383&code=24388"
+    ]
   },
   {
     "code": "4005072",
@@ -18380,7 +18421,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "先鋒 1401 教室",
+    "notes": "先鋒 1401 教室，日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338473&code=11931",
@@ -18716,14 +18757,22 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同312",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=154",
+        "code": "154"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401092",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338488&code=23301"
+    ]
   },
   {
     "code": "4401091",
@@ -19323,7 +19372,9 @@
     "language": "",
     "notes": "社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410145",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338503&code=23688"
+    ]
   },
   {
     "code": "4505403",
@@ -20258,7 +20309,9 @@
     "language": "",
     "notes": "先鋒 1401 教室；國際雙師英文授課，預定 113/11/04-11/09",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405213",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338698&code=11931"
+    ]
   },
   {
     "code": "3625006",
@@ -21007,7 +21060,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理",
+    "notes": "(群組 6) 財金管理，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
     "syllabusLinks": []
   },
@@ -21077,7 +21130,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 8) 社會人文藝術與其他領域",
+    "notes": "(群組 8) 社會人文藝術與其他領域，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215051",
     "syllabusLinks": []
   },
@@ -21226,8 +21279,8 @@
     "time": {
       "sun": [],
       "mon": [
-        "6",
-        "7"
+        "5",
+        "6"
       ],
       "tue": [
         "8"
@@ -21237,13 +21290,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓235",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=465",
-        "code": "465"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21309,7 +21356,9 @@
     "language": "",
     "notes": "資財三甲乙、四甲乙、資財所合開 / 哈佛講堂",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03070",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338789&code=12342"
+    ]
   },
   {
     "code": "4905581",
@@ -21469,7 +21518,9 @@
     "language": "",
     "notes": "資財三甲乙、四甲乙、資財所合開 / 哈佛講堂",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03070",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338812&code=12342"
+    ]
   },
   {
     "code": "4406120",
@@ -21589,9 +21640,9 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
       },
       {
         "name": "翁頌舜",
@@ -21627,8 +21678,6 @@
     "language": "",
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338829&code=11429"
-    ]
+    "syllabusLinks": []
   }
 ]

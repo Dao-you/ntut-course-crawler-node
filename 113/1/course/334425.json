@@ -2,7 +2,7 @@
   {
     "name": "郭志宇",
     "email": "chihyukuo@ntut.edu.tw",
-    "latestUpdate": "2024-05-28 20:30:40",
+    "latestUpdate": "2024-05-30 18:44:38",
     "objective": "This course introduces students of engineering to those areas of mathematics which are important in connection with practical engineering problems. The material in this course is arranged accordingly in four parts: (1) First-order, second-order, and higher-order differential equations. (2) Series solutions of differential equations and special functions. (3) Laplace transforms.",
     "schedule": "Week/Topic\n1 Review of calculus\t\n2 First-order ODE\n3 First-order ODE\t\n4 First-order ODE\t\n5 Second-order ODE\t\n6 Second-order ODE\t\n7 1st Midterm\t\t\n8 Second-order ODE \t\n9 Second-order ODE \t\n10 Series solution of ODE\t\n11 Series solution of ODE\t \t\n12 Series solution of ODE\t\n13 Orthogonal Functions\n14 2nd Midterm\t\n15 Laplace transform \t\n16 Laplace transform\t\n17 Laplace transform\t\n18 Final Exam",
     "scorePolicy": "1. Present/absent 15%\n2. Homework 25% total\n3. Midterm, final term 20% each 60% total",
