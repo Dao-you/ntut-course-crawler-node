@@ -4882,12 +4882,13 @@
       "sun": [],
       "mon": [],
       "tue": [
-        "9",
         "A",
         "B"
       ],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "D"
+      ],
       "fri": [],
       "sat": []
     },
@@ -10514,7 +10515,9 @@
     "language": "",
     "notes": "排進修部教室，限 40 人修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337573&code=11334"
+    ]
   },
   {
     "code": "C515006",
@@ -11900,6 +11903,8 @@
     "notes": "(群組 4) 行銷管理\t　",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337686&code=12389",
+      "ShowSyllabus.jsp?snum=337686&code=12532",
       "ShowSyllabus.jsp?snum=337686&code=12173"
     ]
   },
@@ -12057,7 +12062,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337692&code=11429",
-      "ShowSyllabus.jsp?snum=337692&code=12390"
+      "ShowSyllabus.jsp?snum=337692&code=12390",
+      "ShowSyllabus.jsp?snum=337692&code=12532"
     ]
   },
   {
@@ -15775,76 +15781,6 @@
     ]
   },
   {
-    "code": "AB03061",
-    "description": {
-      "zh": "本課程將從不同的金融服務領域應用幫助同學瞭解數位金融的發展以及生成式 AI 於金融科技之應用。本課程之教學目標包括：(1) 人工智慧跨域應用金融產品企劃與數位行銷：掌握虛擬通路與實體通路的差異與整合應用，導入通用式人工智慧搭配合適的使用者介面與體驗設計；(2) 智慧金融科技素養與創新應用：關注大數據、雲端運算、物聯網與人工智慧的各種創新應用，並了解機器學習於資金管理之應用與人工智慧於量化交易之應用；(3) 生成式 AI 導入與開發：透過課程整合微軟 Azure Open AI 雲端服務資源，讓學生具有導入 ChatGPT 及聊天機器人開發能力，並連結創新創業課程建立明確創業目標，導入跨領域創業課程，養成專業職能和研發實力，進而了解金融產業在數位轉型中，所面臨的困難與挑戰。",
-      "en": "英文概述English Description \tThis course will help students understand the development of digital finance and the application of generative AI in financial technology from different financial service applications. The objectives of this program include: (1) Financial product planning and digital marketing; (2) Intelligent financial technology literacy and innovative applications; (3) Generative AI Introduction and Development: Integrate Microsoft Azure Open AI cloud service resources through the course to provide students with the ability to introduce ChatGPT and chat robot development, and link to innovative entrepreneurship courses to establish clear entrepreneurial goals and introduce cross-disciplinary entrepreneurship courses to develop professional functions and R&D capabilities."
-    },
-    "id": "338209",
-    "name": {
-      "zh": "人工智慧跨域金融之應用",
-      "en": "AI Applications in Finance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2759",
-        "code": "2759"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳牧恩",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11985",
-        "code": "11985"
-      },
-      {
-        "name": "吳威震",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24433",
-        "code": "24433"
-      },
-      {
-        "name": "鄭麗珍",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12173",
-        "code": "12173"
-      },
-      {
-        "name": "鍾建屏",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
-        "code": "12342"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "8",
-        "9",
-        "A"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資財三甲乙、四甲乙合開 / 科研 240",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03061",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338209&code=11985",
-      "ShowSyllabus.jsp?snum=338209&code=12173",
-      "ShowSyllabus.jsp?snum=338209&code=12342"
-    ]
-  },
-  {
     "code": "AB03066",
     "description": {
       "zh": "物聯網系統包含了感測器與感測網路，邊緣閘道，雲端服務與存取裝置，可建構眾多的端到端商業應用包含無人商店與智慧支付的場景金融，遠距醫療與照護，智慧製造與智慧家庭等。本課程將教授物聯網系統的設計包含裝置與服務的技術，並以各項商業應用場景做課題的探討。",
@@ -18143,7 +18079,9 @@
     "language": "",
     "notes": "工管三甲乙丙合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3722004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338458&code=11088"
+    ]
   },
   {
     "code": "3732002",
@@ -18914,7 +18852,9 @@
     "language": "",
     "notes": "自然與科學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1416017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338494&code=22367"
+    ]
   },
   {
     "code": "1410094",
@@ -19116,7 +19056,9 @@
     "language": "",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1411001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338498&code=20716"
+    ]
   },
   {
     "code": "1410068",
@@ -19322,7 +19264,9 @@
     "language": "",
     "notes": "創新與創業",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415019",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338502&code=24531"
+    ]
   },
   {
     "code": "1410145",
@@ -20787,9 +20731,9 @@
       "thu": [],
       "fri": [],
       "sat": [
-        "A",
-        "B",
-        "C"
+        "5",
+        "6",
+        "7"
       ]
     },
     "classroom": [],
@@ -21010,6 +20954,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338758&code=11088",
       "ShowSyllabus.jsp?snum=338758&code=11537"
     ]
   },
@@ -21045,13 +20990,23 @@
         "code": "3108"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳煒朋",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11729",
+        "code": "11729"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
       "fri": [],
       "sat": []
     },
@@ -21060,7 +21015,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理，台北上課",
+    "notes": "(群組 6) 財金管理，台北上課 ( 溫紹？)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
     "syllabusLinks": []
   },
@@ -21302,65 +21257,6 @@
     ]
   },
   {
-    "code": "AB03070",
-    "description": {
-      "zh": "本課程將深入探討比特幣作為一種加密貨幣的獨特經濟特性。我們將從貨幣的基礎概念開始，接著介紹比特幣，探討其背後的區塊鏈技術以及去中心化的運作方式。然後，我們將探討比特幣的價值形成機制、供需動態、市場波動等相關議題，並探討其對傳統金融體系的影響，以及可能的未來發展趨勢。此外，再針對比特幣逐漸成為全球大南方新興市場國家的普惠金融方案之一的現象探討其原因與未來發展。",
-      "en": "This course delves into the unique economic characteristics of Bitcoin as a cryptocurrency. We Start from the fundamental concepts of money, fiat currency, and then discuss the Bitcoin. We explore the underlying blockchain technology and decentralized operations. We then examine Bitcoin's value proposition, supply-demand dynamics, market volatility, and its impact on traditional financial systems, along with potential future trends. On top of that, Bitcoin is also gaining traction to become one of the financial inclusion solution in global south emerging countries, we also examine the reasoning and future development of this phenomena."
-    },
-    "id": "338789",
-    "name": {
-      "zh": "比特幣經濟學",
-      "en": "Bitcoin Economics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財三乙",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2881",
-        "code": "2881"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鍾建屏",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
-        "code": "12342"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "5",
-        "6",
-        "7"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研哈佛講堂",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
-        "code": "474"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資財三甲乙、四甲乙、資財所合開 / 哈佛講堂",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03070",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338789&code=12342"
-    ]
-  },
-  {
     "code": "4905581",
     "description": {
       "zh": "組織行為是採用分析的方法，了解研究解個體行為在個人、團體、組織三個層次中的行為表現，並應用相關學理知識提高組織效能，尤其將焦點放在如何提高員工的生產力、降低離職率與曠職率，增加滿意度等四個變項上。",
@@ -21467,59 +21363,8 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504607",
-    "syllabusLinks": []
-  },
-  {
-    "code": "AB03070",
-    "description": {
-      "zh": "本課程將深入探討比特幣作為一種加密貨幣的獨特經濟特性。我們將從貨幣的基礎概念開始，接著介紹比特幣，探討其背後的區塊鏈技術以及去中心化的運作方式。然後，我們將探討比特幣的價值形成機制、供需動態、市場波動等相關議題，並探討其對傳統金融體系的影響，以及可能的未來發展趨勢。此外，再針對比特幣逐漸成為全球大南方新興市場國家的普惠金融方案之一的現象探討其原因與未來發展。",
-      "en": "This course delves into the unique economic characteristics of Bitcoin as a cryptocurrency. We Start from the fundamental concepts of money, fiat currency, and then discuss the Bitcoin. We explore the underlying blockchain technology and decentralized operations. We then examine Bitcoin's value proposition, supply-demand dynamics, market volatility, and its impact on traditional financial systems, along with potential future trends. On top of that, Bitcoin is also gaining traction to become one of the financial inclusion solution in global south emerging countries, we also examine the reasoning and future development of this phenomena."
-    },
-    "id": "338812",
-    "name": {
-      "zh": "比特幣經濟學",
-      "en": "Bitcoin Economics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資財四乙",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2759",
-        "code": "2759"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "鍾建屏",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
-        "code": "12342"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
-      ],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資財三甲乙、四甲乙、資財所合開 / 哈佛講堂",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03070",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338812&code=12342"
+      "ShowSyllabus.jsp?snum=338809&code=23889"
     ]
   },
   {
@@ -21554,12 +21399,12 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [],
-      "wed": [
+      "tue": [
         "A",
         "B",
         "C"
       ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []

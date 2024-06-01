@@ -12,15 +12,15 @@
     "foreignLanguageTextbooks": false
   },
   {
-    "name": "嚴建隆",
-    "email": "g1962@ntut.edu.tw",
-    "latestUpdate": "2024-05-25 19:38:23",
+    "name": "蕭淵元",
+    "email": "steven919@gmail.com",
+    "latestUpdate": "2024-05-31 17:10:27",
     "objective": "介紹機電工程所涵蓋的基礎知識及技術範圍，包括機械、電機、製造、能源、冷凍空調及車輛工程等領域以及未來的展望。藉由多位教師聯合授課，以課堂講授、實驗示範、參觀工廠、影片教學及分組報告的方式，幫助學生了解機電工程之基礎原理與概念。\nIntroduce the engineering technology covered by Mechanical Engineering, Electrical Engineering, Manufacturing Technology, Energy Engineering, Air Conditioning and Refrigeration Engineering and Vehicle Engineering and its future outlook. In order to help students understand the basics and concepts of mechanical and electrical engineering, we provide class lecture, experimental demonstration, plant tour, movie display, and group report.",
-    "schedule": "第 7 週 第 1 章 - 機械製造 -- 車床 \n第 8 週 第 2 章 - 機械製造 -- 精密量測\n第 9 週 第 3 章 - 機械製造 -- 數值控制工具機、數值控制工具機之構造\n第 10 週第 3 章 - 機械製造 -- 數值控制工具機之座標系統及機械軸向 \n第 11 週 第 4 章 - 感測器\n第 12 週 考試",
-    "scorePolicy": "一。考試 40%\n二。作業 30%\n三。上課狀況 30%(扣分：含點名、上課睡覺、上課穿拖鞋、吃東西、滑手機、打\n                           電動、打電腦)。",
-    "materials": "1. 工廠實習 蔡德藏 全華圖書公司\n2. 精密量測檢驗 林詩瑀 陳志堅編著 / 施議訓 校閱 全華圖書公司\n3. 電腦數值控制與應用 陳紹賢編著 全華圖書公司\n4. 感測器 陳福春編著 全華圖書公司\n5. 自動化光學檢測 主編 陳亮嘉 作者 陳亮嘉 范光照 邱奕契 陳金聖 \n                 高立圖書公司",
-    "consultation": "時間：每星期五下午 13:10-14:00 地點：綜科館 219 室 02-27712171#4802g1962@ntut.edu.tw",
-    "remarks": "因應疫情，本學期教學及授課方式請依照學校網頁所公布之訊息為準： 網頁連結",
+    "schedule": "13 週 冷凍真空乾燥與真空技術\n14 週 吸收式冷凍\n15 週 電子散熱\n16 週 智慧式儲冰空調\n17 週 無塵室設計\n18 週 建築節能與熱交換器",
+    "scorePolicy": "每週報告：70%\n每週出席：30%",
+    "materials": "第 13~18 週 能源系老師及業師聯合授課 (ppt)",
+    "consultation": "能源系 蕭淵元老師 yyhsiao@ntut.edu.tw",
+    "remarks": "",
     "foreignLanguageTextbooks": false
   }
 ]

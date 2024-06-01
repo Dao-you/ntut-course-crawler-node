@@ -597,6 +597,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -624,7 +629,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105198",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335453&code=10619"
@@ -650,6 +655,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -677,7 +687,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105200",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335454&code=12461"
@@ -703,6 +713,16 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -736,7 +756,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所、半導體和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105204",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335457&code=11009"
@@ -762,6 +782,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -1029,6 +1054,16 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
         "code": "3044"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -1088,6 +1123,11 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
         "code": "3044"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -1194,6 +1234,11 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
         "code": "3044"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -1247,6 +1292,11 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
         "code": "3044"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -1274,7 +1324,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電子系和鐵道合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3635022",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335534&code=12232"
@@ -1654,7 +1704,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3714011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335566&code=11088"
+    ]
   },
   {
     "code": "3725015",
@@ -1811,6 +1863,11 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3045",
         "code": "3045"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -1838,7 +1895,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "工管博和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335578&code=11537"
@@ -1864,6 +1921,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3045",
         "code": "3045"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
+        "code": "3065"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -1891,7 +1958,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA、工管博和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335579&code=10632"
@@ -2154,7 +2221,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "預計英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3737002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335588&code=10632"
@@ -3003,12 +3070,12 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
+      "tue": [],
+      "wed": [
         "5",
         "6",
         "7"
       ],
-      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
@@ -4945,6 +5012,11 @@
         "name": "建都所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3052",
         "code": "3052"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -5002,6 +5074,11 @@
         "name": "建都所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3052",
         "code": "3052"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -5055,6 +5132,11 @@
         "name": "建都所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3052",
         "code": "3052"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -5108,6 +5190,11 @@
         "name": "建都所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3052",
         "code": "3052"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -5632,6 +5719,16 @@
         "name": "經管所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3055",
         "code": "3055"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
+        "code": "3065"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -5665,7 +5762,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語",
+    "notes": "IMBA、經管所和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705105",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336010&code=12390"
@@ -6197,6 +6294,11 @@
         "name": "創新所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3056",
         "code": "3056"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -6230,7 +6332,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "創新所和設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5815006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336095&code=12437"
@@ -6256,6 +6358,11 @@
         "name": "創新所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3056",
         "code": "3056"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -6289,7 +6396,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "創新所和設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5825118",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336112&code=12206"
@@ -6466,6 +6573,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
         "code": "3066"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -6524,6 +6636,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
         "code": "3066"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -6582,6 +6699,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
         "code": "3066"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -6640,6 +6762,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
         "code": "3066"
+      },
+      {
+        "name": "創新AI學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3077",
+        "code": "3077"
       }
     ],
     "teacher": [
@@ -6673,7 +6800,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資工四、資工所和電資國際班合開",
+    "notes": "資工四、資工所、AI 和電資國際班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5905187",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336185&code=11297"
@@ -6757,6 +6884,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
         "code": "3066"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [],
@@ -6808,6 +6940,11 @@
         "name": "電資外生所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
         "code": "3066"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -7484,6 +7621,16 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3059",
         "code": "3059"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -7517,7 +7664,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "計中電腦教室",
+    "notes": "計中電腦教室，自動化所。鐵道和半導體合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336229&code=11453"
@@ -7543,6 +7690,11 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3059",
         "code": "3059"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -7570,7 +7722,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "自動化所和半導體合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105055",
     "syllabusLinks": []
   },
@@ -8087,6 +8239,11 @@
         "name": "光電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3060",
         "code": "3060"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -8625,6 +8782,11 @@
         "name": "化工所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3062",
         "code": "3062"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -8852,6 +9014,11 @@
         "name": "材料所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3063",
         "code": "3063"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -8879,7 +9046,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "材料所和半導體合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815108",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336417&code=11236"
@@ -9154,7 +9321,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "材料所和 EOMP 合開",
+    "notes": "材料所。半導體和 EOMP 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815153",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336438&code=11235"
@@ -9695,59 +9862,6 @@
     ]
   },
   {
-    "code": "5705105",
-    "description": {
-      "zh": "策略管理主要是幫助高階管理階層作決策。一般而言，這門課為商學課程中的課程主要協助學員們具有整合能力。學員不只是在策略管理中應活學活用，也融合所學應用於管理決策中。此門課將幫助您學習、研讀個案和討論，這是此門課的目標。 1. 瞭解組織所處環境 2. 分析外部環境之時機和危機 3. 剖析內部組織之優劣勢 4. 探討企業不同層次之應對策略。",
-      "en": "Strategic management deals with the decision making at the top management level. Traditionally, this course has been the capstone course in the business program and is taught at the last year of study so that students can integrate functional area knowledge into a coherent one. Students are expected not only to learn a body of knowledge on strategic management, but also to synthesize economics, accounting, and marketing as an aid top management level decisions. We will use a combination of readings, case studies, and lectures to achieve the goals of the course."
-    },
-    "id": "336489",
-    "name": {
-      "zh": "策略管理",
-      "en": "Strategic Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "管理外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
-        "code": "3065"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林雅惠",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12390",
-        "code": "12390"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "2",
-        "3",
-        "4"
-      ],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705105",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336489&code=12390"
-    ]
-  },
-  {
     "code": "9805001",
     "description": {
       "zh": "本課程之目的在探討如何運用科學與系統化的方式解決管理上的問題。整個過程包括：資料蒐集與問題分析、數量模式的建構、問題求解、成本效益分析、系統規劃設計與執行等步驟。課程內容主要以應用案例說明為主，讓同學瞭解理論如何與實際問題結合，也會介紹最佳化計算軟體來求解數學模式並輔助說明所得數據之意涵。",
@@ -9767,6 +9881,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
         "code": "3065"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -9799,7 +9918,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA 和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336491&code=12101",
@@ -9877,6 +9996,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
         "code": "3065"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -9904,7 +10028,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA 和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336493&code=11073"
@@ -9961,59 +10085,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805112",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336494&code=12101"
-    ]
-  },
-  {
-    "code": "9805120",
-    "description": {
-      "zh": "本課程在培養同學創業的知識與思維，以及了解營運模式如何應用在商業活動裡。本課程包含：創業精神的想法和行動、從失敗中學習、設計思考、市場測試、機會衡量、營運模式建立、價值主張、永續經營、企業倫理等議題。",
-      "en": "The course is to encourage students to have the ideas of entrepreneurship and to establish the abilities of running a business. This course is focused on: entrepreneurial thought and action, learning from failure、design thinking、opportunity evaluation、market tests、the development of business model、value propositions、network、sustainable and business ethics."
-    },
-    "id": "336498",
-    "name": {
-      "zh": "創業與商業計畫",
-      "en": "Entrepreneurship and Business Planning"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "管理外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
-        "code": "3065"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "2",
-        "3",
-        "4"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=9805120",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336498&code=11429"
     ]
   },
   {
@@ -10171,59 +10242,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805139",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336504&code=24406"
-    ]
-  },
-  {
-    "code": "AS05001",
-    "description": {
-      "zh": "本課程是教導學生金融科技的基本概念，使學生能夠建立金融科技的創新應用。內容包括：金融科技概論、金融科技商業模式、P2P 借貸、虛擬貨幣、雲端服務、第三方支付、群眾募資、P2P 匯兌、區塊鏈、跨境電商、程式交易、機器人理財與期末專題製做。",
-      "en": "This course is to instruct students the basic concepts of financial technology and to enable students to develop innovative applications of financial technology. The contents include introduction to financial technology, business models of financial technology, P2P lending, virtual money, third-party payment, crowd funding, P2P remittance, blockchain, cross-border e-commerce, program trading, and robotic financial advisory."
-    },
-    "id": "336506",
-    "name": {
-      "zh": "金融科技",
-      "en": "Financial Technology"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "管理外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
-        "code": "3065"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳育威",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11396",
-        "code": "11396"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "2",
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05001",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336506&code=11396"
     ]
   },
   {
@@ -10675,7 +10693,11 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
       "sat": []
     },
     "classroom": [],
@@ -10880,6 +10902,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3069",
         "code": "3069"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -10913,7 +10940,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資財三甲、資財所合開",
+    "notes": "資財四甲、資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05089",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336570&code=12148"
@@ -10939,6 +10966,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3069",
         "code": "3069"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -11228,6 +11260,11 @@
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3069",
         "code": "3069"
+      },
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
       }
     ],
     "teacher": [
@@ -11282,9 +11319,19 @@
     "courseType": "★",
     "class": [
       {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
+        "code": "3065"
+      },
+      {
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3069",
         "code": "3069"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -11318,7 +11365,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "【全英語】資財所、IMBA 合開",
+    "notes": "【全英語】IMBA、資財所和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB06039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336587&code=11396"
@@ -11695,6 +11742,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336625&code=11494",
+      "ShowSyllabus.jsp?snum=336625&code=11334",
       "ShowSyllabus.jsp?snum=336625&code=11969"
     ]
   },
@@ -11830,7 +11878,13 @@
         "code": "3074"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11083",
+        "code": "11083"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -11888,293 +11942,6 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406002",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406041",
-    "description": {
-      "zh": "本課程著重於中英文口頭報告能力之培養，在模擬發表過程中，培養學生使用正確的表達用法，並建立適當之應對方式。",
-      "en": "This course offers opportunities for students to develop their oral presentation skills in both Chinese and English languages via simulated presentations in class.  Students will learn how to present their papers precisely and how to engage a conversation properly."
-    },
-    "id": "336632",
-    "name": {
-      "zh": "科技論文表達",
-      "en": "Technical Paper Presentation"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406041",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406101",
-    "description": {
-      "zh": "線性空間分析，狀態方程式及響應，可控制性及可觀測性，穩定性分析，狀態回授及估測，控制器設計及應用，觀測器設計及應用，非線性系統，時變系統，控制理論的應用",
-      "en": "Linear space Analysis, State equation and Response, Controllability and Observability, Stability Analysis, State Feedback and Estimation, Controller Design and Applications, Observer Design and Applications, Nonlinear systems, Time varying Systems, Applications of Control theory"
-    },
-    "id": "336633",
-    "name": {
-      "zh": "控制理論",
-      "en": "Control Theory"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406101",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406119",
-    "description": {
-      "zh": "1. 輪胎模型 2. 輪胎性能參數 3. 穩態操控 4. 暫態操控 5. 四輪操控 6. 乘坐舒適性分析",
-      "en": "To provide an overview of ground vehicle handling and ride performance through the development, analysis and interpretation of vehicle models.  The course is divided into three major parts: Tire modeling, Handling, and Ride.  For each part, case study examples will be used to illustrate the important design considerations."
-    },
-    "id": "336634",
-    "name": {
-      "zh": "高等車輛動力學",
-      "en": "Advanced Vehicle Dynamics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406119",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406129",
-    "description": {
-      "zh": "本課程將未來個人化智慧型捷運車輛科技發展如何面對都市化人口集中、高車輛密度所造成之環境衝擊，能源短缺之節能需求，個人差異化之個人便捷智慧化車輛之需求，及與未來都會新交通網結合之最後一哩路之未來車發展之動向。課程中將以系統、組件、基礎學理介紹未來車之整車發展趨勢、動力種類及性能的追求方向、輕量化結構之材料創新、新能源之應用與系統管理科技之發展。本內容讓學生了解在未來的車輛發展變遷下其所應具備的基本知識。",
-      "en": "This course introduces the \"Personal Intelligent Rapid Transportation Vehicle\" and the \"Operation System\". And it will drive to focus on the future vehicle technology development to face the challenges on the environmental impacts from the growth of the crowed mega cities, on the energy saving due to the shortage of the foil fuel, on the differentiation and ICT innovation from the young people, and on the metropolitan last-mile transportation solution to link with the public transportation system.This course contains numerous fundamental domain knowledge and technologies including vehicle system, powertrain module, energy module, lightweight chassis, environmental policy, infrastructure planning and innovative business model investigation, etc. Students will learn the fundamental knowledge of the future \"Personal Intelligent Rapid Transportation Vehicle and Operation System\" development."
-    },
-    "id": "336635",
-    "name": {
-      "zh": "個人化智慧型捷運車輛與運作系統",
-      "en": "Personal Intelligent Rapid Transportation Vehicle and Operation System"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406129",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406146",
-    "description": {
-      "zh": "本課程以介紹複合動力車輛概念、設計、能量分析及最佳化控制為主，結合內燃機及馬達兩種複合動力之能量管理及配合道路狀況，教導學生熟識複合車輛動力系統。",
-      "en": "This course presents fundamentals of Hybrid Electric Vehicles: HEV concepts and design, energy analysis, unified modeling approach, optimization and control.  The power consumption side of vehicles. Conventional power generation: IC engine overview, concepts of hybridization, general model of energy form and energy flows, on-board energy storage (fuels and batteries). Overview of electrochemical converters: motors, transmissions for HEVs, principles of fuel cells, HEV application. Principles of energy optimization in HEVs."
-    },
-    "id": "336636",
-    "name": {
-      "zh": "複合車輛動力系統",
-      "en": "Hybrid Vehicle Powertrains"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406146",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4505602",
-    "description": {
-      "zh": "本課程包含下列課題 1. 空氣清淨機構理論。2. 無塵室構造、建造及確效。3. 空氣過濾理論。4. 無塵室設計專案。5.\t論文研讀。",
-      "en": "This course covers the following Topics.1.Theory of air cleaning Mechanism.2.Clean room configuration, construction and         verification.3.Air filtration theory.4.Paper discussion."
-    },
-    "id": "336637",
-    "name": {
-      "zh": "無塵無菌室設計",
-      "en": "Clean room design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4505602",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6105038",
-    "description": {
-      "zh": "數位信號處理簡介，DSP 架構簡介 (以德儀的 TMS320C 系列為基礎)， DSP 作伺服馬達及運動控制之應用與實習。",
-      "en": "Introduction of Digital Signal Processing, Architecture of DSP (based on TMS320 family of Texas Instruments ), Laboratory of servo motor and motion control using DSP"
-    },
-    "id": "336638",
-    "name": {
-      "zh": "數位信號處理器應用技術",
-      "en": "Applied Technology of Digital Signal Processor"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "能源與車輛外生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
-        "code": "3074"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105038",
     "syllabusLinks": []
   },
   {
@@ -12375,170 +12142,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "3615054",
-    "description": {
-      "zh": "C 語言為開發作業系統、嵌入式系統、通訊協定等程式最常使用的程式語言，本課程主要教導 C 程式語言於實務上之應用，課程內容主要包括：進階指標使用、指標與陣列、指標與資料結構、Pointer-to-pointer、指標函式、Callback function、Bitwise operation 應用等，除了於 PC 上撰寫程式練習之外，亦會有 case study 來輔助教學以及了解 C 語言的使用技巧，期末亦會要求學生利用所學習到之技巧來模擬 CPU 排程與記憶體管理等相關作業系統底層程式。",
-      "en": "The C programming language is commonly used to implement operation systems, embedded systems, and communication protocols. The object of this course is to teach how to apply the C programming language to develop real application systems. The contents of this course include advanced pointer usage, pointer and array, pointer and data structure, pointer-to-pointer, function pointer, callback functions, bitwise operations, and so on. In addition to practice on PC, this course also offers case studies for better understanding. Students will also be required to implement emulators to simulate OS lower level operations, e.g., CPU scheduling and memory management."
-    },
-    "id": "336660",
-    "name": {
-      "zh": "進階 C 語言實務",
-      "en": "Advanced C programming"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3615054",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3635022",
-    "description": {
-      "zh": "一、射頻網路分析 二、射頻集總元件 三、射頻耦合線圈與變壓器 四、射頻集總元件阻抗匹配 五、射頻分佈元件 六、射頻傳輸線變壓器 七、射頻分佈元件阻抗匹配  八、射頻放大器阻抗匹配",
-      "en": "1.RF Network Analysis 2.RF Lumped Elements 3.RF Coupled Coils and Transformers 4.RF Impedance Matching Using Lumped Ellements 5.RF Distributed Elements 6.RF Traansmission Line Transformers 7.RF Impedance Matching Using Distributed Elements 8.RF Amplifier Impedance Matching"
-    },
-    "id": "336661",
-    "name": {
-      "zh": "射頻阻抗匹配",
-      "en": "RF Impedance Matching"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3635022",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4005026",
-    "description": {
-      "zh": "原子結構、排列與運動、材料之顯微結構與相結構、材料之機械性質 - 疲勞、破裂、潛變、材料之電性 - 電傳導性與半導體性、材料之光性與介電性、材料之磁性、材料之熱學性質、材料在微電元件之應用、複合材料。9. 複合材料。",
-      "en": "Contents:1.Fundamentals: Atomic scale structure, Crystal structure. 2.Microstructural development: Phase equilibriums and phase diagram. 3.Properties: Mechanical properties, Electrical properties, Dielectric properties, Magnetic properties, Thermal properties. 4.Composite materials.5.Applications on the Electrical-mechanical devices. Objectives: To improve the related knowledge of materials on the electrical-mechanical devices."
-    },
-    "id": "336662",
-    "name": {
-      "zh": "機電材料學",
-      "en": "Electromechanical Matericals"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005026",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4005036",
-    "description": {
-      "zh": "先修課程：負責教授同意。膜披覆製程是近年來高科技產業技術一項前途被看好的製程技術之一，廣用於刀具、模具、光學元件、感測器及半導體工業等等。此門課程將提供此項技術之介紹、相關配備、原理與能量提供方式、將包括：沉積技術與應用、化學氣相沉積法、物理氣相沉積法、電鍍技術、真空工程、直流電源、射頻電源、微波、熱燈絲等各種能量介紹、以及膜的成核與生長理論。",
-      "en": "The technology of films coating has advanced dramatically. This advancement was driven primarily by the need for new products and devices in the electronics and optical industries etc.. The rapid progress in various devices would not have been possible without the development of new files coating technology, improved film characteristic and superior file qualities. This course is intended to serve us a guide for the student or practitioner in the field, as a review and overview of this rapidly evolving technology for the graduate students in several branches of science and engineering."
-    },
-    "id": "336663",
-    "name": {
-      "zh": "鍍膜工程",
-      "en": "Engineering of Films Coating"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005036",
-    "syllabusLinks": []
-  },
-  {
     "code": "4405002",
     "description": {
       "zh": "「鐵道車輛設計分析」課程，乃為培養具有鐵路車輛分析設計能力之人員，本課程初期將從規範面瞭解車輛設計要求，進而從結構面進行車輛設計與分析，過程中將引導學生採用主流分析軟體進行車輛穩定性與行車舒適度探討。最後將探討與台灣既有鐵道系統的相容性，進行駕駛室與機電設備配置等設計。期望透過本課程，能培植鐵道車輛設計分析人才，厚植本土鐵道車輛設計能力。",
@@ -12590,129 +12193,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "5605032",
-    "description": {
-      "zh": "先修課程：負責教授同意（1） 瞬時平面運動學：Hartman 構圖法，反曲點元，切線圓，Euer- Savary 方程式，Bobillier 構圖法，四連桿組耦桿之直線包絡線方程式，                      Higher Curvature（2） 平面連桿機構分析：Freudenstein 方程式，速度及加速度，傳遞角與機械利益，多迴路連桿組分析（3） 其它機構分析：凸輪，齒輪組，非圓形齒輪",
-      "en": "（1） Instantaneous Plane Kinematics:       Hartman's construction, Inflection circle ,Tangential circle ,Euler -Savary Equation ,Bobillier's construction, Higher curvature （2） Analysis of plane Linkage:        Freudenstein Equation, Velocity and Acceleration, Transmission Angle and Mechanical Advantage, Multiple-Loop linkage （3） Analysis of Cams, Gear Trains, Non-Circular Gears."
-    },
-    "id": "336669",
-    "name": {
-      "zh": "機構運動分析",
-      "en": "Kinematic Analysis of Mechanisms"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605032",
-    "syllabusLinks": []
-  },
-  {
-    "code": "5605061",
-    "description": {
-      "zh": "先修課程：負責教授同意。1. 線性彈性力學 2. 變分法 3. 變分法應用到彈性力學 4. 結構力學 5. 扭力 6. 能量法 7. 彈性穩定 8. 材料選擇.",
-      "en": "1.Linear Elasticity 2.Variational Method 3.Variational Principles of Elasticity 4. Structural Mechanics 5.Torsion 6.Energy Method 7.Elastic Stability 8.Materials Selection"
-    },
-    "id": "336670",
-    "name": {
-      "zh": "高等材料力學",
-      "en": "Advanced Mechanics of Materials"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605061",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6105005",
-    "description": {
-      "zh": "自動化機械簡介，規劃及設計，驅動器，感測器可程式控制，氣液壓迴路控制，電腦介面控制，自動化系統實例介紹及應用。",
-      "en": "Introduction ， design  and  planning  for  Automatic  machine ， Actuators  sensors ， PLC ， pneumatic  control ， PC - based  control ， Examples  for  Automatic  system  and  its  application ."
-    },
-    "id": "336671",
-    "name": {
-      "zh": "自動化系統導論",
-      "en": "Introduction to Automation System"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105005",
-    "syllabusLinks": []
-  },
-  {
     "code": "6607004",
     "description": {
       "zh": "讀書報告、專題討論、機電科技相關技術及產品介紹與討論、Seminar 心得等，可重覆修習。",
@@ -12732,6 +12212,11 @@
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
         "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [],
@@ -12773,6 +12258,11 @@
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
         "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [],
@@ -12814,6 +12304,11 @@
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
         "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [],
@@ -12882,7 +12377,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "工管博和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336677&code=11401"
@@ -12939,7 +12434,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "工管博和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7407003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336678&code=11435"
@@ -13155,6 +12650,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "化工所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3062",
+        "code": "3062"
+      },
+      {
         "name": "能源光電外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3083",
         "code": "3083"
@@ -13191,7 +12691,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "化工所和 EOMP 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336706&code=10330"
@@ -13260,129 +12760,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336714&code=11165"
     ]
-  },
-  {
-    "code": "6607004",
-    "description": {
-      "zh": "讀書報告、專題討論、機電科技相關技術及產品介紹與討論、Seminar 心得等，可重覆修習。",
-      "en": "Case Study, Workshop, Group discussion, Seminars, Mechatronics in Modern Industries."
-    },
-    "id": "336724",
-    "name": {
-      "zh": "專題討論",
-      "en": "Mechanical & Electric Technology Seminar"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "機電外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
-        "code": "3084"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6607002",
-    "description": {
-      "zh": "本課程提供學生們一個可以改善他們的科技英文寫作技巧的環境，內容將包括：1. 扼要複習英文句型與文法，2. 撰寫論文常發生的錯誤，3. 分享論文審稿的經驗，4. 提供淺顯實用的寫作原則，5. 同儕分享讀論文與寫作的錯誤心得。",
-      "en": "This course provides an environment to help students improving their English skill in writing technical paper or thesis. What will be included in the class are: 1. concise review of sentence structure and grammar, 2. frequent writing mistakes of paper or report, 3. share of the experience in paper review, 4. offering simple and practical writing principles, 5. share the experience in reading and writing papers."
-    },
-    "id": "336725",
-    "name": {
-      "zh": "英文科技論文寫作",
-      "en": "Technical English Writing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
-        "code": "3084"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607002",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6607005",
-    "description": {
-      "zh": "包括理論與實驗，由機電所教授共同開課，課程討主要內容介紹機電科技之基礎知識與先進應用技術，側重在機電科技與創新設計相關之專業知識。",
-      "en": "This course, conducted by several professors from the Institute of. Mechanical & Electric Engineering introduces the fundamental theories and advanced technologies in the field of mechatronics and advanced technology. The topics covered mainly lie in areas of automation technology, mechatronics, advanced manufacturing technology, air conditioning & refrigeration engineering and vehicle engineering."
-    },
-    "id": "336726",
-    "name": {
-      "zh": "機電科技特論 (一)",
-      "en": "Special Topics on Mechanical & Electric engineering   (一)"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
-        "code": "3084"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607005",
-    "syllabusLinks": []
   },
   {
     "code": "AC06001",
@@ -18469,7 +17846,9 @@
     "language": "",
     "notes": "排進修部教室，限 40 人修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337573&code=11334"
+    ]
   },
   {
     "code": "C515006",
@@ -19855,6 +19234,8 @@
     "notes": "(群組 4) 行銷管理\t　",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337686&code=12389",
+      "ShowSyllabus.jsp?snum=337686&code=12532",
       "ShowSyllabus.jsp?snum=337686&code=12173"
     ]
   },
@@ -20012,7 +19393,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337692&code=11429",
-      "ShowSyllabus.jsp?snum=337692&code=12390"
+      "ShowSyllabus.jsp?snum=337692&code=12390",
+      "ShowSyllabus.jsp?snum=337692&code=12532"
     ]
   },
   {
@@ -21830,7 +21212,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "能源所和製科所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4507002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337808&code=11684"
@@ -23691,129 +23073,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "4406203",
-    "description": {
-      "zh": "工程最佳化方法導論，線性規劃法，非線性規劃法，多目標函數最佳化，近代數學規劃法介紹，精密機電元件與系統之最佳設計。",
-      "en": "Engineering optimization concepts,Linear progrsmming methods, Nonlinear programming Methods, Multi-objective optimization, Introduction to Modern mathematical programming techniques,Optimum design of precision machine components and systems."
-    },
-    "id": "337873",
-    "name": {
-      "zh": "工程最佳化與應用",
-      "en": "Engineering Optimization Methods and Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406203",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406047",
-    "description": {
-      "zh": "本課程所為研究所課程，內容包括主動煞車控制系統介紹，將針對 ABS, TCS, ESP 及 SBC 煞車系統原理介紹，煞車系統及控制器之數學模式及設計等，應用實例介紹。",
-      "en": "This course is designed mainly for senior/graduate students. The objective of this course is to introduce active braking control system, such as ABS, TCS, ESP and SBC background. The mathematical model of the system and its applications for the controller design of braking system are also included."
-    },
-    "id": "337874",
-    "name": {
-      "zh": "車輛電控煞車系統",
-      "en": "Vehicle Braking and Control Systems"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406047",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4406119",
-    "description": {
-      "zh": "1. 輪胎模型 2. 輪胎性能參數 3. 穩態操控 4. 暫態操控 5. 四輪操控 6. 乘坐舒適性分析",
-      "en": "To provide an overview of ground vehicle handling and ride performance through the development, analysis and interpretation of vehicle models.  The course is divided into three major parts: Tire modeling, Handling, and Ride.  For each part, case study examples will be used to illustrate the important design considerations."
-    },
-    "id": "337875",
-    "name": {
-      "zh": "高等車輛動力學",
-      "en": "Advanced Vehicle Dynamics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
-        "code": "3076"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406119",
-    "syllabusLinks": []
-  },
-  {
     "code": "5806045",
     "description": {
       "zh": "本課程為沿續統計學課程，探討論文寫作所需統計分析理論與方法。課程內容含：一因子與二因子變異數分析、實驗設計、多元迴歸分析、因素分析、集群分析、區別分析與結構方程式等。 1. Introduction to SPSS 2. Analysis of Variance (ANOVA) 3. Experimental Design 4. Nonparametric Test 5. Multiple Regression 6. Factor Analysis 7. Cluster Analysis 8. Discriminant Analysis 9. Structural Equation Model (SEM)",
@@ -24124,6 +23383,11 @@
         "name": "創新所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3056",
         "code": "3056"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -24157,7 +23421,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "創新所和設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5855009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337905&code=12437"
@@ -24242,6 +23506,11 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3059",
         "code": "3059"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -24269,7 +23538,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "自動化所和鐵道合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005030",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337913&code=12394"
@@ -24519,6 +23788,11 @@
         "name": "光電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3060",
         "code": "3060"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -24668,7 +23942,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "須具備 MATLAB 基礎",
+    "notes": "須具備 MATLAB 基礎，英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337928&code=12247"
@@ -24694,6 +23968,11 @@
         "name": "光電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3060",
         "code": "3060"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -24806,6 +24085,11 @@
         "name": "光電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3060",
         "code": "3060"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -25101,6 +24385,11 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3071",
         "code": "3071"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -25134,7 +24423,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所。製科所。機械自動化外生班合開，限 40 人",
+    "notes": "機電所。製科所。半導體。機械自動化外生班合開，限 40 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605033",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337981&code=10581"
@@ -25266,6 +24555,11 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -25441,6 +24735,11 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -25474,7 +24773,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 50 人",
+    "notes": "限 50 人，機電所和鐵道合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005026",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338000&code=12278"
@@ -25810,6 +25109,11 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3071",
         "code": "3071"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -25843,7 +25147,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所。製科所。機械自動化外生班合開",
+    "notes": "機電所。製科所。鐵道。機械自動化外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338017&code=12314"
@@ -26400,6 +25704,11 @@
         "name": "製科所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3054",
         "code": "3054"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -26433,7 +25742,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 20 人",
+    "notes": "限 20 人，製科所和鐵道合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605061",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338076&code=12276"
@@ -27307,6 +26616,11 @@
         "name": "材料所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3063",
         "code": "3063"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -27339,57 +26653,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338150&code=11929"
     ]
-  },
-  {
-    "code": "3706024",
-    "description": {
-      "zh": "使電腦系統具有解決問題的能力、智慧的表現及儲存的型態、理解及辨識的能力、及視覺、聽覺、觸覺及表達的能力、並有學習、認知、分析理解等能力。",
-      "en": "Made computer the power of problem solving, intelligent behavior and storage type, comprehension and distinguish abilities. The abilities of vision, hearing, touching, learning, identifying, analyzing are also the target of the course."
-    },
-    "id": "338151",
-    "name": {
-      "zh": "人工智慧",
-      "en": "Artificial Intelligence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "管理博所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
-        "code": "3081"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11573",
-        "code": "11573"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "2",
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3706024",
-    "syllabusLinks": []
   },
   {
     "code": "4005200",
@@ -27473,6 +26736,11 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3048",
         "code": "3048"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
       }
     ],
     "teacher": [
@@ -27500,7 +26768,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "車輛所和鐵道合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406047",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338169&code=11937"
@@ -27632,6 +26900,11 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3048",
         "code": "3048"
+      },
+      {
+        "name": "能源與車輛外生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3074",
+        "code": "3074"
       }
     ],
     "teacher": [
@@ -27659,7 +26932,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "車輛所和能源車輛外生合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406101",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338172&code=10993"
@@ -28529,6 +27802,16 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -28556,7 +27839,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所、半導體和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338238&code=12399"
@@ -28582,6 +27865,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -28615,7 +27903,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105037",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338239&code=11342"
@@ -28751,6 +28039,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -28764,12 +28057,12 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "7",
-        "8",
-        "9"
+      "wed": [],
+      "thu": [
+        "5",
+        "6",
+        "7"
       ],
-      "thu": [],
       "fri": [],
       "sat": []
     },
@@ -28778,7 +28071,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和半導體班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105087",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338242&code=11009"
@@ -28857,6 +28150,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -28890,7 +28188,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105130",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338244&code=11213"
@@ -28969,6 +28267,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -28996,7 +28299,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105040",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338246&code=12352"
@@ -29506,6 +28809,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "建都所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3052",
+        "code": "3052"
+      },
+      {
         "name": "設計博所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
         "code": "3082"
@@ -29542,7 +28850,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "設計博核心選修",
+    "notes": "設計博核心選修，建都所與設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=8517007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338271&code=11123"
@@ -29855,6 +29163,11 @@
         "name": "電機所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3043",
         "code": "3043"
+      },
+      {
+        "name": "創新AI學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3077",
+        "code": "3077"
       }
     ],
     "teacher": [
@@ -29888,7 +29201,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所和 AI 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338303&code=12528"
@@ -30269,6 +29582,11 @@
         "name": "建都所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3052",
         "code": "3052"
+      },
+      {
+        "name": "設計博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3082",
+        "code": "3082"
       }
     ],
     "teacher": [
@@ -30492,6 +29810,11 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
         "code": "3044"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -30810,6 +30133,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3045",
         "code": "3045"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
+        "code": "3065"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -30837,7 +30170,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "IMBA、工管博和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3737003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338364&code=10821"
@@ -31982,6 +31315,11 @@
         "name": "電子所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
         "code": "3044"
+      },
+      {
+        "name": "電資外生所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3066",
+        "code": "3066"
       }
     ],
     "teacher": [
@@ -32288,6 +31626,11 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3045",
         "code": "3045"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
       }
     ],
     "teacher": [
@@ -32315,7 +31658,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管所",
+    "notes": "工管博和管理博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706024",
     "syllabusLinks": []
   },
@@ -33417,59 +32760,6 @@
     ]
   },
   {
-    "code": "5705050",
-    "description": {
-      "zh": "本課程在培養同學創業的知識與思維，以及了解營運模式如何應用在商業活動裡。本課程包含：創業精神的想法和行動、從失敗中學習、設計思考、市場測試、機會衡量、營運模式建立、價值主張、永續經營、企業倫理等議題。",
-      "en": "The course is to encourage students to have the ideas of entrepreneurship and to establish the abilities of running a business. This course is focused on: entrepreneurial thought and action, learning from failure、design thinking、opportunity evaluation、market tests、the development of business model、value propositions、network、sustainable and business ethics."
-    },
-    "id": "338505",
-    "name": {
-      "zh": "創業與商業計畫",
-      "en": "Entrepreneurship and Business Planning"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "經管所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3055",
-        "code": "3055"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "2",
-        "3",
-        "4"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "暫定哈佛",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705050",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338505&code=11429"
-    ]
-  },
-  {
     "code": "4505208",
     "description": {
       "zh": "本課程之目的為訓練學生有關電子設備散熱設計之相關原理與技術。介紹各項電子元件之發熱量、溫度與元件穩定性之關係，熱對流、熱輻射等熱傳原理在電子設備散熱之的應用法則；解說電子設備散熱器之演進與設計原理，如：熱管之原理與演進、小型風散之特性與設計原則等。探討電子設備的熱阻抗分析、溫度計算、熱應力分析，並介紹相關電腦輔助分析軟體。",
@@ -33716,6 +33006,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3071",
         "code": "3071"
+      },
+      {
+        "name": "智慧鐵道學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
+        "code": "3076"
+      },
+      {
+        "name": "半導體學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
+        "code": "3079"
       }
     ],
     "teacher": [
@@ -33749,7 +33049,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電。製科。機械自動化外生班合開，/ 限 40 人",
+    "notes": "機電。製科。半導體。鐵道。機械自動化外生班合開，/ 限 40 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005036",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338534&code=12283"
@@ -34642,7 +33942,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C735005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338596&code=11427"
+    ]
   },
   {
     "code": "C735006",
@@ -35351,6 +34653,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "電子所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
+        "code": "3044"
+      },
+      {
         "name": "太空所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3075",
         "code": "3075"
@@ -35461,6 +34768,11 @@
     "hours": "3",
     "courseType": "★",
     "class": [
+      {
+        "name": "電子所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
+        "code": "3044"
+      },
       {
         "name": "太空所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3075",
@@ -36558,7 +35870,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338738&code=23683"
+    ]
   },
   {
     "code": "AA02002",
@@ -36608,7 +35922,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338739&code=11334"
+    ]
   },
   {
     "code": "AA02008",
@@ -36664,7 +35980,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338740&code=23683"
+    ]
   },
   {
     "code": "5705049",
@@ -37118,9 +36436,9 @@
       "thu": [],
       "fri": [],
       "sat": [
-        "A",
-        "B",
-        "C"
+        "5",
+        "6",
+        "7"
       ]
     },
     "classroom": [],
@@ -37341,6 +36659,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338758&code=11088",
       "ShowSyllabus.jsp?snum=338758&code=11537"
     ]
   },
@@ -37376,13 +36695,23 @@
         "code": "3108"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳煒朋",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11729",
+        "code": "11729"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
       "fri": [],
       "sat": []
     },
@@ -37391,7 +36720,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理，台北上課",
+    "notes": "(群組 6) 財金管理，台北上課 ( 溫紹？)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
     "syllabusLinks": []
   },
@@ -37577,7 +36906,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資財三甲乙、四甲乙、資財所合開 / 哈佛講堂",
+    "notes": "哈佛講堂",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05120",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338782&code=12342"
@@ -37695,703 +37024,6 @@
     ]
   },
   {
-    "code": "7815170",
-    "description": {
-      "zh": "本課程探討電子材料性質、固態物理基礎、元件物理等相關內容，強化電子材料與半導體元件技術之關聯性，藉由剖析材料結構與元件電性，深入探討電子元件在實際應用時可能遭遇之材料議題。本課程將介紹多種半導體元件技術應用，內容包括 p-n 接面、發光二極體與太陽能電池等。",
-      "en": "This course will introduce the material properties, the basics of solid-state physics, and semiconductor devices and physics to provide knowledge of electronic materials and modern semiconductor devices. To assess the material and device issues of electronics for practical use, analysis of the material structure and electrical performance are essential. The content will include various semiconductor device technologies, such as p-n junction, light emitted diodes (LEDs), and solar cells."
-    },
-    "id": "338791",
-    "name": {
-      "zh": "電子材料與元件技術特論",
-      "en": "Special Topics in Electronic Materials and Devices"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7815170",
-    "syllabusLinks": []
-  },
-  {
-    "code": "7305027",
-    "description": {
-      "zh": "本課程將探討半導體材料之表面化學性質之分析技巧、以及界面和分子間引力之量測方法、表面形態分析、晶相結構分析以及電磁性質量測之技術和其原理。並配合半導體旋轉塗佈機和濺鍍機所備製之薄膜﹐實際操作 FTIR 顯微鏡、原子力顯微鏡、微量材料流變儀。",
-      "en": "This course will present the techniques and their corresponding theories on the surface property measurements including chemical information, stress analysis, morphology, crystalline structure and intermolecular forces between interfaces. The course also includes a practical training on the FTIR microscope, atomic force microscope, reology meter on the semiconductor materials."
-    },
-    "id": "338792",
-    "name": {
-      "zh": "半導體材料檢測技術及原理",
-      "en": "Characterization Methods for Semiconductor Materials"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7305027",
-    "syllabusLinks": []
-  },
-  {
-    "code": "7305079",
-    "description": {
-      "zh": "奈米科技在近年來有極快的進展，因此在本課程將介紹最新的奈米材料，包含有量子點、奈米碳材 (富勒烯、奈米碳管、石墨烯)、二維奈米材料 (二硫化鉬與金屬化) 等，對於這些奈米材料的物理、化學與光電特性以及製程方法做進一步的介紹，以期許可以帶給同學當今最新的奈米化技術與科技知識。",
-      "en": "Nanotechnology has a great progress in recent years. This class will introduce the latest information about nanomaterials and their applications. The nanomaterials include quantum dots, fullerene, carbon nanotube, graphene and molybdenum disulfide (MoS2). Their physical, chemical and optoelectronic properties will be comprehensively introduced. We expect to bring the knowledge of newest nanomaterials and technologies to students."
-    },
-    "id": "338793",
-    "name": {
-      "zh": "奈米材料與科技",
-      "en": "Nano Materials and Technology"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7305079",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4505910",
-    "description": {
-      "zh": "本課程主要介紹高階製程 1. 流體機械與流體輸送，2. 製冷系統與供熱系統，3. 壓縮空氣 4. 真空系統，5. 冷卻與給水系統，6. 排氣系統與空污防治設備，7. 純水系統，8. 化學品供應系統與大宗氣體供應系統，9. 汽電共生，10. 廠務節能措施，11. 案例分析與討論專案模擬。",
-      "en": "This course mainly introduces the advanced process 1. Fluid machinery and fluid transportation, 2. Refrigeration system and heating system, 3. Compressed air system 4. Vacuum system, 5. Cooling and water supply system, 6. Exhaust system and air pollution control equipment, 7.  Pure water system, 8. Chemical supply system and bulk gas supply system, 9. Steam-electricity symbiosis, 10. Factory energy saving measures, 11. Case analysis and discussion project simulation."
-    },
-    "id": "338794",
-    "name": {
-      "zh": "進階高科技廠務系統",
-      "en": "Advanced high-tech factory system"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4505910",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C005006",
-    "description": {
-      "zh": "協助學員在完成訓練後：1. 對半導體機台的設計原理、操作與預防保養有基礎的概念。2. 對半導體設備實務工作有初步的了解。3. 能結合學校所學理論與產業實務。",
-      "en": "After completing the training, the trainees will: 1.Know the basic concept of the design principle, operation and preventive maintenance about semiconductor tools.2.Have a preliminary understanding of what an equipment engineer does in Fab.3.Be able to combine the theories learned from the school with industrial practices."
-    },
-    "id": "338795",
-    "name": {
-      "zh": "半導體機台基礎",
-      "en": "Tool Introduction in Semiconductor"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4005141",
-    "description": {
-      "zh": "本課程涵蓋半導體產業趨勢發展、超大型 (Giga) 半導體工廠廠務系統與先進自動化工廠運作、以及先進半導體製程技術和設備等三大部分。",
-      "en": "This course mainly consists of development trend, Giga FAB, FAB automation, and processing technology and equipment for advanced semiconductor manufacturing."
-    },
-    "id": "338796",
-    "name": {
-      "zh": "積體電路製程先進技術與設備",
-      "en": "Processing technology and equipment for advanced semiconductor manufacturing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005141",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6105005",
-    "description": {
-      "zh": "自動化機械簡介，規劃及設計，驅動器，感測器可程式控制，氣液壓迴路控制，電腦介面控制，自動化系統實例介紹及應用。",
-      "en": "Introduction ， design  and  planning  for  Automatic  machine ， Actuators  sensors ， PLC ， pneumatic  control ， PC - based  control ， Examples  for  Automatic  system  and  its  application ."
-    },
-    "id": "338797",
-    "name": {
-      "zh": "自動化系統導論",
-      "en": "Introduction to Automation System"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105005",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6105055",
-    "description": {
-      "zh": "本課程在使學生瞭解數位影像之觀念及相關技術，並學習實際用高階語言實現數位影像處理之技術。內容包含：(1) 介紹，(2) 數位影像基礎，(3) 空間域影像強化，(4) 頻域影像強化，(5) 影像還原，(6) 彩色影像處理，(7) 形態學影像處理，(8) 影像分割，(9) 小波與多解析處理，(10) 影像壓縮。",
-      "en": "The goal of this course is to let students to understand the concepts and techniques used in the field of digital image processing. In addition, students will be using the high level language (C++, Java, Matlab etc.) to complete the programming of the corresponding techniques. The outline of this course is given below. (1) Introduction, (2) Digital Image Fundamentals, (3) Image Enhancement in the Spatial Domain, (4) Image Enhancement in the Frequency Domain, (5) Image Restoration, (6) Color Image Processing, (7) Morphological Image Processing, (8) Image Segmentation, (9) Wavelets and Multiresolution Processing, (10) Image Compression."
-    },
-    "id": "338798",
-    "name": {
-      "zh": "數位影像處理",
-      "en": "Digital Image Processing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105055",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4005036",
-    "description": {
-      "zh": "先修課程：負責教授同意。膜披覆製程是近年來高科技產業技術一項前途被看好的製程技術之一，廣用於刀具、模具、光學元件、感測器及半導體工業等等。此門課程將提供此項技術之介紹、相關配備、原理與能量提供方式、將包括：沉積技術與應用、化學氣相沉積法、物理氣相沉積法、電鍍技術、真空工程、直流電源、射頻電源、微波、熱燈絲等各種能量介紹、以及膜的成核與生長理論。",
-      "en": "The technology of films coating has advanced dramatically. This advancement was driven primarily by the need for new products and devices in the electronics and optical industries etc.. The rapid progress in various devices would not have been possible without the development of new files coating technology, improved film characteristic and superior file qualities. This course is intended to serve us a guide for the student or practitioner in the field, as a review and overview of this rapidly evolving technology for the graduate students in several branches of science and engineering."
-    },
-    "id": "338799",
-    "name": {
-      "zh": "鍍膜工程",
-      "en": "Engineering of Films Coating"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005036",
-    "syllabusLinks": []
-  },
-  {
-    "code": "4005130",
-    "description": {
-      "zh": "本課程介紹光電半導體的基本原理與應用，幫助同學們了解光電元件如發光二極體的製程、封裝、及測試技術的發展，由市場應用概況導入，含蓋設計研發、製造生產、與特性量測等範疇，說明光電元件的光熱電特性對元件效率的影響，並搭配實驗方式深入了解。",
-      "en": "This course introduces the basic principles and applications of optoelectronic semiconductors such as light emitting diodes to help students understand the fabrication process, packaging, and test technologies This course includes application, design and manufacturing. In addition, the influences of optical, thermal, and electrical properties on the device efficiency will be explained through fundamental theory and experiments."
-    },
-    "id": "338800",
-    "name": {
-      "zh": "光電半導體元件技術及應用",
-      "en": "Optoelectronic semiconductor device technology and application"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005130",
-    "syllabusLinks": []
-  },
-  {
-    "code": "5605033",
-    "description": {
-      "zh": "先修課程：負責教授同意。機構的類型合成與數目合成。創造性機構合成。運動、路徑和函數產生器之尺寸合成。最佳化設計。球面機構及空間機構之介紹。",
-      "en": "Type Synthesis and Number Synthesis of Mechanisms. Creative Mechanism Synthesis.  Dimensional Synthesis of Motion, Path, and Function Generators.  Optimal Design. Introduction of Spherical Mechanisms and Spatial Mechanisms."
-    },
-    "id": "338801",
-    "name": {
-      "zh": "機構運動合成",
-      "en": "Kinematic Synthesis of Mechanisms"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5605033",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3105204",
-    "description": {
-      "zh": "本課程希望協助學生瞭解如何以標準積體電路系統設計流程來設計超大型積體電路系統，旨在採用多種數位與類比電腦輔助設計軟體來訓練學生，使其能熟悉並使用超大型積體電路系統的設計軟體，培育學生具備超大型積體電路系統設計實務與經驗。本課程的主要內容包括：1. 超大型積體電路簡介；2. 晶片製程介紹；3.MOSFET 元件；4. MOSFET 走線；5.Hspice 軟體介紹 ；6. Hspice 電路模擬；7. 類比電路佈局與實作；8.Verilog HDL (硬體描述語言)；9. 電路合成 ；10. 自動測試圖樣產生；11. 時脈靜態分析；12. 電路佈局與佈線；13.DRC 與 LVS 檢測；14. 寄生參數萃取與佈局後模擬；15. 設計功能驗證 16. 設計方案報告",
-      "en": "Students will learn how to design VLSI circuits and systems based on a standard VLSI system design flow, where various electronic design automation (EDA) tools will be used extensively in the semester. Those EDA tools includes analog and digital circuits and systems. The main purpose of this course includes the following:1.\tVLSI Introduction.2.\tManufacturing Process.3.\tMOSFET Devices.4.\tMOSFET Wires.5.\tHspice Software.6.\tHspice Simulation.7.\tAnalog IC Layout and Practice.8.\tVerilog-HDL.9.\tSynthesis.10.\tDesign for Testability and Automatic Test Pattern Generation.11.\tStatic Timing Analysis.12.\tPlacement and Routing.13.\tDesign Rule Check, Layout Versus Schematic.14.\tLayout Parasitic Extraction and Simulation.15.\tDesign Verification.16.\tProject Presentation."
-    },
-    "id": "338802",
-    "name": {
-      "zh": "電腦輔助積體電路系統設計實務",
-      "en": "Computer-Aided VLSI System Design and Practice"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3105204",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3105087",
-    "description": {
-      "zh": "電容切換式電路、振盪器、濾波器、鎖相迴路、非線性與匹配效應、短通道效應與元件模型、類比電路佈局與包裝",
-      "en": "Switched-capacitor circuits, Oscillators, Continuous-time filters, Phase-locked loop, Nonlinearity and mismatch, Short-channel effects and device models, Layout and packaging for analog IC."
-    },
-    "id": "338803",
-    "name": {
-      "zh": "高等類比積體電路設計",
-      "en": "Advanced Analog IC Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3105087",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3105006",
-    "description": {
-      "zh": "1. 二極體電路分析與設計 2. 電晶體電路分析與設計 3. FET 電路分析與設計 4. 放大器頻率響應分析及頻率補償 5. 功率放大器分析與設計 6. 回授放大器分析與設計 7. 差動及運算放大器分析與設計 8. 震盪器分析與設計 9. 主動濾波器分析與設計",
-      "en": "1. Diode circuit Analysis and Design2. Transistor circuit Analysis and Design3. Transistor circuit Analysis and Design4. FET circuit Analysis and Design5. Amplifier Frequency response Analysis and Componstaion6. Power Amplifier Analysis and Design7. Feedback Amplifier Analysis and Design8. Differential and Operational Amplifier Analysis and Design9. Oscillator Analysis and Design10. Active Filter Analysis and Design"
-    },
-    "id": "338804",
-    "name": {
-      "zh": "電子電路分析與設計",
-      "en": "Electronic circuit Analysis and Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3105006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3615023",
-    "description": {
-      "zh": "本課程主要目標在設計一個嵌入式系統時，如何同時考慮選擇與設計系統軟體及硬體之方法，課程內容如下：1. 介紹軟硬體共同設計之基本概念 2. 嵌入式系統之系統設計 3. 系統設計步驟 4. 系統功能最佳化 5. 系統功能及結構最佳化 6. 結構之最佳化 7. 軟硬體之共同合成及評估 8. 系統功能及結構最佳化及共同設計之流程 9. 合成之結果",
-      "en": "The goal of this course is how to design and select the hardware andsoftware parts for designing an embedded system. The contents of this courseare shown as follows :1.Introduction to Hardware-Software Co-design2.Ststem Level Design of Embedded Systems3.Design Representation4.Function Optimizations5.Function/ Architecture Optimizations6.Architectural Optimizations7.Hardware/software Co-synthesis and Estimation8.Function/Architecture Optimization and Co-design Flow9.Synthesis Results"
-    },
-    "id": "338805",
-    "name": {
-      "zh": "軟硬體共同設計",
-      "en": "Hardware Software Co-design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3615023",
-    "syllabusLinks": []
-  },
-  {
-    "code": "3603057",
-    "description": {
-      "zh": "本課程在訓練學生如何使用電腦輔助設計軟体來分析與模擬類比及數位積体電路，進而能培養學生具有設計積体電路的能力，課程內容包念：1. 電腦輔助設計積体電路介紹 2. 類比積体電路設計軟体之介紹及使用 (SPICE Design center) 3. 數位積体電路設計軟体之介紹及使用 ( Viewlogic ) 4. PLD 的認識與介紹 5. FPGA ( Xilinx ) 的設計 6. 專題設計",
-      "en": "This course is trained the student to use computer-aided design tools for the analysis and simulation of integrated circuits(digital & analysis) .Therefore,the student have the design capability of integrated.The contents of this course :1.introduction to the Computer-aided IC design 2.Introduction to the computer-aided deaign of analysis    integrated circuits(SPICE ,Deaign Center)and computer-  exercise3.Introduction to the computer-aided design of digital integrated circuits(Viewlogic)and computer-exercise4.Introduction to the PLD5.FPGA(XILINX)design and computer-exercise6.Project."
-    },
-    "id": "338806",
-    "name": {
-      "zh": "積體電路分析與模擬",
-      "en": "Analysis and Simulation of Integrated Circuits"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603057",
-    "syllabusLinks": []
-  },
-  {
-    "code": "7815108",
-    "description": {
-      "zh": "1. 電子光學簡介 2. 穿透式電子顯微鏡之結構與成像原理 3. 電子繞射理論 4. 電子繞射圖型及缺陷分析方法 5. 掃瞄式電子顯微鏡之結構與成像原理 6. EDS 及 WDS 之 X 光光譜分析",
-      "en": "1.Introduction to electron optics2. Electron Beam and Their Interaction with Specimen3. Electron Diffraction4. The Transmission Electron Microscopy (TEM)5. The Scanning Electron Microscope (SEM) 6. Chemical Analysis in the Electron Microscope"
-    },
-    "id": "338807",
-    "name": {
-      "zh": "電子顯微鏡學",
-      "en": "Electron Microscopy"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
-        "code": "3079"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=7815108",
-    "syllabusLinks": []
-  },
-  {
     "code": "AY15005",
     "description": {
       "zh": "1.\t衛星軌道與軌跡 2.\t數位通訊，多工技術 3.\t衛星通訊 - 衛星本體 4.\t衛星通訊 - 地面站 5.\t衛星鏈路分析與設計 6.\t衛星通訊應用",
@@ -38407,6 +37039,11 @@
     "hours": "3",
     "courseType": "★",
     "class": [
+      {
+        "name": "電子所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3044",
+        "code": "3044"
+      },
       {
         "name": "太空所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3075",
@@ -38535,12 +37172,12 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [],
-      "wed": [
+      "tue": [
         "A",
         "B",
         "C"
       ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
@@ -38913,7 +37550,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘教師",
+    "notes": "新聘教師 / 預計英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735017",
     "syllabusLinks": []
   },
@@ -38969,5 +37606,61 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339053&code=11083"
     ]
+  },
+  {
+    "code": "5705443",
+    "description": {
+      "zh": "本課程大量的個案來說明企業管理的理論觀念以及分析方法，讓學生對企業管理有一定程度的了解，課程內容將以國內與國外著名案例為基礎，主題包括策略管理，行銷管理，組織領導，科技管理等。課程將採用參與式個案為教學方法，個案來源為哈佛商學院以及光華管理個案資料庫。",
+      "en": "This course uses Harvard style case method to enhance MBA students' business concepts and theories. The topics include: strategy management, marketing management, leadership, and technology management. The case materials will be adapted from Harvard Business School and KMCC center."
+    },
+    "id": "339081",
+    "name": {
+      "zh": "企業個案研討",
+      "en": "Business Case Study"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3096",
+        "code": "3096"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
+      },
+      {
+        "name": "簡德年",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=22653",
+        "code": "22653"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705443",
+    "syllabusLinks": []
   }
 ]
