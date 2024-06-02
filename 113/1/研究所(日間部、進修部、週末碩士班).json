@@ -7724,7 +7724,9 @@
     "language": "",
     "notes": "自動化所和半導體合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105055",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336254&code=11077"
+    ]
   },
   {
     "code": "6105063",
@@ -17233,7 +17235,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105087",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337523&code=11077"
+    ]
   },
   {
     "code": "7306002",
@@ -23887,7 +23891,9 @@
     "language": "",
     "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505132",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337927&code=11291"
+    ]
   },
   {
     "code": "6505008",
@@ -29308,7 +29314,9 @@
     "language": "",
     "notes": "碩一丙",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338307&code=12530"
+    ]
   },
   {
     "code": "5105001",
@@ -31070,7 +31078,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505115",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338410&code=12037"
+    ]
   },
   {
     "code": "A505116",
@@ -37353,7 +37363,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338830&code=12530"
+    ]
   },
   {
     "code": "AB05121",

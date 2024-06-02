@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "陳雅玫",
+    "email": "ymchen@ntut.edu.tw",
+    "latestUpdate": "2024-06-01 11:59:06",
+    "objective": "This course introduces various translation practices in the digital age and familiarizes students with appropriate translation methods and strategies. In the first part of the course, students will gain an understanding of online collaborative translation, translation crowdsourcing, fansubbing, and video game translation. In the second part, students will participate in two authentic online translation projects: Global Voices Lingua and Wikipedia translation. For the former, students will collaborate with the Lingua project's Chinese editors to produce Chinese translations of citizen news posts for publication on Global Voices. For the latter, students will engage in Wikipedia translation in various forms to develop their individual and social metacognition related to translation and enhance their ability to handle the translation of various text types. Students’ active engagement in project-based tasks is critical to this course. This involvement provides them with fundamental skills and keeps them current on newly-emerged translation practices.",
+    "schedule": "Week 1 introduction\nWeek 2 collaborative translation and translation crowdsourcing\nWeek 3 fansubbing\nWeek 4 videogame translation \nWeek 5 Global Voices Lingua (1): introduction and guest lecture\nWeek 6 Global Voices Lingua (2): individual translation  \nWeek 7 Global Voices Lingua (3): group discussion\nWeek 8 Global Voices Lingua (4): revision and submission\nWeek 9 Wikipedia Translation Project 1: cultural and artistic topics \nWeek 10 Wikipedia Translation Project 1: culture and artistic topics \nWeek 11 Wikipedia Translation Project 1: culture and artistic topics \nWeek 12 Wikipedia Translation Project 2 (with collaboration scripts): lifestyle and leisure topics\nWeek 13 Wikipedia Translation Project 2 (with collaboration scripts): lifestyle and leisure topics\nWeek 14 Wikipedia Translation Project 2 (with collaboration scripts): lifestyle and leisure topics\nWeek 15 Wikipedia Translation Project 3 (with ChatGPT): business and finance topics \nWeek 16 Wikipedia Translation Project 3 (with ChatGPT): business and finance topics \nWeek 17 Wikipedia Translation Project 3 (with ChatGPT): business and finance topics \nWeek 18 final exam",
+    "scorePolicy": "1. continuous assessment (including attendance, in-class participation and discussion): 25%\n2. translation projects: 60%\n3. final-exam: 15%",
+    "materials": "See the handout.",
+    "consultation": "ymchen@mail.ntut.edu.tw",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
