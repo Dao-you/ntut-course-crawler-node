@@ -5986,7 +5986,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705402",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336017&code=11893"
+    ]
   },
   {
     "code": "5705403",
@@ -11302,7 +11304,9 @@
     "language": "",
     "notes": "【全英語】/ 資財四甲乙、資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05114",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336581&code=12439"
+    ]
   },
   {
     "code": "AB06039",
@@ -12141,7 +12145,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C025001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336659&code=11075"
+    ]
   },
   {
     "code": "4405002",
@@ -15054,7 +15060,9 @@
     "language": "",
     "notes": "共同科館 302 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337176&code=21643"
+    ]
   },
   {
     "code": "4905731",
@@ -19625,6 +19633,7 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337697&code=11429",
       "ShowSyllabus.jsp?snum=337697&code=10821",
       "ShowSyllabus.jsp?snum=337697&code=11396"
     ]
@@ -23248,7 +23257,9 @@
     "language": "",
     "notes": "上限 7 人，USR",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5825211",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337899&code=11578"
+    ]
   },
   {
     "code": "5807075",
@@ -24019,59 +24030,6 @@
     ]
   },
   {
-    "code": "AC05221",
-    "description": {
-      "zh": "服務設計的方法乃是透過相關資源做適當的規劃與組織，已提昇使用者與服務提供者間之服務及互動的品質。其主要的架構與方法乃在於了解使用者的行為、需求及動機後，創造具友善性、競爭性、及相關性的使用者經驗。本課程將以服務設計的概念與方法為核心，以使用者需求及經驗的創造為基礎，探討並分析不同的互動技術的適用情境及其發展與應用領域。",
-      "en": "Service design is the activity of planning and organizing related resources of service in order to improve its quality and the interaction between service provider and users. The backbone of service design methodologies is to understand the behavior of the users, their needs and motivations, so that to create user-friendly, competitive and relevant service to the users. The service design concepts and methodologies and user experience analysis are used in this course for discussing the developments and applications of interactive technologies in the aspects of various scenarios and application fields."
-    },
-    "id": "337948",
-    "name": {
-      "zh": "互動技術之服務設計",
-      "en": "Service Design for Interactive Technology"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "互動所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3070",
-        "code": "3070"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "王聖銘",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11494",
-        "code": "11494"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "7",
-        "8",
-        "9"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "日碩，外碩，設計博合開，排 PBL 教室，限 30 人修",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05221",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337948&code=11494"
-    ]
-  },
-  {
     "code": "6505153",
     "description": {
       "zh": "1. 深度學習介紹，2. 監督式學習，3. 無監督式學習，4. 物聯網，5. 感知層，6. 網路層，7. 應用層，8. 深度學習與物聯網應用實例。",
@@ -24190,7 +24148,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337963&code=11132"
+    ]
   },
   {
     "code": "4005071",
@@ -24241,7 +24201,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337964&code=11132"
+    ]
   },
   {
     "code": "4005113",
@@ -24504,6 +24466,11 @@
     "hours": "3",
     "courseType": "★",
     "class": [
+      {
+        "name": "互動所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3070",
+        "code": "3070"
+      },
       {
         "name": "互動與創新外生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3073",
@@ -26179,7 +26146,9 @@
     "language": "",
     "notes": "工程學院（大)、（研）合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338098&code=12388"
+    ]
   },
   {
     "code": "7925114",
@@ -27964,7 +27933,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105055",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338240&code=12527"
+    ]
   },
   {
     "code": "3105118",
@@ -31365,7 +31336,9 @@
     "language": "",
     "notes": "與電資外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3645001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338423&code=11232"
+    ]
   },
   {
     "code": "3605001",
@@ -31721,7 +31694,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5426603",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338461&code=11092"
+    ]
   },
   {
     "code": "A405004",
@@ -33287,9 +33262,9 @@
       "tue": [],
       "wed": [],
       "thu": [
-        "5",
         "6",
-        "7"
+        "7",
+        "8"
       ],
       "fri": [],
       "sat": []
@@ -35693,6 +35668,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338733&code=11985",
+      "ShowSyllabus.jsp?snum=338733&code=12439",
       "ShowSyllabus.jsp?snum=338733&code=12148"
     ]
   },
@@ -36732,7 +36708,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理，台北上課 ( 溫紹？)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338762&code=11729"
+    ]
   },
   {
     "code": "C215051",

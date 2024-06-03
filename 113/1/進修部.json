@@ -930,7 +930,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336765&code=22979"
+    ]
   },
   {
     "code": "4503103",
@@ -1263,6 +1265,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336777&code=10662",
       "ShowSyllabus.jsp?snum=336777&code=11396",
+      "ShowSyllabus.jsp?snum=336777&code=12439",
       "ShowSyllabus.jsp?snum=336777&code=12173",
       "ShowSyllabus.jsp?snum=336777&code=12342"
     ]
@@ -7723,7 +7726,9 @@
     "language": "",
     "notes": "共同科館 302 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905567",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337176&code=21643"
+    ]
   },
   {
     "code": "4905731",
@@ -12294,6 +12299,7 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337697&code=11429",
       "ShowSyllabus.jsp?snum=337697&code=10821",
       "ShowSyllabus.jsp?snum=337697&code=11396"
     ]
@@ -14950,7 +14956,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005071",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337964&code=11132"
+    ]
   },
   {
     "code": "5605008",
@@ -15833,7 +15841,9 @@
     "language": "",
     "notes": "【全英語】/ 資財四甲乙、資財所合開 / 科研 240",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03066",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338211&code=12439"
+    ]
   },
   {
     "code": "4403058",
@@ -18189,7 +18199,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5426603",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338461&code=11092"
+    ]
   },
   {
     "code": "3871212",
@@ -18960,7 +18972,9 @@
     "language": "",
     "notes": "社會與法治",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410230",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338496&code=22262"
+    ]
   },
   {
     "code": "1418007",
@@ -20422,7 +20436,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404024",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338727&code=12354"
+    ]
   },
   {
     "code": "C215038",
@@ -20553,6 +20569,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338733&code=11985",
+      "ShowSyllabus.jsp?snum=338733&code=12439",
       "ShowSyllabus.jsp?snum=338733&code=12148"
     ]
   },
@@ -21023,7 +21040,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理，台北上課 ( 溫紹？)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338762&code=11729"
+    ]
   },
   {
     "code": "C215051",

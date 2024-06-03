@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "name": "林家薇",
+    "email": "clin@ntut.edu.tw",
+    "latestUpdate": "2024-06-02 16:55:14",
+    "objective": "本課程培養學生提供在科技領域中使用英語的能力。 學生將獲得基本的英語語言技能、詞彙、結構和科技英語的風格。 此外，該課程還強調技術和工程領域的職場溝通能力。\nThe first part of the one-year /two-semester course aims to develop students’ basic English competence in the context of technology. Students are expected to acquire basic English language skills, vocabulary, structures and styles of technology English. In addition, the course also emphasizes workplace communication in the field of technology and engineering.",
+    "schedule": "Week 1 介紹課程 Course Intro\nWeek 2 Book 1 Unit 3 Inside a Computer 電腦科技\nWeek 3 Book 1 Unit 5 Networking 網絡\nWeek 4 Book 1 Unit 6 User Interface 使用者介面\nWeek 5 Book 1 Unit 10 Images and Graphic Design 圖像\nWeek 6 Book 1 Unit 11 Database and Spreadsheets 數據\nWeek 7 Book 1 Unit 14 Videoconferencing 視訊會議\nWeek 8 Review\nWeek 9 Midterm 期中考 (週二會考)\nWeek 10 Final Presentation Prep\nWeek 11 Final Presentation Outline\nWeek 12 Technological Innovations: GPS\nWeek 13 Technological Innovations: AI\nWeek 14 Final Presentation: Internet & Web design\nWeek 15 Final Presentation: E-commerce & Banking\nWeek 16 Final Presentation: Cell-phones & Telecommunications\nWeek 17 Final Presentation: Gaming & Robotics\nWeek 18 Semester Reflection 期中反思",
+    "scorePolicy": "期中會考 20%\n期中考 15%\n期末報告 20%\n平時成績 20%\nZuvio 小考與討論 15%\n學期心得 10%",
+    "materials": "Career Paths: Information Technology Student's Book with DigiBooks App\nhttps://www.tunghua.com.tw/portal_b9_page.php?button_num=b9&cnt_id=7068",
+    "consultation": "via email: clin@ntut.edu.tw",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
