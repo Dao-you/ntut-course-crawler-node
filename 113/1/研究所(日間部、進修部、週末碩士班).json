@@ -82,7 +82,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -134,7 +134,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -186,7 +186,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -251,7 +251,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "博士班必修",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335399&code=11007"
@@ -300,7 +300,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -353,7 +353,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -406,13 +406,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105059",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335419&code=11215"
+    ]
   },
   {
     "code": "3105077",
@@ -516,7 +518,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -625,7 +627,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -752,7 +754,7 @@
         "code": "211"
       }
     ],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -868,7 +870,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -920,7 +922,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -972,7 +974,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1024,7 +1026,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1093,7 +1095,7 @@
         "code": "353"
       }
     ],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1151,7 +1153,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1204,7 +1206,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1262,7 +1264,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1320,7 +1322,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1373,7 +1375,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1425,7 +1427,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1560,7 +1562,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1603,7 +1605,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1647,7 +1649,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1698,7 +1700,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1741,7 +1743,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1782,7 +1784,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1833,7 +1835,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1891,11 +1893,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管博和管理博合開",
+    "notes": "工管博和管理博合開 / 預計英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3735006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335578&code=11537"
@@ -1954,7 +1956,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2060,7 +2062,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2113,7 +2115,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2166,7 +2168,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2217,7 +2219,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2269,7 +2271,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2353,7 +2355,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2528,7 +2530,7 @@
         "code": "382"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2934,7 +2936,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3028,7 +3030,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3081,7 +3083,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3133,7 +3135,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3517,7 +3519,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3576,7 +3578,7 @@
         "code": "118"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3692,7 +3694,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3750,7 +3752,7 @@
         "code": "118"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3808,7 +3810,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3866,7 +3868,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4495,7 +4497,7 @@
         "code": "456"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4578,6 +4580,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221103",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335876&code=12344",
       "ShowSyllabus.jsp?snum=335876&code=12144",
       "ShowSyllabus.jsp?snum=335876&code=10546"
     ]
@@ -4777,7 +4780,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5202106",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=335885&code=10467"
+      "ShowSyllabus.jsp?snum=335885&code=10467",
+      "ShowSyllabus.jsp?snum=335885&code=12344"
     ]
   },
   {
@@ -4982,7 +4986,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5052,7 +5056,9 @@
     "language": "",
     "notes": "建都所與設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5225431",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335915&code=12344"
+    ]
   },
   {
     "code": "5231408",
@@ -5160,7 +5166,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5277,7 +5283,7 @@
         "code": "117"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5395,13 +5401,15 @@
         "code": "117"
       }
     ],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415211",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335938&code=12207"
+    ]
   },
   {
     "code": "5605001",
@@ -5486,7 +5494,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5538,7 +5546,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5589,7 +5597,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5758,7 +5766,7 @@
         "code": "486"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5811,7 +5819,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5870,7 +5878,7 @@
         "code": "486"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5921,7 +5929,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5980,7 +5988,7 @@
         "code": "487"
       }
     ],
-    "people": "0",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6039,7 +6047,7 @@
         "code": "487"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6098,7 +6106,7 @@
         "code": "488"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6157,7 +6165,7 @@
         "code": "487"
       }
     ],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6209,7 +6217,7 @@
         "code": "387"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6266,7 +6274,7 @@
         "code": "309"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6330,7 +6338,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6487,7 +6495,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6540,7 +6548,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6603,7 +6611,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6666,7 +6674,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6729,7 +6737,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6798,7 +6806,7 @@
         "code": "467"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6851,7 +6859,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6909,7 +6917,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6971,7 +6979,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7086,7 +7094,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7376,7 +7384,7 @@
         "code": "543"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7435,7 +7443,7 @@
         "code": "543"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7593,7 +7601,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7720,7 +7728,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7826,7 +7834,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7879,7 +7887,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8036,7 +8044,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8095,7 +8103,7 @@
         "code": "528"
       }
     ],
-    "people": "0",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8154,7 +8162,7 @@
         "code": "528"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8213,7 +8221,7 @@
         "code": "530"
       }
     ],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8277,11 +8285,11 @@
         "code": "528"
       }
     ],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505151",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336342&code=11179"
@@ -8341,7 +8349,9 @@
     "language": "",
     "notes": "限生化碩選課；和博班生化組合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805036",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336346&code=11190"
+    ]
   },
   {
     "code": "6805056",
@@ -8463,7 +8473,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805061",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336348&code=11338"
+      "ShowSyllabus.jsp?snum=336348&code=11338",
+      "ShowSyllabus.jsp?snum=336348&code=11190"
     ]
   },
   {
@@ -8638,7 +8649,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8697,7 +8708,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8756,7 +8767,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8814,7 +8825,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8934,7 +8945,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9099,7 +9110,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9205,7 +9216,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9263,7 +9274,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9374,7 +9385,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9427,7 +9438,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9479,7 +9490,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9696,7 +9707,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9749,7 +9760,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9855,7 +9866,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9918,7 +9929,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9972,7 +9983,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10028,7 +10039,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10134,7 +10145,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10238,7 +10249,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10523,7 +10534,7 @@
         "code": "569"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10606,7 +10617,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336536&code=11785",
       "ShowSyllabus.jsp?snum=336536&code=11979",
-      "ShowSyllabus.jsp?snum=336536&code=11223"
+      "ShowSyllabus.jsp?snum=336536&code=11223",
+      "ShowSyllabus.jsp?snum=336536&code=11222"
     ]
   },
   {
@@ -10658,7 +10670,7 @@
         "code": "537"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10767,7 +10779,7 @@
         "code": "460"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10826,7 +10838,7 @@
         "code": "447"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10878,7 +10890,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10940,7 +10952,7 @@
         "code": "462"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11004,7 +11016,7 @@
         "code": "460"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11063,7 +11075,7 @@
         "code": "460"
       }
     ],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11116,7 +11128,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11175,7 +11187,7 @@
         "code": "462"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11234,7 +11246,7 @@
         "code": "447"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11298,7 +11310,7 @@
         "code": "460"
       }
     ],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11367,7 +11379,7 @@
         "code": "462"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11589,7 +11601,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11907,7 +11919,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336630&code=11083"
+    ]
   },
   {
     "code": "4406002",
@@ -11993,7 +12007,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12093,7 +12107,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "不開課",
+    "notes": "不開課【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY25002",
     "syllabusLinks": []
   },
@@ -12139,7 +12153,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12192,7 +12206,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12381,7 +12395,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12438,7 +12452,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12511,7 +12525,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12573,7 +12587,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12695,7 +12709,7 @@
         "code": "551"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13130,7 +13144,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13186,7 +13200,7 @@
         "code": "196"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13238,7 +13252,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13403,7 +13417,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13454,7 +13468,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13619,7 +13633,7 @@
         "code": "207"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13714,7 +13728,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13814,7 +13828,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13967,7 +13981,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14018,7 +14032,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14166,7 +14180,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14217,7 +14231,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14260,7 +14274,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14355,7 +14369,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14411,7 +14425,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14470,7 +14484,7 @@
         "code": "156"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14521,7 +14535,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14668,7 +14682,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14724,7 +14738,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14882,7 +14896,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14940,7 +14954,7 @@
         "code": "338"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15054,7 +15068,7 @@
         "code": "118"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15112,7 +15126,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15170,7 +15184,7 @@
         "code": "119"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15286,7 +15300,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15497,7 +15511,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15601,7 +15615,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15750,7 +15764,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15801,7 +15815,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15852,7 +15866,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15905,7 +15919,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15956,7 +15970,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16060,7 +16074,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16156,7 +16170,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16260,7 +16274,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16311,7 +16325,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16354,7 +16368,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16404,7 +16418,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16670,7 +16684,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16721,7 +16735,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16772,7 +16786,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17075,7 +17089,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17125,7 +17139,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17280,7 +17294,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17394,7 +17408,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17512,7 +17526,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17799,7 +17813,7 @@
         "code": "512"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17852,7 +17866,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18182,7 +18196,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18305,7 +18319,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18387,7 +18401,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18443,7 +18457,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18532,7 +18546,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18604,7 +18618,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18672,7 +18686,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18746,7 +18760,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18814,7 +18828,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18888,7 +18902,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18954,7 +18968,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19032,7 +19046,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19098,7 +19112,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19166,7 +19180,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19239,7 +19253,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19314,7 +19328,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19397,7 +19411,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19472,7 +19486,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19550,7 +19564,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19626,7 +19640,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19706,13 +19720,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337699&code=12148"
+    ]
   },
   {
     "code": "7815122",
@@ -19757,7 +19773,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19810,7 +19826,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19863,7 +19879,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19969,7 +19985,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20026,7 +20042,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20086,7 +20102,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20145,7 +20161,7 @@
         "code": "42"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20202,7 +20218,7 @@
         "code": "399"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20505,7 +20521,9 @@
     "language": "",
     "notes": "限博士班生化組選課，和生化碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7307006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337782&code=11190"
+    ]
   },
   {
     "code": "7807002",
@@ -20771,7 +20789,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20865,7 +20883,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20922,7 +20940,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21221,7 +21239,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21278,7 +21296,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21471,7 +21489,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21605,7 +21623,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22555,7 +22573,7 @@
         "code": "473"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22614,7 +22632,7 @@
         "code": "473"
       }
     ],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22673,7 +22691,7 @@
         "code": "473"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22716,7 +22734,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22757,7 +22775,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22798,7 +22816,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22839,7 +22857,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22913,7 +22931,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "95",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22954,7 +22972,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22995,7 +23013,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23036,7 +23054,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23134,7 +23152,7 @@
         "code": "309"
       }
     ],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23192,7 +23210,7 @@
         "code": "389"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23251,7 +23269,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23368,7 +23386,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23432,7 +23450,7 @@
         "code": "387"
       }
     ],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23491,7 +23509,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23549,7 +23567,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23602,7 +23620,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23655,7 +23673,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23773,7 +23791,7 @@
         "code": "545"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23837,11 +23855,11 @@
         "code": "529"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505157",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337926&code=12242"
@@ -23900,7 +23918,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505132",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337927&code=11291"
@@ -23955,7 +23973,7 @@
         "code": "534"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24019,11 +24037,11 @@
         "code": "530"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505135",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337941&code=11369"
@@ -24083,7 +24101,7 @@
         "code": "529"
       }
     ],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24142,7 +24160,7 @@
         "code": "50"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24254,7 +24272,7 @@
         "code": "191"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24313,7 +24331,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24387,7 +24405,7 @@
         "code": "48"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24498,7 +24516,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24556,7 +24574,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24609,7 +24627,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24678,7 +24696,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24806,7 +24824,7 @@
         "code": "411"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24865,7 +24883,7 @@
         "code": "411"
       }
     ],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24924,7 +24942,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24983,7 +25001,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25042,7 +25060,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25116,7 +25134,7 @@
         "code": "401"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25175,7 +25193,7 @@
         "code": "186"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25233,7 +25251,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25300,7 +25318,7 @@
         "code": "401"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25359,7 +25377,7 @@
         "code": "170"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25418,7 +25436,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25477,7 +25495,7 @@
         "code": "411"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25535,7 +25553,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25588,7 +25606,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25647,7 +25665,7 @@
         "code": "191"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25711,7 +25729,7 @@
         "code": "191"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25823,13 +25841,15 @@
         "code": "48"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338087&code=11230"
+    ]
   },
   {
     "code": "6505019",
@@ -25879,7 +25899,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25952,7 +25972,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26018,7 +26038,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26081,7 +26101,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26193,7 +26213,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26246,7 +26266,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26299,7 +26319,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26352,7 +26372,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26410,7 +26430,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26463,7 +26483,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26510,7 +26530,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26619,7 +26639,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26683,7 +26703,7 @@
         "code": "49"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26739,7 +26759,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26956,7 +26976,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26999,7 +27019,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27348,7 +27368,7 @@
         "code": "257"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27407,7 +27427,7 @@
         "code": "382"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27810,7 +27830,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27927,7 +27947,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27986,7 +28006,7 @@
         "code": "209"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28044,7 +28064,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28097,7 +28117,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28161,7 +28181,7 @@
         "code": "211"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28214,7 +28234,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28331,7 +28351,7 @@
         "code": "214"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28384,11 +28404,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "博士班必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3107002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338248&code=22396"
@@ -28495,7 +28515,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28761,13 +28781,15 @@
         "code": "529"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338268&code=11050"
+    ]
   },
   {
     "code": "8517007",
@@ -28882,7 +28904,7 @@
         "code": "117"
       }
     ],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -28941,7 +28963,7 @@
         "code": "117"
       }
     ],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29000,7 +29022,7 @@
         "code": "117"
       }
     ],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29053,7 +29075,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29112,7 +29134,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29174,7 +29196,7 @@
         "code": "211"
       }
     ],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29227,7 +29249,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29331,7 +29353,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29383,7 +29405,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29435,7 +29457,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29488,13 +29510,15 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "六 567",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4405059",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338326&code=22163"
+    ]
   },
   {
     "code": "3105185",
@@ -29648,7 +29672,7 @@
         "code": "292"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29701,7 +29725,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29759,13 +29783,14 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615041",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338343&code=21704",
       "ShowSyllabus.jsp?snum=338343&code=11433"
     ]
   },
@@ -29817,7 +29842,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29870,7 +29895,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29923,7 +29948,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29976,7 +30001,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30029,7 +30054,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30082,7 +30107,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30145,7 +30170,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30303,7 +30328,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30355,7 +30380,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30414,7 +30439,7 @@
         "code": "87"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30695,7 +30720,7 @@
         "code": "454"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31043,7 +31068,7 @@
         "code": "537"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31102,7 +31127,7 @@
         "code": "537"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31330,7 +31355,7 @@
         "code": "292"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31382,7 +31407,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31488,7 +31513,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31637,7 +31662,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31688,7 +31713,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31806,7 +31831,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405113",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338465&code=11150"
+    ]
   },
   {
     "code": "A405187",
@@ -31979,7 +32006,7 @@
         "code": "569"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32277,7 +32304,7 @@
         "code": "569"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32401,7 +32428,9 @@
     "language": "",
     "notes": "先鋒 1402 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405113",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338475&code=11150"
+    ]
   },
   {
     "code": "3105041",
@@ -32440,7 +32469,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32497,7 +32526,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32556,7 +32585,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32616,7 +32645,7 @@
         "code": "392"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32675,7 +32704,7 @@
         "code": "488"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32734,7 +32763,7 @@
         "code": "487"
       }
     ],
-    "people": "0",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32787,7 +32816,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32840,7 +32869,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32951,7 +32980,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33030,7 +33059,7 @@
         "code": "50"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33094,7 +33123,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33158,7 +33187,7 @@
         "code": "94"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33217,7 +33246,7 @@
         "code": "50"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33323,7 +33352,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33508,7 +33537,7 @@
         "code": "486"
       }
     ],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33555,7 +33584,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33653,7 +33682,7 @@
         "code": "191"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33706,7 +33735,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33764,7 +33793,7 @@
         "code": "139"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33817,7 +33846,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33870,7 +33899,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33921,7 +33950,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34033,7 +34062,7 @@
         "code": "383"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34086,7 +34115,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34139,7 +34168,7 @@
         "code": "411"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34189,7 +34218,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34283,7 +34312,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34336,7 +34365,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34452,7 +34481,7 @@
         "code": "337"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34504,7 +34533,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34557,7 +34586,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34669,7 +34698,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34726,7 +34755,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34785,7 +34814,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34891,7 +34920,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35097,7 +35126,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35209,7 +35238,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35321,13 +35350,15 @@
         "code": "48"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "新聘兼任 (陸一平老師)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605095",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338709&code=11132"
+    ]
   },
   {
     "code": "3625006",
@@ -35372,7 +35403,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35419,7 +35450,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35476,7 +35507,7 @@
         "code": "530"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35529,7 +35560,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35592,7 +35623,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35651,16 +35682,16 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
       "fri": [],
-      "sat": [
-        "5",
-        "6",
-        "7"
-      ]
+      "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35725,7 +35756,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35790,7 +35821,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35850,7 +35881,7 @@
         "code": "15"
       }
     ],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35902,7 +35933,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35960,7 +35991,7 @@
         "code": "566"
       }
     ],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36011,7 +36042,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36186,7 +36217,7 @@
         "code": "454"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36244,7 +36275,7 @@
         "code": "119"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36302,7 +36333,7 @@
         "code": "118"
       }
     ],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36360,7 +36391,7 @@
         "code": "119"
       }
     ],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36428,7 +36459,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36638,7 +36669,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36676,6 +36707,11 @@
         "code": "3105"
       },
       {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3107",
+        "code": "3107"
+      },
+      {
         "name": "工管EMBA",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3108",
         "code": "3108"
@@ -36702,11 +36738,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理，台北上課 ( 溫紹？)",
+    "notes": "(群組 6) 財金管理，台北上課 ( 溫紹)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338762&code=11729"
@@ -36774,13 +36810,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "(群組 8) 社會人文藝術與其他領域，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215051",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338763&code=11829"
+    ]
   },
   {
     "code": "AB05118",
@@ -36836,7 +36874,7 @@
         "code": "460"
       }
     ],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36890,7 +36928,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36943,7 +36981,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37059,7 +37097,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37171,7 +37209,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37218,7 +37256,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩二必修",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275015",
     "syllabusLinks": []
   },
@@ -37278,7 +37316,7 @@
       ]
     },
     "classroom": [],
-    "people": "0",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37382,7 +37420,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37439,7 +37477,7 @@
         "code": "460"
       }
     ],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37536,7 +37574,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37645,7 +37683,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",

@@ -2,11 +2,11 @@
   {
     "name": "郭志宇",
     "email": "chihyukuo@ntut.edu.tw",
-    "latestUpdate": "2024-05-28 20:29:40",
+    "latestUpdate": "2024-06-03 18:51:50",
     "objective": "A brief introduction of general chemistry and chemical reactions, covering atomic structure and bonding, quantitative chemistry, gas, thermodynamics, kinetics, etc. In addition to the basic principles of chemistry, this course will focus on letting students understand the relationship between chemistry and daily life.",
-    "schedule": "Week/Topic\n1    Instruction/Introduction of Chemistry\n2    Measurements and Calculations in Chemistry\n3    Measurements and Calculations in Chemistry \n4    Chemical Foundations\n5    Atomic Structure and Periodicity\n6    Atomic Structure and Periodicity\n7    Bonding: General\n8    Bonding: General\n9    Molecular Structure and Orbitals\n10  Molecular Structure and Orbitals\n11  Stoichiometry\n12  Stoichiometry\n13  Types of Chemical Reactions and Solution Stoichiometry\n14  Types of Chemical Reactions and Solution Stoichiometry\n15  Gases\n16  Gases\n17  Liquid and Solids\n18  Liquid and Solids",
-    "scorePolicy": "Attendance：10%\nQuizzes：60%\nReport：30%",
-    "materials": "Chemistry 11th Edition, Steven S. Zumdahl, Susan A. Zumdahl, and Donald J. DeCoste (滄海圖書)",
+    "schedule": "Week/Topic\n1    Instruction/Chemistry: An Introduction\n2    Measurements and Calculations \n3    Measurements and Calculations\n4    Matter\n5    Chemical Foundations: Elements, Atoms, and Ions \n6    Chemical Foundations: Elements, Atoms, and Ions\n7    Nomenclature\n8    Chemical Reactions: An Introduction\n9    Midterm\n10  Reactions in Aqueous Solutions\n11  Chemical Composition\n12  Chemical Composition\n13  Chemical Quantities\n14  Energy\n15  Energy\n16  Modern Atomic Theory\n17  Modern Atomic Theory\n18  Final",
+    "scorePolicy": "Attendance：20%\nMidterm：40%\nFinal：40%",
+    "materials": "Introductory Chemistry A Foundation 9th Edition\nSteven S. Zumdahl, Donald J. DeCoste (高立圖書)",
     "consultation": "Email: chihyukuo@ntut.edu.twWe would have a TA helping us about the related issues.",
     "remarks": "",
     "foreignLanguageTextbooks": true

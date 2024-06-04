@@ -34,5 +34,17 @@
     "consultation": "授課教師關於課程相關事宜，請先加入 line 群組。連結：（待補）後續預計採用 google meet 行遠距教學。My E-mail: jyang@ntut.edu.tw",
     "remarks": "NA",
     "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "劉秋蘭",
+    "email": "pclliu@ntut.edu.tw",
+    "latestUpdate": "2024-06-03 22:27:40",
+    "objective": "本課程介紹研究方法，培養學生撰寫論文的基本知識與能力。\nThis course will introduce research methods and provide students with fundamental knowledge and competence on writing thesis.",
+    "schedule": "10\t11/12\t田野調查 1\n11\t11/19\t田野調查 2\n12\t11/26\t田野調查 3\n13\t12/03\t田野調查 4",
+    "scorePolicy": "產出田野調查報告 1 份 100%",
+    "materials": "自編教材",
+    "consultation": "一、同學可於上課中提問。二、同學可於當節下課提問。三、同學可於教師咨詢時間與任課老師約好時間，當面提問。",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]
