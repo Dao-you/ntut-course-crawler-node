@@ -2,13 +2,13 @@
   {
     "name": "陳柏瑄",
     "email": "phc@ntut.edu.tw",
-    "latestUpdate": "2024-06-05 15:46:32",
+    "latestUpdate": "2024-06-06 10:33:18",
     "objective": "針對學生之學習研究心得報告，集體討論，以訓練學生研究之能力。\nGroup Discussion.",
-    "schedule": "第 1~3 週，文獻閱讀與技巧\n第 4~18 週，小組簡報",
-    "scorePolicy": "課堂參與、簡報、討論",
-    "materials": "自編教材",
-    "consultation": "請 email 與教師預約",
-    "remarks": "",
+    "schedule": "Week1:Course overview\nWeek2:Guide of paper reading\nWeek3:Paper presentation and discussion\nWeek4:Paper presentation and discussion\nWeek5:Paper presentation and discussion\nWeek6:Paper presentation and discussion\nWeek7:Paper presentation and discussion\nWeek8:Paper presentation and discussion\nWeek9:Midterm\nWeek10:Paper presentation and discussion\nWeek11:Paper presentation and discussion\nWeek12:Paper presentation and discussion\nWeek13:Paper presentation and discussion\nWeek14:Paper presentation and discussion\nWeek15:Paper presentation and discussion\nWeek16:Paper presentation and discussion\nWeek17:Paper presentation and discussion\nWeek18:Paper presentation and discussion",
+    "scorePolicy": "課程參與：35%（個人）\n課堂報告：65%（團體）",
+    "materials": "1.Journal paper\n2.Harvard Business Review\n3.MIT Sloan Management Review\n4.Recommended journals in SSCI and TSSCI",
+    "consultation": "1.Students are encouraged to ask questions directly during class time.2.For any questions, students can also schedule an appointment via email (phc@ntut.edu.tw).",
+    "remarks": "Please feel free to contact instructor.",
     "foreignLanguageTextbooks": true
   }
 ]
