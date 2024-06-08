@@ -8,6 +8,7 @@
     "scorePolicy": "平時成績 (出席率與課堂表現)：30%\n考試：40%\n報告：30%",
     "materials": "自編教材",
     "consultation": "課程助教的諮詢時段提供學生詢問問題。也可以透過 email 聯繫老師，討論課程相關問題。",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "每週報告：70%\n每週出席：30%",
     "materials": "第 13~18 週 能源系老師及業師聯合授課 (ppt)",
     "consultation": "能源系 蕭淵元老師 yyhsiao@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

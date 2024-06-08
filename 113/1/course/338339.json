@@ -8,6 +8,7 @@
     "scorePolicy": "Grading:\n   10% Attendance\n   30% Assignments and Quizzes\n   30% Mid-term Exam\n   30% Final Exam",
     "materials": "Reference books:\n1. Michael T. Goodrich, Roberto Tamassia, and David M. Mount, Data Structures and Algorithms in C++, Second Edition, John Wiley & Sons, Inc, 2011. (ISBN-13 978-0-470-38327-8)\n2. Robert Lafore, Teach Yourself Data Structures and Algorithms in 24 hours, Sams Publishing, 1999. (ISBN 0-67231-633-1)\n3. Ellis Horowitz, Sartaj Sahni, and Susan Anderson-Freed, Fundamentals of Data Structures in C, 2nd Edition, Silicon Press, 2008. (ISBN 9780929306407)",
     "consultation": "rshsiao@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

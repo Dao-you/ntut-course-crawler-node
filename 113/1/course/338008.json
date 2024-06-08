@@ -8,6 +8,7 @@
     "scorePolicy": "上課表現 20%、期末作業 80%，作業缺繳者以零分計算。",
     "materials": "1. Eugene Hecht, Optics, Addison Wesley Co., New York 2001.\n2. W. Lauterborn, T. Kurz, M. Wiesenfeldt, Coherent Optics, Fundamentals and Applications. Springer Verlag, Berlin 2003.\n3. A. Ghatak, Optics, Tata McGraw-Hill Publishing Company Limited, Third Edition, ISBN=0-07-124706-8, 2005.\n4. Ray Optics Simulation\n5. Open Optics Module",
     "consultation": "課堂、line、教師諮詢時間",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "上課講義在 https://140.124.30.175/opencct/course/optics/ 修課學生 Line 群組",
     "foreignLanguageTextbooks": true
   }

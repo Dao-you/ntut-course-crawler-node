@@ -8,6 +8,7 @@
     "scorePolicy": "Homework (40%), Midterm and Final Exam (35%), Final Project (15%), Quizzes and attendance (10%)",
     "materials": "1. Francois Chollet, “Deep Learning with Python, 2nd edition” Manning, 2021\n2. Ian Goodfellow, Yoshua Bengio, and Aaron Courville, “Deep Learning,” MIT Press, 2017\n3. Latest publications on CVPR, NIPS, ICML, AAAI, ICLR\n\nWebsite: http://www.aiotlab.org/teaching/dl_app.html",
     "consultation": "FB Group: https://www.facebook.com/groups/2231151677158713Email: ktlai@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG10：減少不平等（Reduced Inequalities）",
     "remarks": "All quizzes, exams and homework will be made online using Microsoft Teams. For final project, students will need to submit a YouTube video.Any announcements will be posted in Microsoft Teams.Website: http://www.aiotlab.org/teaching/dl_app.htmlFB Group: https://www.facebook.com/groups/2231151677158713",
     "foreignLanguageTextbooks": true
   }

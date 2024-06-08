@@ -8,6 +8,7 @@
     "scorePolicy": "每位老師總分皆為 100 分學期總成績為 2 位老師的成績加總後再平均\n平均 70 分及格，上限 85 分\n\n 翁文慧老師計分標準：\n1. final exam: 80%\n2. 出席：20% \n3. 報告: extra 20% (儘針對總成績不及格者做補救，加總成績最高不超過 70 為原則)\n報告內容：課程相關之主題 12 號字 單行 四頁 不可超過 4 個圖以及圖不可超過四分之一頁面。 請寄 ntutexam@gmail.com，請於檔案及郵件主旨註明『課程名稱＿學號＿姓名』 \n截止日：期末考當天 23:59 前，以郵件寄出時間為憑。",
     "materials": "1. 指定教科書: ”Lewin's Genes XII” by  Benjamin Lewin, ISBN：9781284104493\n\n2. 參考教科書: （http://www.ncbi.nlm.nih.gov/books?term=genes） \nMolecular Biology of the Cell 5/e 2008  by Bruce Alberts, et al. Published by Garland Science ISBN: 9780815341062\nHolland-Frei Cancer Medicine. 6th edition. Kufe DW, Pollock RE, Weichselbaum RR, et al., editors.\nAn Introduction to Genetic Analysis. 10th edition. Griffiths AJF, Miller JH, Suzuki DT, et al.\n\n3. 另可再給幾篇近期 Review 文章",
     "consultation": "wendywwh@ntut.edu.tw 或電話諮詢 02-27712171 ext 4776",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG13：氣候行動（Climate Action）SDG14：水下生命（Life below Water）SDG15：陸域生命（Life on Land）",
     "remarks": "核心目標 02 確保糧食安全，消除飢餓，促進永續農業核心目標 14 保育及永續利用海洋生態系，以確保生物多樣性，並防止海洋環境劣化核心目標 15 保育及永續利用陸域生態系，以確保生物多樣性，並防止土地劣化",
     "foreignLanguageTextbooks": true
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "50% 黃老師部分的成績計算方式：報告 (35%)+ 段考 (65%)。\n50% 翁老師",
     "materials": "Gene , the version is acceptable after 10th edition  (major) \nMolecular Biology of the cell (5th)",
     "consultation": "線上 或 辦公室。",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
     "remarks": "線上課程會預先公告！以 Google Meet 為主。",
     "foreignLanguageTextbooks": true
   }

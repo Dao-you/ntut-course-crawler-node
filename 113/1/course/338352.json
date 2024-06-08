@@ -8,6 +8,7 @@
     "scorePolicy": "不限年齡與性別，也沒有筆試！期中與期末均須能獨立完成一個數位晶片的設計並模擬呈現出其成果，兩部份各佔 50%",
     "materials": "References:\n\nFundamentals of Digital Logic with Verilog Design\nFPGA Prototyping with Verilog examples\n\n均已有 PDF 檔案；另附有一些我自己做的範例程式，屆時上課主要用 : https://edaplayground.com/",
     "consultation": "ext. 2237",
+    "課程對應SDGs指標": "SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

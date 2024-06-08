@@ -8,6 +8,7 @@
     "scorePolicy": "採百分比，依作品優劣從 0 至 100 計分，課堂成績與家庭作業成績共佔學期總成績 70%，期末考試成績佔 30%，缺課一次扣總分一分。",
     "materials": "透視設計表現技法___全華書局___呂豪文",
     "consultation": "請以 email 聯繫",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

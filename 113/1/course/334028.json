@@ -8,6 +8,7 @@
     "scorePolicy": "1. 平時成績 (含平常考、實驗、作業、出席及表現、上機實作考試) 40%\n2. 期中考 30%\n3. 期末考 30%",
     "materials": "Text Book:\nAdvanced Digital Logic Design Using Verilog, State Machines, and Synthesis for FPGAs\nReference book or papers\n1. Rapid System Prototyping with FPGAs by R.C.Cofer and Ben Harding, Newnes, 2006.\n2. Wayne Wolf, FPGA-Based System Design, Prentice Hall, 2004.\nhppt://www.xilinx.com/support/support.htm",
     "consultation": "老師的信箱: tylee@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "(1) 若採用遠距教學，上課方式將使用 Google Meet 視訊軟體進行，連結為 https://meet.google.com/hrb-cqap-iuv (2) 上課教材投影片：上課時公布。",
     "foreignLanguageTextbooks": true
   }

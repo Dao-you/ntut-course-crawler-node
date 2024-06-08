@@ -8,6 +8,7 @@
     "scorePolicy": "Attendance: 10% \nAssignments: 30%\nMidterm Exam. 30%\nFinal examination 30%",
     "materials": "Textbooks:\nJ.F. Kurose and K.W. Ross, Computer Networking - A Top-Down Approach, 8th Edition, Addison Wesley, 2020.\n\nReferences: \nWireshark 實戰演練與網路封包分析寶典，陳雲龍，博碩\nSocket Programming in Python (Guide)",
     "consultation": "1. Teacher office hours @綜科館 215:       Tue. 10:00 ~ 12:00, Thurs. 16:00 ~ 18:002. Please email junlin@mail.ntut.edu.tw to reserve the time for face-to-face or online curricular consultation in advance.",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

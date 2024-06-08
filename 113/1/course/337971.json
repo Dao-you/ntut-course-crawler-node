@@ -8,6 +8,7 @@
     "scorePolicy": "1.\tParticipation (10%)\n2.\tHomework (20%)\n3.\tInterim Report (30%)\n4.\tFinal Oral Presentation (40%)",
     "materials": "1.\tMatsson, J. E. An Introduction to ANSYS Fluent 2021. 2021.\n2.\tTu, Jiyuan, Guan Heng Yeoh, and Chaoqun Liu. Computational fluid dynamics: a practical approach. Butterworth-Heinemann, 2018.\n3.\tFranke, Jorg, et al. \"The COST 732 Best Practice Guideline for CFD simulation of flows in the urban environment: a summary.\" International Journal of Environment and Pollution 44.1-4 (2011): 419-427. \n4.\tTominaga, Yoshihide, et al. \"AIJ guidelines for practical applications of CFD to pedestrian wind environment around buildings.\" Journal of wind engineering and industrial aerodynamics 96.10-11 (2008): 1749-1761.",
     "consultation": "Yu-Hsuan JuanAssistant ProfessorDept. of Mechanical Engineering, National Taipei University of TechnologyRoom 616-1, Integrate Technology Complex, Taipei, Taiwan 10608yhjuan@ntut.edu.tw02-27712171 #2065",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG15：陸域生命（Life on Land）",
     "remarks": "SDGs 4, 7, 11 此課程配合 USR 計畫並有移地教學的部分，此堂課程請學生知悉",
     "foreignLanguageTextbooks": true
   }

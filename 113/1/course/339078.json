@@ -8,6 +8,7 @@
     "scorePolicy": "1. 出缺勤  20%\n2. 討論      30%\n3. 作業，報告 20%\n4. 期末報告  30%",
     "materials": "自編講義",
     "consultation": "email, line 群組",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "基礎 1: 中學數學基礎 2: 最速曲線與等時曲線需微積分與工程數學基礎",
     "foreignLanguageTextbooks": false
   }

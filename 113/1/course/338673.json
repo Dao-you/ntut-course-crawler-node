@@ -8,6 +8,7 @@
     "scorePolicy": "Test\t20%\nSchool mid-term\t\t\t20%\nSpeaking test*\t\t\t\t20%\nFinal exam*\t\t\t\t20%\nParticipation and attendance\t\t20%",
     "materials": "We will use the resources on the University's Easytest platform.",
     "consultation": "Students may make appointments for consultation.",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

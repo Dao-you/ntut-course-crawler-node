@@ -8,6 +8,7 @@
     "scorePolicy": "Grading:\n1. Mid-term Exam: 25%\n2. Final Exam: 25%\n3. Oral presentation: 25%\n4. Assignments: 25%",
     "materials": "Text book:\n\nComputers as Components: \nPrinciples of Embedded Computing System Design, 4th Ed.\nBy Marilyn Wolf, \nMorgan Kaufmann Publishers, \n2017.\n\nReferences:\n1. Computers as Components: Principles of Embedded Computing, Wayne Wolf, Morgan Kaufmann Publishers, 2001. \n2. Embedded Systems: Architecture, Programming and Design, Raj Kamal, Tata McGraw Hill, 2003.\n3. Embedded System Building Blocks, 2nd Edition, \nComplete and Ready-to-Use Modules in C\nBy: Jean J. Labrosse\nR&D Books\n4. μc/OS-II,The Real-Time Kernel, 2nd Edition,\nBy: Jean J. Labrosse\nCMP Books\n5. The ARM RISC Chip, A Programmer's Guide,\nBy: A. van Someron & C. Atack \nAddison-Wesley, ISBN 0-201-62410-9\n6. ARM Architecture Reference Manual,  \nBy: D.Jaggar",
     "consultation": "同學如有課程問題請 email: sytan@mail.ntut.edu.tw 課程其他資料將透過 Line 群組公布",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "因應疫情可能會調整授課內容、授課方式、評分項目與配分。如果無法實體上課，預定使用 Teams 於原定上課時間遠距上課，細節再另行公布。",
     "foreignLanguageTextbooks": true
   }

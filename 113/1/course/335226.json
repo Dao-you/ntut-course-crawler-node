@@ -8,6 +8,7 @@
     "scorePolicy": "1. In-class attendance, Zuvio IRS practice and TA class attendance （上課點名 / 問答）, at most 5%、此為加分項目（點名都到不一定加到滿分）。\n2. Written exercises （課本練習題、紙筆類型）, 10%. Hand in your homework before class. \nThe lowest score will be discarded. \n3. Programming assignments （程式作業）, 5%. Submit code, results, and discussions through 北科 i 學園 +.\n4. In-class quizzes （隨堂考）, 20%. 第二次以後請假成績以零分計算。 The grade of the quiz since the second absence on leave will be zero.\n5. Two 50-minute tests （段考）, 10% each. (20%)\n6. Midterm exam （期中考）, 20% ; final exam （期末考）, 25%. \n本課程原則上不接受期中撤選，請非本班同學三思後再加選，另人數不得超過教室容量。\n\nClassroom Rules (上課規範):  “尊重自己、也尊重他人學習的權益”\n1. 請準時上課，不遲到早退。\n2. 非經允許，上課時不可使用手機、平板、筆電等電子用品。手機請關機或調成靜音。\n3. 上課時請專心於此課程之學習，非討論時間請避與他人交談。\n4. 如有短暫急事，得在不影響他人上課的情形自行離開教室，並請迅速回座。\n5. 如有事無法出席請盡量事先請假，並須有相關證明文件。\n6. 習題可討論但勿抄襲。\n違反以上規範者，將視情節輕重扣分。另請同學共同維護教室整潔。",
     "materials": "Textbook (教科書): \nDavid. C. Lay, Stephen R. Lay, and Judy J. McDonald, Linear Algebra and its Applications, Sixth Edition, Pearson Education Limited, 2022. （偉明書局代理）\nGood References (參考書):\n1. Elementary Linear Algebra by Howard Anton. \n2. Linear Algebra and Its Applications by Gilbert Strang.",
     "consultation": "同學如有加退選簽核或課程問題請 email: shyang@ntut.edu.tw，信件標題 [線性代數]_班級 (或隨班附讀)_名字。",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "1. 本班修課同學眾多，需要加選課程的同學，務請於 9/1 (日) 以前先 email: shyang@ntut.edu.tw 告知 (信件標題 [線性代數]_班級 (或隨班附讀)_名字)，並請於 9/11 (三) 第一次上課時全程到課。在課程介紹結束以後，授課教師將逐一確認同學加選的需求。未依照以上說明 email 及到課同學，恕無法提供加選。2. 除授課教師 email 通知第一次上課時到課之同學外，本班不再提供隨班附讀。",
     "foreignLanguageTextbooks": true
   }

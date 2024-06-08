@@ -8,6 +8,7 @@
     "scorePolicy": "For my session,\ngrading will be based on weekly homework.",
     "materials": "Examples and codes to be shared in class.",
     "consultation": "LINE or Email the instructor",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,19 +21,8 @@
     "scorePolicy": "出席狀況 40% \n課堂討論 30%\n課堂報告 30%",
     "materials": "所有教材來自相關學術期刊.",
     "consultation": "同學可以透過 email 方式事前預約諮詢。電子郵件: blessing@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "依照學校規定",
-    "foreignLanguageTextbooks": false
-  },
-  {
-    "name": "蔡榮發",
-    "email": "jftsai@ntut.edu.tw",
-    "latestUpdate": "2024-05-22 16:54:12",
-    "objective": "主要內容包含：企業研究的本質、研究流程、研究問題與假設、文獻評論、資料收集、操作性定義、測量、理論架構模型化、研究設計、量化與質化研究、個案研究法、資料分析與解釋、研究報告撰寫。\nThe course mainly discusses concepts of business research methods. The contents will include following topics：（1）the nature of business research, （2）elements of research and research process, （3）research problem and hypothesis,（4）literature review, （5）research design, （6）research proposal, （7）case study, （8）analysis and the interpretation of data, （9）quantitative and qualitative research,(10) research report.",
-    "schedule": "週次\t授課老師\t內容\n1\t蔡榮發\t課程大綱與課程介紹 \n2\t蔡榮發\t管理與決策研究主題探討 (1)\n3\t蔡榮發\t管理與決策研究主題探討 (2)",
-    "scorePolicy": "出席狀況 50% \n課堂討論 25%\n課堂報告 25%",
-    "materials": "Business Research Methods (12th Ed.), McGraw Hill, 2013\n企業研究方法 (12 版), 華泰書局，2014",
-    "consultation": "1. Email: jftsai@ntut.edu.tw2. Office hour: Wednesday 9:00AM~4:00PM at TB 11 floor, 1132r.",
-    "remarks": "若學校宣布需採用遠距教學，遠距教學期間上課資訊如下：評量方式：課堂報告採線上報告上課影音或教材錄製：本校教學全都錄錄製，並放在北科 i 學園遠距上課：Teams, WEBEX 學生加退選簽核及諮詢管道：Email: jftsai@ntut.edu.tw 校內分機 3420",
     "foreignLanguageTextbooks": false
   }
 ]

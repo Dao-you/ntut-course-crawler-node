@@ -8,6 +8,7 @@
     "scorePolicy": "1.\tClass participation：30%\n2.\texam：70%",
     "materials": "Self-made materials",
     "consultation": "chianghsieh@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）",
     "remarks": "SDG12: responsible consumption and production",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "HW 2*33%+ 1 Exam 34%",
     "materials": "PPT",
     "consultation": "tsengco@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "平時成績 (60%)\n考試成績 (40%)",
     "materials": "自製 PPT 簡報；Chemical Reaction Engineering, Octave Levenspiel; Elements of Chemical Reaction Engineering, H. Scott Fogler",
     "consultation": "課程資訊將公佈於北科 i 學園及 Microsoft Teams. 若有任何問題可透過 email: rxyang@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "本課程符合聯合國永續發展目標 SDG7 (可負擔能源), SDG12 (責任生產與消費)。",
     "foreignLanguageTextbooks": true
   }

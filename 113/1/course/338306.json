@@ -8,6 +8,7 @@
     "scorePolicy": "1.\t預報（20%）：缺預報者，該次實驗零分計算。\n2.\t結報（20 %）：缺結報者，該次實驗零分計算。\n3.\t實驗態度（20 %）\n4.     期末考 （40 %）",
     "materials": "化學實驗講義",
     "consultation": "化學實驗若有任何有關此課程的問題，請寄信至: yihuanlee@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

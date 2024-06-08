@@ -8,6 +8,7 @@
     "scorePolicy": "1. 平時討論：40%\n2. 期末成果：60%",
     "materials": "無",
     "consultation": "教師諮商時間與聯絡請以 email 聯絡預約。",
+    "課程對應SDGs指標": "SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "周報告    60%\n期末報告 40%",
     "materials": "Journal, patents or conference papers",
     "consultation": "i 學園、 Microsoft Team 群組、Office Hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "出席、每週進度報告與討論：60%\n期末報告: 40%",
     "materials": "以最新之相關 SCI 國際論文為專題參考資料指引",
     "consultation": "阮于軒助理教授 yhjuan@ntut.edu.tw02-27712171 #2065",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
     "remarks": "SDGs 4, 7, 11, 13",
     "foreignLanguageTextbooks": false
   },
@@ -44,6 +47,7 @@
     "scorePolicy": "期末報告 100%",
     "materials": "老師自編教材",
     "consultation": "星期二 10-12 點",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "利用 LINE 群組通知遠距教學連結課程諮詢管道 chenpotuan@mail.ntut.edu.tw",
     "foreignLanguageTextbooks": false
   },
@@ -56,6 +60,7 @@
     "scorePolicy": "1. 平時討論：40%\n2. 期末成果：60%",
     "materials": "參考書目：傅鶴齡，「系統工程概論」，滄海書局，2012 年 9 月出版。",
     "consultation": "諮詢地點：綜科館 423 室",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -68,6 +73,7 @@
     "scorePolicy": "平時成績：40% (含出席率，小考，作業，報告等)\n期中考：30%\n期末考：30%",
     "materials": "自編講義",
     "consultation": "研究室位置：綜合科館 609-3 室 Office Hours: 週五 09:00~17:00 請先與老師約時間",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -80,6 +86,7 @@
     "scorePolicy": "平時表現 30%+ 報告 70%",
     "materials": "自編教材",
     "consultation": "Office hours: Monday 10:00am~12:00pm, Tuesday 1:00~5:00pm 開學後組成線上群組 Line group discussion: to be announced.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
     "remarks": "依據本校採遠距教學時機，採用 Microsoft Teams 進行線上教學，並提供上課錄影檔案連結功課後觀看。",
     "foreignLanguageTextbooks": false
   }

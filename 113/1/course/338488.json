@@ -8,6 +8,7 @@
     "scorePolicy": "1. 平時成績 (30%)：包含出席狀況、上課互動之情形以及上機作業等\n2. 期中考 (30%)\n3. 期末考 (40%)：期末報告",
     "materials": "教科書 (必備)\nPython 程式設計：從入門到進階應用，作者：黃建庭，出版商：全華。\n\n參考線上學習：\n* Introduction To Python Programming\nA Quick and Easy Intro into Python Programming\nhttps://www.udemy.com/course/pythonforbeginnersintro/\n* GTC 2020: NVIDIA DRIVE Sim — Autonomous Urban and Highway Drive Around Silicon Valley\nhttps://developer.nvidia.com/techdemos/video/d2s44",
     "consultation": "stevessschen@gmail.com",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG10：減少不平等（Reduced Inequalities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

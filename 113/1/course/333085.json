@@ -8,6 +8,7 @@
     "scorePolicy": "依專題計畫書、實作成果、期末報告、及參與表現等項目評定成績",
     "materials": "參考書目: Papers in the literature.",
     "consultation": "請 email 至授課教師洽詢課程相關資訊。課程動態資訊，將更新於北科 i 學園 PLUS。",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "出席率: 30%\n實作能力: 30%\n期末報告: 40%",
     "materials": "實驗室現有資料與相關參考文獻",
     "consultation": "有關本課程問題，可寄信至 cytang@ntut.edu.tw，與唐丞譽老師預約時間討論。",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "實作與討論  100%",
     "materials": "Papers and textbooks related to power electronics",
     "consultation": "Contact via e-mail or/and discuss in-person.",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

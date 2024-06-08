@@ -8,6 +8,7 @@
     "scorePolicy": "平時成績與隨堂練習 (30%)\n作業 (30%)\n期末專題報告 (40%)\n\n* 評分方式與比例為暫定，將視實際情形調整，但一定會做期末專題報告",
     "materials": "上課將以老師自行編寫的投影片為核心，示範程式碼則以 jupyter notebook 提供",
     "consultation": "nwchi@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "本課程雖然不設定先修課程，並且 python 程式語言的部份也會從頭教起，但仍假設修課的學生有先修畢工學院大一必修的「計算機程式」課程（不論何種程式語言），具備基礎的程式設計概念，也就是在程式語法教學的部份會教得比較快。",
     "foreignLanguageTextbooks": false
   }

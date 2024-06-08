@@ -8,6 +8,7 @@
     "scorePolicy": "Homework 20%\nFinal Exam 40%\nFinal Report 40%",
     "materials": "7.\tReferences\n\n1.\tFox, R.W., Pritchard, P.J. and McDonald, A.T., “Introduction to Fluid Mechanics”, 7th ed.,   2010, John Wiley & Sons, Inc.\n2.\tWhite, F.M., “Viscous Fluid Flow”, 3rd ed., 2006. \n3.\tIncropera, F.P., Dewitt, D.P., Bergman, T.L., and Lavine, A.S.,“Introduction to Heat Transfer”, 5th ed., 2007.\n4.\tCengel, Y.A., “Heat and Mass Transfer: A Practical Approach”, 3rd ed., 2006. \n5.\tVersteeg, H.K, W. Malalasekera (2007), An Introduction to Computational Fluid Dynamics---The Finite Volume Method. (www.amazon.com)\n6.\tPatankar, S.V. (1980), Numerical Heat Transfer and Fluid Flow. \n7.\tAnderson, D.A., J.C. Tannehill, R.H. Pletcher (1984,1997), Computational Fluid Mechanics and Heat Transfer, 1997ed.\n8.\tMATLAB：Beginner http://mirlab.org/jang/books/matlabProgramming4beginner/\n   MATLAB：Advanced http://mirlab.org/jang/books/matlabProgramming4guru/",
     "consultation": "Email: f10958@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "None",
     "foreignLanguageTextbooks": false
   }

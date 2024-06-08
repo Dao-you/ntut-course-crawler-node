@@ -8,6 +8,7 @@
     "scorePolicy": "1. Attendance: 10 %\n2. Exam\n3. Research presentation: 40 %",
     "materials": "Hamdy A. Taha, Operations Research- an introduction, 2017, 10th Edition, Prentice Hall.",
     "consultation": "Email or i-school system.",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "The course link will be sent by the school E-mail.",
     "foreignLanguageTextbooks": true
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "Homework: 15% \nMidterm: 35%\nPaper presentation: 35%(Papers selected from Journal: INFOR, MS, OR, EJOR, C&OR…)\nPresent situation: 15% (No more than three absences)",
     "materials": "Textbook:\nHamdy A. Taha, Operations Research- an introduction, 2017, 10th Edition, Prentice Hall.\nReferences:\n1、Optimization Modeling with Lingo, LINDO System INC.\n2、Wayne L. Winston, Operations Research- Applications and Algorithms, 2004, Thomson.\n3、Selected journal papers.",
     "consultation": "1. Email: jftsai@ntut.edu.tw2. Office hour: Wednesday 9:00AM~4:00PM at TB 11 floor, 1132r.",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "If Taipei Tech announces distance learning, the course will be conducted by:Online course platform: Teams or WEBEX.Course materials: Taipei Tech iStudy.Announcement via: Email, LINE.Contact instructor:Email: jftsai@ntut.edu.tw",
     "foreignLanguageTextbooks": true
   }

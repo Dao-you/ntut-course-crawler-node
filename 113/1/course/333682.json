@@ -8,6 +8,7 @@
     "scorePolicy": "課堂實作與作業:  70%\n期末專題: 30%",
     "materials": "陳會安，新一代 Keras 3.x 重磅回歸：跨 TensorFlow 與 PyTorch 建構 Transformer、CNN、RNN、LSTM 深度學習模型，旗標 ，2024。\n\n陳允傑，TensorFlow 與 Keras：Python 深度學習應用實務，旗標 ，2019。",
     "consultation": "(1) 透過電子郵件 ctchuang@ntut.edu.tw 討論課程問題 (2) 於教師諮商時間 (Office Hours) 討論課程問題",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "因應疫情警戒若調整為遠距教學資訊如下：Google Meet: https://meet.google.com/imb-qmwi-xja 聯絡方式: ctchuang@ntut.edu.tw 課程內容：公布於 i 學園 Plus",
     "foreignLanguageTextbooks": false
   }

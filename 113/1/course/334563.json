@@ -8,6 +8,7 @@
     "scorePolicy": "(每周實習成果評分 * 10 + 期末專題評分 * 3 + 平常成績)/14",
     "materials": "(1) Cortex-M3 平台使用手冊，意法半導體\n(2) 李仁貴等，穿戴式生醫量測原理與實驗，全華圖書 2016",
     "consultation": "每周二、四上午到綜合科館 404 研究室 或到 綜科館 406 實驗室找助教。",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）",
     "remarks": "採實體實驗課為主，若有疫情將採錄影方式進行。",
     "foreignLanguageTextbooks": false
   }

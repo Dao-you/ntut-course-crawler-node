@@ -8,6 +8,7 @@
     "scorePolicy": "請以主授課老師為主",
     "materials": "個案",
     "consultation": "emba 辦公室",
+    "課程對應SDGs指標": "SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "根據第一週老師之規定",
     "materials": "方至民：國際企業：應用導向 4/e",
     "consultation": "1. 課程上課時間，同學有問題可以直接詢問 2. 可以透過 e-mail 與老師約時間討論",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "出席狀況 40% \n課堂討論 30%\n課堂報告 30%",
     "materials": "所有教材來自相關個案與學術期刊.",
     "consultation": "同學可以透過 email 方式事前預約諮詢。電子郵件: blessing@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "依照學校規定",
     "foreignLanguageTextbooks": false
   }

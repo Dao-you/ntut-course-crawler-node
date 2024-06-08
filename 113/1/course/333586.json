@@ -8,6 +8,7 @@
     "scorePolicy": "Homework assignments and programming exercises: ~40%\nMid-term exam: ~25-30%\nTerm project and presentation: ~30-35%",
     "materials": "Textbook:\n1. Mining of Massive Datasets, Jure Leskovec, Anand Rajaraman, Jeff Ullman, 3rd edition, Cambridge University Press, 2020.\n\nReferences:\n1.  Jiawei Han, Jian Pei, and Hanghang Tong, Data Mining: Concepts and Techniques, 4th edition, Morgan Kaufmann, 2022.\n2. Data-Intensive Text Processing with MapReduce, Jimmy Lin and Chris Dyer.\nMorgan & Claypool Publishers, 2010.\n3. Recent academic papers, tutorials, and slides.",
     "consultation": "You can reach the teacher via e-mail or by appointment.All course materials and video recordings will be kept in Microsoft Teams and iSchool+, and the course web site at: https://chriswjh.github.io/BDM/",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "In case of online teaching or unable to attend the class in person, please join the class online via Microsoft Teams.If you haven't been added to the team of this course, please send e-mails to me at: jhwang@ntut.edu.tw. (Remember to identify the course name, your name and student ID.)The TA will establish additional communication channels (e.g. Facebook) after students have enrolled in this class.",
     "foreignLanguageTextbooks": true
   }

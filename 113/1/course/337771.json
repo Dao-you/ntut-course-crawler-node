@@ -8,6 +8,7 @@
     "scorePolicy": "報告 + 出席率 = 100",
     "materials": "以上內容，授課老師有權修改上課進度及評量方式",
     "consultation": "如有任何問題，請 e-mail 至 wuyc@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "遠距以 teams 為主",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "每周心得報告",
     "materials": "無",
     "consultation": "Office Hours (Wednesday 10~12 & 14~16 )",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

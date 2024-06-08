@@ -8,6 +8,7 @@
     "scorePolicy": "課堂參與 10%, 期初評圖 30%, 期中評圖 30%, 期末作品 30 %",
     "materials": "線上參考資料",
     "consultation": "https://www.facebook.com/chienwen2016/",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "遠距教學相關公告與資訊聯絡，請至下列連結：https://reurl.cc/WkNKxL",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "平常表現 100%",
     "materials": "由各指導教授與同學討論後訂定",
     "consultation": "cceugene@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 無對應 SDGs",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "討論   \t50%\t\t\n提案 \t50%",
     "materials": "依各組導師專業領域與題目提出參考書籍",
     "consultation": "Line",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

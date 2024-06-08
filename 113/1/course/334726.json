@@ -8,6 +8,7 @@
     "scorePolicy": "上課表現 (出席率、專心聽講、作業成績……) 佔 30%、期中考佔 30%、期末考佔 40%，缺考者除該次成績以零分計算外， 期末總成績如遇有加分情形，將不予加分。",
     "materials": "1.\tFundamentals of Electric Circuits (7th Edition) by Alexander Sadiku\n\tMcGraw-Hill International Edition \n2.    Electrical Circuits By James W. Nilsson and Susan A. Riedel 11th  Edition\n3. 開源費 Scilab 軟體有 XCOS 可以進行電路模擬 https://www.scilab.org/ 同質的軟體為 MATLAB\n4. LCircuit 是一款開源費電路模擬軟體",
     "consultation": "老師的 Line ID: jthuang123 另外，本課程安排一位助教輔助教學，並於上課時建立 Line 群組，方便同學提問與討論。",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "本課程以實體教學為主，如遇無法採取實體教學情況，視訊教學將透過 Google meet 進行，相關訊息會在 Line 群組公布。",
     "foreignLanguageTextbooks": true
   }

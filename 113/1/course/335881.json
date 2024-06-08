@@ -8,6 +8,7 @@
     "scorePolicy": "1. 上課出席率\n2. 期中、期末作業\n3. 閱讀報告",
     "materials": "如進度表",
     "consultation": "line 群組",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

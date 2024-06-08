@@ -8,6 +8,7 @@
     "scorePolicy": "Homework*6: 40%\nMidterm 1 (Lab test): 20%\nMidterm 2 (Lab test): 20%\nFinal (Pen-and-paper test): 20%",
     "materials": "Course repository: http://140.124.181.100/yccheng/posd2023f\n(You must use NTUT vpn to access this site)\n\nTextbook: \nGamma, Erich, et al. Design patterns: elements of reusable object-oriented software. Pearson Education, 1994.\n\nReference books:\n1. Martin, Robert C. Clean code: a handbook of agile software craftsmanship. Pearson Education, 2008.\n\n2. Alexander, Christopher, Sara Ishikawa, and Murray Silverstein. \"A pattern language.\"",
     "consultation": "Facebook group: TBASend email to yccheng AT ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "When necessary, the class will go online in Microsoft Team: https://teams.microsoft.com/l/channel/19%3aQ65w4U1rgCFKB4K1nJeNt3NRIOTiOsWWetdVHU3O85U1%40thread.tacv2/General?groupId=f8728433-8413-48b1-b729-914ff6b2f4a5&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
     "foreignLanguageTextbooks": true
   }

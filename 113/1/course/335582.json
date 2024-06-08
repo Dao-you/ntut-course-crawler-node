@@ -8,6 +8,7 @@
     "scorePolicy": "1. Final Exam or Project: 40 %\n2. Assignment: 50 %\n3. Attendance: 10 %",
     "materials": "Textbook: ‘Applied Multivariate Statistical Analysis’ written by Richard A. Johnson and Dean W. Wichern.\nSupplementary references: ‘Introduction to Machine Learning with Python: A Guide for Data Scientists’ written by Andreas C. Müller and Sarah Guido",
     "consultation": "Email or i-school system.Office hour: Thursday 11:00 ~ 12:00",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "The course link will be sent by the school E-mail.",
     "foreignLanguageTextbooks": true
   }

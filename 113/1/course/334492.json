@@ -8,6 +8,7 @@
     "scorePolicy": "1. 平時成績\t\t10%\n2. 作業成績\t\t45%\n3. 考試成績      \t45%",
     "materials": "教科書  ：張錦松等主編，環境工程學，高立圖書有限公司，六版，2020。\n參考書籍：1. Mackenzie L. Davis and David A. Cornwell, “Introduction to Environmental Engineering”, McGraw-Hill, 4th ed..\n2. Ruth F. Weiner and Robin Matthews, “Environmental Engineering”, Butterworth-Heinemann, Inc., 4th ed..\n3. P. Aarne Vesilind, Susan M. Morgan and Lauren G. Heine, “Introduction to Environmental Engineering”, Cengage Learning, 3rd ed..\n4. 段國仁、蘇睿智、張子祥等譯，環境科學，國立編譯館，初版，2000。",
     "consultation": "1. 上課時間 2. 教師諮商時間 3. 以 E-mail 方式",
+    "課程對應SDGs指標": "SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "課程對應之臺灣永續發展目標 (SDGs) 核心目標 06 確保環境品質及永續管理環境資源核心目標 12 促進綠色經濟，確保永續消費及生產模式",
     "foreignLanguageTextbooks": false
   }

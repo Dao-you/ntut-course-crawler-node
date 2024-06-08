@@ -8,6 +8,7 @@
     "scorePolicy": "個案 課前一頁心 得報告 : 50%\n課中參與 (思考並參與討論): 50%\n作業說明：請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題請於個案上課前， 針對即將使用的撰寫心得報告並回答指定問題長度以一頁 長度以一頁 為限 ，字體大小為 12 點，行間距須為 1.2~1.5 倍行高。",
     "materials": "哈佛個案  光華個案  Ivey 個案",
     "consultation": "請洽 emab 辦公室",
+    "課程對應SDGs指標": "SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "個案涵蓋部分 SDGs 項目",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "作業說明：請於個案上課前，針對即將使用的個案，撰寫心得報告並回答指定問題，長度以一頁為限，字體大小不得小於 12 點，行間距須為 1.5 倍行高。\n\n繳交時間：上課前一天 (星期五) 晚上 10 點前，將報告上傳於網路教室：http://mslin.ee.ntut.edu.tw",
     "materials": "[光華管理個案，收錄庫 (KMCC)]\nStair Rover 八輪滑板 — 群眾募資與服務管理",
     "consultation": "課程諮詢安排: 1. 課程諮詢時間可事先電子郵件預約，或 2. 於周四 5~7 於宏裕科技大樓 1126 研究室諮詢。",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 本學期課程若因應疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：(https://istudy.ntut.edu.tw/teach/index.php)※「一級」警戒：實體授課。※「三級」(含) 以上警戒：課程全採遠距授課。※「二級」警戒授課方式說明如下：●上課方式：遠距上課●評量方式：期中考、期末考採實體紙筆測驗；期末報告採線上報告",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "平時成績 40%、期中 30%、期末 30%",
     "materials": "哈佛個案， 光華個案",
     "consultation": "周三 10:00-12:00",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -44,6 +47,7 @@
     "scorePolicy": "個案課前一頁心得報告: 30%\n\n課中參與及出席率 (思考並參與討論): 40%\n\n期末個案競賽: 30%\n\n作業說明：請於個案上課前，針對即將使用的個案，撰寫心得報告並回答指定問題，長度以一頁為限，字體大小為 12 點，行間距須為 1.2~1.5 倍行高。",
     "materials": "哈佛大學個案\n\n光華基金會個案",
     "consultation": "課程諮詢管道：(1) Email: wengss@ntut.edu.tw (2) 諮詢時間：星期三下午：5:00~7:00PM",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -56,6 +60,7 @@
     "scorePolicy": "耿慶瑞 負責 三次個案授課",
     "materials": "哈佛個案\n光華個案",
     "consultation": "cjkeng@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "使用 WebEx 會議代碼 580078239",
     "foreignLanguageTextbooks": false
   },
@@ -68,6 +73,7 @@
     "scorePolicy": "上課討論與參與",
     "materials": "自編教材",
     "consultation": "line group",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

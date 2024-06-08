@@ -8,6 +8,7 @@
     "scorePolicy": "點名 20%\n課堂練習 50%\n期末報告 50%",
     "materials": "自編教材",
     "consultation": "Line 群組，臉書社團",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "課程參與 (思考並參與討論) 20%\n案例研討 30%\n期末專題製做創新機器人服務  50%",
     "materials": "自編",
     "consultation": "jessicacheng@mail.ntut.edu.tw (02) 27712171#6720 請留下 班級姓名 與問題",
+    "課程對應SDGs指標": "SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "TEAMS LINE LINE group",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "「鍾建屏教師部分」：\n1. 課程參與及作業 10 %\n2. 場景金融專題企劃成果展現 20 %\n\n「鄭麗珍教師部分」：\n1. 課程參與及作業 10 %\n2. 數位金融專題企劃成果展現 20 %\n\n「吳牧恩教師部分」：\n1. 課程參與及作業 20%\n2. 期末成果報告 20%",
     "materials": "自製上課投影片",
     "consultation": "Office Hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

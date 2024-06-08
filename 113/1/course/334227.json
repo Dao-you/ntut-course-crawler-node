@@ -8,6 +8,7 @@
     "scorePolicy": "本學期不舉行期中、期末考。學期成績由作業 (80%)、練習 (10%) 及出席 (10%) 等成績決定之。學期中每隔週指定一次視窗程式設計作業，作業將有「主題」與「連貫性」，相同主題會連續出很多次，而且遞增擴大功能，每次作業均依其複雜度指定點數，作業成績依各作業所得點數多寡決定之。作業評分以程式的正確性與品質為主；練習成績由正確完成的視窗程式練習百分比決定之；出席成績由線上簽到的出席率決定。",
     "materials": "參考教材：Charles Petzold, Programming Microsoft Windows Forms; Charles Petzold, .NET Book Zero. (http://www.charlespetzold.com/dotnet/)\n先修課程：物件導向程式設計 (課程代碼：5901206)",
     "consultation": "請使用北科 Teams 帳號登入 Microsoft teams，進入本課程團隊的「一般」頻道，在頻道上留言發問。",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

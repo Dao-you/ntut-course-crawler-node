@@ -8,6 +8,7 @@
     "scorePolicy": "Homework assignments: ~60%\nQuiz: ~40%",
     "materials": "- Textbook:\nJiawei Han, Micheline Kamber, and Jian Pei, Data Mining: Concepts and Techniques, 4th edition, Morgan Kaufmann, 2022.\n\n- References:\n1. Jimmy Lin and Chris Dyer, Data-Intensive Text Processing with MapReduce, \nMorgan & Claypool Publishers, 2010.\n2. Holden Karau, andy Konwinski, Patrick Wendell, and Matei Zaharia, Learning Spark: Lightning-fast data analysis, O'Reilly, 2015.\n3. Recent academic papers, tutorials, and slides.",
     "consultation": "The teacher can be reached via e-mail or messages in Microsoft Teams.The TA will help you join the course group in Facebookwhere you can also ask questions about the homeworks and exams.",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "All course sessions will be recorded and put on Microsoft Teams and iSchool+, along with all course materials, homework announcements and submissions.Latest news available soon at: https://chriswjh.github.io/BDA_IMBA/",
     "foreignLanguageTextbooks": true
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "paper study and presentation and feedback：20％\nHand on lab 40%\n\nFinal team project report  and presentation: 40%\nThis course also discusses the journal paper to enhance the students' theoretical base\nNOTE: This is an advanced course.   Student also should familiar with python",
     "materials": "Data Mining for Business Analytics [Python Edition](link is external), John Wiley & Sons, 2019",
     "consultation": "lijen.cheng@gmail.comname class and question",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "teams",
     "foreignLanguageTextbooks": true
   }

@@ -8,6 +8,7 @@
     "scorePolicy": "writing exam: 40%\nworkshops 20%\nproject and presentation: 35%\nclass performance: 5%\n\n(Evaluation items and weightings will be adjusted according to student learning situations)",
     "materials": "text book:\nLinear State-Space Control Systems\nby R.L. Williams & D.A. Lawrence\n\nreference book:\nControl Systems Engineering, 4th Ed.,\nby N. Nise, Published by Wiley",
     "consultation": "email",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "The hyperlink of distance learning is: meet.google.com/rae-fzim-ndy",
     "foreignLanguageTextbooks": true
   }

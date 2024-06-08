@@ -8,6 +8,7 @@
     "scorePolicy": "【共評一】專題提案 20%\n【共評二】低保真度原型製作 20%\n【共評三】高保真度原型製作 20%\n【共評四】期末專題雛型展示 30%\n平時課堂表現 10%",
     "materials": "依各組導師專業領域與題目提出參考書籍",
     "consultation": "Discord Channel",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "期初 10%、期中 35%、期末 45%、個人表現 10%",
     "materials": "自編教材",
     "consultation": "https://www.facebook.com/chienwen2016",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "課程對應 SGDs 指標：3. 健康福址；4. 教育品質",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "【共評一】專題提案 20%\n【共評二】低保真度原型製作 20%\n【共評三】高保真度原型製作 20%\n【共評四】期末專題雛型展示 30%\n平時課堂表現 10%",
     "materials": "依各組導師專業領域與題目提出參考書籍",
     "consultation": "Discord Channel",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -44,6 +47,7 @@
     "scorePolicy": "【共評一】專題提案 20%\n【共評二】低保真度原型製作 20%\n【共評三】高保真度原型製作 20%\n【共評四】期末專題雛型展示 30%\n平時課堂表現 10%",
     "materials": "依各組導師專業領域與題目提出參考書籍",
     "consultation": "Discord Channel",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

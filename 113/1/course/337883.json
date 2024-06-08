@@ -8,6 +8,7 @@
     "scorePolicy": "Assignment: 50%\nFinal Project: 50%",
     "materials": "You may find the corresponding materials to the lectures in the following books.\n\n1. Alfred V. Aho, Monica S. Lam, Ravi Sethi et Jeffrey D. Ullman Modern Compilers: Principles, Techniques, and Tools. \n\n2. Benjamin C. Pierce Types and Programming Languages\n\n3. Randal E. Bryant et David R. O'Hallaron Computer Systems: A Programmer's Perspective",
     "consultation": "Course website: https://carquois42.github.io/compiler.htmlContact email: jalin@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "Please install OCaml in your machine before the class. You may find some instructions in the resources of course website.",
     "foreignLanguageTextbooks": false
   }

@@ -8,6 +8,7 @@
     "scorePolicy": "學期總成績 = 出席率 20%+5 向度研究方法成績平均佔 80%\n出席率以點名計分，滿分 100，每次未到課扣 10 分，遲到扣 5 分，該項扣至 0 分為止。\n平時表現成績，於課堂紀錄點數，在學期總成績加減分，最多 5 分。",
     "materials": "社會科學研究方法\n儀器分析法\n模糊德爾菲法\n層級分析法\n專家問卷\nCFD 等模擬評估方法",
     "consultation": "本課程由【智慧健康綠建築組】教師群共同授課，分別由五位老師講授各建築主題之研究方法，若需諮詢課程請聯繫總召老師邵文政老師：02-27712171 分機 2903 (有答錄機歡迎留言) 或以 mail 方式諮詢:wcshao@ntut.edu.tw 各主題之各別問題也可直接連繫各單元之授課教師，請查詢系網頁資訊。",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）",
     "remarks": "若疫情嚴峻，將依學校公布日期起採遠距教學，一律以 Teams 為課程主要教學軟體，另搭配 line 群組同步於上課前發布連結。",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "25% 課堂參與\n35% 期中報告\n40% 期末報告",
     "materials": "Belcher, Wendy Laura (2009) Writing Your Journal Article in 12 Weeks: A Guide to Academic Publishing Success. SAGE. \n畢恆達（2010）。教授為什麼沒告訴我（2010 全見版）。小畢空間出版社。",
     "consultation": "授課教師：陳盈棻 Email: yingfenchen@ntut.edu.tw Office Hours: 每週三 12-14、四 10-12 設計館 352 (需先來信預約)",
+    "課程對應SDGs指標": "SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
     "remarks": "如受疫情影響需遠距教學，相關規定會公布與此，同時以 email 與 LINE 群組訊息通知。",
     "foreignLanguageTextbooks": true
   }

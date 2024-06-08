@@ -8,6 +8,7 @@
     "scorePolicy": "個人課程參與 30%：\n平時上課出席率、討論參與度、每週進度等綜合評比。\n\n分組期中成果 30%：\n各組期中簡報的成果總體評比，同一組每個成員評分相同。\n\n分組期末成果 40%：\n各組期中簡報的成果總體評比，同一組每個成員評分相同。\n\nIndividual Course Participation 30%:\nComprehensive assessment of regular class attendance, participation in discussions, weekly progress, etc.\n\nGroup Midterm Results 30%:\nOverall evaluation of each group's midterm presentation results, with the same score given to each member within the same group.\n\nGroup Final Results 40%:\nOverall evaluation of each group's final presentation results, with the same score given to each member within the same group.",
     "materials": "必備軟體 / 語言：Python, QGIS\n選用軟體 / 語言：R-studio, Tableau Public\n數據來源：國內外開放資料\n\nRequired Software/Languages: Python, QGIS\nOptional Software/Languages: R-studio, Tableau Public\nData Sources: Domestic and international open data",
     "consultation": "Instructor: roylin@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

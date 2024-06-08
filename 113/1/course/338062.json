@@ -8,6 +8,7 @@
     "scorePolicy": "Midterm Exam (Case operation) 35-40%\nFinal Exam(Case operation & final presentation) 35-40%\nOthers (Homework, Exercise in-class & Attendance, etc.) 20-30%",
     "materials": "self-compiled lecture notes (自編講義)",
     "consultation": "本課程開學後會提供 LINE 官方帳號，同學可由 LINE 官方帳號發問。After the course starts, the official \"Line\" account will be announced, and students can ask questions by Line.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "每堂課均需要自備電腦來操作程式進行運算電腦 (建議 (RAM 8GB 以上較佳) 必須能運行 EXCEL VBA 與 COMSOL 課程有人數上限",
     "foreignLanguageTextbooks": false
   }

@@ -8,6 +8,7 @@
     "scorePolicy": "Homework: 50%\nAttendance:10%\nFinal project and report: 40%",
     "materials": "References :\n\n1. Goodfellow, I., Bengio, Y. & Courville, A.: Deep Learning. 2016, MIT.\n2. B.K. Tripathy, J. Anuradham: Internet of Things(IoT): Technologies, \n    Applications, Challenges and Solutions, CRC Press, Taylor and Francis, \n    2017\n3.  Anirudh Koul, Siddha Ganju, Meher Kasam: Practical Deep Learning for \n    Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using \n    Python, Keras & TensorFlow 1st Edition",
     "consultation": "email: yibeltal_chanie@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

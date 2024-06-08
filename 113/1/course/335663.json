@@ -8,6 +8,7 @@
     "scorePolicy": "Homework,  \nMid-term \nFinal exam.",
     "materials": "Elementary Numerical Analysis  (referece Book)",
     "consultation": "changsy@ntut.edu.tw0917844577",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "課程內容有助於其他土木相關課程的學習與應用，如材料力學或結構學中的穩定問題；有限元素發展中的函數插植以及實務上的非線性方程式的求解方法；結構動力分析中的振動頻率，振態，杜氏積分法以及逐步積分法的發展與求解等等。",
     "foreignLanguageTextbooks": true
   }

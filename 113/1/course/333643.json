@@ -8,6 +8,7 @@
     "scorePolicy": "期末總評比。包括專題分工、實驗進行、報告撰寫",
     "materials": "無特定教材，每周討論與 survey",
     "consultation": "Emailmnasia1@gmail.com",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）",
     "remarks": "無",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "1. 專題架構設計。20%\n2. 書面報告。 40%\n3. 影片及簡報。  40%",
     "materials": "依選定題目進行基礎訓練：資安、AI、網路。",
     "consultation": "週一 13:00-17:00、週四上午 9:00-12:00",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "Team Work 50%\n個人表現 50%",
     "materials": "本課程無教科書，教材與相關資料採用網路查詢方式。",
     "consultation": "1. 與教師固定約時間 meeting 討論進度。2. 平時亦採用視訊方式溝通。",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -44,6 +47,7 @@
     "scorePolicy": "平時參與狀況：30%\n專題成果製作：70&",
     "materials": "相關參考資料、文獻",
     "consultation": "科研大樓 940wpc@ntut.edu.tw 分機 6721",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "若因疫情而暫停實體上課時，將使用 Microsoft Teams 視訊上課，會議網址將公告於北科 i 學園，或請洽 wpc@ntut.edu.tw (分機 6721) 詢問。",
     "foreignLanguageTextbooks": false
   },
@@ -56,6 +60,7 @@
     "scorePolicy": "1. 專題過程的投入 40%\n2. 專題成果 60%",
     "materials": "1. 自編教材\n2. AI 教具",
     "consultation": "Email and Meeting hours",
+    "課程對應SDGs指標": "SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -68,6 +73,7 @@
     "scorePolicy": "Final Presentation 展示及平時實作研究依系上規定比例評分",
     "materials": "實驗室所提供的教材",
     "consultation": "研究室：科研大樓 433 室 Email： lcliu@ntut.edu.tw 分機：5907 每週都有 Regular Meeting",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -80,6 +86,7 @@
     "scorePolicy": "專案口試 成績",
     "materials": "自編",
     "consultation": "jessicacheng@mail.ntut.edu.tw (02) 27712171#6720 請留下 班級姓名 與問題",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "zuvio 或是 teams 遠距上課",
     "foreignLanguageTextbooks": false
   },
@@ -92,6 +99,7 @@
     "scorePolicy": "專題討論參與：40%\n專題實作完成度：60%",
     "materials": "課堂上提供",
     "consultation": "課堂上提供",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
     "remarks": "課堂上提供",
     "foreignLanguageTextbooks": false
   }

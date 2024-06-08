@@ -8,6 +8,7 @@
     "scorePolicy": "(1)\t作業 (Homework) : 40%\n(2)\t期中報告 (Mid-term Report): 20%\n(3)\t期末專題報告 (Final Project): 40%\n\n預計有三次作業，自行包裝函式庫來實現機器視覺應用案例。由於上課期間有數個 Lab 需要自行撰寫程式驗證，因此基本的程式撰寫能力是本課程的必備條件。",
     "materials": "(1)\tIndustrial Image Processing - Visual Quality Control in Manufacturing 2nd Edition, Christian Demant、Bernd Streicher-Abel and Carsten Garnica, Springer, 2013.\n(2)\t實驗及補充講義 (將置於北科 i 學園供學生自行下載)",
     "consultation": "可透過教師 email 諮詢",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "以 Microsoft Teams 或是 Google meet 線上遠距教學",
     "foreignLanguageTextbooks": true
   }

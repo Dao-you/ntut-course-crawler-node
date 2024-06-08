@@ -8,6 +8,7 @@
     "scorePolicy": "評分方式：出席 10%、課堂練習 40%、論文報告 25%、期末報告 25%\n論文報告：代訂\n期末報告：採用台股歷史資料 (股票 or 期貨 待定)，使用 R 語言進行交易策略開發。\n\nEvaluations: \nAttendance 10%, practice in class: 40%, paper presentation 25%, final project 25%",
     "materials": "老師上課提供投影片與相關網站",
     "consultation": "建立臉書社團進行上課練習與回家作業、與 Line 群組進行討論",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG10：減少不平等（Reduced Inequalities）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

@@ -8,6 +8,7 @@
     "scorePolicy": "所有考試題目都是英文出題，可使用翻譯機或字典及計算機。\nExam I (50%); Exam II (50%)\n及格分數為 60 分 \n考試未出席且未請假，分數為 0 分計算。\n考試請假於 5 天內補考，補考成績 x0.7 計算。",
     "materials": "Steven S. Zumdahl, Donald J. DeCoste, \nChemical Principle, 2017, 8th edition, \nCENGAGE Learning Asia Pte Ltd (ISBN 9789814834216)",
     "consultation": "可於教師諮商時間討論",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）SDG15：陸域生命（Life on Land）",
     "remarks": "Microsoft Teams [NTUT-Sync] 111-1_306054_化學 https://teams.microsoft.com/l/team/19%3aELLbOjHyogBH2j4g8-N4lE09m8XnzfvJ4BUFAT45jrI1%40thread.tacv2/conversations?groupId=753b3e1b-628b-47f9-a49b-9d262080eec3&tenantId=dfb5e216-2b8a-4b32-b1cb-e786a1095218",
     "foreignLanguageTextbooks": true
   }

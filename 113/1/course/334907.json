@@ -8,6 +8,7 @@
     "scorePolicy": "Midterm: 30%\nFinal exam: 30%\nHomework: 40%",
     "materials": "主要教材：由片語學習 C 程式設計（第二版）, 劉邦 著，國立臺灣大學出版中心，2019.\n參考教材：\n1. C Programming Language, 2nd edition, by Kernighan Brian W. and Ritchie Dennis, Pearson, 1988.\n2. C++ Primer, 5th edition, by Stanley Lippman, Josée Lajoie, and Barbara Moo, Addison-Wesley Professional, 2012.\n3. Beginning C++ Through Game Programming, 4th edition, by Michael Dawson, Cengage Learning PTR, 2014.",
     "consultation": "約課後時間進行諮詢",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

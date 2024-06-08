@@ -8,6 +8,7 @@
     "scorePolicy": "Quiz 1 15%\nQuiz 2 20%\nQuiz 3 25%\nFinal 30%\nProject 10%",
     "materials": "Feedback Control of Dynamic Systems, Global/Eighth Ed., Franklin, Powell, et al, Pearson Education.\nLinear Control System, C.T. Chen, Oxford Press",
     "consultation": "上課時間於教室或諮商時間於研究室",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "須具備 MATLAB 基礎並自備筆電完成作業與測驗",
     "foreignLanguageTextbooks": true
   }

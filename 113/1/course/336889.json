@@ -8,6 +8,7 @@
     "scorePolicy": "1. 平時成績 (40%)：包含出席狀況、上課互動之情形以及上機作業等\n2. 期中考 (30%)\n3. 期末考 (30%)",
     "materials": "教科書及教材（必備）：\n1.「Python 程式設計：從入門到進階應用」(第四版)，作者：黃建庭，出版商：全華。\n2. 自編教材。\n\n參考書籍：\n1. 「優雅的 SciPy：Python 科學研究的美學」，作者： Juan Nunez-Iglesias, Harriet Dashnow, Stéfan van der Walt，譯者： 張靜雯，出版社：歐萊禮。",
     "consultation": "Office hour 時間歡迎至辦公室諮詢 email: ytl@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "1. 教材於 i 學園平台。2. 以實體授課為原則；若因疫情或其他原因而暫停實體上課時，將使用 Google Meet 視訊上課。Google Meet 視訊授課網址:https://meet.google.com/acj-dxuh-mpd",
     "foreignLanguageTextbooks": false
   }

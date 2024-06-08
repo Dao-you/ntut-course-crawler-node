@@ -8,6 +8,7 @@
     "scorePolicy": "課程評分\n指定練習 (Assigned exercises)：20%\n期中考 (Midterm exam)：40%\n期末專題研討 (Final Project)：40%",
     "materials": "ETSI EN 303 645, https://www.etsi.org/deliver/etsi_en/303600_303699/303645/02.01.01_60/en_303645v020101p.pdf\nCybersecurity Certification Test Plan for IoT Devices, https://ctiacertification.org/wp-content/uploads/2020/10/CTIA-Cybersecurity-Test-Plan-1.2.2.pdf\nCCSK, https://exams.cloudsecurityalliance.org/en",
     "consultation": "Office Hour： 週一 13:00-16:00 週四 9:00-12:00 透過 email, 北科 i 學園 PLUS 討論提問",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

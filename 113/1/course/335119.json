@@ -8,6 +8,7 @@
     "scorePolicy": "作業\t\t\t\t\t35%\n期中考\t\t\t\t\t20%\n期末考\t\t\t\t\t20%\n小考及作業                      25%",
     "materials": "1. byte-of-python (電子書 網路費版 中 / English)\n2. 個人教材 (PPT) + Video\n3. 相關網頁\n4. 個人  YouTube",
     "consultation": "每週四下午  諮詢時間  14:00~16:00",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "Google meet 上課網址:https://meet.google.com/tqp-izpk-xfh 本課主要為工管系同學所設計之課程，分上下學期授課 VBA 及 Python，外系同學建議不要選修此課程",
     "foreignLanguageTextbooks": true
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "作業：40%\nQuiz： 30%\nMidterm+Final：30 %",
     "materials": "Bill Jelen, Tracy Syrstad，Excel VBA 與巨集程式設計，博碩文化，廖文秀譯",
     "consultation": "Mon.:1:00pm ~ 4:00pm; Tue:9:00am ~ 12:00 am (科研大樓 1032)",
+    "課程對應SDGs指標": "無（None）",
     "remarks": "採遠距教學時請使用 i 學園之連結進入 Teams 課堂，帳號為 [學號]@cc.ntut.edu.tw；密碼與入口網站相同。",
     "foreignLanguageTextbooks": false
   }

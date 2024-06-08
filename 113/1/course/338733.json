@@ -8,6 +8,7 @@
     "scorePolicy": "課堂餐與: 50%\n期末報告 50%",
     "materials": "老師自備講義",
     "consultation": "建立 Line 課程討論群組",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "1. 課堂參與 50%\n2. 報告作業 50%",
     "materials": "自編講義",
     "consultation": "johnpeng@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
     "remarks": "SDGs 建立具有韌性的基礎建設，促進包容且永續的工業，並加速創新",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "個人作業 (10%)\n小組報告 (40%)",
     "materials": "自編教材",
     "consultation": "課程將透過北科 i 學園公告，課程問題請 Email: vickrey@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "因應疫情防疫規定，可能調整教學方式如需遠距教學，將使用 微軟的 Teams",
     "foreignLanguageTextbooks": false
   }

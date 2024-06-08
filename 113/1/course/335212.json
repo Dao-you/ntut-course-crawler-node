@@ -8,6 +8,7 @@
     "scorePolicy": "由教師講授；期中考 30%, 期末考 30%, 平時成績 40%",
     "materials": "課程書目：\nFinancial Accounting / Warren Reeve Fess/Edition 9\n參考書目：\n初級會計學 / 鄭丁旺\nAccounting Principles/Kieso/ Edition 7",
     "consultation": "每周三 14:00-18:00 office hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG10：減少不平等（Reduced Inequalities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "期中考試 30%\n期末考試 40%\n平時成績 30%",
     "materials": "會計學概要第 6 版\n吳嘉著\n華泰書局出版",
     "consultation": "電子郵件信箱：chychang@gmail.com",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

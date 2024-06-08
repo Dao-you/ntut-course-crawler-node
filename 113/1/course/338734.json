@@ -8,6 +8,7 @@
     "scorePolicy": "出席 50%\n課堂報告 50%",
     "materials": "自行準備投影片與講義",
     "consultation": "Line 課程群組",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -20,6 +21,7 @@
     "scorePolicy": "課程參與 50%\n作業報告 50%",
     "materials": "自標教材",
     "consultation": "研究室：科研大樓 940 室 Email：wpc@ntut.edu.tw 分機：6721Office Hours：可隨時 Email 聯繫",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "若因疫情而暫停實體上課時，將使用 Microsoft Teams 視訊上課，會議網址將公告於北科 i 學園，或請洽 wpc@ntut.edu.tw (分機 6721) 詢問。",
     "foreignLanguageTextbooks": false
   },
@@ -32,6 +34,7 @@
     "scorePolicy": "課堂出席與課堂作業 (50%)",
     "materials": "無",
     "consultation": "星期二 10:10 - 12:00",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }
