@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "郭五鳳",
+    "email": "ckuo66ntut@ntut.edu.tw",
+    "latestUpdate": "2024-06-11 17:38:11",
+    "objective": "This course is designed to increase undergraduate students' awareness and competence of the role of marketing research in decision-making. The technological milestones of the 21st century have changed our lives. Through the launch of the Google search engine, the deployment of social media, and the application of artificial intelligence (AI) technology, generative AI has dominated our human world since 2022. We will learn about global market trends and capitalize on career development. Case studies, research theories and methods deployment will be conducted in class.",
+    "schedule": "Week Month Date Topics\n1 Sep.  09 Introduction and References to Marketing Research\n2          16 The Role of Marketing Research\n3          25 Problem Definition, Exploratory Research & Research Process\n4 Oct.   02 Qualitative Research\n5          09 Industry analysis and reports by special guests\n6          16 Traditional & Online Marketing Research\n7          23 Primary Data Collection: Observation\n8          30 Primary Data Collection: Experimentation and Test Markets\n9 Nov.  06 Mid-term Exam.\n10        13 Questionnaire Design\n11         20 Basic Sampling Issues\n12         27 Industry analysis and reports by special guests\n13 Dec. 04 Data Processing and Basic Data Analysis\n14         11 Communicating the Research Results\n15         18 Industry analysis and reports by special guests\n16         25 Managing Marketing Research\n17 Jan. 01 National holiday\n18         08 Final Exam.",
+    "scorePolicy": "Case studies, research theories and methods deployment will be conducted in class. These assignments include team project presentations and individual presentations, which will be graded 25% for the midterm and 40% for the final exam. The remaining 35% of the overall grade is the student's attendance.",
+    "materials": "References:\n1) Marketing Research, Carl McDaniel & Roger Gates \n2) Marketing 5.0, Philip Kotler, etc.",
+    "consultation": "Please contact: Catherine W. Kuo, Ph.D. (ckuo66ntut@ntut.edu.tw)",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG10：減少不平等（Reduced Inequalities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
