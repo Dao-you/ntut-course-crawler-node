@@ -4798,7 +4798,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401091",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336888&code=23509"
+    ]
   },
   {
     "code": "4401092",
@@ -18771,7 +18773,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4401091",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338491&code=23509"
+    ]
   },
   {
     "code": "1413002",
