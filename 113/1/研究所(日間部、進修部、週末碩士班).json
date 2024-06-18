@@ -2916,6 +2916,16 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3048",
         "code": "3048"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -2943,7 +2953,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "車輛所、機電博班及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406147",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335771&code=12447"
@@ -7639,6 +7649,16 @@
         "name": "自動化所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3059",
         "code": "3059"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -7666,7 +7686,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "自動化所和機電科博及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105063",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336260&code=12286"
@@ -23389,6 +23409,16 @@
         "name": "智慧鐵道學位學程",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
         "code": "3076"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -23416,7 +23446,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "自動化所和鐵道合開",
+    "notes": "自動化所、鐵道、機電科博及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005030",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337913&code=12394"
@@ -24221,6 +24251,16 @@
         "name": "半導體學位學程",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3079",
         "code": "3079"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -24254,7 +24294,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所。製科所。半導體。機械自動化外生班合開，限 40 人",
+    "notes": "機電所。製科所。半導體。機械自動化。機電博及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605033",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337981&code=10581"
@@ -24545,7 +24585,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所。製科所。機械自動化外生班合開，全英，限 30 人",
+    "notes": "機電所。製科所。機械自動化外生班合開，全英，",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605087",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337996&code=11087"
@@ -24950,6 +24990,16 @@
         "name": "智慧鐵道學位學程",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
         "code": "3076"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -24983,7 +25033,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電所。製科所。鐵道。機械自動化外生班合開",
+    "notes": "機電所。製科所。鐵道。機械自動化。機電博及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338017&code=12314"
@@ -25009,6 +25059,16 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -25042,7 +25102,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 26 人",
+    "notes": "機電所、機電博及外生班合開，限 26 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005131",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338018&code=11068"
@@ -25136,6 +25196,16 @@
         "name": "機械自動化外生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3071",
         "code": "3071"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -25169,7 +25239,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電。製科。機械自動化外生班合開，限 25 人",
+    "notes": "機電。製科。機械自動化外生班。機電博及外生班合開，限 25",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338025&code=12490"
@@ -25195,6 +25265,16 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -25430,6 +25510,16 @@
         "name": "製科所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3054",
         "code": "3054"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -25457,7 +25547,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 20 人",
+    "notes": "製科所、機電博班及外生班合開，限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605084",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338074&code=12276"
@@ -25483,6 +25573,16 @@
         "name": "製科所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3054",
         "code": "3054"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -25516,7 +25616,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 20 人",
+    "notes": "製科所、機電博班及外生班合開，限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605022",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338075&code=12276"
@@ -25547,6 +25647,16 @@
         "name": "智慧鐵道學位學程",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3076",
         "code": "3076"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -25580,7 +25690,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 20 人，製科所和鐵道合開",
+    "notes": "限 20 人，製科所、鐵道、機電博班及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605061",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338076&code=12276"
@@ -26644,6 +26754,16 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3048",
         "code": "3048"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -26671,7 +26791,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "610 電腦教室",
+    "notes": "車輛所、機電博班及外生班合開，610 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406112",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338170&code=11321"
@@ -26697,6 +26817,16 @@
         "name": "車輛所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3048",
         "code": "3048"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -26724,7 +26854,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "車輛所、機電博班及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505404",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338171&code=12236"
@@ -33112,6 +33242,16 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -33145,7 +33285,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "機電所、機電博及外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338548&code=12202"
@@ -33554,6 +33694,16 @@
         "name": "製科所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3054",
         "code": "3054"
+      },
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [
@@ -33587,7 +33737,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 20 人",
+    "notes": "製科所、機電博班及外生班合開，限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605025",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338589&code=12276"
@@ -37664,6 +37814,69 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05232",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339085&code=11633"
+    ]
+  },
+  {
+    "code": "9805120",
+    "description": {
+      "zh": "本課程在培養同學創業的知識與思維，以及了解營運模式如何應用在商業活動裡。本課程包含：創業精神的想法和行動、從失敗中學習、設計思考、市場測試、機會衡量、營運模式建立、價值主張、永續經營、企業倫理等議題。",
+      "en": "The course is to encourage students to have the ideas of entrepreneurship and to establish the abilities of running a business. This course is focused on: entrepreneurial thought and action, learning from failure、design thinking、opportunity evaluation、market tests、the development of business model、value propositions、network、sustainable and business ethics."
+    },
+    "id": "339089",
+    "name": {
+      "zh": "創業與商業計畫",
+      "en": "Entrepreneurship and Business Planning"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3055",
+        "code": "3055"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
+        "code": "3065"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3081",
+        "code": "3081"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "2",
+        "3",
+        "4"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "20",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "暫定哈佛，IMBA、經管所和管理博合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=9805120",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339089&code=11429"
     ]
   }
 ]
