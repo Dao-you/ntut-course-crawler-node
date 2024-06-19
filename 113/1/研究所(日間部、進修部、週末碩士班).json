@@ -21149,7 +21149,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩博合開課程，博士班請選本課號",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4507005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337809&code=10996",
@@ -37877,6 +37877,175 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805120",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339089&code=11429"
+    ]
+  },
+  {
+    "code": "AA02004",
+    "description": {
+      "zh": "輔具是輔助器具的簡稱，舉凡日常生活，能使活動更容易、方便的各種用具皆屬之，正確的使用輔具可以改變身心障礙者或老年人原本有障礙的生活，走入社會，降低社會成本。本課程為專案導向課程，課程中除教授輔具設計基本概念，透過實際個案訪談分析目標對象，以工作坊形式找出使用者痛點，進而發展解決方案，提出適切的輔具資源，以幫助身心障礙者或老年人族群。",
+      "en": "Assistive device is the abbreviation of auxiliary equipment. For everyday life, all kinds of utensils that make activities easier and convenient belong to it. Correct use of assistive device can change the life of people with physical and mental disabilities or the elderly who have obstacles, and enter the society and reduce Social costs. This is a project-oriented course. The course introduces the concept of auxiliary equipment; students can also analyze target audience through different case studies. During workshops, it helps students indicate users’ pain points and develop the solutions. The goal of this course is to come out with the resources to help people with disabilities or the elderly."
+    },
+    "id": "339152",
+    "name": {
+      "zh": "創新設計與智慧輔具",
+      "en": "Assistive technology: research & application"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳圳卿",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11334",
+        "code": "11334"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "光華館400",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=525",
+        "code": "525"
+      }
+    ],
+    "people": "10",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02004",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339152&code=11334"
+    ]
+  },
+  {
+    "code": "6607002",
+    "description": {
+      "zh": "本課程提供學生們一個可以改善他們的科技英文寫作技巧的環境，內容將包括：1. 扼要複習英文句型與文法，2. 撰寫論文常發生的錯誤，3. 分享論文審稿的經驗，4. 提供淺顯實用的寫作原則，5. 同儕分享讀論文與寫作的錯誤心得。",
+      "en": "This course provides an environment to help students improving their English skill in writing technical paper or thesis. What will be included in the class are: 1. concise review of sentence structure and grammar, 2. frequent writing mistakes of paper or report, 3. share of the experience in paper review, 4. offering simple and practical writing principles, 5. share the experience in reading and writing papers."
+    },
+    "id": "339172",
+    "name": {
+      "zh": "英文科技論文寫作",
+      "en": "Technical English Writing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電博所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3080",
+        "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3084",
+        "code": "3084"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳清祺",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11684",
+        "code": "11684"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "6",
+        "7",
+        "8"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607002",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339172&code=11684"
+    ]
+  },
+  {
+    "code": "5705503",
+    "description": {
+      "zh": "多變量分析及處理二項以上變項的統計，分析技術、常用于管理，經濟，財務，會計等之分析・課程內容：因素分析、主成份分析、複迴歸分析、區別分析、多變項異數分析典型相關分析、集群分析、聯合分析、直線方程式模式",
+      "en": "Multivariate analysis is to analyze more then two variables simultaneously, and to be able to apply to management, economics, accounting…etc. The contents of the course: factor analysis, principal component analysis, multiple regression analysis, multiple discriminate analysis, multiple analysis of variance, canonical correlation analysis, cluster analysis, conjoint analysis, SEM…etc."
+    },
+    "id": "339176",
+    "name": {
+      "zh": "多變量分析",
+      "en": "Multivariate analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3055",
+        "code": "3055"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "高淩菁",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11492",
+        "code": "11492"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "5",
+        "6",
+        "7"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705503",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339176&code=11492"
     ]
   }
 ]

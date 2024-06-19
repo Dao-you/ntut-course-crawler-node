@@ -1747,11 +1747,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "6/18 停開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3723057",
     "syllabusLinks": []
   },
@@ -5256,7 +5256,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "單號 - 暑假 6/29~8/24 開課 每週六上課六小時",
+    "notes": "單號 - 暑假 6/29~8/24 開課 每週六上課六小時，六教 626",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502111",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336898&code=10822"
@@ -17865,11 +17865,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "工管四甲乙合開",
+    "notes": "工管四甲乙合開，6/18 停開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3724023",
     "syllabusLinks": []
   },
@@ -19978,7 +19978,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "雙號 - 暑假 6/29~8/24 開課 每週六上課六小時",
+    "notes": "雙號 - 暑假 6/29~8/24 開課 每週六上課六小時，六教 725",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502111",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338681&code=23322"
@@ -21498,5 +21498,124 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275015",
     "syllabusLinks": []
+  },
+  {
+    "code": "C205030",
+    "description": {
+      "zh": "本課程主要在讓學生藉由規劃與實施一項公益活動，以實踐企業倫理與社會責任，並藉以思考在推展企業倫理、企業社會責任與公司治理等理念時，如何能落實於企業的體制之中，以建立一個永續發展的企業價值體系。",
+      "en": "This course is designed to enable students to implement corporate ethics and social responsibility by planning and implementing a public welfare activity. The students should think about how to implement corporate ethics, corporate social responsibility, and corporate governance concepts. In order to establish a sustainable enterprise value system."
+    },
+    "id": "338829",
+    "name": {
+      "zh": "企業倫理與社會責任實踐",
+      "en": "Corporate Ethics and Social Responsibility Practice"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "資財EMBA桃園",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3107",
+        "code": "3107"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
+      },
+      {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11440",
+        "code": "11440"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "鍾建屏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
+        "code": "12342"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "2"
+      ]
+    },
+    "classroom": [],
+    "people": "27",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338829&code=11440"
+    ]
+  },
+  {
+    "code": "4505208",
+    "description": {
+      "zh": "本課程之目的為訓練學生有關電子設備散熱設計之相關原理與技術。介紹各項電子元件之發熱量、溫度與元件穩定性之關係，熱對流、熱輻射等熱傳原理在電子設備散熱之的應用法則；解說電子設備散熱器之演進與設計原理，如：熱管之原理與演進、小型風散之特性與設計原則等。探討電子設備的熱阻抗分析、溫度計算、熱應力分析，並介紹相關電腦輔助分析軟體。",
+      "en": "This course introduces principles and techniques of thermal management and cooling design of electronic equipments.  Subjects of this course include: thermal and physical properties of electronic components, thermo-fluid phenomena and principles of thermal management for electronic devices, and the evolution of cooling devices such as heat pipes and micro fans, discussion of analysis methodologies and computer software of thermal management problems including thermal resistances, temperature gradient, and thermal stress."
+    },
+    "id": "339053",
+    "name": {
+      "zh": "電子冷卻技術",
+      "en": "Electronic Cooling Techniques"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職能源所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3090",
+        "code": "3090"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11083",
+        "code": "11083"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "4",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "日職合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4505208",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339053&code=11083"
+    ]
   }
 ]
