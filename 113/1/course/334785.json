@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "吳聲昌",
+    "email": "arron1201@gmail.com",
+    "latestUpdate": "2024-06-20 12:11:46",
+    "objective": "The course helps stdents to understand the knowledge of investment. It includes security. Future option and CAPM Models.\nThe market-leading undergraduate investments textbook, Essentials of Investments by Bodie, Kane, and Marcus, continues to evolve along with the changes in the financial markets yet remains organized around one basic theme—that security markets are nearly efficient",
+    "schedule": "Week 1\t\tChapter 1: Investments: Background and Issues\nWeek 2\t\tChapter 2: Asset Classes and Financial Instrument\nWeek 3\t\tChapter 3: Securities Markets\nWeek 4\t\tChapter 4: Mutual Funds and Other Investment Companies\nWeek 5\t\tChapter 5: Risk, Return, and the Historical Record\nWeek 6\t\tChapter 6: Efficient Diversification\nWeek 7\t\tChapter 7: Capital Asset Pricing and Arbitrage Pricing Theory\nWeek 8\t\tChapter 8: The Efficient Market Hypothesis\nWeek 9\t\tmidterm exam\nWeek 10\t\tChapter 9: Behavioral Finance and Technical Analysis\nWeek 11\t\tChapter 10: Bond Prices and Yields\nWeek 12\t\tChapter 11: Managing Bond Portfolios\nWeek 13\t\tChapter 12: Macroeconomic and Industry Analysis\nWeek 14\t\tChapter 13: Equity Valuation\nWeek 15\t\tChapter 14: Financial Statement Analysis\nWeek 16\t\tChapter 15: Options Markets\nWeek 17\t\tChapter 16: Option Valuation\nWeek 18\t\tfinal exam",
+    "scorePolicy": "Grade = normal grade (40%, class discussion + attendance rate) + midterm exam (30%) + final exam (30%)",
+    "materials": "Bodie/Essentials of Investments/12e/2022",
+    "consultation": "E-mail : arron1201@gmail.comMobile : 0932-245932Line ID : arronwu1201",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "E-mail : arron1201@gmail.comMobile : 0932-245932Line ID : arronwu1201School teams link",
+    "foreignLanguageTextbooks": true
+  }
+]

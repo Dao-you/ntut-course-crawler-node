@@ -23982,7 +23982,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505153",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337950&code=12242"
@@ -38049,5 +38049,294 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339176&code=11492"
     ]
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "339215",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3106",
+        "code": "3106"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "339216",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4505003",
+    "description": {
+      "zh": "專題報告、專題演講、研究小組討論",
+      "en": "Literature Study, Seminar, Group meeting."
+    },
+    "id": "339217",
+    "name": {
+      "zh": "書報討論",
+      "en": "Engineering Seminar"
+    },
+    "stage": "2",
+    "credit": "1.0",
+    "hours": "2",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "能源所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3049",
+        "code": "3049"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩博合開課程，碩士班請選本課號",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C103003",
+    "description": {
+      "zh": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。",
+      "en": "This course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning."
+    },
+    "id": "339222",
+    "name": {
+      "zh": "先進材料化學特論",
+      "en": "Special Topics on Advanced Materials Chemistry"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2595",
+        "code": "2595"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李文亞",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11765",
+        "code": "11765"
+      },
+      {
+        "name": "李韋皞",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12279",
+        "code": "12279"
+      },
+      {
+        "name": "李紹先",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12175",
+        "code": "12175"
+      },
+      {
+        "name": "陳秀慧",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12181",
+        "code": "12181"
+      },
+      {
+        "name": "陳柏均",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11820",
+        "code": "11820"
+      },
+      {
+        "name": "楊詠荍",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12341",
+        "code": "12341"
+      },
+      {
+        "name": "鍾仁傑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11357",
+        "code": "11357"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "N",
+        "5",
+        "6"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "工程學院（大)、（研）合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C103003",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C103007",
+    "description": {
+      "zh": "本課程從 IPCC AR6 的氣候變遷科學事實出發，引導學生了解氣候變遷的重要性以及未來人類發展如何與氣候變遷結合。同時介紹組織實體如何計算其活動的溫室氣體排放量。本課程將整合目前國際通用方法 GHG protocol 與國際標準 ISO 14064-1: 2018 為架構基礎，並佐以 IPCC 2006 與 2019 修訂之計算理論，並介紹我國環境部的計算要求和其他相關經濟體、國際組織可參考之資料，來完成一份溫室氣體計算。",
+      "en": "This course starts with the scientific facts of climate change from IPCC AR6, guiding students to understand the importance of climate change and how future human development can be integrated with climate change. It also introduces how organizational entities can calculate their greenhouse gas emissions. The course integrates the internationally used GHG Protocol and the international standard ISO 14064-1: 2018 as the framework basis, supplemented by the calculation theories revised in IPCC 2006 and 2019. It also introduces the calculation requirements of the Environmental Protection Department of our country and other relevant economic bodies and international organizations for reference, to complete a greenhouse gas calculation."
+    },
+    "id": "339223",
+    "name": {
+      "zh": "氣候變遷與溫室氣體盤查",
+      "en": "Climate change and greenhouse gases inventory"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工程學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2595",
+        "code": "2595"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "工程學院（大)、（研）合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C103007",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C503001",
+    "description": {
+      "zh": "本課程致力於深入研究各種低軌道衛星地面站系統的複雜結構和相關元素。課程首先介紹低軌道衛星地面站系統的基本概念，包括其在衛星通訊中的角色和功能。學生將深入了解地面站系統在支援低軌道衛星通訊方面的重要性。接著，課程將詳細介紹不同類型的地面站，如海事衛星、GEO/LEO 地面站以及固定式 / 移動式地面站。學生將學會分析這些地面站的特點、應用場景，以及相應的技術要求。課程的內容還包括天線次系統，涵蓋天線的種類、原理和性能特點。同時，課程將探討 LOC（地面中控系統）的功能和重要性，使學生瞭解地面站系統的集中控制和管理。接下來，學生也將深入研究資料介接網路，包括資料的傳輸方式、協定和安全性，以確保地面站系統的有效運作。最後，課程將關注其他支援系統，包括電源、控制和機構等，使學生全面理解地面站系統的整體結構和運作機制。透過實例分析，學生將獲得地面站系統架構解析的實際能力。",
+      "en": "This course explores the complex structure of various Low Earth Orbit (LEO) satellite ground station systems, introducing fundamental concepts and their roles in satellite communication. Students gain a profound understanding of the pivotal role these systems play in supporting LEO satellite communication. The course analyzes different ground station types, including maritime satellites, GEO/LEO ground stations, and fixed/mobile ground stations, detailing their characteristics, applications, and technical requirements. It also covers antenna subsystems, the Local Operations Center (LOC), data interface networks, and supporting systems like power and control. Practical case analyses help students develop skills in deciphering ground station system architecture."
+    },
+    "id": "339233",
+    "name": {
+      "zh": "地面站系統架構解析",
+      "en": "Ground Station System Architecture"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C503001",
+    "syllabusLinks": []
   }
 ]
