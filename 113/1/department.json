@@ -259,6 +259,21 @@
         "href": "Subj.jsp?format=-4&year=113&sem=1&code=2561"
       },
       {
+        "id": "2767",
+        "name": "電資學院(大)",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=2767"
+      },
+      {
+        "id": "2772",
+        "name": "機電學院(大)",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=2772"
+      },
+      {
+        "id": "3006",
+        "name": "管理學院(大)",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=3006"
+      },
+      {
         "id": "2155",
         "name": "大二專業英文(一)",
         "href": "Subj.jsp?format=-4&year=113&sem=1&code=2155"
@@ -297,6 +312,11 @@
         "id": "2595",
         "name": "工程學院(研)",
         "href": "Subj.jsp?format=-4&year=113&sem=1&code=2595"
+      },
+      {
+        "id": "2882",
+        "name": "電資學院(研)",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=2882"
       }
     ],
     "category": "校院級"
