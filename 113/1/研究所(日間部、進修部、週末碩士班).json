@@ -6039,7 +6039,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705504",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336022&code=11117"
@@ -16596,32 +16596,22 @@
         "code": "3096"
       }
     ],
-    "teacher": [
-      {
-        "name": "陳國樑",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23152",
-        "code": "23152"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [
-        "A",
-        "B",
-        "C"
-      ],
+      "thu": [],
       "fri": [],
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "0624 停開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705511",
     "syllabusLinks": []
   },
@@ -36944,7 +36934,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "【全英語】",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05118",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338781&code=11297",
@@ -38339,6 +38329,88 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C504002",
+    "description": {
+      "zh": "本課程深入探討低軌道衛星系統和地面站行動通訊網路的整合應用。課程內容包括低軌道衛星的基本原理、系統設計，以及地面站行動通訊網路的架構和技術。學生將透過理論學習和實務操作，深入瞭解這兩個領域的相互關聯性，並學會整合應用這些技術於實際通訊系統。此外，課程亦包涵低軌道衛星系統的運作原理，包括衛星軌道、通訊協定和數據傳輸技術。以及地面站行動通訊網路的設計和運營，涵蓋行動通訊標準、網路架構和協定等方面的知識。課程將以專題形式進行，學生將參與低軌道衛星系統和地面站行動通訊網路的整合專案。透過實作，他們將應用所學的理論知識，設計出具有實用價值的整合系統。最終，本課程的目標是培養學生在低軌道衛星通訊和行動通訊網路整合方面的專業能力，使他們具備未來衛星通訊發展的技術素養。",
+      "en": "This course explores the integration of Low Earth Orbit (LEO) satellite systems and ground station mobile communication networks. Topics include LEO satellite principles, system design, and the architecture of ground station mobile communication networks. Through theory and hands-on practice, students gain a deep understanding of these interconnected fields and learn to apply these technologies in real communication systems. The course features project-based learning, allowing students to participate in integrated projects and apply their theoretical knowledge to design practical systems. The ultimate goal is to develop students' professional expertise in integrating LEO satellite communication and mobile networks for future advancements in satellite communication."
+    },
+    "id": "339234",
+    "name": {
+      "zh": "LEO 與地面站網路整合專題",
+      "en": "LEO and Ground Station Communication Networks"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504002",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C504003",
+    "description": {
+      "zh": "本課程旨在培養學生物聯網智慧應用與實務技能，包含物聯網基礎、智慧應用、整合平台、工業物聯網、數據分析、數據圖示化等實用內容。同時，探討衛星物聯網的全球數據傳輸技術，包括物聯網基礎、通信原理、系統構建、傳感器技術、安全和應用案例。",
+      "en": "This course aims to cultivate students' skills in practical applications of IoT, covering foundational concepts, smart applications, integration platforms, industrial IoT, data analysis, and data visualization. Additionally, it explores the global data transmission techniques of satellite IoT, encompassing fundamentals, communication principles, system construction, sensor technology, security, and application case studies."
+    },
+    "id": "339235",
+    "name": {
+      "zh": "衛星物聯網",
+      "en": "Satellite IoT"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504003",
     "syllabusLinks": []
   }
 ]

@@ -9384,32 +9384,22 @@
         "code": "3096"
       }
     ],
-    "teacher": [
-      {
-        "name": "陳國樑",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23152",
-        "code": "23152"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [
-        "A",
-        "B",
-        "C"
-      ],
+      "thu": [],
       "fri": [],
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "0624 停開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705511",
     "syllabusLinks": []
   },
@@ -21623,5 +21613,102 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339053&code=11083"
     ]
+  },
+  {
+    "code": "5705443",
+    "description": {
+      "zh": "本課程大量的個案來說明企業管理的理論觀念以及分析方法，讓學生對企業管理有一定程度的了解，課程內容將以國內與國外著名案例為基礎，主題包括策略管理，行銷管理，組織領導，科技管理等。課程將採用參與式個案為教學方法，個案來源為哈佛商學院以及光華管理個案資料庫。",
+      "en": "This course uses Harvard style case method to enhance MBA students' business concepts and theories. The topics include: strategy management, marketing management, leadership, and technology management. The case materials will be adapted from Harvard Business School and KMCC center."
+    },
+    "id": "339081",
+    "name": {
+      "zh": "企業個案研討",
+      "en": "Business Case Study"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3096",
+        "code": "3096"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
+      },
+      {
+        "name": "簡德年",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=22653",
+        "code": "22653"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "14",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705443",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "339215",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3106",
+        "code": "3106"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
   }
 ]
