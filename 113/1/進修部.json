@@ -15399,7 +15399,13 @@
         "code": "3088"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林利國",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24567",
+        "code": "24567"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],

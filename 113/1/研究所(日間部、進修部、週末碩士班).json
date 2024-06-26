@@ -26472,7 +26472,13 @@
         "code": "3088"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林利國",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24567",
+        "code": "24567"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -27443,7 +27449,13 @@
         "code": "3047"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "康德龍",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24566",
+        "code": "24566"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -38244,7 +38256,9 @@
     "language": "",
     "notes": "工程學院（大)、（研）合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339222&code=12341"
+    ]
   },
   {
     "code": "C103007",
