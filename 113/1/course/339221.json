@@ -1,15 +1,67 @@
 [
   {
+    "name": "李紹先",
+    "email": "ssli@ntut.edu.tw",
+    "latestUpdate": "2024-06-27 14:26:33",
+    "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
+    "schedule": "週次\t日期\t課程內容\t授課教師\t授課方式\n1\t9/13\t液晶高分子材料於 5G 的應用\t陳秀慧老師 (分子)\t\n2\t9/20\t軟性電子材料\t李文亞老師 (化工)\t\n3\t9/27\t電子皮膚\t李文亞老師 (化工)\t\n4\t10/4\t奈米材料設計應用於電化學水分解系統\t林律吟老師 (化工)\t\n5\t10/18\t國慶日連假\t無\t\n6\t10/25\t奈米材料設計應用於電化學儲能系統\t林律吟老師 (化工)\t\n7\t10/27\t奈米生醫材料\t鍾仁傑老師 (化工)\t\n8\t11/01\t生物感測器\t鍾仁傑老師 (化工)\t\n9\t11/08\t期中考試週\t\t\n10\t11/15\t無機聚合技術於高性能材料之應用\t李韋皞老師 (材資)\t\n11\t11/22\t無機聚合技術於陶瓷合成之應用\t李韋皞老師 (材資)\t\n12\t11/29\tbioceramics and its applications\t楊詠荍老師 (材資)\t\n13\t12/06\tbioceramics and its applications\t楊詠荍老師 (材資)\t\n14\t12/13\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\t\n15\t12/20\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\t\n16\t12/27\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\t\n17\t01/03\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\t\n18\t01/10\t期末考試週",
+    "scorePolicy": "學期成績會採所有授課老師評分的平均 （作業或考試 由當週授課老師決定）",
+    "materials": "使用自編教材 / Use of self-made materials",
+    "consultation": "teams email: ssli@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "陳秀慧",
+    "email": "a0922156879@gmail.com",
+    "latestUpdate": "2024-06-27 12:27:05",
+    "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
+    "schedule": "週次\t課程內容\t授課教師\n1\t液晶高分子材料於 5G 的應用\t陳秀慧老師 (分子)\n2\t軟性電子材料\t李文亞老師 (化工)\n3\t電子皮膚\t李文亞老師 (化工)\n4\t奈米材料設計應用於電化學水分解系統\t林律吟老師 (化工)\n5\t國慶日連假\t\n6\t奈米材料設計應用於電化學儲能系統\t林律吟老師 (化工)\n7\t奈米生醫材料\t鍾仁傑老師 (化工)\n8\t生物感測器\t鍾仁傑老師 (化工)\n9\t期中考試週\t\n10\t無機聚合技術於高性能材料之應用\t李韋皞老師 (材資)\n11\t無機聚合技術於陶瓷合成之應用\t李韋皞老師 (材資)\n12\tbioceramics and its applications\t楊詠荍老師 (材資)\n13\tbioceramics and its applications\t楊詠荍老師 (材資)\n14\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\n15\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\n16\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\n17\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\n18\t期末考試週",
+    "scorePolicy": "各個主題老師進行評分 / 請假請務必依學校規定申請",
+    "materials": "自編講義",
+    "consultation": "請聯絡當週上課老師，如有其他疑問也可寫信詢問 hhchen@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "陳柏均",
+    "email": "cpc@mail.ntut.edu.tw",
+    "latestUpdate": "2024-06-28 08:54:01",
+    "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
+    "schedule": "1\t9/13\t液晶高分子材料於 5G 的應用\t陳秀慧老師 (分子)\t\n2\t9/20\t軟性電子材料\t李文亞老師 (化工)\t\n3\t9/27\t電子皮膚\t李文亞老師 (化工)\t\n4\t10/4\t奈米材料設計應用於電化學水分解系統\t林律吟老師 (化工)\t\n5\t10/18\t國慶日連假\t無\t\n6\t10/25\t奈米材料設計應用於電化學儲能系統\t林律吟老師 (化工)\t\n7\t10/27\t奈米生醫材料\t鍾仁傑老師 (化工)\t\n8\t11/01\t生物感測器\t鍾仁傑老師 (化工)\t\n9\t11/08\t期中考試週\t\t\n10\t11/15\t無機聚合技術於高性能材料之應用\t李韋皞老師 (材資)\t\n11\t11/22\t無機聚合技術於陶瓷合成之應用\t李韋皞老師 (材資)\t\n12\t11/29\tbioceramics and its applications\t楊詠荍老師 (材資)\t\n13\t12/06\tbioceramics and its applications\t楊詠荍老師 (材資)\t\n14\t12/13\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\t\n15\t12/20\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\t\n16\t12/27\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\t\n17\t01/03\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)",
+    "scorePolicy": "授課老師共同評分",
+    "materials": "課程講義",
+    "consultation": "appointment by email",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "楊詠荍",
     "email": "Vicki.yeung@mail.ntut.edu.tw",
-    "latestUpdate": "2024-06-25 13:53:56",
+    "latestUpdate": "2024-06-27 12:55:23",
     "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
-    "schedule": "液晶高分子材料於 5G 的應用\n液晶高分子材料於 5G 的應用\n中秋節\n自修復型高分子設計、製備與應用\n軟性電子材料\n電子皮膚\n奈米生醫材料\n生物感測器\n期中考試週\n奈米材料設計應用於電化學水分解系統\n奈米材料設計應用於電化學儲能系統\nbioceramics and its applications\nbioceramics and its applications\n電化學製程與分析技術於生醫電子及能源之應用\n電化學製程與分析技術於生醫電子及能源之應用\n二維原子層材料製程與光電元件之應用 \n二維原子層材料製程與光電元件之應用 \n期末考試週",
+    "schedule": "液晶高分子材料於 5G 的應用\n軟性電子材料\n電子皮膚\n奈米材料設計應用於電化學水分解系統\n國慶日連假\n奈米材料設計應用於電化學儲能系統\n奈米生醫材料\n生物感測器\n期中考試週\n無機聚合技術於高性能材料之應用\n無機聚合技術於陶瓷合成之應用\nbioceramics and its applications\nbioceramics and its applications\n電化學製程與分析技術於生醫電子及能源之應用\n電化學製程與分析技術於生醫電子及能源之應用\n二維原子層材料製程與光電元件之應用 \n二維原子層材料製程與光電元件之應用 \n期末考試週",
     "scorePolicy": "As discussed in class",
     "materials": "As shown in class",
     "consultation": "Please contact me at vicki.yeung@mail.ntut.edu.tw if you have any questions.",
     "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "",
     "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "鍾仁傑",
+    "email": "rjchung@mail.ntut.edu.tw",
+    "latestUpdate": "2024-06-27 15:40:59",
+    "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
+    "schedule": "週次\t日期\t課程內容\t授課教師\t授課方式\n1\t9/13\t液晶高分子材料於 5G 的應用\t陳秀慧老師 (分子)\t\n2\t9/20\t軟性電子材料\t李文亞老師 (化工)\t\n3\t9/27\t電子皮膚\t李文亞老師 (化工)\t\n4\t10/4\t奈米材料設計應用於電化學水分解系統\t林律吟老師 (化工)\t\n5\t10/18\t國慶日連假\t無\t\n6\t10/25\t奈米材料設計應用於電化學儲能系統\t林律吟老師 (化工)\t\n7\t10/27\t奈米生醫材料\t鍾仁傑老師 (化工)\t\n8\t11/01\t生物感測器\t鍾仁傑老師 (化工)\t\n9\t11/08\t期中考試週\t\t\n10\t11/15\t無機聚合技術於高性能材料之應用\t李韋皞老師 (材資)\t\n11\t11/22\t無機聚合技術於陶瓷合成之應用\t李韋皞老師 (材資)\t\n12\t11/29\tbioceramics and its applications\t楊詠荍老師 (材資)\t\n13\t12/06\tbioceramics and its applications\t楊詠荍老師 (材資)\t\n14\t12/13\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\t\n15\t12/20\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\t\n16\t12/27\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\t\n17\t01/03\t二維原子層材料製程與光電元件之應用 \t李紹先老師 (材資)\t\n18\t01/10\t期末考試週",
+    "scorePolicy": "鍾老師部分\n出席 (20%)\n一次小考 (80%)",
+    "materials": "自編教材 / Use of self-made materials",
+    "consultation": "Please email to Professor Chung, rjchung@mail.ntut.edu.tw.",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG15：陸域生命（Life on Land）",
+    "remarks": "Will announce in the i-Campus website if any situation for on-line course.SDG 3Good Health and Well-Being 確保健康的生活方式，促進各年齡人群的福祉。SDG 15Life on Land 保育和永續利用陸域生態系統，永續管理森林，防治沙漠化，防止土地劣化，遏止生物多樣性的喪失。",
+    "foreignLanguageTextbooks": false
   }
 ]

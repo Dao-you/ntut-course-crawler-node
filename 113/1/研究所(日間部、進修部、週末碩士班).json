@@ -1435,7 +1435,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1800,7 +1806,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=451",
+        "code": "451"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3230,7 +3242,8 @@
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=335804&code=10996"
+      "ShowSyllabus.jsp?snum=335804&code=10996",
+      "ShowSyllabus.jsp?snum=335804&code=20407"
     ]
   },
   {
@@ -5413,7 +5426,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5466,7 +5485,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9186,7 +9211,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教426",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=433",
+        "code": "433"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9244,7 +9275,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教504",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=61",
+        "code": "61"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9513,7 +9550,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教426",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=433",
+        "code": "433"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9841,7 +9884,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=451",
+        "code": "451"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10112,7 +10161,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=451",
+        "code": "451"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10813,7 +10868,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11053,7 +11114,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12335,7 +12402,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20784,7 +20857,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -30196,7 +30275,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=451",
+        "code": "451"
+      }
+    ],
     "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33032,7 +33117,8 @@
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338511&code=10996"
+      "ShowSyllabus.jsp?snum=338511&code=10996",
+      "ShowSyllabus.jsp?snum=338511&code=20407"
     ]
   },
   {
@@ -33262,6 +33348,11 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "機械自動化外生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3071",
+        "code": "3071"
       },
       {
         "name": "機電博所",
@@ -34218,6 +34309,11 @@
         "name": "機電所",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3046",
         "code": "3046"
+      },
+      {
+        "name": "機械自動化外生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3071",
+        "code": "3071"
       }
     ],
     "teacher": [],
@@ -34245,7 +34341,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(新聘專案教師)",
+    "notes": "機電所和機械自動化外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605027",
     "syllabusLinks": []
   },
@@ -37009,7 +37105,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37503,7 +37605,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37888,7 +37996,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38230,6 +38344,11 @@
         "code": "12175"
       },
       {
+        "name": "林律吟",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11727",
+        "code": "11727"
+      },
+      {
         "name": "陳秀慧",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=12181",
         "code": "12181"
@@ -38271,7 +38390,11 @@
     "notes": "工程學院（大)、（研）合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=339222&code=12341"
+      "ShowSyllabus.jsp?snum=339222&code=12175",
+      "ShowSyllabus.jsp?snum=339222&code=12181",
+      "ShowSyllabus.jsp?snum=339222&code=11820",
+      "ShowSyllabus.jsp?snum=339222&code=12341",
+      "ShowSyllabus.jsp?snum=339222&code=11357"
     ]
   },
   {
