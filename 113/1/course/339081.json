@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "簡德年",
+    "email": "tenienchien@gmail.com",
+    "latestUpdate": "2024-07-01 16:04:09",
+    "objective": "本課程大量的個案來說明企業管理的理論觀念以及分析方法，讓學生對企業管理有一定程度的了解，課程內容將以國內與國外著名案例為基礎，主題包括策略管理，行銷管理，組織領導，科技管理等。課程將採用參與式個案為教學方法，個案來源為哈佛商學院以及光華管理個案資料庫。\nThis course uses Harvard style case method to enhance MBA students' business concepts and theories. The topics include: strategy management, marketing management, leadership, and technology management. The case materials will be adapted from Harvard Business School and KMCC center.",
+    "schedule": "1.\t課程說明與介紹\n2.\t企業個案分析模型\n3.\t企業個案分析模型\n4.\t企業個案分析模型\n5.\t光華個案 (A)\n6.\t光華個案 (B)\n7.\t光華個案 (C)\n8.\t光華個案 (D)\n9.\t光華個案 (E)\n10.\t期中個案分享\n11.\t期中個案分享\n12.\t哈佛個案 (A)\n13.\t哈佛個案 (B)\n14.\t哈佛個案 (C)\n15.\t哈佛個案 (D)\n16.\t哈佛個案 (E)\n17.\t期末個案競賽\n18.\t期末個案競賽",
+    "scorePolicy": "案例及課堂參與 30%\n作業及分組討論 30%\n個案分析期末報告 40%",
+    "materials": "The prepare slide and cases will be furnished in the class.",
+    "consultation": "每周三 14:00-18:00 office hours.",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
