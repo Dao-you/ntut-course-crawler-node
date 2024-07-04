@@ -2024,7 +2024,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "計中電腦教室",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3736034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335586&code=11552"
@@ -15375,9 +15375,9 @@
     },
     "classroom": [
       {
-        "name": "共同412",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=156",
-        "code": "156"
+        "name": "共同413",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=157",
+        "code": "157"
       }
     ],
     "people": "0",
@@ -26006,7 +26006,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "共同413",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=157",
+        "code": "157"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
