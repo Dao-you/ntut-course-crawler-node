@@ -10115,7 +10115,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=451",
+        "code": "451"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10168,7 +10174,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=451",
+        "code": "451"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
