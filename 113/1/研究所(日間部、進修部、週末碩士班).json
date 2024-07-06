@@ -38481,12 +38481,22 @@
         "code": "2882"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林信標",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10823",
+        "code": "10823"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "A",
+        "B",
+        "C"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -38496,7 +38506,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "大研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503001",
     "syllabusLinks": []
   },
@@ -38522,53 +38532,22 @@
         "code": "2882"
       }
     ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504002",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C504003",
-    "description": {
-      "zh": "本課程旨在培養學生物聯網智慧應用與實務技能，包含物聯網基礎、智慧應用、整合平台、工業物聯網、數據分析、數據圖示化等實用內容。同時，探討衛星物聯網的全球數據傳輸技術，包括物聯網基礎、通信原理、系統構建、傳感器技術、安全和應用案例。",
-      "en": "This course aims to cultivate students' skills in practical applications of IoT, covering foundational concepts, smart applications, integration platforms, industrial IoT, data analysis, and data visualization. Additionally, it explores the global data transmission techniques of satellite IoT, encompassing fundamentals, communication principles, system construction, sensor technology, security, and application case studies."
-    },
-    "id": "339235",
-    "name": {
-      "zh": "衛星物聯網",
-      "en": "Satellite IoT"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
+    "teacher": [
       {
-        "name": "電資學院(研)",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2882",
-        "code": "2882"
+        "name": "莊嶸騰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12500",
+        "code": "12500"
       }
     ],
-    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "7",
+        "8",
+        "9"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -38578,8 +38557,8 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504003",
+    "notes": "大研合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504002",
     "syllabusLinks": []
   },
   {
@@ -38604,12 +38583,22 @@
         "code": "2882"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "廖天豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12448",
+        "code": "12448"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [],
+      "wed": [
+        "7",
+        "8",
+        "9"
+      ],
       "thu": [],
       "fri": [],
       "sat": []
@@ -38619,7 +38608,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "大研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C504005",
     "syllabusLinks": []
   },
@@ -38672,6 +38661,57 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705515",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705516",
+    "description": {
+      "zh": "本課程在使學生藉由瞭解先進與科技產品發展與運用未來市場策略定位的領域有著密不可分的關係。課程內容主要藉由當前先進國家的科技產品發展的相關課題，以及我國身處整體環境的概述，讓同學進一步了解先進產業及企業之科技產品市場定位與策略有一基本的認知，提供同學從進階科技產品、市場定位、管理策略的課程用不同角度瞭解科技產品於市場上定位及推動發展策略。",
+      "en": "This course is inseparable from the field of enabling students to understand the development of advanced and technological products and the application of future market strategy positioning. The content of the course mainly uses the current topics related to the development of technological products in advanced countries and an overview of the overall environment in which our country is located, so that students can further understand the market positioning and strategies of technological products of advanced industries and enterprises and have a basic understanding, and provide students with a basis for further study. Courses on high-end technology products, market positioning, and management strategies use different perspectives to understand the positioning of technology products in the market and promote development strategies."
+    },
+    "id": "343461",
+    "name": {
+      "zh": "進階科技產品市場定位與策略",
+      "en": "Advanced technology product market positioning and strategy"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3096",
+        "code": "3096"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳國樑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23152",
+        "code": "23152"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705516",
     "syllabusLinks": []
   }
 ]
