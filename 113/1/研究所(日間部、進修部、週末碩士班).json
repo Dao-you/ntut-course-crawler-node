@@ -38508,7 +38508,9 @@
     "language": "",
     "notes": "大研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339233&code=10823"
+    ]
   },
   {
     "code": "C504002",
@@ -38559,7 +38561,9 @@
     "language": "",
     "notes": "大研合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C504002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339234&code=12500"
+    ]
   },
   {
     "code": "C504005",
