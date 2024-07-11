@@ -10746,7 +10746,13 @@
         "code": "3068"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "楊雅婷",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24576",
+        "code": "24576"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -12171,47 +12177,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336640&code=12460"
     ]
-  },
-  {
-    "code": "AY25002",
-    "description": {
-      "zh": "主要可以分成建模與模擬兩部分。系統建模是基於系統理論設計的工具，主要用於描述、理解和預測系統中組成要素之間的關係，以及如何彼此影響系統行為的機制。模擬是基於建模的一種衍生技術，它可以通過模擬現實系統中可觀察到的行為，確定隱藏在系統中的規則、參數和交互作用，以為其制定一套有效的策略，用以預測未來可能的風險。課程中包含，系統建模簡介、功能建模、結構建模、物理建模與對應的模擬方法。",
-      "en": "System modeling is a tool based on system theory designed to describe, understand, and predict the relationships among the components of a system and the mechanisms that influence each other's behavior. Simulation is a derivative technique based on modeling that identifies the rules, parameters, and interactions hidden in a system by simulating observable behavior in a real system in order to develop an effective strategy for predicting possible future risks. This course includes an introduction to system modeling, functional modeling, structural modeling, physical modeling and corresponding simulation methods."
-    },
-    "id": "336641",
-    "name": {
-      "zh": "系統建模與模擬",
-      "en": "Systems Modeling and Simulation"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "太空所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3075",
-        "code": "3075"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "不開課【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AY25002",
-    "syllabusLinks": []
   },
   {
     "code": "C025001",
@@ -38719,5 +38684,57 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705516",
     "syllabusLinks": []
+  },
+  {
+    "code": "C005006",
+    "description": {
+      "zh": "協助學員在完成訓練後：1. 對半導體機台的設計原理、操作與預防保養有基礎的概念。2. 對半導體設備實務工作有初步的了解。3. 能結合學校所學理論與產業實務。",
+      "en": "After completing the training, the trainees will: 1.Know the basic concept of the design principle, operation and preventive maintenance about semiconductor tools.2.Have a preliminary understanding of what an equipment engineer does in Fab.3.Be able to combine the theories learned from the school with industrial practices."
+    },
+    "id": "343494",
+    "name": {
+      "zh": "半導體機台基礎",
+      "en": "Tool Introduction in Semiconductor"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2773",
+        "code": "2773"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾百由",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11018",
+        "code": "11018"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "1",
+        "2"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "密集授課，至台積電，詳教學大綱",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005006",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343494&code=11018"
+    ]
   }
 ]
