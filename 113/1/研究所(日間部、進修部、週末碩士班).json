@@ -34377,7 +34377,13 @@
         "code": "3071"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林世皓",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12479",
+        "code": "12479"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
