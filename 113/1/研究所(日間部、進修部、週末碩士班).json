@@ -16569,6 +16569,11 @@
     ],
     "teacher": [
       {
+        "name": "吳忠敏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24581",
+        "code": "24581"
+      },
+      {
         "name": "李鎮宇",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=12246",
         "code": "12246"
@@ -16600,6 +16605,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337331&code=24581",
       "ShowSyllabus.jsp?snum=337331&code=12246",
       "ShowSyllabus.jsp?snum=337331&code=12532"
     ]
@@ -16880,7 +16886,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16935,7 +16947,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16988,7 +17006,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27320,7 +27344,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=543",
+        "code": "543"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
