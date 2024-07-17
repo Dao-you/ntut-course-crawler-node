@@ -4311,7 +4311,9 @@
     "language": "",
     "notes": "設計館 301 電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3872102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336873&code=24505"
+    ]
   },
   {
     "code": "3872104",

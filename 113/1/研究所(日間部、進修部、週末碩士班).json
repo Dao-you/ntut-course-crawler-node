@@ -2840,9 +2840,9 @@
     ],
     "teacher": [
       {
-        "name": "陳志鏗",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11937",
-        "code": "11937"
+        "name": "蔣欣翰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12354",
+        "code": "12354"
       }
     ],
     "time": {
@@ -2870,9 +2870,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=335739&code=11937"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "4406002",
