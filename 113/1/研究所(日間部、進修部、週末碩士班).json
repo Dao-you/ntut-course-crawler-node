@@ -10777,7 +10777,9 @@
     "language": "",
     "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505108",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336545&code=24576"
+    ]
   },
   {
     "code": "AB05004",
@@ -35594,6 +35596,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "陸一平",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24467",
+        "code": "24467"
+      },
       {
         "name": "陸元平",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11132",
