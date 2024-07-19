@@ -2870,7 +2870,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335739&code=12354"
+    ]
   },
   {
     "code": "4406002",
@@ -34951,9 +34953,9 @@
     ],
     "teacher": [
       {
-        "name": "莊嶸騰",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12500",
-        "code": "12500"
+        "name": "裴重恩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12558",
+        "code": "12558"
       }
     ],
     "time": {
@@ -34976,9 +34978,7 @@
     "language": "",
     "notes": "英語授課，新聘教師開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15017",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338686&code=12500"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "AY15018",
@@ -35067,9 +35067,9 @@
     ],
     "teacher": [
       {
-        "name": "莊嶸騰",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12500",
-        "code": "12500"
+        "name": "裴重恩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12558",
+        "code": "12558"
       }
     ],
     "time": {
@@ -35092,9 +35092,7 @@
     "language": "",
     "notes": "英語授課，新聘教師開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15019",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338688&code=12500"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "AY15020",
@@ -38243,59 +38241,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6607002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339172&code=11684"
-    ]
-  },
-  {
-    "code": "5705503",
-    "description": {
-      "zh": "多變量分析及處理二項以上變項的統計，分析技術、常用于管理，經濟，財務，會計等之分析・課程內容：因素分析、主成份分析、複迴歸分析、區別分析、多變項異數分析典型相關分析、集群分析、聯合分析、直線方程式模式",
-      "en": "Multivariate analysis is to analyze more then two variables simultaneously, and to be able to apply to management, economics, accounting…etc. The contents of the course: factor analysis, principal component analysis, multiple regression analysis, multiple discriminate analysis, multiple analysis of variance, canonical correlation analysis, cluster analysis, conjoint analysis, SEM…etc."
-    },
-    "id": "339176",
-    "name": {
-      "zh": "多變量分析",
-      "en": "Multivariate analysis"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "經管所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3055",
-        "code": "3055"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "高淩菁",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11492",
-        "code": "11492"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705503",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=339176&code=11492"
     ]
   },
   {

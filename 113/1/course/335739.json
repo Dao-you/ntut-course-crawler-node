@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "蔣欣翰",
+    "email": "hsinhan1001@gmail.com",
+    "latestUpdate": "2024-07-18 22:04:01",
+    "objective": "專題報告，專題演講，研究小組討論\nCase Study, Seminar",
+    "schedule": "車輛所 / 自動所 / 能源所聯合學術研討會，寫心得報告。",
+    "scorePolicy": "1. 心得報告：50%\n2. 點名：30%\n3. 提問：20%",
+    "materials": "Lecture slides from speakers.",
+    "consultation": "課程資訊網：i 學園任課教師連絡方式：蔣欣翰電子郵件：hsinhan@mail.ntut.edu.tw 校內分機：3615",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
