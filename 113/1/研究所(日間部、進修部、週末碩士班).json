@@ -10004,7 +10004,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -10062,7 +10068,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38388,7 +38400,13 @@
         "code": "2595"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭建宏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24584",
+        "code": "24584"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
