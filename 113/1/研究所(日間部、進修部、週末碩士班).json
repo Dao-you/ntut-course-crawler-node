@@ -34990,7 +34990,9 @@
     "language": "",
     "notes": "英語授課，新聘教師開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338686&code=12558"
+    ]
   },
   {
     "code": "AY15018",
@@ -35104,7 +35106,9 @@
     "language": "",
     "notes": "英語授課，新聘教師開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15019",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338688&code=12558"
+    ]
   },
   {
     "code": "AY15020",
@@ -35644,6 +35648,7 @@
     "notes": "新聘兼任 (陸一平老師)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605095",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338709&code=24467",
       "ShowSyllabus.jsp?snum=338709&code=11132"
     ]
   },
@@ -38568,9 +38573,9 @@
       "mon": [],
       "tue": [],
       "wed": [
-        "7",
         "8",
-        "9"
+        "9",
+        "A"
       ],
       "thu": [],
       "fri": [],
