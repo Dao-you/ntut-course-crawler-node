@@ -14341,7 +14341,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337137&code=22081"
+    ]
   },
   {
     "code": "4505007",
@@ -29067,8 +29069,8 @@
     "teacher": [
       {
         "name": "莊惠鈞",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24554",
-        "code": "24554"
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12565",
+        "code": "12565"
       }
     ],
     "time": {
@@ -29097,9 +29099,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415300",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338294&code=24554"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "5415309",
@@ -38431,7 +38431,9 @@
     "language": "",
     "notes": "工程學院（大)、（研）合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=339223&code=24584"
+    ]
   },
   {
     "code": "C503001",
