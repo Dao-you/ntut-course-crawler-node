@@ -6227,8 +6227,8 @@
     "teacher": [
       {
         "name": "曾國雄",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10473",
-        "code": "10473"
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24589",
+        "code": "24589"
       }
     ],
     "time": {
@@ -6251,9 +6251,7 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105100",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336947&code=10473"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "3105188",
