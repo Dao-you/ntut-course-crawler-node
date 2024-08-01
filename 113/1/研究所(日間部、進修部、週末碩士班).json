@@ -14098,7 +14098,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "必選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236074",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337095&code=11309"
@@ -21754,9 +21754,9 @@
     ],
     "teacher": [
       {
-        "name": "劉傳銘",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11107",
-        "code": "11107"
+        "name": "劉建宏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11106",
+        "code": "11106"
       }
     ],
     "time": {
@@ -21778,9 +21778,7 @@
     "language": "",
     "notes": "博士班、演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5907002",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337821&code=11107"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "5907003",
@@ -29097,7 +29095,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415300",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338294&code=12565"
+    ]
   },
   {
     "code": "5415309",
