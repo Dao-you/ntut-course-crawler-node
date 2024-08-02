@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "劉建宏",
+    "email": "cliu@ntut.edu.tw",
+    "latestUpdate": "2024-08-01 12:51:24",
+    "objective": "專題演講或書報討論\nIn this course, we will invite speakers from the academia, industry and government to lectures on topics in computer science and information engineering.",
+    "schedule": "週次  單元主題\n---- -----------------------------\n1     Introduction to the course\n2     no class\n3     Invited Speech (topic: to be announced)\n4     Invited Speech (topic: to be announced)\n5     no class (Double Tenth Day)\n6     Invited Speech (topic: to be announced)\n7     Invited Speech (topic: to be announced)\n8     no class\n9     Midterm Exam (no class)\n10    Invited Speech (topic: to be announced)\n11    Invited Speech (topic: to be announced)\n12    Invited Speech (topic: to be announced)\n13    Invited Speech (topic: to be announced)\n14    Invited Speech (topic: to be announced)\n15    no class\n16    Invited Speech (topic: to be announced)\n17    no class\n18    Final Exam (no class)",
+    "scorePolicy": "1. Attendance + Report (100%)   Attendance at each seminar is mandatory for all students enrolled.                                 \n2. Participation in Discussions and Asking Questions (3% extra credit for each presentation)",
+    "materials": "speaker's slides if available",
+    "consultation": "seminar announcement [專題演講公告] on CSIE department website at https://csie.ntut.edu.tw/or contact with the seminar moderator at cliu@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "The course tentative schedule may be changed according to speaker's schedule.",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -2810,7 +2810,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木四及防災所合開",
+    "notes": "土木四 (20 人) 及防災所合開 (20 人)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C105007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335738&code=11309"
@@ -12510,9 +12510,9 @@
         "code": "12345"
       },
       {
-        "name": "廖硃岑",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12244",
-        "code": "12244"
+        "name": "黃志弘",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11123",
+        "code": "11123"
       }
     ],
     "time": {
@@ -12544,7 +12544,7 @@
       "ShowSyllabus.jsp?snum=336687&code=11004",
       "ShowSyllabus.jsp?snum=336687&code=11393",
       "ShowSyllabus.jsp?snum=336687&code=12345",
-      "ShowSyllabus.jsp?snum=336687&code=12244"
+      "ShowSyllabus.jsp?snum=336687&code=11123"
     ]
   },
   {
@@ -21778,7 +21778,9 @@
     "language": "",
     "notes": "博士班、演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5907002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337821&code=11106"
+    ]
   },
   {
     "code": "5907003",
@@ -26075,9 +26077,9 @@
         "code": "12345"
       },
       {
-        "name": "廖硃岑",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12244",
-        "code": "12244"
+        "name": "黃志弘",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11123",
+        "code": "11123"
       }
     ],
     "time": {
@@ -26109,7 +26111,7 @@
       "ShowSyllabus.jsp?snum=338091&code=11004",
       "ShowSyllabus.jsp?snum=338091&code=11393",
       "ShowSyllabus.jsp?snum=338091&code=12345",
-      "ShowSyllabus.jsp?snum=338091&code=12244"
+      "ShowSyllabus.jsp?snum=338091&code=11123"
     ]
   },
   {
@@ -38764,6 +38766,58 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C005006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343494&code=11018"
+    ]
+  },
+  {
+    "code": "C005007",
+    "description": {
+      "zh": "協助學員在完成訓練後：1. 對半導體設備元件原理與作用有基礎的了解 2. 對半導體設備實務工作有初步的了解 3. 能結合學校所學理論與產業實務。",
+      "en": "After completing the training, the trainees will: 1.Have a basic understanding of the principles and functions of semiconductor equipment components.2.Have a preliminary understanding of what an equipment engineer does in Fab.3.Be able to combine the theories learned from the school with industrial practices."
+    },
+    "id": "343495",
+    "name": {
+      "zh": "半導體設備元件基礎",
+      "en": "Introduction of Equipment Components in Semiconductor"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2773",
+        "code": "2773"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "林懷恩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12283",
+        "code": "12283"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "3",
+        "4"
+      ]
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "密集授課，至台積電，詳教學大綱",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005007",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343495&code=12283"
     ]
   }
 ]
