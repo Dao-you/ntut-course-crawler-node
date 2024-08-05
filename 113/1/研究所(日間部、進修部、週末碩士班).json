@@ -29736,7 +29736,13 @@
         "code": "3043"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蘇恆毅",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12576",
+        "code": "12576"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
