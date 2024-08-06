@@ -14365,7 +14365,13 @@
         "code": "3090"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蔡一豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12561",
+        "code": "12561"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -23311,64 +23317,6 @@
     ]
   },
   {
-    "code": "5807075",
-    "description": {
-      "zh": "本課程將介紹眼動追蹤技術在感性工學的理論和應用，透過文獻導讀，探索不同情境中視覺行為與人因設計的關聯，並用這些知識來提升人機系統的使用者體驗和效能。此外，學生將學習如何有效規劃實驗設計、數據分析、撰寫研究報告等技能。",
-      "en": "This course introduces the theory and application of eye-tracking technology in Kansei engineering, including a literature review to explore the relationship between visual behavior and human factor design in various contexts. This knowledge will be applied to enhance the user experience and efficiency of human-machine systems. Additionally, students will learn skills such as experimental design planning, data analysis, and research report writing."
-    },
-    "id": "337900",
-    "name": {
-      "zh": "感性人因研究 (二)",
-      "en": "Human Factors and Kansei Engineering II"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3056",
-        "code": "3056"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "郭若妤",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12345",
-        "code": "12345"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計B01",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=319",
-        "code": "319"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "上限 7 人",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5807075",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337900&code=12345"
-    ]
-  },
-  {
     "code": "5825119",
     "description": {
       "zh": "本課程通過理論介紹虛擬實境（Virtual Reality, VR）的概念與應用範圍，接續將 3D 環境建構的方法導入實踐操作，再透過專題設定進行內容創作，最終完成研究驗證的工作。課程目的是訓練學生在 VR 空間展示與設計研究端的流程，諸如 3D 環境設計、VR 空間與內容建構、VR 內容輸出與展示等能力。最終，學生可基於這些能力應用於各種虛擬空間的展示設計。",
@@ -29763,7 +29711,9 @@
     "language": "",
     "notes": "電力組新聘，英文授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105185",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338328&code=12576"
+    ]
   },
   {
     "code": "5231409",
@@ -32685,7 +32635,13 @@
         "code": "3043"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "孔繁傑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12564",
+        "code": "12564"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -33777,7 +33733,13 @@
         "code": "3055"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "邱俊智",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12577",
+        "code": "12577"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -33802,7 +33764,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "邱俊智 / 英語",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
     "syllabusLinks": []
   },
@@ -37219,6 +37181,11 @@
         "name": "鍾建屏",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=12342",
         "code": "12342"
+      },
+      {
+        "name": "顏廣杰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24585",
+        "code": "24585"
       }
     ],
     "time": {
@@ -37720,7 +37687,13 @@
         "code": "3069"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12560",
+        "code": "12560"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],

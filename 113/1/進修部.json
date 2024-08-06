@@ -7025,7 +7025,13 @@
         "code": "3090"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蔡一豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12561",
+        "code": "12561"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
