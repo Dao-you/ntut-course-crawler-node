@@ -13591,7 +13591,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=336947&code=24589"
+    ]
   },
   {
     "code": "3105188",
@@ -32662,7 +32664,9 @@
     "language": "",
     "notes": "通訊組新聘",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338476&code=12564"
+    ]
   },
   {
     "code": "5806023",
@@ -35695,7 +35699,13 @@
         "code": "3044"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李明哲",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12572",
+        "code": "12572"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -35714,7 +35724,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課，新聘教師",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3645012",
     "syllabusLinks": []
   },
@@ -37720,7 +37730,9 @@
     "language": "",
     "notes": "陳鴻崑老師 / 科研 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05121",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338935&code=12560"
+    ]
   },
   {
     "code": "AB05119",

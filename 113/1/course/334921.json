@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "廖瑩",
+    "email": "yliao@ntut.edu.tw",
+    "latestUpdate": "2024-08-06 13:46:03",
+    "objective": "此課程旨在使學生理解自然界中常見的物理現象，進而領會物理 - 生活 - 科技之關聯。教學以工程背景學生所需要的物理基礎搭配實務探討來進行。主題涵蓋力學、熱力學、聲學、電磁學、光學等物理相關的觀念與應用。\nThis course aims to enable students to understand common physical phenomena in nature and then understand the connection between physics, life and technology. The teaching is based on the physical foundation required by students with engineering background and practical discussions. Topics cover physics-related concepts and applications such as mechanics, thermodynamics, acoustics, electromagnetism, and optics.",
+    "schedule": "week 1",
+    "scorePolicy": "Quiz 20%\nGroup Project 20%\nMidterm 25%\nFinal 25%\nOthers 10%",
+    "materials": "Textbook:",
+    "consultation": "TAoffice hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
