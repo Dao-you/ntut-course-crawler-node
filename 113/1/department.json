@@ -7,18 +7,11 @@
         "id": "479",
         "name": "輔導課程",
         "href": "Subj.jsp?format=-4&year=113&sem=1&code=479"
-      }
-    ],
-    "category": "校院級"
-  },
-  {
-    "name": "進修部",
-    "href": "Subj.jsp?format=-3&year=113&sem=1&code=05",
-    "class": [
+      },
       {
-        "id": "2285",
-        "name": "職專業職場英文(大)",
-        "href": "Subj.jsp?format=-4&year=113&sem=1&code=2285"
+        "id": "1345",
+        "name": "特殊學生專班課程",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=1345"
       }
     ],
     "category": "校院級"
