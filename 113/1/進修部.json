@@ -5432,9 +5432,9 @@
     ],
     "teacher": [
       {
-        "name": "吳宙霖",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12380",
-        "code": "12380"
+        "name": "林宜樺",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24242",
+        "code": "24242"
       }
     ],
     "time": {
@@ -5459,7 +5459,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336905&code=12380"
+      "ShowSyllabus.jsp?snum=336905&code=24242"
     ]
   },
   {
@@ -7054,7 +7054,9 @@
     "language": "",
     "notes": "待聘蔡一豪",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337140&code=12561"
+    ]
   },
   {
     "code": "4505203",
@@ -19676,58 +19678,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3722008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338529&code=24499"
-    ]
-  },
-  {
-    "code": "1400520",
-    "description": {
-      "zh": "本課主旨在設計課程，提供練習，俾使學生嫻熟各式的英語測驗，如全民英檢、托福測驗、TOEIC 測驗或類似性質的測驗，希冀能夠藉由本課程的修習，提升學生不斷的學習外國語的興致，並且，藉由通過考試取得證照，增加未來職場的競爭力。",
-      "en": "This course is designed to familiarize the students with various kinds of language proficiency tests such as GEPT, TOEFL, TOEIC and many others to the same end. It is our hope that the students who finish taking the course will go on with their enthusiasm on studying foreign languages; besides, through the acquisition of the certificate when the students pass the tests, they are sure to enhance their capability in the increasingly competitive job markets."
-    },
-    "id": "338575",
-    "name": {
-      "zh": "語文測驗 (一)",
-      "en": "Course in English language Proficiency Tests"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職專業職場英文(大)",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2285",
-        "code": "2285"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "林煜善",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12003",
-        "code": "12003"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "A",
-        "B"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "本課程為未通過英文畢業門檻之課程",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=1400520",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338575&code=12003"
     ]
   },
   {

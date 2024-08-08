@@ -14394,7 +14394,9 @@
     "language": "",
     "notes": "待聘蔡一豪",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337140&code=12561"
+    ]
   },
   {
     "code": "4505203",
@@ -35726,7 +35728,9 @@
     "language": "",
     "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3645012",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338712&code=12572"
+    ]
   },
   {
     "code": "6505091",
