@@ -1574,7 +1574,13 @@
         "code": "3045"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "江宇玲",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24592",
+        "code": "24592"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37871,7 +37877,13 @@
         "code": "3045"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳隆昇",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12566",
+        "code": "12566"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
