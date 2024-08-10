@@ -2,11 +2,11 @@
   {
     "name": "李明哲",
     "email": "minglee@ntut.edu.tw",
-    "latestUpdate": "2024-08-08 23:05:49",
+    "latestUpdate": "2024-08-10 01:15:50",
     "objective": "此門課程的主要目標，將以介紹高等積體電路設計為主，讓學生了解高等積體電路設計的理論、概念、流程及方法。課程將理論與實際並重，讓學生具有實際的高等積體電路設計能力。\n1. Introduction \n2. Advanced VLSI System and Architecture Design \n3. Advanced VLSI Design Technique and Concept\n4. Still Image/Video Compression VLSI Design\n5. Digital Television VLSI Design\n6. Digital Camera VLSI Design\n7. Digital Watermarking VLSI Design",
     "schedule": "week  1   Introduction\nweek  2   Process\nweek  3   Device\nweek  4   Inverter\nweek  5   National holiday\nweek  6   Transient responses\nweek  7   Combinational Circuits\nweek  8   NTUT anniversary\nweek  9   Mid-term project report\nweek 10   Sequential Circuits\nweek 11   Dynamic logic\nweek 12   Memory\nweek 13   Low-power techniques\nweek 14   Data converters\nweek 15   Arithmetic circuits\nweek 16   Final project report",
     "scorePolicy": "Attendance: 20%\nIn-class participation: 20%\nMid-term project: 30%\nFinal project: 30%",
-    "materials": "(1) Sung-Mo. Kang and Yusuf Leblebici, “CMOS Integrated Circuits – Analysis and Design”, McGraw-Hill, 2nd edition, 1999\n(2) Jan M. Rabaey, “Digital Integrated Circuits”, Prentice Hall, 1996",
+    "materials": "(1) Sung-Mo. Kang and Yusuf Leblebici, “CMOS Integrated Circuits – Analysis and Design”, McGraw-Hill\n(2) Jan M. Rabaey, “Digital Integrated Circuits”, Prentice Hall",
     "consultation": "(1)Office: Complex building, room 311-1(2)Consultation time: as the announced Office Hours(3)Email: minglee@ntut.edu.tw",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "This course will be lectured in English. So please feel free to raise up your hands if you have any questions during class.",
