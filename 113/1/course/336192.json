@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "謝文彬",
+    "email": "wbhsieh@ntut.edu.tw",
+    "latestUpdate": "2024-08-12 11:48:53",
+    "objective": "本課程除了介紹技術的原理之外，更著重在實際資安檢測工具的使用，以 Kali Linux 虛擬機實際進行實作分析與演練，讓學生能更了解技術原理的真實應用情境。課程內容包含：\n●計算機網路回顧\n●網頁安全\n●滲透測試\n●弱點評估及測試工具\n●入侵偵測工具\n\nIn addition to introducing the principles of technology, this course also focuses on the use of actual security detection tools. It uses the Kali Linux virtual machine for actual implementation analysis and drills, so that students can better understand the real application scenarios of technical principles. Course content includes:\n\n●Computer Network Review\n●Web security: SQL injection, XSS attack, etc.\n●Penetration test\n●Vulnerability assessment and testing tools\n●Intrusion detection tools",
+    "schedule": "1. Introduction to CryberSecurity and PenTest\n2. Latest information security incidents\n3. Known and famous information security protection mechanisms (I)\n4. Known and famous information security protection mechanisms (II)\n5. Web security - SQL injection (I)\n6. Web security - SQL injection (II)\n7. Web security - XSS attack (I)\n8. Web security - XSS attack (II)\n9. Mid-exam\n10. Introduction to Kali Linux and PenTest tools \n11. Vulnerability Assessment (I)\n12. Vulnerability Assessment (II) \n13. PenTest tools - practices (I)\n14. PenTest tools - practices (II)\n15. PenTest tools - practices (III) \n16. Presentation (I)\n17. Presentation (II)\n18. Presentation (III) & Conclusion",
+    "scorePolicy": "Attendance: 20%\nIndividual Project: 40%\nPresentation: 40%",
+    "materials": "Self-made materials\nReference:\n1. Robert Seacord, Secure Coding in C and C++, SEI Series.\n2. Fred Long et al., CERT Oracle Coding Standard for Java, SEI Series.",
+    "consultation": "office hour Wed. 12:00-18:00 or by appointmentoffice location: General Studies Building 501-1",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

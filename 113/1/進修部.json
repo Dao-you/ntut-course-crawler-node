@@ -10795,7 +10795,23 @@
         "code": "3106"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10810,7 +10826,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修",
+    "notes": "碩一必修，洪 - 9.15, 10.13 蔡 - 12/7-8，范 12.14-15",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": []
   },
@@ -10877,7 +10893,13 @@
         "code": "3106"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12298",
+        "code": "12298"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10892,7 +10914,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修",
+    "notes": "碩一必修，10/12, 1/4 AM9:10-PM6:00",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275023",
     "syllabusLinks": []
   },
@@ -10918,7 +10940,18 @@
         "code": "3106"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "徐昕煒",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12436",
+        "code": "12436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10933,7 +10966,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修",
+    "notes": "碩一必修，洪 - 1/5，徐 - 10/20 AM9:10-PM6:00",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
     "syllabusLinks": []
   },
