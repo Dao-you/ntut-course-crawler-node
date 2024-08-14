@@ -2,12 +2,12 @@
   {
     "name": "陳擎文",
     "email": "ccw@ntut.edu.tw",
-    "latestUpdate": "2024-08-08 12:11:46",
+    "latestUpdate": "2024-08-13 23:41:38",
     "objective": "本課程在於了解數位組織概念以及數位轉型的趨勢，並且學習以科技為基礎之創新商業模式。課程將介紹企業的數位組織轉型涵蓋多個領域，主要包括以下幾個方面：1. 業務模式轉型，2. 數位行銷技術應用轉型，3. 客戶體驗轉型，4. 運營流程轉型 (工作流程自動化)，5. 數據管理與分析，6. 技術基礎設施轉型，7. 組織文化與人力資源轉型，8. 產品與服務轉型。課程中並隨著不同章節的講解，帶領同學們實作課程中相關的 4 種在業界有用的數位資訊技術。\n\nThis course aims to understand the concepts of digital organizations and the trends of digital transformation, as well as to learn technology-based innovative business models. The course will introduce the digital organizational transformation of enterprises, covering multiple areas, mainly including the following aspects: 1. Business model transformation, 2. Digital marketing technology application transformation, 3. Customer experience transformation, 4. Operational process transformation (workflow automation), 5. Data management and analysis, 6. Technology infrastructure transformation, 7. Organizational culture and human resources transformation, 8. Product and service transformation. Throughout the course, different chapters will guide students in the practical implementation of four industry-relevant digital information technologies.",
     "schedule": "第 1 週：課程介紹與數位轉型概述\n第 2 週：數位技術基礎\n第 3 週：數位策略與創新\n第 4 週：數位營運模式\n第 5 週：實作：雲端平台：架設企業的雲端資料中心：亞馬遜 AWS、微軟 Azure、Google cloud (GCP)\n第 6 週：實作：雲端 AI 計算：不用寫程式碼的人工智慧專業軟體：微軟 Azure ML（Machine Learning）\n第 7 週：實作：微軟 Azure ML 實作收入預測（Azure 資料集：Adult Census）\n第 8 週：實作：微軟 Azure ML 實作客戶流失預測\n第 9 週：期中考\n第 10 週：數位化領導力，數據驅動決策\n第 11 週：數位轉型風險管理與數位轉型的法律與倫理\n第 12 週：數位轉型的未來趨勢\n第 13 週：實作：自動化工具在經營管理領域的各種應用，自動化工具的二種實作方法\n第 14 週：實作：用 Google APP Script 自動化存取 / 監控管理 Google Sheet 試算表 (Excel)，Google Document 物件 (Word)\n第 15 週：實作：用 Google APP Script 自動化存取 / 監控管理 Gmail，Google 表單\n第 16 週：實作：Line Bot 聊天機器人與生成式 AI 的整合應用\n第 17 週：實作：不用寫程式碼的自動化工具 Zapier 的各種工作流程自動化\n第 18 週：期末考",
     "scorePolicy": "1. 上課實作範例加分 30%，作業分數 10%，期中考 30%，期末考 30%\n\n2.735 教室不是傳統的電腦教室，是一般教室。要自己帶筆電。",
     "materials": "1. 自編教學網站：https://acupun.site/lecture/DigitalTransformation/\n\n2. 參考書目：《數位轉型之路：企業數位化的策略與實踐》，林志成，商業周刊出版社\n\n3. 參考書目：\"Leading Digital: Turning Technology into Business Transformation\"，Authors: George Westerman, Didier Bonnet, Andrew McAfee，Publisher: Harvard Business Review Press",
-    "consultation": "1. 可以在 office hours 時段來諮詢 (科研大樓 537 室) 2. 可以在北科 i 學園 PLUS 平台，在課程內留言，諮詢問題 3. 老師的 email：ccw@ntut.edu.tw，可以用 email 諮詢問題",
+    "consultation": "1. 可以在 office hours 時段來諮詢 (科研大樓 537 室) 2. 老師的 email：ccw@ntut.edu.tw，可以用 email 諮詢問題",
     "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "中文授課建議同學們上課要繫帶筆記本電腦因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 若因疫情而暫停實體上課時，將使用學校的 Microsoft Teams 課程名稱：大數據分析",
     "foreignLanguageTextbooks": false

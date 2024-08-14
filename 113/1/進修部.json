@@ -41,7 +41,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教525",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=437",
+        "code": "437"
+      }
+    ],
     "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19652,7 +19658,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504505",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338514&code=24273"
+    ]
   },
   {
     "code": "3722008",
