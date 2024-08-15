@@ -388,7 +388,13 @@
         "C"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=55",
+        "code": "55"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -876,7 +882,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
+        "code": "47"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -929,7 +941,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=50",
+        "code": "50"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -982,7 +1000,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=334",
+        "code": "334"
+      }
+    ],
     "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1149,7 +1173,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教409",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=57",
+        "code": "57"
+      }
+    ],
     "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1405,7 +1435,13 @@
         "C"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教208",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=42",
+        "code": "42"
+      }
+    ],
     "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2688,7 +2724,13 @@
         "C"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教401",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=335",
+        "code": "335"
+      }
+    ],
     "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2782,7 +2824,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -2835,7 +2883,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教308",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=49",
+        "code": "49"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3357,7 +3411,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教208",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=42",
+        "code": "42"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3548,7 +3608,13 @@
         "9"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3642,7 +3708,13 @@
         "C"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -4707,7 +4779,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=22",
+        "code": "22"
+      }
+    ],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5066,7 +5144,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=41",
+        "code": "41"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5163,7 +5247,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教406",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=54",
+        "code": "54"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5216,7 +5306,13 @@
         "9"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=43",
+        "code": "43"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5318,7 +5414,13 @@
         "C"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=43",
+        "code": "43"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6144,7 +6246,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教402",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=52",
+        "code": "52"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6250,7 +6358,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=67",
+        "code": "67"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9163,7 +9277,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9224,7 +9344,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9287,7 +9413,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9383,7 +9515,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11128,6 +11266,11 @@
         "code": "11315"
       },
       {
+        "name": "趙莊敏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11073",
+        "code": "11073"
+      },
+      {
         "name": "劉亮志",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11982",
         "code": "11982"
@@ -12071,11 +12214,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "呂怜樺",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11893",
         "code": "11893"
@@ -12117,7 +12255,6 @@
     "notes": "(群組 1) 經營與策略管理 (關聯群 2) 　",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337692&code=11429",
       "ShowSyllabus.jsp?snum=337692&code=12390",
       "ShowSyllabus.jsp?snum=337692&code=12532"
     ]
@@ -14032,7 +14169,9 @@
     "language": "",
     "notes": "桃分署上課；場地因素，該班僅提供能源系同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337745&code=23704"
+    ]
   },
   {
     "code": "4501605",
@@ -14535,9 +14674,9 @@
     ],
     "teacher": [
       {
-        "name": "林鳳儀",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
-        "code": "11315"
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
       },
       {
         "name": "翁頌舜",
@@ -14574,6 +14713,7 @@
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337863&code=11429",
       "ShowSyllabus.jsp?snum=337863&code=11440"
     ]
   },
@@ -15604,7 +15744,13 @@
         "A"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
+        "code": "47"
+      }
+    ],
     "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15655,7 +15801,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
+        "code": "47"
+      }
+    ],
     "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16089,7 +16241,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教211",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=44",
+        "code": "44"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16265,7 +16423,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16624,7 +16788,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
+        "code": "47"
+      }
+    ],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16677,7 +16847,13 @@
         "9"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=55",
+        "code": "55"
+      }
+    ],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16783,7 +16959,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教401",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=335",
+        "code": "335"
+      }
+    ],
     "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16836,7 +17018,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=43",
+        "code": "43"
+      }
+    ],
     "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17605,7 +17793,13 @@
         "9"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教208",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=42",
+        "code": "42"
+      }
+    ],
     "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19651,7 +19845,13 @@
         "9"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教401",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=335",
+        "code": "335"
+      }
+    ],
     "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19978,7 +20178,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=55",
+        "code": "55"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20130,7 +20336,13 @@
         "6"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=334",
+        "code": "334"
+      }
+    ],
     "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20183,7 +20395,13 @@
         "9"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=334",
+        "code": "334"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20484,7 +20702,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教208",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=42",
+        "code": "42"
+      }
+    ],
     "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21446,7 +21670,13 @@
         "C"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=334",
+        "code": "334"
+      }
+    ],
     "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21575,9 +21805,9 @@
     ],
     "teacher": [
       {
-        "name": "林鳳儀",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
-        "code": "11315"
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
       },
       {
         "name": "翁頌舜",
@@ -21614,6 +21844,7 @@
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338829&code=11429",
       "ShowSyllabus.jsp?snum=338829&code=11440"
     ]
   },
@@ -21717,7 +21948,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],

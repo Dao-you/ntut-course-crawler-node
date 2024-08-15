@@ -2,14 +2,14 @@
   {
     "name": "陳擎文",
     "email": "ccw@ntut.edu.tw",
-    "latestUpdate": "2024-08-13 23:41:38",
-    "objective": "本課程在於了解數位組織概念以及數位轉型的趨勢，並且學習以科技為基礎之創新商業模式。課程將介紹企業的數位組織轉型涵蓋多個領域，主要包括以下幾個方面：1. 業務模式轉型，2. 數位行銷技術應用轉型，3. 客戶體驗轉型，4. 運營流程轉型 (工作流程自動化)，5. 數據管理與分析，6. 技術基礎設施轉型，7. 組織文化與人力資源轉型，8. 產品與服務轉型。課程中並隨著不同章節的講解，帶領同學們實作課程中相關的 4 種在業界有用的數位資訊技術。\n\nThis course aims to understand the concepts of digital organizations and the trends of digital transformation, as well as to learn technology-based innovative business models. The course will introduce the digital organizational transformation of enterprises, covering multiple areas, mainly including the following aspects: 1. Business model transformation, 2. Digital marketing technology application transformation, 3. Customer experience transformation, 4. Operational process transformation (workflow automation), 5. Data management and analysis, 6. Technology infrastructure transformation, 7. Organizational culture and human resources transformation, 8. Product and service transformation. Throughout the course, different chapters will guide students in the practical implementation of four industry-relevant digital information technologies.",
-    "schedule": "第 1 週：課程介紹與數位轉型概述\n第 2 週：數位技術基礎\n第 3 週：數位策略與創新\n第 4 週：數位營運模式\n第 5 週：實作：雲端平台：架設企業的雲端資料中心：亞馬遜 AWS、微軟 Azure、Google cloud (GCP)\n第 6 週：實作：雲端 AI 計算：不用寫程式碼的人工智慧專業軟體：微軟 Azure ML（Machine Learning）\n第 7 週：實作：微軟 Azure ML 實作收入預測（Azure 資料集：Adult Census）\n第 8 週：實作：微軟 Azure ML 實作客戶流失預測\n第 9 週：期中考\n第 10 週：數位化領導力，數據驅動決策\n第 11 週：數位轉型風險管理與數位轉型的法律與倫理\n第 12 週：數位轉型的未來趨勢\n第 13 週：實作：自動化工具在經營管理領域的各種應用，自動化工具的二種實作方法\n第 14 週：實作：用 Google APP Script 自動化存取 / 監控管理 Google Sheet 試算表 (Excel)，Google Document 物件 (Word)\n第 15 週：實作：用 Google APP Script 自動化存取 / 監控管理 Gmail，Google 表單\n第 16 週：實作：Line Bot 聊天機器人與生成式 AI 的整合應用\n第 17 週：實作：不用寫程式碼的自動化工具 Zapier 的各種工作流程自動化\n第 18 週：期末考",
-    "scorePolicy": "1. 上課實作範例加分 30%，作業分數 10%，期中考 30%，期末考 30%\n\n2.735 教室不是傳統的電腦教室，是一般教室。要自己帶筆電。",
-    "materials": "1. 自編教學網站：https://acupun.site/lecture/DigitalTransformation/\n\n2. 參考書目：《數位轉型之路：企業數位化的策略與實踐》，林志成，商業周刊出版社\n\n3. 參考書目：\"Leading Digital: Turning Technology into Business Transformation\"，Authors: George Westerman, Didier Bonnet, Andrew McAfee，Publisher: Harvard Business Review Press",
-    "consultation": "1. 可以在 office hours 時段來諮詢 (科研大樓 537 室) 2. 老師的 email：ccw@ntut.edu.tw，可以用 email 諮詢問題",
-    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "remarks": "中文授課建議同學們上課要繫帶筆記本電腦因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 若因疫情而暫停實體上課時，將使用學校的 Microsoft Teams 課程名稱：大數據分析",
+    "latestUpdate": "2024-08-14 17:05:17",
+    "objective": "本課程「數位組織與轉型」旨在探討數位技術對組織結構與運營模式的深遠影響。課程涵蓋數位轉型的定義、全球數位化趨勢、數位工具與平台的應用，並分析成功與失敗的數位轉型案例，幫助學生理解企業如何利用數位技術提升競爭力。課程強調數位文化的建立、組織變革管理，以及未來趨勢如人工智慧與自動化對工作的影響。學生將學習如何在變化迅速的技術環境中應對挑戰，並掌握數位工具的實際應用，最終通過案例分析與專題報告提升其數位轉型策略能力。課程評分將基於課堂參與、小組報告、實作練習及期末專題報告。\n\nThe course \"Digital Organization and Transformation\" focuses on the profound impact of digital technologies on organizational structures and operational models. It covers the definition of digital transformation, global digitalization trends, and the application of digital tools and platforms, while analyzing both successful and failed case studies to help students understand how businesses leverage digital technologies to enhance competitiveness. The course emphasizes the development of a digital culture, change management within organizations, and future trends such as artificial intelligence and automation and their impact on work. Students will learn how to navigate challenges in a rapidly changing technological environment and gain practical skills in digital tool applications. The course will culminate in case analyses and project reports to enhance students' strategic capabilities in digital transformation. Assessment will be based on class participation, group reports, practical exercises, and a final project report.",
+    "schedule": "課程進度",
+    "scorePolicy": "評量方式與標準",
+    "materials": "使用教材、參考書目或其他",
+    "consultation": "＊\t課程諮詢管道",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "備註 / Note",
     "foreignLanguageTextbooks": false
   }
 ]

@@ -3926,7 +3926,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_2",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=109",
+        "code": "109"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -4022,9 +4028,9 @@
     },
     "classroom": [
       {
-        "name": "紡織二樓_2",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=109",
-        "code": "109"
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
       }
     ],
     "people": "1",
@@ -4081,9 +4087,9 @@
     },
     "classroom": [
       {
-        "name": "紡織二樓_1",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
-        "code": "277"
+        "name": "三教403",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=53",
+        "code": "53"
       }
     ],
     "people": "3",
@@ -13494,7 +13500,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教402",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=52",
+        "code": "52"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13600,7 +13612,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教511",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=67",
+        "code": "67"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16513,7 +16531,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16574,7 +16598,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16637,7 +16667,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16733,7 +16769,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18478,6 +18520,11 @@
         "code": "11315"
       },
       {
+        "name": "趙莊敏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11073",
+        "code": "11073"
+      },
+      {
         "name": "劉亮志",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11982",
         "code": "11982"
@@ -19421,11 +19468,6 @@
     ],
     "teacher": [
       {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
         "name": "呂怜樺",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11893",
         "code": "11893"
@@ -19467,7 +19509,6 @@
     "notes": "(群組 1) 經營與策略管理 (關聯群 2) 　",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337692&code=11429",
       "ShowSyllabus.jsp?snum=337692&code=12390",
       "ShowSyllabus.jsp?snum=337692&code=12532"
     ]
@@ -21562,7 +21603,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織503",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=275",
+        "code": "275"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22987,9 +23034,9 @@
     ],
     "teacher": [
       {
-        "name": "林鳳儀",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
-        "code": "11315"
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
       },
       {
         "name": "翁頌舜",
@@ -23026,6 +23073,7 @@
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337863&code=11429",
       "ShowSyllabus.jsp?snum=337863&code=11440"
     ]
   },
@@ -27949,7 +27997,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教211",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=44",
+        "code": "44"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -28909,7 +28963,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -29495,7 +29555,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31105,9 +31171,9 @@
     },
     "classroom": [
       {
-        "name": "紡織一樓",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=337",
-        "code": "337"
+        "name": "紡織二樓_2",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=109",
+        "code": "109"
       }
     ],
     "people": "1",
@@ -31396,7 +31462,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織地下01",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=274",
+        "code": "274"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31451,9 +31523,9 @@
     },
     "classroom": [
       {
-        "name": "紡織二樓_2",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=109",
-        "code": "109"
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=337",
+        "code": "337"
       }
     ],
     "people": "1",
@@ -37495,9 +37567,9 @@
     },
     "classroom": [
       {
-        "name": "紡織二樓_2",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=109",
-        "code": "109"
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=337",
+        "code": "337"
       }
     ],
     "people": "2",
@@ -37628,9 +37700,9 @@
     ],
     "teacher": [
       {
-        "name": "林鳳儀",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
-        "code": "11315"
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
       },
       {
         "name": "翁頌舜",
@@ -37667,6 +37739,7 @@
     "notes": "碩二必修，星期六 234，台北集中上課，USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338829&code=11429",
       "ShowSyllabus.jsp?snum=338829&code=11440"
     ]
   },
@@ -38058,7 +38131,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38707,7 +38786,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38758,7 +38843,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38871,6 +38962,177 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C005007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343495&code=12283"
+    ]
+  },
+  {
+    "code": "C505009",
+    "description": {
+      "zh": "本課程探討地面站網路切片技術及其在實際應用中的服務品質保證方法。課程將涵蓋地面站網路的基本概念，包括結構、架構，以及與通訊系統相關的各種技術。學生將透過深入理論學習和實務案例，瞭解地面站網路切片的原理及其在提供不同服務的情境中的優勢。在課程中，學生將學習如何實施地面站網路切片，包括網路資源分配、優先權設定，以及切片之間的隔離。透過實作專案，學生將有機會實際設計、配置和管理地面站網路切片，以應對不同應用場景下的需求。此外，課程將探討服務品質保證技術，包括流量管理、延遲優化、及網路監控等方面。學生將學習如何測量、分析和改進地面站網路切片的服務品質，以確保滿足各種應用的需求。最後，課程也將討論地面站網路切片的未來趨勢，包括與新興技術的整合、標準化發展，以及面臨的挑戰。透過該課程，學生將具備地面站網路切片及服務品質保證的專業知識和實作技能。",
+      "en": "This course explores practical applications and methods of network slicing for ground stations, emphasizing service quality assurance. It covers fundamental concepts, implementation techniques, and hands-on projects related to ground station network slicing. Students learn to design, configure, and manage slices, ensuring effective communication for various applications. The course also addresses Quality of Service (QoS) technologies and discusses future trends in ground station network slicing."
+    },
+    "id": "343510",
+    "name": {
+      "zh": "地面站網路切片與服務品質保證",
+      "en": "Network Slicing and Quality of Service Technology for Ground Stations"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "7",
+        "8",
+        "9"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜科501",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=291",
+        "code": "291"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C505009",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343510&code=11635"
+    ]
+  },
+  {
+    "code": "AVZ0001",
+    "description": {
+      "zh": "本課程主要的目標為從應用與設計的角度，帶領同學進行多感官回饋技術的實作及實驗。從實作及實驗中學生將了解不同回饋技術在應用面上的可能性及其設計考量，並學習人機互動系統的啟發式評估、沉浸式量表、半結構式訪談，從而剖析及理解人機互動系統的表現 (程式語言：C++)。此外本課程將以小組實習方式來進行，期望藉由合作學習和雛型製作來強化學生跨領域提案之創新能力。",
+      "en": "The main goal of this course is to guide students to implement and experiment with multisensory feedback technologies from an application and design perspective. Through hands-on exercises and experiments, students will understand the capabilities of different feedback technologies in terms of application and design considerations, and learn heuristic evaluation, immersive scale, and semi-structured interviews of human-computer interaction systems to analyze and understand the performance of human-computer interaction systems (programming language: C++). In addition, this course will take the form of group exercises in the innovative ability to strengthen students' cross-field proposals through cooperative learning and prototyping skill."
+    },
+    "id": "343524",
+    "name": {
+      "zh": "多感官回饋技術應用與設計",
+      "en": "Multisensory Technology Application and Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "設計學院(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3005",
+        "code": "3005"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "韓秉軒",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11969",
+        "code": "11969"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AVZ0001",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343524&code=11969"
+    ]
+  },
+  {
+    "code": "4205092",
+    "description": {
+      "zh": "本課程主要教授學生：(1) 橋梁之功能及組織、(2) 橋梁之種類、(3) 橋梁之上部結構、(4) 橋梁之下部結構：(a) 基礎 (b) 橋台 (c) 橋墩、(5) 橋梁之伸縮設施、(6) 橋面排水設施、(7) 欄杆及照明設施、(8) 跨海大橋、陸橋、高架橋及跨河大橋等簡介。",
+      "en": "Planning, desing, constroution and maintenance of the various bridges."
+    },
+    "id": "343576",
+    "name": {
+      "zh": "橋樑工程設計",
+      "en": "Bridge Engineering Design"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "防災所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3047",
+        "code": "3047"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "宋裕祺",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11125",
+        "code": "11125"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "土木1F_2",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=257",
+        "code": "257"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "土木四 (20 人) 及防災所合開 (20 人)",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4205092",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343576&code=11125"
     ]
   }
 ]
