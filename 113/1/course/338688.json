@@ -1,7 +1,7 @@
 [
   {
     "name": "裴重恩",
-    "email": "trongan93@mail.ntust.edu.tw",
+    "email": "trongan93@ntut.edu.tw",
     "latestUpdate": "2024-07-24 00:11:16",
     "objective": "This course provides a comprehensive understanding of deep learning techniques and their applications in space technology. It covers the fundamentals of neural networks, advanced deep learning architectures, and practical applications in space data analysis and autonomous systems. Students will gain hands-on experience with popular deep learning frameworks and real-world space technology datasets.",
     "schedule": "Week 1: Introduction to Space Technology\nWeek 2: AI Applications in Space Technology\nWeek 3: Space Image Processing I\nWeek 4: Convolutional Neural Networks (CNNs) I\nWeek 5: Convolutional Neural Networks (CNNs) Focused on Tiny Objects in Earth Observation\nWeek 6: Space Image Processing II (with CNNs)\nWeek 7: Midterm Exam\nWeek 8: Advanced CNN Techniques (Edge Computing on Satellite Payload)\nWeek 9: Generative Adversarial Networks (GANs) I\nWeek 10: Generative Adversarial Networks (GANs) II\nWeek 11: Autoencoders and Anomaly Detection\nWeek 12: Advanced Space Applications I\nWeek 13: Advanced Space Applications II\nWeek 14: Deep Reinforcement Learning\nWeek 15: Remote Sensing Data Encryption\nWeek 16: Ethical Implications of AI in Space Exploration\nWeek 17: Final Report and Presentation I\nWeek 18: Final Report and Presentation II",

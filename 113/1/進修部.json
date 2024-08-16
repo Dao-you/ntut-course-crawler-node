@@ -7423,6 +7423,11 @@
     ],
     "teacher": [
       {
+        "name": "施世濠",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=24557",
+        "code": "24557"
+      },
+      {
         "name": "施陽正",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=10958",
         "code": "10958"
