@@ -2,14 +2,14 @@
   {
     "name": "蕭郁達",
     "email": "ydhsiao@ntut.edu.tw",
-    "latestUpdate": "2024-08-09 08:16:19",
+    "latestUpdate": "2024-08-17 20:53:04",
     "objective": "本課程以化工程序中所包含的製程如蒸餾、熱交換器、攪拌、泵、機械分離等，由質量、能量及動量均衡開始講述，然後探討程序設計時使用的流程圖及其符號、成本估算、管線配置、流體輸送、化工單元規格設計等。\nApplication of chemical engineering science techniques to design of chemical processes. Comprehensive problems are assigned which include heat, material and economic balances, unit operations and processes, kinetics and thermodynamics.\nThe major responsibility is placed on individuals or small groups for the optimum design and selection of equipment, and for the calculations of required sizes, plant layout, and cost analyses.",
     "schedule": "Week 1: 程序設計簡介 / Introduction to process design\nWeek 2: 程序流程圖 / Process flowsheets\nWeek 3-4: 程序合成 / Process synthesis\nWeek 5: 程序經濟學 / Process economics\nWeek 6-7: 程序整合與最適化 / Process integration and optimization\nWeek 8: 期中考 / Midterm exam\nWeek 9-10: 模擬軟體教學 / Simulation software tutorial\nWeek 11-15: 程序模擬實作 / Process simulation workshop\nWeek 16-18: 期末報告 / Final report",
     "scorePolicy": "出席 / Participation 10%\n期中考 / Midterm Exam 30%\n期末報告 / Final Report 60%",
-    "materials": "自編教材 / Self-made materials",
+    "materials": "1. R. Smith, “Chemical Process Design and Integration, 2nd Edition”, John Wiley & Sons, Inc., 2016.\n2. 自編教材 / Self-made materials",
     "consultation": "Email",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "",
-    "foreignLanguageTextbooks": false
+    "foreignLanguageTextbooks": true
   }
 ]
