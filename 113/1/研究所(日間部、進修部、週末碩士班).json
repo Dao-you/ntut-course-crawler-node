@@ -3144,7 +3144,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教409",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=57",
+        "code": "57"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3197,7 +3203,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3250,7 +3262,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教304",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=29",
+        "code": "29"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3308,7 +3326,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3362,7 +3386,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -3415,7 +3445,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6178,7 +6214,18 @@
         "code": "3056"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李東明",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12437",
+        "code": "12437"
+      },
+      {
+        "name": "彭瑞玟",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10971",
+        "code": "10971"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9343,9 +9390,9 @@
     },
     "classroom": [
       {
-        "name": "六教426",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=433",
-        "code": "433"
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=422",
+        "code": "422"
       }
     ],
     "people": "3",
@@ -9682,9 +9729,9 @@
     },
     "classroom": [
       {
-        "name": "六教426",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=433",
-        "code": "433"
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=422",
+        "code": "422"
       }
     ],
     "people": "1",
@@ -11582,11 +11629,11 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "5",
-        "6"
+      "wed": [],
+      "thu": [
+        "3",
+        "4"
       ],
-      "thu": [],
       "fri": [],
       "sat": []
     },
@@ -12719,9 +12766,9 @@
     },
     "classroom": [
       {
-        "name": "六教426",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=433",
-        "code": "433"
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=422",
+        "code": "422"
       }
     ],
     "people": "0",
@@ -18421,7 +18468,9 @@
     "language": "",
     "notes": "碩一必修，洪 - 1/5，徐 - 10/20 AM9:10-PM6:00",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337646&code=12436"
+    ]
   },
   {
     "code": "C275001",
@@ -18607,6 +18656,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337671&code=11315",
+      "ShowSyllabus.jsp?snum=337671&code=11073",
       "ShowSyllabus.jsp?snum=337671&code=11982"
     ]
   },
@@ -21402,7 +21452,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -32918,65 +32974,6 @@
     ]
   },
   {
-    "code": "5806023",
-    "description": {
-      "zh": "講授並整合高齡者產品設計之基本理論、設計方法。分析並研討高齡者因身心機能退化所面臨的處境，包括居家、行動及使用產品時可能面對的困難。訓練學生以工業設計的理論、方法與分析，深入瞭解高齡族群對設計之需求，進而達成產品創新之決策。",
-      "en": "Lecture on theory and design practice of senile product design. To study age-related changes in health and physical functioning which affect older people's access to facilities and use of products that they need in every day life. Practice of exploring older adults' experience and needs in using products and their attitude toward product design improvement."
-    },
-    "id": "338479",
-    "name": {
-      "zh": "高齡者產品設計研究",
-      "en": "Study of Senile Product Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3056",
-        "code": "3056"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "彭瑞玟",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10971",
-        "code": "10971"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "6",
-        "7",
-        "8"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計603",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=139",
-        "code": "139"
-      }
-    ],
-    "people": "13",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5806023",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338479&code=10971"
-    ]
-  },
-  {
     "code": "5826251",
     "description": {
       "zh": "本課程旨在以個別與小組合作模式，訓練學生通曉設計開發流程，以執行設計專案。藉由實務案例的運作，及兼顧產業與組織之需求，以體現產業與社會文化面的問題與解決對策。本課程又以培育學生具備專業設計師之設計企劃提案與概念發想能力，以及學生使用設計工具之能力。",
@@ -33206,7 +33203,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=41",
+        "code": "41"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33756,7 +33759,10 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "7",
+        "8"
+      ],
       "fri": [],
       "sat": []
     },
@@ -33998,7 +34004,10 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "7",
+        "8"
+      ],
       "fri": [],
       "sat": []
     },
@@ -37470,7 +37479,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=108",
+        "code": "108"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],

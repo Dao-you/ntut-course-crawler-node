@@ -11119,7 +11119,9 @@
     "language": "",
     "notes": "碩一必修，洪 - 1/5，徐 - 10/20 AM9:10-PM6:00",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337646&code=12436"
+    ]
   },
   {
     "code": "C275001",
@@ -11305,6 +11307,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337671&code=11315",
+      "ShowSyllabus.jsp?snum=337671&code=11073",
       "ShowSyllabus.jsp?snum=337671&code=11982"
     ]
   },
