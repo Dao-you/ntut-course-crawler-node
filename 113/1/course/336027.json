@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "彭瑞玟",
+    "email": "jpeng@ntut.edu.tw",
+    "latestUpdate": "2024-08-21 13:16:13",
+    "objective": "本課程旨在培養學生對於研究的基本觀念、相關專業知識、以及方法論，進而達到能夠運用這些知識與能力進行研究。本課程之教學目標，可細分為以下幾點：\n・導引學生瞭解研究概念與設計之間的關係\n・培養學生研究素養與知識內涵\n・培養學生研究架構觀念\n・培養學生進行研究的能力",
+    "schedule": "W1    課程介紹 \nW2    Introduction: what is research - 1\nW3\tIntroduction: what is research - 2\nW4\tQualitative VS Quantitative - 1\nW5\tQualitative VS Quantitative - 2\nW6\tWhat is Qualitative Research - 2\nW7\tWhat is Qualitative Research - 2\nW8\tIntroduction of research writing - IMRD structure\nW9\t期中進度討論\nW10\t 檢索學術期刊資料庫\nW11\t論文閱讀清單規劃\nW12\t文獻閱讀進度報告\nW13\tSDGs 論文閱讀與分組命題\nW14\tSDGs 設計展開\nW15\tSDGs 設計展開\nW16\tSDGs 細部設計檢討\nW17\tSDGs 設計共評\n\n以上課程得依學習狀況彈性調整",
+    "scorePolicy": "平時成績 20%\n期中成績 40%\n期末成績 40%\n\n以上得依學習狀況彈性調整",
+    "materials": "https://service.elsevier.com/\nhttps://lib.ntut.edu.tw/",
+    "consultation": "請洽 jpeng@ntut.edu.tw 若因疫情而暫停實體上課時，將使用 Google Meet 視訊上課，會議網址將公告於北科 i 學園，或請洽 jpeng@ntut.edu.tw 詢問。",
+    "課程對應SDGs指標": "SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "若因疫情而暫停實體上課時，將使用 Google Meet 視訊上課，會議網址將公告於北科 i 學園，或請洽 jpeng@ntut.edu.tw 詢問。",
+    "foreignLanguageTextbooks": false
+  }
+]
