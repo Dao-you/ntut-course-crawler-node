@@ -43,9 +43,9 @@
     },
     "classroom": [
       {
-        "name": "六教525",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=437",
-        "code": "437"
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
+        "code": "47"
       }
     ],
     "people": "37",
@@ -5979,7 +5979,7 @@
         "code": "196"
       }
     ],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6031,7 +6031,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6367,7 +6367,7 @@
         "code": "67"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6478,7 +6478,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "32",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6578,7 +6578,7 @@
         "code": "287"
       }
     ],
-    "people": "7",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6671,7 +6671,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6930,7 +6930,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7607,7 +7607,7 @@
         "code": "118"
       }
     ],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7706,7 +7706,7 @@
         "code": "383"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7764,7 +7764,7 @@
         "code": "338"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7936,7 +7936,7 @@
         "code": "383"
       }
     ],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9291,7 +9291,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9358,7 +9358,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9427,7 +9427,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9529,7 +9529,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10681,211 +10681,6 @@
     ]
   },
   {
-    "code": "C515006",
-    "description": {
-      "zh": "這們課程主要是討論人工智慧 (AI) 的理論基礎與相關應用，課程內容包含： 1. AI 問題的解題方法（搜尋技巧） 2. 知識表示的方法 3. AI 程式語言：LISP 與 PROLOG 4. 推論方法 5. 進階研究主題",
-      "en": "This course provides a thorough discussion of AI's theoretical foundations and advanced applications. These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation 3. AI algorithms and data structure in LISP and PROLOG 4. algorithms for reasoning 5. advanced topics for AI problem solving"
-    },
-    "id": "337589",
-    "name": {
-      "zh": "人工智慧",
-      "en": "Artificial Intelligence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515007",
-    "description": {
-      "zh": "由於雲端運算的快速發展，大量資料收集與儲存技術已成瓶頸，大數據技術與管理提供一套具延展性與容錯能力的分散儲存與計算架構，能有效處理大量複雜數據資料的儲存與運算。 本課程除介紹現有的大數據生態與趨勢，並針對目前軟硬體架構的處理瓶頸，提供系統組態與部署、服務層級協定、監控與管理等系統性規劃的解決方案，並導入跨領域的工程管理科學知識。課程簡扼論述大數據技術與管理的重要，並在 Hadoop 生態系統中，以 Cloudera Hadoop 為應用範例，實作說明其重要性。 課程內容包括：大數據的概念、應用生態與趨勢、Hadoop 硬體規格與基礎架構規劃、叢集組態與部署、叢集服務層級協定、叢集監控與管理、相關生態技術、及概略介紹 Hadoop 認證與準備。",
-      "en": "The course will introduce Apache Hadoop core technologies and administration with its major including: Big Data (BD) in demand and its application trend, Core technologies of Hadoop for BD management, Hadoop Administration and management tool, Hadoop cluster deployment,YARN applications plus MapReduce, Hadoop cluster hardware and software, Introduction of Hadoop ecosystem projects, HDFS configuration for high availability (HA), Hadoop security, Cluster resource scheduling and configuration, and Hadoop certification program, etc."
-    },
-    "id": "337590",
-    "name": {
-      "zh": "大數據技術與管理",
-      "en": "Big Data Technology and Administration"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515007",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515010",
-    "description": {
-      "zh": "該課程涵蓋數據和信息的組織和人際關係。您將開發必要的技能和知識，以使用數據和分析來告知管理並做出更好的決策。通過案例和課堂討論，您將學習研究設計，內部諮詢，變更管理，數據解釋和演示的技能。",
-      "en": "This class covers the organizational and interpersonal sides of data and information.  You will develop the skills and knowledge necessary to use data and analytics to inform management and make better decisions.  Through case examples and classroom discussion you will learn skills in research design, internal consulting, change management, data interpretation and presentation."
-    },
-    "id": "337591",
-    "name": {
-      "zh": "實證管理",
-      "en": "Evidence-Based Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515010",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515014",
-    "description": {
-      "zh": "1. 網路協定、2. 消息理論和資料壓縮與視訊標準、3. 錯誤更正碼：迴旋碼渦輪碼低密度同位檢查碼 BCH/RS 碼、4. 無線視訊傳輸的抗錯、5. 跨層資源分配、6. 無線區域網路、7. 隨意網路和感測網路、8. 無線個人 / 大都會 / 體域 / 網狀網路、9. 物聯網等最新發展",
-      "en": "1. Network protocols 2. Information theory, source coding and Video standards 3. channel coding: convolutional codes/turbo codes/LDPC codes/BCH/RS codes 4. Error resilience in wireless video transmission 5. cross layer resource allocation 6.802.11 7. ad hoc and sensor network 8. WPAN WMAN WBAN WMN 9. IoT and other recent advances"
-    },
-    "id": "337592",
-    "name": {
-      "zh": "新世代資通訊技術",
-      "en": "New-generation Information and Communication Technology"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515014",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515016",
-    "description": {
-      "zh": "這門課程主要是討論人工智慧 (AI) 的理論基礎與相關應用，課程內容包含：1. AI 問題的解題方法（搜尋技巧） 2. 知識表示的方法 3. AI 程式語言：LISP 與 PROLOG  4. 推論方法 5. 進階研究主題",
-      "en": "This course provides a thorough discussion of AI's theoretical foundations and advanced applications. These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation 3. AI algorithms and data structure in LISP and PROLOG 4. algorithms for reasoning 5. advanced topics for AI problem solving"
-    },
-    "id": "337593",
-    "name": {
-      "zh": "人工智慧概論",
-      "en": "Introduction to Artificial Intelligence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515016",
-    "syllabusLinks": []
-  },
-  {
     "code": "C515017",
     "description": {
       "zh": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作 Python 作為資料科學的實作工具，包括其相關 Python 基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用 Python 取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的 AI 演算方法來分析大數據並輔助決策。",
@@ -10907,7 +10702,18 @@
         "code": "3103"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王正豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11297",
+        "code": "11297"
+      },
+      {
+        "name": "邱弘緯",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11232",
+        "code": "11232"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10918,11 +10724,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩一修，9/15.29；10/6.20.27；11/10",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
     "syllabusLinks": []
   },
@@ -11391,7 +11197,7 @@
       ]
     },
     "classroom": [],
-    "people": "87",
+    "people": "88",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11464,7 +11270,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "109",
+    "people": "110",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11607,7 +11413,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12491,7 +12297,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12879,7 +12685,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13002,7 +12808,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13053,7 +12859,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13105,7 +12911,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13253,7 +13059,7 @@
         "code": "325"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13311,7 +13117,7 @@
         "code": "311"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13369,7 +13175,7 @@
         "code": "324"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13434,7 +13240,7 @@
         "code": "324"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13492,7 +13298,7 @@
         "code": "311"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13603,7 +13409,7 @@
         "code": "309"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13659,7 +13465,7 @@
         "code": "311"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13715,7 +13521,7 @@
         "code": "311"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13768,7 +13574,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13820,7 +13626,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13873,7 +13679,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13926,7 +13732,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13979,7 +13785,7 @@
       ]
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14031,7 +13837,7 @@
       ]
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14074,7 +13880,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14125,7 +13931,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14178,7 +13984,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14221,7 +14027,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14262,7 +14068,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14303,7 +14109,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14892,7 +14698,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515001",
     "syllabusLinks": []
   },
@@ -15550,7 +15356,7 @@
         "code": "383"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15656,7 +15462,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "45",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16388,7 +16194,7 @@
         "code": "211"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16447,7 +16253,7 @@
         "code": "48"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16807,9 +16613,9 @@
     },
     "classroom": [
       {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
-        "code": "47"
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=50",
+        "code": "50"
       }
     ],
     "people": "39",
@@ -16924,7 +16730,7 @@
       ]
     },
     "classroom": [],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17501,7 +17307,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17559,7 +17365,7 @@
         "code": "118"
       }
     ],
-    "people": "21",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17708,7 +17514,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17901,7 +17707,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17942,7 +17748,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18024,7 +17830,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18848,7 +18654,7 @@
         "code": "139"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19020,7 +18826,7 @@
         "code": "154"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19073,7 +18879,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19125,7 +18931,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19981,7 +19787,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20302,7 +20108,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20616,7 +20422,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20669,7 +20475,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21634,7 +21440,7 @@
         "code": "118"
       }
     ],
-    "people": "3",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22020,6 +21826,303 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "339216",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩二修，Dr. Adwait Khare 10.26-28",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705515",
+    "description": {
+      "zh": "本課程深入了解企業實現淨零碳排的原則與實踐。課程探討永續轉型的策略，著重於將永續性融入商業運營以及實現淨零排放的過程。透過理論知識與實務案例的結合，學生將學習如何在其組織內部開發和實施有效的永續策略。",
+      "en": "This course provides an in-depth understanding of the principles and practices behind achieving net zero carbon emissions in a corporate setting. It explores the strategies for sustainable transformation, focusing on the integration of sustainability into business operations, and the journey towards achieving net zero emissions. Through a combination of theoretical knowledge and practical case studies, students will learn how to develop and implement effective sustainability strategies within their organizations."
+    },
+    "id": "343460",
+    "name": {
+      "zh": "企業淨零碳排與永續轉型",
+      "en": "Corporate Net Zero Carbon Emissions and Sustainable Transformation"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3096",
+        "code": "3096"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "高楷雲",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23774",
+        "code": "23774"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705515",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705516",
+    "description": {
+      "zh": "本課程在使學生藉由瞭解先進與科技產品發展與運用未來市場策略定位的領域有著密不可分的關係。課程內容主要藉由當前先進國家的科技產品發展的相關課題，以及我國身處整體環境的概述，讓同學進一步了解先進產業及企業之科技產品市場定位與策略有一基本的認知，提供同學從進階科技產品、市場定位、管理策略的課程用不同角度瞭解科技產品於市場上定位及推動發展策略。",
+      "en": "This course is inseparable from the field of enabling students to understand the development of advanced and technological products and the application of future market strategy positioning. The content of the course mainly uses the current topics related to the development of technological products in advanced countries and an overview of the overall environment in which our country is located, so that students can further understand the market positioning and strategies of technological products of advanced industries and enterprises and have a basic understanding, and provide students with a basis for further study. Courses on high-end technology products, market positioning, and management strategies use different perspectives to understand the positioning of technology products in the market and promote development strategies."
+    },
+    "id": "343461",
+    "name": {
+      "zh": "進階科技產品市場定位與策略",
+      "en": "Advanced technology product market positioning and strategy"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3096",
+        "code": "3096"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳國樑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23152",
+        "code": "23152"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=486",
+        "code": "486"
+      }
+    ],
+    "people": "11",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705516",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343461&code=23152"
+    ]
+  },
+  {
+    "code": "C515015",
+    "description": {
+      "zh": "本課程介紹電腦科學中圖形識別的基本原理與相關技術，使學生了解各種圖形識別的分類方法，經由對分類問題的分析，瞭解如何將輸入樣本依不同特性加以分類，並熟悉圖形識別系統之相關議題如：分割、特徵擷取、分類、後處理、訓練、監督 / 非監督式學習、機器學習，進而了解分類問題，增進其解決實際圖形識別分類問題的能力。課程內容包括下列課題：圖形識別概論，Bayesian Decision Theory, Maximum-Likelihood, 非參數法學習，K-Nearest Neighbor Estimation, The Nearest-Neighbor Rule, Positive Boolean Function 多分類器，Linear Discriminant Functions，高維資料分類，分類正確率評估 (Accuracy Assessments) 及其他重要的應用，例如：文件分析、生物辨識、影像監控、遙測影像分類、醫療診斷、資料探勘等概念，最後並透過相關論文的研讀及討論，了解近代圖形識別的最新發展趨勢。",
+      "en": "The course includes: Introduction to Pattern Recognition, Bayesian Decision Theory, Maximum-Likelihood & Bayesian Parameter Estimation, Non-Parametric Classification - Density Estimation, K-Nearest Neighbor Estimation, The Nearest-Neighbor Rule, Multi-Classifier - Positive Boolean Function, Linear Discriminant Functions, Pattern Recognition of High Dimensional Data Sets, Pattern Recognition for Remote Sensing Images, Biometric Certification, Video Surveillance, Accuracy Assessments and Other Related Topics."
+    },
+    "id": "343616",
+    "name": {
+      "zh": "圖形識別",
+      "en": "Pattern Recognition"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張陽郎",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11213",
+        "code": "11213"
+      },
+      {
+        "name": "謝東儒",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11324",
+        "code": "11324"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二修，9/14.22.2810/5.19；11/2",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515015",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515022",
+    "description": {
+      "zh": "本課程主要分為專利權的觀念建立，及並以自然語言處理（NLP）作為主要工具，專利權進行量化分析。專利權部份：壹、保護創新：1. 如何透過專利保護科技創新、2. 專利的迷思。貳、專利與創新：1. 如何由需求或靈感取得創新、2. 如何使創新轉化為實質專利 3. 如何從專利撰寫演化出創新。參、專利概念與規法：1. 我國專利體系介紹、2. 專利相關法規之介紹、3. 專利取得的流程、4. 發明專利實體審查基、5. 專利說明書及圖示的撰寫格式、6. 何謂發明單一性及優先權的使用。肆、專利說明書搜尋及閱讀：1. 各國專利的搜尋引擎、2. 專利工具的使用、3. 閱讀專利說明書。伍、專利說明書的撰寫與申請：1. 專利說明書撰寫之重要 2. 專利說明書之格式 3. 專利說明書之撰寫技巧。陸、專利戰略與佈局：1. 商戰專利佈局模式、2. 專利舉發實務、3. 專利舉發方式、4. 專利舉發程序、5. 專利舉發策略運用、6. 舉發撤銷要件。柒、專利侵害及訴訟實例：1. 從案例中學習專利侵害的攻防與法院訴訟的爭點、2. 專家演講 (法官，技審官，審查官，律師) 邀請領域的專家分享實務經驗。專利權數據部份：壹、專利數據收集：深入探討數據清理，篩選，確保學生能夠為分析準備適當的數據集",
+      "en": "Patent-related aspects include:1.\tProtecting Innovation: Learn how to protect technological innovations through patents and debunk common myths surrounding patents.2.\tPatent and Innovation: Understand how to derive innovation from demands or inspirations, turn innovations into substantial patents, and evolve innovations from patent writing.3.\tPatent Concepts and Laws: Get introduced to the patent system in our country, learn about related regulations, understand the process of acquiring a patent, delve into invention patent review basics, and learn the format of writing patent specifications and illustrations. Furthermore, understand what constitutes an invention's singularity and the use of priority rights.4.\tSearching and Reading Patent Specifications: Get accustomed to search engines of patents across various countries and patent tools, and learn how to read patent specifications.5.\tWriting and Applying Patent Specifications: Understand the importance of patent specificati"
+    },
+    "id": "343617",
+    "name": {
+      "zh": "智慧專利分析",
+      "en": "Intelligent Patent Analytics"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "邱弘緯",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11232",
+        "code": "11232"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二修，9/21；10/6.20；11/10.17.24；12/1.22.29",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515022",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515003",
+    "description": {
+      "zh": "本課程在介紹如何運用企業內與員工之有關資源，包括其能力、知識、技術、態度和激勵，以配合企業整體競爭策略與形式。其內容有：人力資源分析、策略及目標、支援性作業之取得、發展及報酬、人力資源的維護。",
+      "en": "This course introduce how to apply the resource of the inter-corporation and employee, such as capacity, knowledge, technology, attitude and incentive, in order to cooperate business integrate competitive strategy."
+    },
+    "id": "343618",
+    "name": {
+      "zh": "人力資源管理",
+      "en": "Human Resource Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩二修，Dr. George Benson  中輔 7/28 , 正課 8.2-5",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515003",
     "syllabusLinks": []
   }
 ]
