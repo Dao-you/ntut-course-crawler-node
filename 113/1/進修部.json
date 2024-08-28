@@ -3160,49 +3160,8 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C205030",
-    "description": {
-      "zh": "本課程主要在讓學生藉由規劃與實施一項公益活動，以實踐企業倫理與社會責任，並藉以思考在推展企業倫理、企業社會責任與公司治理等理念時，如何能落實於企業的體制之中，以建立一個永續發展的企業價值體系。",
-      "en": "This course is designed to enable students to implement corporate ethics and social responsibility by planning and implementing a public welfare activity. The students should think about how to implement corporate ethics, corporate social responsibility, and corporate governance concepts. In order to establish a sustainable enterprise value system."
-    },
-    "id": "336845",
-    "name": {
-      "zh": "企業倫理與社會責任實踐",
-      "en": "Corporate Ethics and Social Responsibility Practice"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "1",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "泰國EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2992",
-        "code": "2992"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": []
   },
   {
@@ -3242,49 +3201,8 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C205030",
-    "description": {
-      "zh": "本課程主要在讓學生藉由規劃與實施一項公益活動，以實踐企業倫理與社會責任，並藉以思考在推展企業倫理、企業社會責任與公司治理等理念時，如何能落實於企業的體制之中，以建立一個永續發展的企業價值體系。",
-      "en": "This course is designed to enable students to implement corporate ethics and social responsibility by planning and implementing a public welfare activity. The students should think about how to implement corporate ethics, corporate social responsibility, and corporate governance concepts. In order to establish a sustainable enterprise value system."
-    },
-    "id": "336847",
-    "name": {
-      "zh": "企業倫理與社會責任實踐",
-      "en": "Corporate Ethics and Social Responsibility Practice"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "1",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "華南EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2993",
-        "code": "2993"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": []
   },
   {
@@ -3324,49 +3242,8 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205001",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C205030",
-    "description": {
-      "zh": "本課程主要在讓學生藉由規劃與實施一項公益活動，以實踐企業倫理與社會責任，並藉以思考在推展企業倫理、企業社會責任與公司治理等理念時，如何能落實於企業的體制之中，以建立一個永續發展的企業價值體系。",
-      "en": "This course is designed to enable students to implement corporate ethics and social responsibility by planning and implementing a public welfare activity. The students should think about how to implement corporate ethics, corporate social responsibility, and corporate governance concepts. In order to establish a sustainable enterprise value system."
-    },
-    "id": "336849",
-    "name": {
-      "zh": "企業倫理與社會責任實踐",
-      "en": "Corporate Ethics and Social Responsibility Practice"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "1",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "上海EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2994",
-        "code": "2994"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": []
   },
   {
@@ -6038,12 +5915,12 @@
     },
     "classroom": [
       {
-        "name": "三教207",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=41",
-        "code": "41"
+        "name": "綜科318",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=201",
+        "code": "201"
       }
     ],
-    "people": "29",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6102,7 +5979,7 @@
         "code": "211"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6161,7 +6038,7 @@
         "code": "47"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6508,7 +6385,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6978,7 +6855,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7171,7 +7048,7 @@
         "code": "45"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7353,7 +7230,7 @@
         "code": "156"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7410,7 +7287,7 @@
         "code": "45"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8020,7 +7897,7 @@
         "code": "383"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8872,7 +8749,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9411,7 +9288,7 @@
         "code": "486"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9478,7 +9355,7 @@
         "code": "486"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9547,7 +9424,7 @@
         "code": "486"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9742,7 +9619,7 @@
         "code": "387"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10285,7 +10162,7 @@
         "code": "399"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10344,7 +10221,7 @@
         "code": "399"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10403,7 +10280,7 @@
         "code": "399"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10462,7 +10339,7 @@
         "code": "383"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10579,7 +10456,7 @@
         "code": "52"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10637,7 +10514,7 @@
         "code": "45"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10706,7 +10583,7 @@
         "code": "40"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10826,7 +10703,7 @@
         "code": "42"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10880,7 +10757,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11353,7 +11230,7 @@
       ]
     },
     "classroom": [],
-    "people": "88",
+    "people": "89",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11495,7 +11372,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11638,7 +11515,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12534,7 +12411,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12593,7 +12470,7 @@
         "code": "50"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12651,7 +12528,7 @@
         "code": "50"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12710,7 +12587,7 @@
         "code": "51"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12769,7 +12646,7 @@
         "code": "50"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12828,7 +12705,7 @@
         "code": "41"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12871,7 +12748,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12912,7 +12789,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12953,7 +12830,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12994,7 +12871,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13766,7 +13643,7 @@
         "code": "47"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13818,7 +13695,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13877,7 +13754,7 @@
         "code": "54"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13936,7 +13813,7 @@
         "code": "54"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16083,16 +15960,16 @@
     },
     "classroom": [
       {
-        "name": "六教627",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=447",
-        "code": "447"
+        "name": "科研大樓235",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=465",
+        "code": "465"
       }
     ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資財四甲乙、資財所合開 / 六教 627",
+    "notes": "資財四甲乙、資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03040",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338208&code=12391"
@@ -16517,7 +16394,7 @@
         "code": "48"
       }
     ],
-    "people": "15",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17012,7 +16889,7 @@
         "code": "52"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17332,7 +17209,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17373,7 +17250,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17424,7 +17301,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17601,7 +17478,7 @@
         "code": "44"
       }
     ],
-    "people": "6",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17808,7 +17685,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17960,7 +17837,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18001,7 +17878,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18042,7 +17919,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18083,7 +17960,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18124,7 +18001,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18176,9 +18053,9 @@
     },
     "classroom": [
       {
-        "name": "三教408",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=56",
-        "code": "56"
+        "name": "思源講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=505",
+        "code": "505"
       }
     ],
     "people": "3",
@@ -19132,7 +19009,7 @@
         "code": "154"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19185,7 +19062,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19237,7 +19114,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20285,7 +20162,7 @@
         "code": "48"
       }
     ],
-    "people": "30",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20811,7 +20688,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21776,7 +21653,7 @@
         "code": "118"
       }
     ],
-    "people": "3",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22172,7 +22049,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "UTA, 碩二，Dr. Adwait Khare 10.26-28",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
   },
@@ -22323,7 +22200,7 @@
         "code": "486"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22471,6 +22348,320 @@
     "language": "",
     "notes": "UTA, 碩二修，Dr. George Benson  中輔 7/28 , 正課 8.2-5",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515003",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515019",
+    "description": {
+      "zh": "本課程以深入淺出之方式，介紹與機器學習之相關技術及演算法，目標是修習本課程之學生具有閱讀機器學習相關文獻之基本知識，並能從事相關之實務或電腦模擬實驗之工作，因此本課程著重在廣泛介紹各類之演算法之應用，而非深究少數演算法之深奧數學原理．本課程涵蓋之演算法，包含：最佳化基本知識，隨機最佳化演算法，隨機搜尋，決策樹，隨機森林，類神經網路及深度學習相關演算法，基因演算法，貝氏定理及應用，高斯混合模型，隱藏式馬可夫鍊 (及訓練演算法)，支援向量機，線性及邏輯迴歸，分群方法，降維方法，提升方法，決策融合技巧，及增強式學習等。",
+      "en": "This introductory course covers most of the techniques and algorithms related to the current trend in the machine learning field. The goal of this course is that students complete this course can read and understand the literature in the machine learning field, and can conduct computer simulations for experiments or apply the techniques to practical problems. Therefore, this course intends to cover a broad range of algorithms with emphasis on applications, rather than to cover only a few algorithms with extensive mathematical treatments. The algorithms covered in this course include: foundations of optiminizations, random search, decision tree, random decision forests, neural networks and deep learning, genetic algorithm, Bayes' theorem and its applications, Gauss mixture model, hidden Markov model (with its training algorithm), support vector machine, linear and logistic regressions, clustering algorithms, dimension reduction techniques (LDA, PCA, ICA, FA), boosting methods, decision."
+    },
+    "id": "343620",
+    "name": {
+      "zh": "機器學習",
+      "en": "Machine Learning"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "蔡偉和",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11248",
+        "code": "11248"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一修，11/23.30；12/7.14.21.28",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515019",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275004",
+    "description": {
+      "zh": "專注於戰略和機構的國際層面，並提供了一個框架，在日益複雜的全球經濟裡制定戰略。本課程旨在為學生提供對跨國公司經營裡的文化，政治，競爭，技術，法律和人口環境的理解。然後，它通過在國際背景下獲得成功的全球產業和戰略來探討全球競爭的性質。還涵蓋了跨國公司管理中的組織設計與戰略控制相關問題。",
+      "en": "Focuses on the international dimensions of strategy and organization and provides a framework for formulating strategies in an increasingly complex global economy. The course seeks to provide students with an understanding of the cultural, political, competitive, technological, legal, and demographic environments in which multinational firms operate. It then examines the nature of global competition by exploring the characteristics of global industries and strategies that have been successful in an international context. Also covered are issues related to organizational design and strategic control in the management of multinational enterprises."
+    },
+    "id": "343621",
+    "name": {
+      "zh": "跨國企業管理",
+      "en": "Management of Multinational Enterprises"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩一修，Dr.Abdul Rasheed, 11.1-4",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275011",
+    "description": {
+      "zh": "戰略管理使用綜合管理視角去解決相關的制定和實施企業和企業級戰略的問題。該課程包括開發識別問題的能力，評估戰略選擇，並瞭解戰略的形成和執行的組織過程。它建立在功能區課程所獲得的知識，並使用案例研究和項目，以提高學生的分析和決策能力。前提：必須參與上學期的課程或與得到研究生導師的許可。",
+      "en": "Strategic management uses a general management perspective in addressing issues related to the formulation and implementation of corporate and business level strategy. The course involves developing the ability to identify issues, evaluate strategic options and understand the organizational process by which strategies get formed and executed. It builds on the knowledge gained in functional area courses and uses case studies and projects to improve students' analytical and decision-making skills. Prerequisite: Must be taken in last semester or with permission of the Graduate Advisor."
+    },
+    "id": "343622",
+    "name": {
+      "zh": "策略管理",
+      "en": "Strategic Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩二修，Dr. Liliana, 12.13-16",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275004",
+    "description": {
+      "zh": "專注於戰略和機構的國際層面，並提供了一個框架，在日益複雜的全球經濟裡制定戰略。本課程旨在為學生提供對跨國公司經營裡的文化，政治，競爭，技術，法律和人口環境的理解。然後，它通過在國際背景下獲得成功的全球產業和戰略來探討全球競爭的性質。還涵蓋了跨國公司管理中的組織設計與戰略控制相關問題。",
+      "en": "Focuses on the international dimensions of strategy and organization and provides a framework for formulating strategies in an increasingly complex global economy. The course seeks to provide students with an understanding of the cultural, political, competitive, technological, legal, and demographic environments in which multinational firms operate. It then examines the nature of global competition by exploring the characteristics of global industries and strategies that have been successful in an international context. Also covered are issues related to organizational design and strategic control in the management of multinational enterprises."
+    },
+    "id": "343626",
+    "name": {
+      "zh": "跨國企業管理",
+      "en": "Management of Multinational Enterprises"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "雙聯EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3106",
+        "code": "3106"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩一，Dr.Abdul Rasheed, 11.1-4",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C205034",
+    "description": {
+      "zh": "本課程主要在介紹高階管理的理論與實務。將透過學校老師與企業高階管理者與學生一起探討當前管理重要議題。本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。",
+      "en": "This course focuses on the introduction and discussion of theories and practices of contemporary management topics. Besides university professors, renowned top manager will be invited to share the best practice experiences of the workplace in the lecture. The Integrated Management Case Studies would be taught by case methods from Havard Business School’s cases. Every case will be taught from Marketing, Financing, Technology Management, and Operation Management areas faculty. This course focus on the integration of management functions. The case contest will be hold on the final week to encourage team building and learning."
+    },
+    "id": "343629",
+    "name": {
+      "zh": "高階管理與個案分析",
+      "en": "Advanced Management Practice and Integrated Management Case Studies"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "泰國EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2992",
+        "code": "2992"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳牧恩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11985",
+        "code": "11985"
+      },
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "耿慶瑞",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10938",
+        "code": "10938"
+      },
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11396",
+        "code": "11396"
+      },
+      {
+        "name": "劉建浩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11537",
+        "code": "11537"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一必修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C205034",
+    "description": {
+      "zh": "本課程主要在介紹高階管理的理論與實務。將透過學校老師與企業高階管理者與學生一起探討當前管理重要議題。本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。",
+      "en": "This course focuses on the introduction and discussion of theories and practices of contemporary management topics. Besides university professors, renowned top manager will be invited to share the best practice experiences of the workplace in the lecture. The Integrated Management Case Studies would be taught by case methods from Havard Business School’s cases. Every case will be taught from Marketing, Financing, Technology Management, and Operation Management areas faculty. This course focus on the integration of management functions. The case contest will be hold on the final week to encourage team building and learning."
+    },
+    "id": "343630",
+    "name": {
+      "zh": "高階管理與個案分析",
+      "en": "Advanced Management Practice and Integrated Management Case Studies"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "華南EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2993",
+        "code": "2993"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11505",
+        "code": "11505"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "林志平",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10431",
+        "code": "10431"
+      },
+      {
+        "name": "邱垂昱",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10632",
+        "code": "10632"
+      },
+      {
+        "name": "陳柏瑄",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12343",
+        "code": "12343"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10988",
+        "code": "10988"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一必修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": []
   }
 ]
