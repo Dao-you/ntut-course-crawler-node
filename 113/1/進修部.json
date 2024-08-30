@@ -4142,12 +4142,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=22",
+        "code": "22"
+      }
+    ],
     "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "設計館 205 教室",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336870&code=22396"
@@ -4194,12 +4200,18 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計205",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=311",
+        "code": "311"
+      }
+    ],
     "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1413003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336871&code=24341"
@@ -4816,7 +4828,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=50",
+        "code": "50"
+      }
+    ],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -4929,7 +4947,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教503",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=60",
+        "code": "60"
+      }
+    ],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -5024,7 +5048,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6432,7 +6462,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教203",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=21",
+        "code": "21"
+      }
+    ],
     "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6851,7 +6887,7 @@
         "code": "47"
       }
     ],
-    "people": "26",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6997,7 +7033,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7096,7 +7132,7 @@
         "code": "45"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7155,7 +7191,7 @@
         "code": "56"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8293,7 +8329,7 @@
         "code": "337"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8386,8 +8422,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "6",
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8439,8 +8481,14 @@
       ],
       "sat": []
     },
-    "classroom": [],
-    "people": "7",
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8492,7 +8540,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8545,7 +8599,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織一樓",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=337",
+        "code": "337"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9060,7 +9120,7 @@
         "code": "117"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9342,7 +9402,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705401",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337329&code=24463"
+    ]
   },
   {
     "code": "5705472",
@@ -9583,47 +9645,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337353&code=23585"
     ]
-  },
-  {
-    "code": "5705511",
-    "description": {
-      "zh": "本課程在使學生藉由瞭解市場定位與策略跟科技產品發展與運用的領域有著密不可分的關係。課程內容主要藉由當前科技產品發展的相關課題，以及整體環境的概述，讓同學對於產業或企業之科技產品市場定位與策略有一基本的認知，提供同學從科技產品、市場定位、管理策略的不同角度瞭解科技產品於市場上定位及推動發展策略。",
-      "en": "This course is closely related to the field of technology product development and application through understanding market positioning and strategies. The course content mainly provides students with a basic understanding of the market positioning and strategies of technology products in industries or enterprises through the current topics related to the development of technology products and an overview of the overall environment, and provides students with different perspectives on technology products, market positioning, and management strategies. Understand the positioning of technology products in the market and promote development strategies."
-    },
-    "id": "337363",
-    "name": {
-      "zh": "科技產品市場定位與策略",
-      "en": "Technology Products Market Positioning and Strategy"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職經管所",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3096",
-        "code": "3096"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "0624 停開【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705511",
-    "syllabusLinks": []
   },
   {
     "code": "5806002",
@@ -10210,7 +10231,7 @@
         "code": "399"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10269,7 +10290,7 @@
         "code": "399"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10328,7 +10349,7 @@
         "code": "399"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10387,7 +10408,7 @@
         "code": "383"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10805,7 +10826,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11278,7 +11299,7 @@
       ]
     },
     "classroom": [],
-    "people": "89",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11351,7 +11372,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "110",
+    "people": "112",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11637,7 +11658,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11705,7 +11726,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "56",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11851,7 +11872,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12067,7 +12088,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12307,7 +12328,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337695&code=12343",
-      "ShowSyllabus.jsp?snum=337695&code=23152"
+      "ShowSyllabus.jsp?snum=337695&code=23152",
+      "ShowSyllabus.jsp?snum=337695&code=24463"
     ]
   },
   {
@@ -12517,7 +12539,7 @@
         "code": "50"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12575,7 +12597,7 @@
         "code": "50"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12634,7 +12656,7 @@
         "code": "51"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12693,7 +12715,7 @@
         "code": "50"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12752,7 +12774,7 @@
         "code": "41"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12836,7 +12858,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12918,7 +12940,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13690,7 +13712,7 @@
         "code": "47"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13742,7 +13764,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13801,7 +13823,7 @@
         "code": "54"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13835,9 +13857,9 @@
     ],
     "teacher": [
       {
-        "name": "林家弘",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11291",
-        "code": "11291"
+        "name": "彭朋群",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11369",
+        "code": "11369"
       }
     ],
     "time": {
@@ -13860,14 +13882,14 @@
         "code": "54"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337730&code=11291"
+      "ShowSyllabus.jsp?snum=337730&code=11369"
     ]
   },
   {
@@ -15603,7 +15625,7 @@
         "code": "56"
       }
     ],
-    "people": "22",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15662,7 +15684,7 @@
         "code": "48"
       }
     ],
-    "people": "46",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16776,7 +16798,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16954,7 +16982,7 @@
         "code": "52"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17124,7 +17152,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教504",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=61",
+        "code": "61"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17177,7 +17211,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教308",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=49",
+        "code": "49"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17230,7 +17270,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教310",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=51",
+        "code": "51"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17315,7 +17361,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17653,7 +17699,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17706,8 +17758,14 @@
         "4"
       ]
     },
-    "classroom": [],
-    "people": "7",
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17750,7 +17808,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17799,7 +17857,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教202",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=20",
+        "code": "20"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -17902,7 +17966,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18025,7 +18089,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19116,7 +19180,7 @@
         "code": "154"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19169,7 +19233,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19221,7 +19285,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19859,7 +19923,7 @@
         "code": "108"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19923,7 +19987,7 @@
         "code": "108"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20427,7 +20491,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
+        "code": "48"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20598,7 +20668,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "紡織二樓_1",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20741,7 +20817,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=22",
+        "code": "22"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20795,7 +20877,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21537,7 +21619,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22504,7 +22586,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22545,7 +22627,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
