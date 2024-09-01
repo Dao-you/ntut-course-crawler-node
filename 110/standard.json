@@ -16266,6 +16266,15 @@
           "credit": "3.0",
           "hours": "3",
           "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "再生能源的未來",
+          "credit": "1.0",
+          "hours": "1",
+          "stage": "1"
         }
       ],
       "rules": [
@@ -24054,6 +24063,15 @@
           "year": "3",
           "sem": "2",
           "type": "★",
+          "name": "固態電子元件",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "3",
+          "sem": "2",
+          "type": "★",
           "name": "奈米檢測",
           "credit": "3.0",
           "hours": "3",
@@ -24201,15 +24219,6 @@
           "name": "學年校外實習(一)",
           "credit": "4.0",
           "hours": "40",
-          "stage": "1"
-        },
-        {
-          "year": "4",
-          "sem": "1",
-          "type": "★",
-          "name": "固態電子元件",
-          "credit": "3.0",
-          "hours": "3",
           "stage": "1"
         },
         {
@@ -53466,6 +53475,15 @@
           "year": "3",
           "sem": "2",
           "type": "★",
+          "name": "固態電子元件",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "3",
+          "sem": "2",
+          "type": "★",
           "name": "奈米檢測",
           "credit": "3.0",
           "hours": "3",
@@ -53595,15 +53613,6 @@
           "name": "學年校外實習(一)",
           "credit": "4.0",
           "hours": "40",
-          "stage": "1"
-        },
-        {
-          "year": "4",
-          "sem": "1",
-          "type": "★",
-          "name": "固態電子元件",
-          "credit": "3.0",
-          "hours": "3",
           "stage": "1"
         },
         {
@@ -124816,6 +124825,24 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "植物與糧食",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "醫學與生活",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "藥學與生活",
           "credit": "2.0",
           "hours": "2",
@@ -124843,6 +124870,51 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "邏輯與科學發展",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "統計與生活",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "批判性思考",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "現代科技概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "環境生態學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "生命科學概論",
           "credit": "2.0",
           "hours": "2",
@@ -124861,6 +124933,15 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "環境與自然保育",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "生態與環保",
           "credit": "2.0",
           "hours": "2",
@@ -124871,6 +124952,15 @@
           "sem": "1",
           "type": "△",
           "name": "營養、運動與健康",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "病毒學概論",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -124907,9 +124997,54 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "創新思考",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "創業概論",
           "credit": "2.0",
           "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "創業與國際貿易",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "APP設計入門與應用",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "人工智慧概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "社會責任與社會創新",
+          "credit": "1.0",
+          "hours": "1",
           "stage": "1"
         }
       ],
@@ -124953,7 +125088,124 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "唐近體詩選讀",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "論語",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "觀光日語",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "方言與文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "西洋文學名著選讀",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國庭園文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣文學史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "人生哲學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣發展史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國文化史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "理則學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "水彩",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國藝術欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "西洋藝術欣賞",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -124980,7 +125232,43 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "戲劇欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "歌劇欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "舞蹈欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣社會與文化",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "書法賞析",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -124998,7 +125286,133 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "素描",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "藝術欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國哲學史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "唐宋元俗文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "茶與文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "篆刻藝術欣賞與習作",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "現代英美散文選讀",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "宗教與人生",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "現代歷史人物評析",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國現代史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣的歷史與古蹟",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣近代史事與人物",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "三國演義與中國文化",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國近代史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "玉文化概述",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -125025,7 +125439,277 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "莊子的智慧",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "史傳文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "說文解字",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "唐人傳奇",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "應用文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國人物品鑑",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "宋詞欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "戲曲欣賞",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "志怪小說",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "西洋文化史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國文物介紹",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國美學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "科技史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "歷史與人生",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "科技法律與倫理",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "電影與音樂",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "生態哲學概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣科技發展史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "口述歷史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "博雅講座",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "博雅講座(一)",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "心靈哲學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "科學哲學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "生物哲學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "佛學與人生",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "閱讀中國女性",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "古蹟欣賞入門",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣近代工業教育史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣民俗與信仰",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "生命教育",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "哲學心理學",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -125043,7 +125727,196 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "文學概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣文化概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國文化概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "歷史與文物",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "愛情與文學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "生活美學",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "音樂概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "電影與歷史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "中國政治發展史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣歷史名著選讀",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "戰爭影像與戰爭史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣物質史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "台灣歷史與文化",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "歷史名著選讀",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "臺灣近現代戰爭史",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "倫理學概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "工程倫理",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "專業倫理",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "企業倫理",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "工程倫理與工業安全",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "幸福論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "職場倫理",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -125071,6 +125944,24 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "國際關係",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "認識中國大陸",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "民法概要",
           "credit": "2.0",
           "hours": "2",
@@ -125080,7 +125971,34 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "當代社會問題探討",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "人際關係",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "生涯發展與選擇",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "心理成長團體",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -125116,7 +126034,25 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "心理與人生",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "智慧財產權",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "婚姻與家庭",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -125143,7 +126079,70 @@
           "year": "1",
           "sem": "1",
           "type": "△",
+          "name": "勞動法",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "兩岸關係與國際政治",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "性別與法律",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
           "name": "社會學概論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "攝影與社會",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "社會心理學導論",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "勞動影像與當代台灣社會",
+          "credit": "2.0",
+          "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "1",
+          "type": "△",
+          "name": "親密關係",
           "credit": "2.0",
           "hours": "2",
           "stage": "1"
@@ -130206,6 +131205,15 @@
           "name": "數位轉型研討",
           "credit": "2.0",
           "hours": "2",
+          "stage": "1"
+        },
+        {
+          "year": "3",
+          "sem": "1",
+          "type": "★",
+          "name": "人工智慧跨域金融之應用",
+          "credit": "3.0",
+          "hours": "3",
           "stage": "1"
         },
         {
