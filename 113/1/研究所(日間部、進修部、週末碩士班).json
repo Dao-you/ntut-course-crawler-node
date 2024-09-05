@@ -6104,9 +6104,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓734",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
-        "code": "487"
+        "name": "先鋒604 ",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=568",
+        "code": "568"
       }
     ],
     "people": "56",
@@ -11600,7 +11600,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "科研 825",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05106",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336576&code=12342"
@@ -12605,7 +12605,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "先鋒大樓 403 教室",
+    "notes": "預計納入低軌衛星系統應用微學程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY25001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336640&code=12460"
@@ -14471,9 +14471,9 @@
     },
     "classroom": [
       {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=47",
-        "code": "47"
+        "name": "土木201",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=382",
+        "code": "382"
       }
     ],
     "people": "29",
@@ -18958,7 +18958,13 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "92",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19100,7 +19106,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19174,7 +19186,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19249,7 +19267,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理",
+    "notes": "(群組 6) 財金管理，暫定科研 823",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337680&code=11729",
@@ -19318,7 +19336,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=480",
+        "code": "480"
+      }
+    ],
     "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19386,7 +19410,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19464,7 +19494,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "80",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19532,7 +19568,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=480",
+        "code": "480"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19601,7 +19643,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19674,7 +19722,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=491",
+        "code": "491"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19749,7 +19803,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19829,7 +19889,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=480",
+        "code": "480"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19904,7 +19970,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19982,7 +20054,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=491",
+        "code": "491"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20062,7 +20140,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=474",
+        "code": "474"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -20072,7 +20156,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337697&code=11505",
       "ShowSyllabus.jsp?snum=337697&code=11429",
-      "ShowSyllabus.jsp?snum=337697&code=10821"
+      "ShowSyllabus.jsp?snum=337697&code=10821",
+      "ShowSyllabus.jsp?snum=337697&code=12343"
     ]
   },
   {
@@ -20142,7 +20227,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=491",
+        "code": "491"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -27159,9 +27250,9 @@
     },
     "classroom": [
       {
-        "name": "土木201",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=382",
-        "code": "382"
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=41",
+        "code": "41"
       }
     ],
     "people": "24",
@@ -27669,9 +27760,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓427",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=548",
-        "code": "548"
+        "name": "科研大樓334",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=473",
+        "code": "473"
       }
     ],
     "people": "16",
@@ -27737,7 +27828,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "科研 823",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB06043",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338212&code=11985"
@@ -37717,7 +37808,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37930,7 +38027,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=480",
+        "code": "480"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37999,7 +38102,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=491",
+        "code": "491"
+      }
+    ],
     "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
@@ -38733,7 +38842,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "陳鴻崑老師 / 科研 823",
+    "notes": "陳鴻崑老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05121",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338935&code=12560"
@@ -39208,13 +39317,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "光華館400",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=525",
-        "code": "525"
-      }
-    ],
+    "classroom": [],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -39979,7 +40082,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AVZ0001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343524&code=11969"
@@ -40605,6 +40708,7 @@
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343629&code=10938",
       "ShowSyllabus.jsp?snum=343629&code=11396"
     ]
   },
@@ -40678,6 +40782,281 @@
     "language": "",
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343630&code=12343"
+    ]
+  },
+  {
+    "code": "C205034",
+    "description": {
+      "zh": "本課程主要在介紹高階管理的理論與實務。將透過學校老師與企業高階管理者與學生一起探討當前管理重要議題。本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。",
+      "en": "This course focuses on the introduction and discussion of theories and practices of contemporary management topics. Besides university professors, renowned top manager will be invited to share the best practice experiences of the workplace in the lecture. The Integrated Management Case Studies would be taught by case methods from Havard Business School’s cases. Every case will be taught from Marketing, Financing, Technology Management, and Operation Management areas faculty. This course focus on the integration of management functions. The case contest will be hold on the final week to encourage team building and learning."
+    },
+    "id": "343631",
+    "name": {
+      "zh": "高階管理與個案分析",
+      "en": "Advanced Management Practice and Integrated Management Case Studies"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "上海EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2994",
+        "code": "2994"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂怜樺",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11893",
+        "code": "11893"
+      },
+      {
+        "name": "林志平",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10431",
+        "code": "10431"
+      },
+      {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10821",
+        "code": "10821"
+      },
+      {
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
+      },
+      {
+        "name": "蔡榮發",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11117",
+        "code": "11117"
+      },
+      {
+        "name": "應國卿",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11400",
+        "code": "11400"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "9",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一必修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343631&code=10821",
+      "ShowSyllabus.jsp?snum=343631&code=11315",
+      "ShowSyllabus.jsp?snum=343631&code=11117",
+      "ShowSyllabus.jsp?snum=343631&code=11400"
+    ]
+  },
+  {
+    "code": "C245004",
+    "description": {
+      "zh": "本課程旨在針對營運模式與供應鏈管理作探討，其中包含: 1. 電子化企業概論 2. 經營模式 3. 企業再造 4. 企業資源管理 5. 中小企業電子化 6. 商業電子化 7. 供應鏈管理 8. 需求鏈管理 9. 協同預測管理 10. 個案研究。",
+      "en": "The purpose of the course is to discuss the business model and supply chain management. The contents of this course will include: 1. General concept of e-business management 2.The business model3. Business reengineering 4.Enterprise resource planning 5.Small enterprise e-business management6. Channel e-business 7.Supply chain management 8.Demand chain management9.Collaborative management10. Case Study."
+    },
+    "id": "343632",
+    "name": {
+      "zh": "營運模式與供應鏈管理",
+      "en": "Business Model and Supply Chain Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "華南EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2993",
+        "code": "2993"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11505",
+        "code": "11505"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "林志平",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10431",
+        "code": "10431"
+      },
+      {
+        "name": "邱垂昱",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10632",
+        "code": "10632"
+      },
+      {
+        "name": "陳柏瑄",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12343",
+        "code": "12343"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10988",
+        "code": "10988"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "30",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C245004",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343632&code=12343"
+    ]
+  },
+  {
+    "code": "C215002",
+    "description": {
+      "zh": "此課程旨在說明決策理論之基本觀念，及其在真實世界裡相關決策問題之分析。使學生具備了解並建構決策問題，建構並推估決策之不確定性，以及建構並評估效用模式之能力。",
+      "en": "This course provides an overview of the basic concepts of decision theory and their applications on the real-world decision problems. Students will learn about the problem identification and modeling, the modeling and estimation of the associated uncertainty, and modeling and evaluation of the utility function."
+    },
+    "id": "343640",
+    "name": {
+      "zh": "決策分析與研討",
+      "en": "Decision Analysis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "上海EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2994",
+        "code": "2994"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂怜樺",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11893",
+        "code": "11893"
+      },
+      {
+        "name": "林志平",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10431",
+        "code": "10431"
+      },
+      {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10821",
+        "code": "10821"
+      },
+      {
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11315",
+        "code": "11315"
+      },
+      {
+        "name": "蔡榮發",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11117",
+        "code": "11117"
+      },
+      {
+        "name": "應國卿",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11400",
+        "code": "11400"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "5",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343640&code=10821",
+      "ShowSyllabus.jsp?snum=343640&code=11315",
+      "ShowSyllabus.jsp?snum=343640&code=11117",
+      "ShowSyllabus.jsp?snum=343640&code=11400"
+    ]
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "343643",
+    "name": {
+      "zh": "機器學習",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [
+        "5",
+        "6",
+        "7"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "臺灣大學林軒田 (9/2 開學), 詳 https://myppt.cc/KrzIJC",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
 ]

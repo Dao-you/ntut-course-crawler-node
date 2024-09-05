@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "陳柏瑄",
+    "email": "phc@ntut.edu.tw",
+    "latestUpdate": "2024-09-05 08:44:13",
+    "objective": "本課程主要在介紹高階管理的理論與實務。將透過學校老師與企業高階管理者與學生一起探討當前管理重要議題。本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。\nThis course focuses on the introduction and discussion of theories and practices of contemporary management topics. Besides university professors, renowned top manager will be invited to share the best practice experiences of the workplace in the lecture. The Integrated Management Case Studies would be taught by case methods from Havard Business School’s cases. Every case will be taught from Marketing, Financing, Technology Management, and Operation Management areas faculty. This course focus on the integration of management functions. The case contest will be hold on the final week to encourage team building and learning.",
+    "schedule": "11/30-12/1：\n1.11/30 上午 (09:10~12:00)(3hrs)\n【主題：開放式創新】\n謝英哲、張元杰、王健航、李孟哲 (2019) 中國合成橡膠 - 新藥之開發，No. 1-19006-11，光華管理個案收錄庫\n\n2.12/1 上午 (09:10~12:00)(3hrs)\n【主題：破壞式創新】Christensen, Raynor & McDonald (2015) 什麼才是破壞式創新？，哈佛商業評論，李明譯自”What Is Disruptive Innovation?” HBR。\n\n12/7（線上）：09:10~10:30 (1.5hrs)\n【主題：AI 在個案應用】“Storrowed”: A Generative AI Exercise，哈佛商學院個案，824188-PDF-ENG\n\n12/14（線上）：09:10~10:30 (1.5hrs)\n【主題：AI 在個案應用】Rahul Kapoor (2016) 為何較好的技術會較慢受到歡迎 (Why Better Technology Can Be Slower to Take Off)，哈佛商學院個案，影音個案",
+    "scorePolicy": "個人作業 20%\n分組討論與報告 35%\n課堂互動 25%\n出缺席 20%",
+    "materials": "自編教材\n\n參考書目如下:\nChristensen (2016) 精讀克里斯汀生：嚴選「破壞式創新」世界級權威大師 11 篇大塊文章，中文本\nChesbrough (2006) Open Innovation: The New Imperative for Creating and Profiting from Technology",
+    "consultation": "與授課老師 email 諮詢 (phc@ntut.edu.tw)",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

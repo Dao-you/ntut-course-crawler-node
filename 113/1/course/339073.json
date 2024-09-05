@@ -2,9 +2,9 @@
   {
     "name": "蔡宜學",
     "email": "yihsuehtsai@g.ntu.edu.tw",
-    "latestUpdate": "2024-09-03 13:59:44",
+    "latestUpdate": "2024-09-04 10:27:24",
     "objective": "本課程之目標為：充實生活技能、提升科技素養、豐富生活內涵、培養繼續進修之興趣與能力，以奠定終身學習及生涯發展之基礎。本課程之內容為：一、電腦與網路通訊基本概念，二、電腦功能與應用，三、資料處理與通訊網路，四、資訊管理，五、資訊與通訊網路，六、電腦的聲光世界與多彩多姿的應用服務，七、電腦與網路的安全問題與防治，八、未來的資訊社會與行動網路。\nThis course is designed to help student to learn another skill, better understand technology, enrich there live and inspire their interests for further study. The course includes: 1.basic knowledge of computer and network communication; 2.the application of computer; 3.data procession and communication network; 4.data control; 5.internet and mobile network; 6.multimedia and applications; 7.computer virus and network security; 8. the world of information and mobile network.",
-    "schedule": "週次\t課程進度 (每堂課程皆含影片分享)\n第 01 週\t課程介紹、AI 技術對生活與工作的影響 (1/2)\n第 02 週\tAI 技術對生活與工作的影響 (2/2)\n第 03 週\t生成式 AI 的資訊安全議題\n第 04 週\t第五代行動通訊系統 (5G) 導論 (3GPP 國際標準參與經驗分享)(1/2)\n第 05 週\t第五代行動通訊系統 (5G) 導論 (3GPP 國際標準參與經驗分享)(2/2)\n第 06 週\t5G 通訊安全簡介 (3GPP 國際標準參與經驗分享、資安大會技術分享)\n第 07 週\t如何成為白帽駭客 (資安大會技術分享)\n第 08 週\t入侵 Google 系列影片分享\n第 09 週\t期中報告 (1/2)\n第 10 週\t期中報告 (2/2)\n第 11 週\t全球衛星導航系統簡介\n第 12 週\t邁入低軌道衛星行動通訊的時代\n第 13 週\t第六代行動通訊系統 (6G) 簡介 (國際標準參與經驗分享)(1/2)\n第 14 週\t第六代行動通訊系統 (6G) 簡介 (國際標準參與經驗分享)(2/2)\n第 15 週\t後量子時代的安全防護\n第 16 週\t行動通訊於 (工業) 物聯網的應用\n第 17 週\t期末報告 (1/2)\n第 18 週\t期末報告 (2/2)",
+    "schedule": "週次\t課程進度 (每堂課程皆含影片分享)\n第 01 週\t課程介紹、AI 技術對生活與工作的影響 (1/2)\n第 02 週\tAI 技術對生活與工作的影響 (2/2)\n第 03 週\t生成式 AI 的資訊安全議題 (1/2)\n第 04 週\t生成式 AI 的資訊安全議題 (2/2)\n第 05 週\t第五代行動通訊系統 (5G) 導論 (3GPP 國際標準參與經驗分享)(1/2)\n第 06 週\t第五代行動通訊系統 (5G) 導論 (3GPP 國際標準參與經驗分享)(2/2)\n第 07 週\t5G 通訊安全簡介 (3GPP 國際標準參與經驗分享、資安大會技術分享)\n第 08 週\t如何成為白帽駭客 (資安大會技術分享)\n第 09 週\t期中報告 (1/2)\n第 10 週\t期中報告 (2/2)\n第 11 週\t全球衛星導航系統簡介\n第 12 週\t邁入低軌道衛星行動通訊的時代\n第 13 週\t入侵 Google 系列影片分享\n第 14 週\t第六代行動通訊系統 (6G) 簡介 (國際標準參與經驗分享)\n第 15 週\t後量子時代的安全防護\n第 16 週\t行動通訊於 (工業) 物聯網的應用\n第 17 週\t期末報告 (1/2)\n第 18 週\t期末報告 (2/2)",
     "scorePolicy": "出席率與課堂作業 50%\n期中報告 20%\n期末報告 30%",
     "materials": "3GPP 標準文件\nTAICS 分享影片\n資安大會簡報\nMicrosoft Copilot 個人版\nYotube 影片",
     "consultation": "teams: 24564@cc.ntut.edu.twemail: yihsueh.tsai@mail.ntut.edu.tw",
