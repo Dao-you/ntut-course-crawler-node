@@ -17,6 +17,11 @@
         "id": "1345",
         "name": "特殊學生專班課程",
         "href": "Subj.jsp?format=-4&year=113&sem=1&code=1345"
+      },
+      {
+        "id": "3113",
+        "name": "遠距教學班(研究所)",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=3113"
       }
     ],
     "category": "校院級"
