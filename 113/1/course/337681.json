@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
     "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw)",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "邱垂昱",
+    "email": "cychiu@ntut.edu.tw",
+    "latestUpdate": "2024-09-06 00:38:53",
+    "objective": "本課程之目標在於建構產業分析之思維架構及洞悉市場發展之研究能力，以因應市場之快速變遷，並介紹學生瞭解總體經濟與產業景氣分析，公司經營財務報表分析，投資標的評價與技術分析。透過研究方法之介紹及預測手法之教導並輔以個案實作以達其效。\nThe objective of the course is to construct the infrastructure of industry analysis and to build up the research capability for changing market development. The fundamental analysis of macro economy and business cycle, financial statement analysis and investment valuation methods are also studied. By introducing the methodologies and forecasting tools, the case study is implied in this class.",
+    "schedule": "週次          單元主題\n=====      =======================\n1               產業資料蒐集與分析\n2               總體經濟與產業景氣分析\n3               公司經營評價與技術分析\n4               個案分析與研討 1\n5               市場發展趨勢研判個案\n6               個案分析與研討 2",
+    "scorePolicy": "課程參與與報告討論  50%\n個案分析與研討         50%",
+    "materials": "課程講義\n個案資料\n網路資料",
+    "consultation": "email: cychiu@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]

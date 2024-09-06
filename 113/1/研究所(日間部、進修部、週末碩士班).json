@@ -438,7 +438,7 @@
         "code": "61"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1621,9 +1621,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓441",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=504",
-        "code": "504"
+        "name": "六教427",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=434",
+        "code": "434"
       }
     ],
     "people": "50",
@@ -2053,7 +2053,7 @@
         "code": "480"
       }
     ],
-    "people": "30",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4183,7 +4183,7 @@
         "code": "277"
       }
     ],
-    "people": "39",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4360,7 +4360,7 @@
         "code": "109"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5806,7 +5806,7 @@
         "code": "486"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10353,6 +10353,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
         "code": "3065"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3069",
+        "code": "3069"
       }
     ],
     "teacher": [
@@ -10412,6 +10417,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=1&code=3065",
         "code": "3065"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3069",
+        "code": "3069"
       },
       {
         "name": "管理博所",
@@ -11267,9 +11277,9 @@
     ],
     "teacher": [
       {
-        "name": "王甡",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=23286",
-        "code": "23286"
+        "name": "林淑玲",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11403",
+        "code": "11403"
       }
     ],
     "time": {
@@ -11299,7 +11309,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05006",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=336553&code=23286"
+      "ShowSyllabus.jsp?snum=336553&code=11403"
     ]
   },
   {
@@ -12835,9 +12845,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓441",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=504",
-        "code": "504"
+        "name": "六教527",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=439",
+        "code": "439"
       }
     ],
     "people": "10",
@@ -19350,7 +19360,8 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337681&code=10431"
+      "ShowSyllabus.jsp?snum=337681&code=10431",
+      "ShowSyllabus.jsp?snum=337681&code=10632"
     ]
   },
   {
@@ -21431,9 +21442,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓441",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=504",
-        "code": "504"
+        "name": "六教527",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=439",
+        "code": "439"
       }
     ],
     "people": "55",
@@ -27250,9 +27261,9 @@
     },
     "classroom": [
       {
-        "name": "三教207",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=41",
-        "code": "41"
+        "name": "六教226",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=423",
+        "code": "423"
       }
     ],
     "people": "24",
@@ -28961,7 +28972,7 @@
         "code": "560"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38188,7 +38199,8 @@
     "notes": "(群組 8) 社會人文藝術與其他領域，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215051",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338763&code=11829"
+      "ShowSyllabus.jsp?snum=338763&code=11829",
+      "ShowSyllabus.jsp?snum=338763&code=10824"
     ]
   },
   {
@@ -38310,7 +38322,7 @@
         "code": "474"
       }
     ],
-    "people": "39",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39563,7 +39575,7 @@
         "code": "562"
       }
     ],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -40708,6 +40720,7 @@
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343629&code=11429",
       "ShowSyllabus.jsp?snum=343629&code=10938",
       "ShowSyllabus.jsp?snum=343629&code=11396"
     ]
