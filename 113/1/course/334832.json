@@ -2,10 +2,10 @@
   {
     "name": "蔡一豪",
     "email": "iht@ntut.edu.tw",
-    "latestUpdate": "2024-08-08 03:07:32",
+    "latestUpdate": "2024-09-05 22:21:20",
     "objective": "本課程旨在介紹 Python 程式設計的基礎知識。課程涵蓋 Python 語言的基本概念、數據結構、函式與模組，學生將能夠掌握 Python 程式設計並能夠應用於解決實際問題。\nThis course aims to introduce the basic knowledge of Python programming. The course covers fundamental concepts of the Python language, data structures, functions, and modules. Students will be able to master Python programming and apply it to solve real-world problems.",
-    "schedule": "1.\t課程介紹\n2.\tPython 簡史與應用\n3.\t基本語法\n4.\t基本語法\n5.\t變數與運算\n6.\t變數與運算\n7.\t判斷式\n8.\t判斷式\n9.\t期中考\n10.\t迴圈\n11.\t迴圈\n12.\t串列與元組\n13.\t串列與元組\n14.\t串列與元組\n15.\t字典\n16.\t函式與模組\n17.\t期末報告\n18.\t期末報告",
-    "scorePolicy": "期中考 40%\n期末報告 40%\n出席與課堂表現 20%",
+    "schedule": "1.\t課程介紹\n2.\tPython 簡史與應用\n3.\t基本語法\n4.\t基本語法\n5.\t變數與運算\n6.\t變數與運算\n7.\t判斷式\n8.\t判斷式\n9.\t期中考\n10.\t迴圈\n11.\t迴圈\n12.\t串列與元組\n13.\t串列與元組\n14.\t串列與元組\n15.\t字典\n16.\t函式與模組\n17.\t期末報告\n18.\t期末報告\n※ 課程進度與內容將視學生學習情況適度調整",
+    "scorePolicy": "期中考 40%\n期末報告 40%\n出席與課堂表現 20%\n※ 評量項目與配分將視學生學習情況適度調整",
     "materials": "參考書籍:\nPython 零基礎入門班\n碁峰圖書\n\n精通 Python｜運用簡單的套件進行現代運算\n碁峰圖書",
     "consultation": "email：iht@ntut.edu.tw",
     "課程對應SDGs指標": "無（None）",
