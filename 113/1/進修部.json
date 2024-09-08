@@ -166,7 +166,7 @@
         "code": "401"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -631,7 +631,7 @@
         "code": "450"
       }
     ],
-    "people": "16",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1031,7 +1031,7 @@
         "code": "334"
       }
     ],
-    "people": "56",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1135,7 +1135,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1956,7 +1956,7 @@
         "code": "445"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2800,7 +2800,7 @@
         "code": "335"
       }
     ],
-    "people": "48",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3077,7 +3077,7 @@
         "code": "466"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3135,7 +3135,7 @@
         "code": "467"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3194,7 +3194,7 @@
         "code": "462"
       }
     ],
-    "people": "15",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3679,7 +3679,7 @@
         "code": "48"
       }
     ],
-    "people": "41",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5020,7 +5020,7 @@
         "code": "60"
       }
     ],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5493,7 +5493,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14093,7 +14093,7 @@
         "code": "54"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15721,7 +15721,7 @@
         "code": "437"
       }
     ],
-    "people": "10",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16072,7 +16072,7 @@
         "code": "47"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16129,7 +16129,7 @@
         "code": "47"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16203,7 +16203,7 @@
         "code": "460"
       }
     ],
-    "people": "13",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16265,7 +16265,7 @@
         "code": "462"
       }
     ],
-    "people": "15",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16324,7 +16324,7 @@
         "code": "465"
       }
     ],
-    "people": "10",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18683,7 +18683,7 @@
         "code": "434"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19691,7 +19691,7 @@
         "code": "27"
       }
     ],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20912,7 +20912,7 @@
         "code": "334"
       }
     ],
-    "people": "46",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20971,7 +20971,7 @@
         "code": "334"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23244,6 +23244,7 @@
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343630&code=11225",
       "ShowSyllabus.jsp?snum=343630&code=12343"
     ]
   }
