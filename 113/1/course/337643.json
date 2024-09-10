@@ -13,6 +13,19 @@
     "foreignLanguageTextbooks": true
   },
   {
+    "name": "范書愷",
+    "email": "morrisfan@ntut.edu.tw",
+    "latestUpdate": "2024-09-09 18:11:15",
+    "objective": "介紹概念和解決問題的技術在生產管理和運營管理中的重要性。主題包括需求預測、容量管理、資源配置、庫存管理、供應鏈管理、品質控制和專案管理。\nIntroduction to concepts and problem-solving techniques important in production management and operations management. Topics include demand forecasting, capacity management, resource allocation, inventory management, supply chain management, quality control, and project management.",
+    "schedule": "* Quality Control\n* Quality Assurance\n* Six Sigma\n* Design for Six Sigma",
+    "scorePolicy": "Participation 30%\nWritten Examinations 70%",
+    "materials": "* Class notes provided",
+    "consultation": "Tuesday 1400-1600",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "蔡佩芳",
     "email": "ptsai@ntut.edu.tw",
     "latestUpdate": "2024-09-03 14:04:23",
