@@ -1,15 +1,15 @@
 [
   {
-    "name": "胡國英",
-    "email": "eaglehwu@ntut.edu.tw",
-    "latestUpdate": "2024-05-23 09:12:08",
-    "objective": "集總電路和克希荷夫定律（KCL,KVL），電路元件，串、並聯\n電路，一階電路，二階電路，線性非時變電路分析，相量及\n弦波穩態分析，耦合元件和電路，多相電路，複數頻率，頻\n率響應，狀態變數法，雙埠網路，PSPICE，傅式分析及轉換，\n拉式轉換。",
-    "schedule": "週次\t內容要項\n1\t課程目標進度、應具備之修課基礎、注意事項\n2\t電路分析方法\n3\t網路定理\n4\t儲能元件\n5\t儲能元件\n6\t一階電路          期中考 (1)\n7\tPspice 軟體模擬\n8\t一階電路\n9\t二階電路\n10\t二階電路\n11\t二階電路\n12\t正弦激勵和相量\n13\t正弦激勵和相量    期中考 (2)\n14\t正弦穩態分析\n15\t正弦穩態分析\n16\t專題報告 / 模擬報告\n17\t專題報告 / 模擬報告\n18\t期末考",
-    "scorePolicy": "期中考ㄧ: 30%\n期中考二: 30%\n期末考: 40%",
-    "materials": "Book: ELECTRIC CIRCUITS\nRev.: Tenth Edition\nAuthors: James W. Nilsson and Susan A. Riedel\nPublisher: PERSON and Prentice Hall",
-    "consultation": "綜合館 316-1 室電話：2159",
-    "課程對應SDGs指標": "無（None）",
-    "remarks": "https://teams.microsoft.com/l/meetup-join/19:eczR2UC5QTTwGb4aK7axTj8WEmBR8sJ7Kycu0X-6Ls01@thread.tacv2/1653454870004?context=%7B%22Tid%22:%22dfb5e216-2b8a-4b32-b1cb-e786a1095218%22,%22Oid%22:%220a3bdc74-7c93-484f-aa36-d7ac1e916f38%22%7D",
+    "name": "蘇恆毅",
+    "email": "hysu@ntut.edu.tw",
+    "latestUpdate": "2024-09-12 21:24:24",
+    "objective": "本課程旨在讓學生了解電路學的基本原理與分析技巧，並能應用於各類電路問題的解決。學生將學習電路中的基本概念、基本定律及各種電路分析方法，進一步掌握電路定理與常見電路元件的特性與應用。",
+    "schedule": "Week 1-2: Basic Concepts\nWeek 3-4: Basic Laws \nWeek 5-6: Methods of Analysis \nWeek 7-8: Circuit Theorems\nWeek 9: Midterm Exam\nWeek 10-11: Operational Amplifiers\nWeek 12-13: Capacitors and Inductors\nWeek 14-15: First-Order Circuits\nWeek 16-17: Second-Order Circuits\nWeek 18: Final Exam",
+    "scorePolicy": "小考: 30%\n期中考: 30%\n期末考: 40%",
+    "materials": "“Fundamentals of Electric Circuits”, 7/e, by Charles K. Alexander and Matthew N. O. Sadiku.",
+    "consultation": "Office HourTue: 09:00 ~ 12:00Thu: 09:00 ~ 12:00Email: hysu@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "remarks": "",
     "foreignLanguageTextbooks": true
   }
 ]
