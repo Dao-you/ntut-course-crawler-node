@@ -1011,6 +1011,11 @@
         "id": "3063",
         "name": "材料所",
         "href": "Subj.jsp?format=-4&year=113&sem=1&code=3063"
+      },
+      {
+        "id": "2741",
+        "name": "職材料所",
+        "href": "Subj.jsp?format=-4&year=113&sem=1&code=2741"
       }
     ],
     "category": "工程學院"
