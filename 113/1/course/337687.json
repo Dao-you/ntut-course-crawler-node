@@ -37,5 +37,18 @@
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "黃乾怡",
+    "email": "jayhuang@ntut.edu.tw",
+    "latestUpdate": "2024-09-20 17:10:34",
+    "objective": "本課程將介紹大數據分析緣起與理論基礎，大數據分析與企業經營間之獲利關聯，並輔以大數據分析案例讓學員對於大數據應用有更深層的認識與啟發。\nThe big data opportunity, extracting insight from an immense volume, variety and velocity of data, in context, beyond what was previously possible, will be addressed in this course. Applications for big data analytics could include smarter healthcare, multi-channel, finance, computer log analysis, homeland security, traffic control, telecom, search quality, manufacturing, trading analytics, fraud and risk, retailing, among others.",
+    "schedule": "week 13(12/5) Data Types and Transformation  & \u000bData Visualization \u000b \u000b\nweek 14 (12/12) Association Rules\nweek 15 (12/19) Decision Tree & \u000bPredictive Model Evaluation",
+    "scorePolicy": "report: 50%\nattendance: 50%",
+    "materials": "N/A",
+    "consultation": "02 27712171 ext 2331",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]
