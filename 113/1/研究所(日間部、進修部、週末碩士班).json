@@ -32,7 +32,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "157",
+    "people": "159",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -265,7 +265,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "電機所、自動化所和電資外生所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335399&code=11007"
@@ -1626,7 +1626,7 @@
         "code": "434"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1802,7 +1802,7 @@
         "code": "491"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3739,7 +3739,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "【停開】",
+    "notes": "1 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905441",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335815&code=11040"
@@ -3793,7 +3793,7 @@
         "code": "383"
       }
     ],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4126,7 +4126,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "73",
+    "people": "78",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4242,7 +4242,7 @@
         "code": "53"
       }
     ],
-    "people": "66",
+    "people": "67",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5376,7 +5376,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "「應用語言實務研究」及「文學文化應用寫作」二擇一【停開】",
+    "notes": "「應用語言實務研究」及「文學文化應用寫作」二擇一，0【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415219",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335929&code=11227"
@@ -5474,7 +5474,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "64",
+    "people": "65",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6056,7 +6056,7 @@
         "code": "568"
       }
     ],
-    "people": "65",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7056,7 +7056,7 @@
         "code": "439"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7904,7 +7904,7 @@
         "code": "23"
       }
     ],
-    "people": "32",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10692,7 +10692,7 @@
         "code": "451"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15085,7 +15085,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15357,7 +15357,7 @@
         "code": "338"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15415,7 +15415,7 @@
         "code": "119"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15761,7 +15761,7 @@
         "code": "157"
       }
     ],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15819,7 +15819,7 @@
         "code": "119"
       }
     ],
-    "people": "4",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16859,7 +16859,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17277,7 +17277,7 @@
         "code": "387"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17882,7 +17882,7 @@
         "code": "399"
       }
     ],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19204,12 +19204,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓243",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=462",
+        "code": "462"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 6) 財金管理，暫定科研 823",
+    "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337680&code=11729",
@@ -20858,7 +20864,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "102",
+    "people": "103",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21872,7 +21878,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21913,7 +21919,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22701,7 +22707,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22824,7 +22830,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23137,7 +23143,7 @@
         "code": "47"
       }
     ],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23196,7 +23202,7 @@
         "code": "447"
       }
     ],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23298,7 +23304,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24020,7 +24026,7 @@
         "code": "139"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24094,7 +24100,7 @@
         "code": "566"
       }
     ],
-    "people": "47",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27137,7 +27143,7 @@
         "code": "383"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -29014,7 +29020,7 @@
         "code": "211"
       }
     ],
-    "people": "42",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30003,7 +30009,7 @@
         "code": "94"
       }
     ],
-    "people": "28",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30247,7 +30253,7 @@
         "code": "22"
       }
     ],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30305,7 +30311,7 @@
         "code": "49"
       }
     ],
-    "people": "35",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30549,7 +30555,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "建都所與設計博合開【停開】",
+    "notes": "建都所與設計博合開，1 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231409",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=338332&code=10467"
@@ -30915,9 +30921,9 @@
     },
     "classroom": [
       {
-        "name": "三教209",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=43",
-        "code": "43"
+        "name": "三教202",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=37",
+        "code": "37"
       }
     ],
     "people": "64",
@@ -30979,7 +30985,7 @@
         "code": "49"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31565,7 +31571,7 @@
         "code": "94"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31798,7 +31804,7 @@
         "code": "118"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32573,7 +32579,7 @@
         "code": "563"
       }
     ],
-    "people": "85",
+    "people": "88",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32848,7 +32854,7 @@
         "code": "569"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34131,7 +34137,7 @@
         "code": "46"
       }
     ],
-    "people": "63",
+    "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35480,7 +35486,7 @@
         "code": "497"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -36882,7 +36888,7 @@
       ]
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38353,7 +38359,7 @@
         "code": "118"
       }
     ],
-    "people": "9",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38704,7 +38710,7 @@
         "code": "109"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38763,7 +38769,7 @@
         "code": "473"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39307,7 +39313,7 @@
         "code": "108"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39578,65 +39584,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=339233&code=10823"
-    ]
-  },
-  {
-    "code": "C504002",
-    "description": {
-      "zh": "本課程深入探討低軌道衛星系統和地面站行動通訊網路的整合應用。課程內容包括低軌道衛星的基本原理、系統設計，以及地面站行動通訊網路的架構和技術。學生將透過理論學習和實務操作，深入瞭解這兩個領域的相互關聯性，並學會整合應用這些技術於實際通訊系統。此外，課程亦包涵低軌道衛星系統的運作原理，包括衛星軌道、通訊協定和數據傳輸技術。以及地面站行動通訊網路的設計和運營，涵蓋行動通訊標準、網路架構和協定等方面的知識。課程將以專題形式進行，學生將參與低軌道衛星系統和地面站行動通訊網路的整合專案。透過實作，他們將應用所學的理論知識，設計出具有實用價值的整合系統。最終，本課程的目標是培養學生在低軌道衛星通訊和行動通訊網路整合方面的專業能力，使他們具備未來衛星通訊發展的技術素養。",
-      "en": "This course explores the integration of Low Earth Orbit (LEO) satellite systems and ground station mobile communication networks. Topics include LEO satellite principles, system design, and the architecture of ground station mobile communication networks. Through theory and hands-on practice, students gain a deep understanding of these interconnected fields and learn to apply these technologies in real communication systems. The course features project-based learning, allowing students to participate in integrated projects and apply their theoretical knowledge to design practical systems. The ultimate goal is to develop students' professional expertise in integrating LEO satellite communication and mobile networks for future advancements in satellite communication."
-    },
-    "id": "339234",
-    "name": {
-      "zh": "LEO 與地面站網路整合專題",
-      "en": "LEO and Ground Station Communication Networks"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "電資學院(研)",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2882",
-        "code": "2882"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "莊嶸騰",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12500",
-        "code": "12500"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "7",
-        "8",
-        "9"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "億光0405",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=571",
-        "code": "571"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "大研合開【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C504002",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=339234&code=12500"
     ]
   },
   {
@@ -40740,7 +40687,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343630&code=11225",
       "ShowSyllabus.jsp?snum=343630&code=10632",
-      "ShowSyllabus.jsp?snum=343630&code=12343"
+      "ShowSyllabus.jsp?snum=343630&code=12343",
+      "ShowSyllabus.jsp?snum=343630&code=10988"
     ]
   },
   {
@@ -40894,7 +40842,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343632&code=11225",
       "ShowSyllabus.jsp?snum=343632&code=10632",
-      "ShowSyllabus.jsp?snum=343632&code=12343"
+      "ShowSyllabus.jsp?snum=343632&code=12343",
+      "ShowSyllabus.jsp?snum=343632&code=10988"
     ]
   },
   {
@@ -45983,6 +45932,293 @@
     "language": "",
     "notes": "經系所核准可修第二門論文始得修習",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5607004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4507001",
+    "description": {
+      "zh": "博士班研究生在教授之個別指導下，針對特定研究主題進行研究 ，並將研究成果寫成論文。",
+      "en": "PH.D.graduate students are required to complete a specific research topic under the instruction of their advisor. The results should be written as a thesis."
+    },
+    "id": "343964",
+    "name": {
+      "zh": "博士論文",
+      "en": "Doctoral Dissertation"
+    },
+    "stage": "3",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "能源所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3049",
+        "code": "3049"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "5",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "經系所核准可修第二門論文始得修習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4507001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C755002",
+    "description": {
+      "zh": "研究生在教授之個別指導下，針對特定研究主題進行研究 ，並將研究成果寫成論文。",
+      "en": "Graduate students are required to complete a specific research topic under the instruction of their advisor(s). The results should be written as a thesis."
+    },
+    "id": "343965",
+    "name": {
+      "zh": "論文",
+      "en": "Master's Thesis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "創新資安學位學程",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3078",
+        "code": "3078"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "經系所核准可修第二門論文始得修習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C755002",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4907001",
+    "description": {
+      "zh": "研究生在教授之個別指導下，針對特定研究主題進行研究，並將研究成果寫成論文。",
+      "en": "The course is designed to make the graduate understand the basic concept of instruction, to realize the various strategies for instruction in technical-vocational education, and to know how to apply and evaluate the strategies."
+    },
+    "id": "343972",
+    "name": {
+      "zh": "博士論文",
+      "en": "Doctroal Dissertation"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "技職所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3050",
+        "code": "3050"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "經系所核准可修第二門論文始得修習",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4907001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5705012",
+    "description": {
+      "zh": "本課程主要目的為讓研究生可以利用學期中、暑期或寒假至指導教授認可之校外公私立機構進行或參與實務研發，以增進研究生之實務研究能力。研究生於指導教授認可之同一校外研發機構的累計研究時數不得低於 320 小時，研究生於校外實務研發期滿後，由校外研發機構出具研究生於該機構之實務研發證明與實務研究成績；研究生並且必須繳交實務研發紀錄及實務研究報告予指導教授，指導教師依據研究生之實務研發紀錄及心得報告，指導研究生撰寫成實務研究成果報告，彙交所屬系所保存，並作為成績核定之依據。研究生校外實務研究學期成績之評定比例原則：校外實務研發機構占 50%，研究生指導教授占 50%。",
+      "en": "The main purpose of this course is to promote an all-round ability for the graduate students at NTUT. During either the summer/winter break or the regular semester term, graduate students are required to go to the organizations or agencies with respect to their individual research topics and future development by undergoing the on site research. The course takers will need to stay in the same individual organization or agency with a time span of no less than 320 hours. The students will also need to present to the thesis advisor the on-site research documents - which will thus be collected and deposited in the individual departmental or graduate institute office. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organizations or agencies (50%), respectively."
+    },
+    "id": "343992",
+    "name": {
+      "zh": "校外實務研究",
+      "en": "Graduate On-Site Research"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "18",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3055",
+        "code": "3055"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705012",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "344003",
+    "name": {
+      "zh": "中西藝術比較研究",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣師範大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "344004",
+    "name": {
+      "zh": "保存維護科學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣師範大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "344005",
+    "name": {
+      "zh": "地理資訊系統應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
 ]
