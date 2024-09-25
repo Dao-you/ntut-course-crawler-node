@@ -2438,11 +2438,11 @@
         "code": "260"
       }
     ],
-    "people": "5",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木 208",
+    "notes": "1 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205027",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=335663&code=24520"
@@ -4126,7 +4126,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "78",
+    "people": "79",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10461,7 +10461,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "【停開】",
+    "notes": "1 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805112",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336494&code=12101"
@@ -13261,7 +13261,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13891,7 +13891,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105100",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336947&code=24589"
@@ -14363,7 +14363,7 @@
         "code": "260"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15352,16 +15352,16 @@
     },
     "classroom": [
       {
-        "name": "共同303C",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=338",
-        "code": "338"
+        "name": "共同302",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=118",
+        "code": "118"
       }
     ],
     "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "共同科館 303C 室",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905441",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=337174&code=11040"
@@ -15421,7 +15421,9 @@
     "language": "",
     "notes": "共同科館 303A 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905451",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337175&code=20885"
+    ]
   },
   {
     "code": "4905567",
@@ -19135,7 +19137,7 @@
         "code": "474"
       }
     ],
-    "people": "44",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22033,7 +22035,7 @@
         "code": "275"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22707,7 +22709,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27202,7 +27204,7 @@
         "code": "423"
       }
     ],
-    "people": "28",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31863,7 +31865,7 @@
         "code": "109"
       }
     ],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32795,7 +32797,7 @@
         "code": "117"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35040,7 +35042,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38176,7 +38178,7 @@
         "code": "460"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -46090,7 +46092,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -46189,6 +46191,47 @@
     "id": "344005",
     "name": {
       "zh": "地理資訊系統應用",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "344006",
+    "name": {
+      "zh": "環境系統分析",
       "en": ""
     },
     "stage": "1",
