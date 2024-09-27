@@ -2398,7 +2398,10 @@
     "language": "",
     "notes": "甲乙組 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=335648&code=11734",
+      "ShowSyllabus.jsp?snum=335648&code=12243"
+    ]
   },
   {
     "code": "4205027",
@@ -2685,7 +2688,7 @@
         "code": "260"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3388,7 +3391,7 @@
         "code": "29"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12162,7 +12165,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12681,7 +12684,7 @@
         "code": "22"
       }
     ],
-    "people": "22",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14158,7 +14161,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16654,7 +16657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17564,7 +17567,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17620,7 +17623,7 @@
         "code": "55"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17679,7 +17682,7 @@
         "code": "58"
       }
     ],
-    "people": "12",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21662,7 +21665,10 @@
     "language": "",
     "notes": "博士班 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4207002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337805&code=10749",
+      "ShowSyllabus.jsp?snum=337805&code=10986"
+    ]
   },
   {
     "code": "4505002",
@@ -23059,7 +23065,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24124,7 +24130,7 @@
         "code": "566"
       }
     ],
-    "people": "48",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24896,7 +24902,7 @@
         "code": "94"
       }
     ],
-    "people": "31",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -24980,7 +24986,7 @@
         "code": "46"
       }
     ],
-    "people": "71",
+    "people": "72",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25295,7 +25301,7 @@
         "code": "94"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26344,7 +26350,7 @@
         "code": "191"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26418,7 +26424,7 @@
         "code": "191"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30167,9 +30173,9 @@
     },
     "classroom": [
       {
-        "name": "三教407",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=55",
-        "code": "55"
+        "name": "三教408",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=56",
+        "code": "56"
       }
     ],
     "people": "23",
@@ -30961,7 +30967,7 @@
         "code": "37"
       }
     ],
-    "people": "69",
+    "people": "71",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31079,7 +31085,7 @@
         "code": "334"
       }
     ],
-    "people": "52",
+    "people": "53",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31665,7 +31671,7 @@
         "code": "211"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -34852,7 +34858,7 @@
         "code": "191"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38270,7 +38276,7 @@
         "code": "474"
       }
     ],
-    "people": "113",
+    "people": "115",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39886,7 +39892,7 @@
       ]
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -46300,6 +46306,47 @@
     "id": "344022",
     "name": {
       "zh": "溫室氣體減量政策專題",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺北大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "344023",
+    "name": {
+      "zh": "質化資料分析",
       "en": ""
     },
     "stage": "1",
