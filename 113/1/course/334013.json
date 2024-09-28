@@ -1,5 +1,18 @@
 [
   {
+    "name": "余政杰",
+    "email": "ccyu@ntut.edu.tw",
+    "latestUpdate": "2024-09-27 16:02:45",
+    "objective": "本課程由學生與老師共同選定題目，在特定題目下對此專題之問題定義，分析，推理，設計，製作與解決方法進行研究，以完成該專題之成品，專題完成後需撰寫書面報告並公開展示成品，以培養實務工作之能力。專題範圍包含：\n\n1. 電子電路\n2. 電子儀表\n3. 控制與通訊系統\n4. 電子視聽系統\n5. 微電腦為基礎之計算機硬體（含軟體）製作\n6. 軟體設計與製作（PC，工作站），影像處理與計算機視覺，多媒體製作（動畫、Video、Audio 及其整合），\n7. 其他\n\nIn this course,students will conduct special project under the guidance of his advisor.The topic of this project,selected and decided by bath the student and his advisor,could be chosen form (but not limited to)\n\n1.Electronic circuits\n2.Electronic instrumentation\n3.Communication and control systems\n4.Microprocessor applications\n5.Multimedia system designs\n6.Computer networks\n7.Computer software design",
+    "schedule": "Project Teacher: Cheng-Chieh Yu (余政杰)\n\nNumber of Special Project Groups: 1\n\nNumber of Special Project Students in Total: 4\n\nProject Topic:\n\nExecutable Windows Programming for Practical RF Impedance Matching Techniques\n\nProject Schedule:\n\n01. Literature Survey and Paper Collection\n02. Paper Reading and Discussion\n03. Program Coding Using VB Programming Language or Otherwise\n04. Program Verifying Using Microwave Office Software Package or Otherwise\n05. Semester Report Writing",
+    "scorePolicy": "Paper                Reading: 20%\nProgram              Coding: 40%\nProgram            Verifying: 20%\nSemester Report Writing: 20%",
+    "materials": "網路實務射頻阻抗匹配技術英文專業論文\n\nOnline English Professional Papers on Practical RF Impedance Matching Techniques",
+    "consultation": "E-Mail: ccyu@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "remarks": "(To be supplemented when necessary)",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "段裘慶",
     "email": "cctuan@ntut.edu.tw",
     "latestUpdate": "2024-09-25 18:40:31",

@@ -1,5 +1,18 @@
 [
   {
+    "name": "王正豪",
+    "email": "jhwang@ntut.edu.tw",
+    "latestUpdate": "2024-09-27 11:24:25",
+    "objective": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作 Python 作為資料科學的實作工具，包括其相關 Python 基礎語法、各種資料型態、數據可視化、開源工具等。接著學習利用 Python 取得數據資料，進而操作各種迴歸分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的 AI 演算方法來分析大數據並輔助決策。\nData Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making.",
+    "schedule": "1. Characteristics of data\n2. Introduction to Python\n3. Basics: probability, statistics, linear algebra\n4. Data Preprocessing\n5. Frequent Pattern Mining\n6. Regression and Prediction\n7. Classification\n8. Clustering\n9. Applications",
+    "scorePolicy": "Labs and exercises: 50%\nTerm project presentation and report: 50%",
+    "materials": "1. Python Data Science Handbook: Essential Tools for Working with Data 1st Edition, by Jake VanderPlas, 2017.\n2. Data Science from Scratch: First Principles with Python, 2nd edition,\nby Joel Grus, 2019.",
+    "consultation": "The students can discuss with the teacher and the TA by appointment via e-mail. Other communication channels such as Teams or LINE might be established.",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "The course sessions will be recorded when possible.Online sessions via Microsoft Teams will be scheduled if possible.",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "邱弘緯",
     "email": "hwchiu@ntut.edu.tw",
     "latestUpdate": "2024-09-06 14:54:27",

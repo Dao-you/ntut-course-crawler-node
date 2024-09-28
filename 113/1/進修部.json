@@ -9306,7 +9306,7 @@
         "code": "117"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11033,6 +11033,7 @@
     "notes": "碩一修，9/15.29；10/6.20.27；11/10",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337594&code=11297",
       "ShowSyllabus.jsp?snum=337594&code=11232"
     ]
   },
@@ -19868,7 +19869,7 @@
         "code": "56"
       }
     ],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23547,5 +23548,87 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343953&code=12442"
     ]
+  },
+  {
+    "code": "7805001",
+    "description": {
+      "zh": "碩士學位論文寫作。",
+      "en": "A student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "343959",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職材料所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2741",
+        "code": "2741"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=7805001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3003808",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生至機械相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative mechanical engineering company, practice and learn the real operation of the mechanical engineering related fields. A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "344024",
+    "name": {
+      "zh": "校外實習 (三)",
+      "en": "Intern Practice(3)"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "36",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "訓四機四",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2753",
+        "code": "2753"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "供進修部重補修同學適用",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3003808",
+    "syllabusLinks": []
   }
 ]
