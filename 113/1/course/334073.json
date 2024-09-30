@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "name": "李育奇",
+    "email": "yclee@ntut.edu.tw",
+    "latestUpdate": "2024-09-30 07:51:42",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。\nTeaching students to do the research work and to write the papers. Before graduation, the students have possessed the ability to do the R/D work. Each student must be through professor's instrution's instructions to select the topics of special project, personal or group work should be completed the project's hardware or software and issued the paper. An announcement has been made by the department, then get the grade and credit.",
+    "schedule": "Wk 1-4 尋找主題、閱讀文獻\nWk 5-8 實驗設計、召募受試者\nWk 9~12 數據採集、分析\nWK 13-16 結果討論、期末報告撰寫",
+    "scorePolicy": "成員參與 40%\n期末報告 60%",
+    "materials": "自編教材",
+    "consultation": "email: yclee@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "車振華",
+    "email": "zhche@ntut.edu.tw",
+    "latestUpdate": "2024-09-30 08:53:38",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。\nTeaching students to do the research work and to write the papers. Before graduation, the students have possessed the ability to do the R/D work. Each student must be through professor's instrution's instructions to select the topics of special project, personal or group work should be completed the project's hardware or software and issued the paper. An announcement has been made by the department, then get the grade and credit.",
+    "schedule": "Weeks 1-2: 主題研析\nWeeks 3-5: 研究方法研討\nWeeks 5-8: 文獻討論\nWeeks 9-12:  專題撰寫研討\nWeeks 13-16: 資料分析\nWeeks 17-18: 專題報告",
+    "scorePolicy": "專題參與 30%\n專題計畫書 30%\n專題報告 40%",
+    "materials": "自編教材",
+    "consultation": "學生可經由課程 LINE 群或 E-MAIL: zhche@ntut.edu.tw 與教師討論。第十七和十八週線上教學連結會於上課前於課程 LINE 群公告。",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "張秉宸",
+    "email": "pcchang@ntut.edu.tw",
+    "latestUpdate": "2024-09-30 08:33:34",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。\nTeaching students to do the research work and to write the papers. Before graduation, the students have possessed the ability to do the R/D work. Each student must be through professor's instrution's instructions to select the topics of special project, personal or group work should be completed the project's hardware or software and issued the paper. An announcement has been made by the department, then get the grade and credit.",
+    "schedule": "Wk 1-4 基本課程、文獻閱讀\nWk 5-8 議題設定、實務 / 實驗改善\nWK 9-18 結果討論、報告撰寫",
+    "scorePolicy": "成員參與 50%\n期末報告 50%",
+    "materials": "自編教材",
+    "consultation": "Line 群組",
+    "課程對應SDGs指標": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
