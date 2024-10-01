@@ -32,7 +32,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "159",
+    "people": "163",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -140,7 +140,7 @@
         "code": "567"
       }
     ],
-    "people": "36",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27874,7 +27874,8 @@
     "notes": "丙丁戊組 土木 500",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236057",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=338217&code=11461"
+      "ShowSyllabus.jsp?snum=338217&code=11461",
+      "ShowSyllabus.jsp?snum=338217&code=11122"
     ]
   },
   {
@@ -29630,9 +29631,9 @@
     },
     "classroom": [
       {
-        "name": "三教307",
-        "link": "Croom.jsp?format=-3&year=113&sem=1&code=48",
-        "code": "48"
+        "name": "思源講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=1&code=505",
+        "code": "505"
       }
     ],
     "people": "35",
@@ -38279,7 +38280,7 @@
         "code": "474"
       }
     ],
-    "people": "115",
+    "people": "116",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -40580,83 +40581,6 @@
     "notes": "UTA, 碩一，Dr.Abdul Rasheed, 11.1-4",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
     "syllabusLinks": []
-  },
-  {
-    "code": "C205034",
-    "description": {
-      "zh": "本課程主要在介紹高階管理的理論與實務。將透過學校老師與企業高階管理者與學生一起探討當前管理重要議題。本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。",
-      "en": "This course focuses on the introduction and discussion of theories and practices of contemporary management topics. Besides university professors, renowned top manager will be invited to share the best practice experiences of the workplace in the lecture. The Integrated Management Case Studies would be taught by case methods from Havard Business School’s cases. Every case will be taught from Marketing, Financing, Technology Management, and Operation Management areas faculty. This course focus on the integration of management functions. The case contest will be hold on the final week to encourage team building and learning."
-    },
-    "id": "343629",
-    "name": {
-      "zh": "高階管理與個案分析",
-      "en": "Advanced Management Practice and Integrated Management Case Studies"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "泰國EMBA",
-        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2992",
-        "code": "2992"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "吳牧恩",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11985",
-        "code": "11985"
-      },
-      {
-        "name": "吳斯偉",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
-        "code": "11429"
-      },
-      {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11573",
-        "code": "11573"
-      },
-      {
-        "name": "耿慶瑞",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10938",
-        "code": "10938"
-      },
-      {
-        "name": "陳育威",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11396",
-        "code": "11396"
-      },
-      {
-        "name": "劉建浩",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11537",
-        "code": "11537"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "28",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "碩一必修",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=343629&code=11429",
-      "ShowSyllabus.jsp?snum=343629&code=11573",
-      "ShowSyllabus.jsp?snum=343629&code=10938",
-      "ShowSyllabus.jsp?snum=343629&code=11396"
-    ]
   },
   {
     "code": "C205034",
@@ -46386,6 +46310,47 @@
     "language": "",
     "notes": "國立臺北大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5816151",
+    "description": {
+      "zh": "本課程主要目的為讓研究生可以利用學期中、暑期或寒假至指導教授認可之校外公私立機構進行或參與實務研發，以增進研究生之實務研究能力。研究生於指導教授認可之同一校外研發機構的累計研究時數不得低於 320 小時，研究生於校外實務研發期滿後，由校外研發機構出具研究生於該機構之實務研發證明與實務研究成績；研究生並且必須繳交實務研發紀錄及實務研究心得報告予指導教授，指導教師依據研究生之實務研發紀錄及心得報告，指導研究生撰寫成實務研究成果報告，彙交所屬系所保存，並作為成績核定之依據。研究生校外實務研究學期成績之評定比例原則：校外實務研發機構占 50%，研究生指導教授占 50%。",
+      "en": "The main purpose of this course is to promote an all-round ability for the graduate students at NTUT. During either the summer/winter break or the regular semester term, graduate students are required to go to the organizations or agencies with respect to their individual research topics and future development by undergoing the on site research. The course takers will need to stay in the same individual organization or agency with a time span of no less than 320 hours. The students will also need to present to the thesis advisor the on-site research documents - which will thus be collected and deposited in the individual departmental or graduate institute office. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organizations or agencies (50%), respectively."
+    },
+    "id": "344025",
+    "name": {
+      "zh": "校外實務研究",
+      "en": "Graduate On-Site Research"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "18",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新所",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=3056",
+        "code": "3056"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5816151",
     "syllabusLinks": []
   }
 ]

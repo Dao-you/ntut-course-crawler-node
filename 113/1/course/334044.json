@@ -26,6 +26,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "邱弘緯",
+    "email": "hwchiu@ntut.edu.tw",
+    "latestUpdate": "2024-10-01 08:46:39",
+    "objective": "本課程由學生與老師共同選定題目，在特定題目下對此專題之問題定義，分析，推理，設計，製作與解決方法進行研究，以完成該專題之成品，專題完成後需撰寫書面報告並公開展示成品，以培養實務工作之能力。專題範圍包含：1. 鎖相迴路設計 2. ΔΣ 調變器 3. AI 晶片設計",
+    "schedule": "1. PLL \n2. Sigma Delta modulator\n3. AI IC Design",
+    "scorePolicy": "專題成品完成度",
+    "materials": "使用自編教材",
+    "consultation": "約時間",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "remarks": "https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "曾柏軒",
     "email": "phtseng@ntut.edu.tw",
     "latestUpdate": "2024-09-26 14:05:40",
