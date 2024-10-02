@@ -32,7 +32,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "163",
+    "people": "165",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5710,7 +5710,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "51",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6070,7 +6070,7 @@
         "code": "568"
       }
     ],
-    "people": "64",
+    "people": "65",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6129,7 +6129,7 @@
         "code": "487"
       }
     ],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7267,7 +7267,7 @@
         "code": "343"
       }
     ],
-    "people": "35",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7311,7 +7311,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7498,7 +7498,7 @@
         "code": "543"
       }
     ],
-    "people": "29",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10032,7 +10032,7 @@
         "code": "57"
       }
     ],
-    "people": "55",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10343,7 +10343,7 @@
         "code": "487"
       }
     ],
-    "people": "52",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18997,7 +18997,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "110",
+    "people": "111",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19198,6 +19198,11 @@
     ],
     "teacher": [
       {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12560",
+        "code": "12560"
+      },
+      {
         "name": "陳煒朋",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11729",
         "code": "11729"
@@ -19235,6 +19240,7 @@
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337680&code=12560",
       "ShowSyllabus.jsp?snum=337680&code=11729",
       "ShowSyllabus.jsp?snum=337680&code=11982"
     ]
@@ -19697,7 +19703,7 @@
         "code": "491"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21079,7 +21085,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21219,7 +21225,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "124",
+    "people": "126",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21865,7 +21871,7 @@
         "code": "342"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -22861,7 +22867,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39236,7 +39242,7 @@
         "code": "474"
       }
     ],
-    "people": "98",
+    "people": "99",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",

@@ -1179,9 +1179,19 @@
         "code": "11319"
       },
       {
+        "name": "蔡一豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12561",
+        "code": "12561"
+      },
+      {
         "name": "鄭鴻斌",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=10997",
         "code": "10997"
+      },
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11083",
+        "code": "11083"
       },
       {
         "name": "顏維謀",
@@ -11589,7 +11599,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "110",
+    "people": "111",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11790,6 +11800,11 @@
     ],
     "teacher": [
       {
+        "name": "陳鴻崑",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12560",
+        "code": "12560"
+      },
+      {
         "name": "陳煒朋",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=11729",
         "code": "11729"
@@ -11827,6 +11842,7 @@
     "notes": "(群組 6) 財金管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337680&code=12560",
       "ShowSyllabus.jsp?snum=337680&code=11729",
       "ShowSyllabus.jsp?snum=337680&code=11982"
     ]
@@ -12289,7 +12305,7 @@
         "code": "491"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12979,7 +12995,7 @@
         "code": "335"
       }
     ],
-    "people": "57",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23634,7 +23650,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
