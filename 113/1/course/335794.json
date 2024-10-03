@@ -2,10 +2,10 @@
   {
     "name": "李弘毅",
     "email": "hungyi1208@gmail.com",
-    "latestUpdate": "2024-06-04 22:30:20",
+    "latestUpdate": "2024-10-02 18:04:34",
     "objective": "This course is one of the fundamental courses in the thermofluid sciences for graduate students. Based upon the concept of conservation, the equations of mass, momentum, and energy will be derived. This course will deal with solutions of these equations, both exact and approximate. The application of solutions includes irrotational flow, low Reynolds number flow, and high Reynolds number (boundary layer) flow, etc.",
-    "schedule": "1. Basic Considerations\n2. Fluid Statics\n3. Introduction to fluids in Motion\n4.  Introduction to fluids in Motion\n5. The Integral Forms of the Fundamental Laws\n6. The Integral Forms of the Fundamental Laws\n7. The Differential Forms of the Fundamental Laws\n8. The Differential Forms of the Fundamental Laws\n9. Midterm Exam\n10. Dimensional Analysis and Simitude\n11. Dimensional Analysis and Simitude\n12. Internal Flows\n13. Internal Flows\n14. External Flows\n15. External Flows\n16. Compressible Flow\n17. Compressible Flow\n18. Final Exam",
-    "scorePolicy": "Homework 20%\nPresentation 20%\nMidterm exam 30%\nFinal exam 30%",
+    "schedule": "1. Basic Considerations\n2. Basic Considerations\n3. Fluid Statics\n4. Fluid Statics\n5. Introduction to fluids in Motion\n6. Introduction to fluids in Motion\n7. The Integral Forms of the Fundamental Laws\n8. The Integral Forms of the Fundamental Laws\n9. Midterm Exam\n10. The Differential Forms of the Fundamental Laws\n11. The Differential Forms of the Fundamental Laws\n12.Dimensional Analysis and Simitude\n13. Dimensional Analysis and Simitude\n14. Internal Flows\n15. Internal Flows\n16. External Flows\n17. External Flows\n18. Final Exam",
+    "scorePolicy": "Homework and Class Participation 40%\nMidterm Exam 30%\nFinal Exam 30%",
     "materials": "Mechanics of Fluids, Potter, Wiggert, Ramandan. 2002.\nBoundary Layer Theory, H. Schlichting, 2016.\nWhite, F.M. Viscous Fluid Flow, McGraw Hill, 1991.",
     "consultation": "hungyi1208@gmail.com",
     "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
