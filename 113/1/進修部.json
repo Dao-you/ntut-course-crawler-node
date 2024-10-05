@@ -166,7 +166,7 @@
         "code": "401"
       }
     ],
-    "people": "48",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1226,6 +1226,7 @@
       "ShowSyllabus.jsp?snum=336767&code=12467",
       "ShowSyllabus.jsp?snum=336767&code=11319",
       "ShowSyllabus.jsp?snum=336767&code=10997",
+      "ShowSyllabus.jsp?snum=336767&code=11083",
       "ShowSyllabus.jsp?snum=336767&code=11677"
     ]
   },
@@ -14414,7 +14415,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署代開課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503202",
     "syllabusLinks": []
   },
@@ -14561,7 +14562,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501605",
     "syllabusLinks": []
   },
@@ -14602,7 +14603,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501910",
     "syllabusLinks": []
   },
@@ -14643,7 +14644,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502907",
     "syllabusLinks": []
   },
@@ -14684,7 +14685,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501111",
     "syllabusLinks": []
   },
@@ -14725,7 +14726,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4501507",
     "syllabusLinks": []
   },
@@ -14766,7 +14767,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503908",
     "syllabusLinks": []
   },
@@ -21315,7 +21316,7 @@
         "code": "42"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
