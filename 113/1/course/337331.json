@@ -15,9 +15,9 @@
   {
     "name": "李鎮宇",
     "email": "G.C.Li@ntut.edu.tw",
-    "latestUpdate": "2024-10-04 12:37:22",
-    "objective": "This course introduces the methods essential to academic business research. \nIn my session, the students will be introduced to research questions, academic journals, literature review, citations, referencing, and format of dissertations.",
-    "schedule": "This course will be team-taught by various professors.\n1) Understanding academic research\n2) Literature review, citation, referencing\n3) Format of a dissertation",
+    "latestUpdate": "2024-10-05 18:04:46",
+    "objective": "This course introduces the methods essential to academic business research. \nIn my session, the students will be introduced to research questions, academic journals, literature review, citations, referencing, and format of dissertations. Secondly, students will be briefly introduced to data analysis through data science techniques.",
+    "schedule": "This course will be team-taught by various professors.\n1) Understanding academic research, literature review, citation, referencing, the format of a dissertation\n2) The environment and basic statistical analysis using R and R Studio.",
     "scorePolicy": "For my session,\ngrading will be based on weekly homework.",
     "materials": "Examples and codes to be shared in class.",
     "consultation": "LINE or Email the instructor",
