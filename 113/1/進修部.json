@@ -7014,9 +7014,9 @@
     ],
     "teacher": [
       {
-        "name": "尹世洵",
-        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11309",
-        "code": "11309"
+        "name": "羅元隆",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12243",
+        "code": "12243"
       }
     ],
     "time": {
@@ -7045,9 +7045,7 @@
     "language": "",
     "notes": "必選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236074",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337095&code=11309"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "4406001",
@@ -17596,7 +17594,7 @@
         "code": "334"
       }
     ],
-    "people": "53",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21316,7 +21314,7 @@
         "code": "42"
       }
     ],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
