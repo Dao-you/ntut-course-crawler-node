@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "name": "林雅惠",
+    "email": "yhvica@ntut.edu.tw",
+    "latestUpdate": "2024-10-09 08:54:05",
+    "objective": "以實務性專題提供學生獨立研究、設計、實驗之機會。\nThe course uses the practical project to help students to build independent research , design and experiment.",
+    "schedule": "與學生固定時間討論，討論主題依序如下:\n\n1. 專題論文題目\n2. 文獻蒐集\n3. 研究方法\n4. 資料搜集\n5. 研究結果與結論",
+    "scorePolicy": "參與討論：20%\n專題報告內容: 40%\n口頭報告表達能力: 40%",
+    "materials": "自編教材",
+    "consultation": "可以透過 e-mail 與老師約時間討論",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "趙莊敏",
+    "email": "cmchao@ntut.edu.tw",
+    "latestUpdate": "2024-10-08 14:47:47",
+    "objective": "以實務性專題提供學生獨立研究、設計、實驗之機會。",
+    "schedule": "與學生固定 meeting，從設定研究問題，收集 資料，結果分析，到文章撰寫，逐步加以指導。",
+    "scorePolicy": "論文內容完整性: 50%\n口頭報告表達能力: 50%",
+    "materials": "研究室資源（研究文獻與電腦軟體），以及圖書館資源",
+    "consultation": "有問題請用 email 或 line 與老師討論:cmchao@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
