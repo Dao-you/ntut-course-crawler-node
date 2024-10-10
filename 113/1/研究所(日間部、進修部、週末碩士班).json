@@ -2053,7 +2053,7 @@
         "code": "465"
       }
     ],
-    "people": "51",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3025,7 +3025,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "44",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8223,7 +8223,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -14442,7 +14442,9 @@
     "language": "",
     "notes": "必選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236074",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=337095&code=12243"
+    ]
   },
   {
     "code": "4406001",
