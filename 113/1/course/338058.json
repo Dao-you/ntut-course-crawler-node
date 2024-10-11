@@ -26,6 +26,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "柯明賢",
+    "email": "msko@ntut.edu.tw",
+    "latestUpdate": "2024-10-10 22:08:20",
+    "objective": "訓練學生獨立思考，培養學生對礦物資源之認識及應用能力，專題內容包括資源開發及地質工程、資源應用及材料合成、以及資源處理及材料製程等三大專長領域。學生必須研讀相關文獻後再研討專題實驗內容，並對實驗及結果加以詳述，而完成專題報告。\nThis course is trying to train independent thinking, to cultivate understanding and apply ability of mineral resources, the content of this subject includes the mining and geology engineering, the use of resources and materials synthesis, the resources and materials handling process, etc.. All the students must study related documents before they research the subject-matter content, they have to make a detailed report to the experiment and result at the final report.",
+    "schedule": "Topic1 研究文獻研讀 4 wks\nTopic2 研究文獻彙整 2 wks\nTopic3 專題實驗設計 2 wks\nTopic4 專題實驗執行 6 wks\nTopic5 實驗結果彙整 2 wks\nTopic6 專題報告撰寫 2 wks",
+    "scorePolicy": "1. 平時成績 50%\n2. 報告成績 50%",
+    "materials": "SCI Journal Paper",
+    "consultation": "1. 研討時間 2. 教師諮商時間 3. 以 E-mail 方式",
+    "課程對應SDGs指標": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "課程對應之臺灣永續發展目標 (SDGs) 核心目標 06 確保環境品質及永續管理環境資源核心目標 12 促進綠色經濟，確保永續消費及生產模式",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "陳志恆",
     "email": "f10871@ntut.edu.tw",
     "latestUpdate": "2024-10-09 08:46:42",
