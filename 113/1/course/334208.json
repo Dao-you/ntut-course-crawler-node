@@ -13,6 +13,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "邱志洲",
+    "email": "chih3c@ntut.edu.tw",
+    "latestUpdate": "2024-10-14 09:03:04",
+    "objective": "以實務性專題提供學生獨立研究、設計、實驗之機會。\nThe course uses the practical project to help students to build independent research , design and experiment.",
+    "schedule": "每週一  中午 12:20- 12:50 與 6 位專題學生討論\n主要先針對資料的讀取 整理跟轉換進行討論\n後半段則使用 python 進行建模作業！",
+    "scorePolicy": "每週參與點名",
+    "materials": "無教材",
+    "consultation": "課程諮詢管道 1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "耿慶瑞",
     "email": "cjkeng@ntut.edu.tw",
     "latestUpdate": "2024-10-11 16:37:27",
