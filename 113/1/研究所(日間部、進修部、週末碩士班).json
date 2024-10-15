@@ -32,7 +32,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "166",
+    "people": "167",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3083,7 +3083,7 @@
       }
     ],
     "people": "9",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "車輛四、車輛所合開",
@@ -4257,7 +4257,7 @@
       }
     ],
     "people": "67",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -7071,7 +7071,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資工四所資安學程和電資外班合開",
@@ -14495,7 +14495,7 @@
       }
     ],
     "people": "12",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -27934,7 +27934,7 @@
       }
     ],
     "people": "19",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -30860,7 +30860,7 @@
       }
     ],
     "people": "101",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "電子所、電資外生班和 AI 學位學程合開",
@@ -31096,7 +31096,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "配合 USR 計劃",
@@ -31915,7 +31915,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -32688,7 +32688,9 @@
     "language": "",
     "notes": "限博士班修讀",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7905010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=338443&code=12130"
+    ]
   },
   {
     "code": "7905009",
@@ -33261,7 +33263,7 @@
       }
     ],
     "people": "8",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "適合碩一",
@@ -33378,7 +33380,7 @@
       }
     ],
     "people": "5",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "先鋒 1402 教室",
@@ -33797,7 +33799,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -37367,7 +37369,7 @@
     },
     "classroom": [],
     "people": "46",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "前六週密集授課、科技大樓國際會議廳",
@@ -38220,7 +38222,7 @@
       }
     ],
     "people": "24",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -46356,5 +46358,79 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5816151",
     "syllabusLinks": []
+  },
+  {
+    "code": "C245039",
+    "description": {
+      "zh": "在管理決策中，要如何做行銷管理才能使得公司的產品賣得出去並增加公司收入。要如何做資金管理才能使得公司可以正常營運並將資金做適當的管理決策配置。透過國內外相關公司案例的討論，讓學生可以瞭解消費者行為、市場區隔、產品策略、通路、數位 (含 AI) 行銷等議題，以及對財管的投資、融資、營運資金、公司理財等議題有進一步的理解，讓高階經理人可以有更全面的策略營運方針。",
+      "en": "In management decisions, how should marketing management be conducted to ensure that a company's products sell and increase company revenue? How should financial management be handled to ensure the company operates smoothly and makes appropriate management decisions regarding the allocation of funds? Through discussions of relevant domestic and international company cases, students can gain an understanding of topics such as consumer behavior, market segmentation, product strategy, distribution channels, and digital (including AI) marketing, as well as develop a deeper understanding of financial management topics like investment, financing, working capital, and corporate finance. This will enable senior managers to develop more comprehensive strategic operational guidelines."
+    },
+    "id": "344031",
+    "name": {
+      "zh": "行銷與財務管理",
+      "en": "Marketing and Financial Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "泰國EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2992",
+        "code": "2992"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳牧恩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11985",
+        "code": "11985"
+      },
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "耿慶瑞",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10938",
+        "code": "10938"
+      },
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11396",
+        "code": "11396"
+      },
+      {
+        "name": "劉建浩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11537",
+        "code": "11537"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "29",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C245039",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344031&code=10938"
+    ]
   }
 ]

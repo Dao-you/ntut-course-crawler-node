@@ -460,7 +460,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -519,7 +519,7 @@
       }
     ],
     "people": "36",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科 502",
@@ -978,7 +978,7 @@
       }
     ],
     "people": "16",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -1095,7 +1095,7 @@
         "code": "334"
       }
     ],
-    "people": "60",
+    "people": "59",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3034,7 +3034,7 @@
         "code": "49"
       }
     ],
-    "people": "19",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7098,7 +7098,7 @@
       }
     ],
     "people": "12",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -17597,7 +17597,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "配合 USR 計劃",
@@ -19079,7 +19079,7 @@
       }
     ],
     "people": "5",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "先鋒 1402 教室",
@@ -21316,7 +21316,7 @@
         "code": "42"
       }
     ],
-    "people": "42",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -23661,6 +23661,112 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344031&code=10938"
+    ]
+  },
+  {
+    "code": "3603108",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生須於學期中至相關機構連續實習 18 週，每週不得低於 2.5 天。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is designed to enhance students' on-job practical experiences. Students will work at an engineering related company or research organizations for 18 weeks (20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "344034",
+    "name": {
+      "zh": "實務校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603108",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3713002",
+    "description": {
+      "zh": "以實務性專題提供管理組學生獨立研究、設計、實驗之機會。",
+      "en": "This course provides the students the opportunity to do the practical project independently."
+    },
+    "id": "344035",
+    "name": {
+      "zh": "專題製作",
+      "en": "Independent Study"
+    },
+    "stage": "2",
+    "credit": "2.0",
+    "hours": "6",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管四丙",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2755",
+        "code": "2755"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李育奇",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12494",
+        "code": "12494"
+      },
+      {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10821",
+        "code": "10821"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10988",
+        "code": "10988"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "19",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3713002",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344035&code=12494",
+      "ShowSyllabus.jsp?snum=344035&code=12298"
     ]
   }
 ]
