@@ -23210,6 +23210,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343630&code=11225",
+      "ShowSyllabus.jsp?snum=343630&code=10431",
       "ShowSyllabus.jsp?snum=343630&code=10632",
       "ShowSyllabus.jsp?snum=343630&code=12343",
       "ShowSyllabus.jsp?snum=343630&code=10988"
@@ -23287,6 +23288,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343631&code=11893",
+      "ShowSyllabus.jsp?snum=343631&code=10431",
       "ShowSyllabus.jsp?snum=343631&code=10821",
       "ShowSyllabus.jsp?snum=343631&code=11315",
       "ShowSyllabus.jsp?snum=343631&code=11117",
@@ -23365,6 +23367,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343632&code=11225",
+      "ShowSyllabus.jsp?snum=343632&code=10431",
       "ShowSyllabus.jsp?snum=343632&code=10632",
       "ShowSyllabus.jsp?snum=343632&code=12343",
       "ShowSyllabus.jsp?snum=343632&code=10988"
@@ -23442,6 +23445,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343640&code=11893",
+      "ShowSyllabus.jsp?snum=343640&code=10431",
       "ShowSyllabus.jsp?snum=343640&code=10821",
       "ShowSyllabus.jsp?snum=343640&code=11315",
       "ShowSyllabus.jsp?snum=343640&code=11117",
@@ -23767,6 +23771,80 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344035&code=12494",
       "ShowSyllabus.jsp?snum=344035&code=12298"
+    ]
+  },
+  {
+    "code": "C205034",
+    "description": {
+      "zh": "本課程主要在介紹高階管理的理論與實務。將透過學校老師與企業高階管理者與學生一起探討當前管理重要議題。本課程以哈佛個案教學方法進行，在每個個案討論當中，同時由行銷管理、財務管理、科技管理、生產管理領域老師教授。可以讓學生在學管理工功能之外，還可以學習這些管理功能的整合，學期末並有分組個案競賽，促進團隊互動與學習。",
+      "en": "This course focuses on the introduction and discussion of theories and practices of contemporary management topics. Besides university professors, renowned top manager will be invited to share the best practice experiences of the workplace in the lecture. The Integrated Management Case Studies would be taught by case methods from Havard Business School’s cases. Every case will be taught from Marketing, Financing, Technology Management, and Operation Management areas faculty. This course focus on the integration of management functions. The case contest will be hold on the final week to encourage team building and learning."
+    },
+    "id": "344036",
+    "name": {
+      "zh": "高階管理與個案分析",
+      "en": "Advanced Management Practice and Integrated Management Case Studies"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "泰國EMBA",
+        "link": "Subj.jsp?format=-4&year=113&sem=1&code=2992",
+        "code": "2992"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳牧恩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11985",
+        "code": "11985"
+      },
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "耿慶瑞",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=10938",
+        "code": "10938"
+      },
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11396",
+        "code": "11396"
+      },
+      {
+        "name": "劉建浩",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11537",
+        "code": "11537"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "28",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一必修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344036&code=10938"
     ]
   }
 ]

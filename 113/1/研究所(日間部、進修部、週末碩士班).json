@@ -6130,7 +6130,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -10590,7 +10590,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24610,7 +24610,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -29584,7 +29584,7 @@
     },
     "classroom": [],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "本課程為國際講座教授 Prof. Peter Heck 授課，上課時間",
@@ -30363,7 +30363,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "碩二雙號選課",
@@ -32455,7 +32455,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "與電資外生班合開",
@@ -40660,6 +40660,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343630&code=11225",
+      "ShowSyllabus.jsp?snum=343630&code=10431",
       "ShowSyllabus.jsp?snum=343630&code=10632",
       "ShowSyllabus.jsp?snum=343630&code=12343",
       "ShowSyllabus.jsp?snum=343630&code=10988"
@@ -40737,6 +40738,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343631&code=11893",
+      "ShowSyllabus.jsp?snum=343631&code=10431",
       "ShowSyllabus.jsp?snum=343631&code=10821",
       "ShowSyllabus.jsp?snum=343631&code=11315",
       "ShowSyllabus.jsp?snum=343631&code=11117",
@@ -40815,6 +40817,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343632&code=11225",
+      "ShowSyllabus.jsp?snum=343632&code=10431",
       "ShowSyllabus.jsp?snum=343632&code=10632",
       "ShowSyllabus.jsp?snum=343632&code=12343",
       "ShowSyllabus.jsp?snum=343632&code=10988"
@@ -40892,6 +40895,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343640&code=11893",
+      "ShowSyllabus.jsp?snum=343640&code=10431",
       "ShowSyllabus.jsp?snum=343640&code=10821",
       "ShowSyllabus.jsp?snum=343640&code=11315",
       "ShowSyllabus.jsp?snum=343640&code=11117",
