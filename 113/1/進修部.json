@@ -2616,9 +2616,29 @@
     ],
     "teacher": [
       {
+        "name": "王謹誠",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12236",
+        "code": "12236"
+      },
+      {
         "name": "李凱雄",
         "link": "Teach.jsp?format=-3&year=113&sem=1&code=24404",
         "code": "24404"
+      },
+      {
+        "name": "陳斌豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12143",
+        "code": "12143"
+      },
+      {
+        "name": "黃秀英",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=11321",
+        "code": "11321"
+      },
+      {
+        "name": "黃晟豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=1&code=12234",
+        "code": "12234"
       }
     ],
     "time": {

@@ -13,6 +13,19 @@
     "foreignLanguageTextbooks": true
   },
   {
+    "name": "李宜桓",
+    "email": "yihuanlee@ntut.edu.tw",
+    "latestUpdate": "2024-10-18 16:22:03",
+    "objective": "學生與教授討論擬定之研究題目，在教授個別指導下，進行實驗之研究，以培養學生尋找相關資料，文獻及獨立研究的訓練，並將其研究成果撰寫成報告並公開發表練習。\nTo make students able to carry out independent study.  Students will be assigned a short topic.  An independent experimental design, data analysis, and final report presentation are necessary for this course.",
+    "schedule": "1st week  實驗室規範與基本技術教學\n2nd week 實驗室規範與基本技術教學\n3rd week  閱讀論文與實驗研究進行\n4th week  閱讀論文與實驗研究進行\n5th week  閱讀論文與實驗研究進行\n6th week  閱讀論文與實驗研究進行\n7th week  閱讀論文與實驗研究進行\n8th week  閱讀論文與實驗研究進行\n9th week  閱讀論文與實驗研究進行\n10th week  閱讀論文與實驗研究進行\n11th week  閱讀論文與實驗研究進行\n12th week  閱讀論文與實驗研究進行\n13th week  閱讀論文與實驗研究進行\n14th week  閱讀論文與實驗研究進行\n15th week  閱讀論文與實驗研究進行\n16th week  閱讀論文與實驗研究進行\n17th week  閱讀論文與實驗研究進行\n18th week  期末成果報告",
+    "scorePolicy": "期末成果報告 50%\n出席與論文閱讀 50%",
+    "materials": "SCI 國際學術期刊",
+    "consultation": "若有任何有關此課程的問題，請寄信至: yihuanlee@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 如因疫情暫停實體課程，將使用 Google Meet 線上會議平台，會議網址將在北科 i 學園公佈",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "林群哲",
     "email": "cclin0530@ntut.edu.tw",
     "latestUpdate": "2024-10-15 12:44:59",
@@ -23,6 +36,19 @@
     "consultation": "(1) 教師諮商時間 Office Hours (Monday: 13:00 ~ 15:00; Wednesday: 13:00 ~ 15:00; Friday: 8:00 ~ 10:00)(2) e-mail (3) 視訊 video",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "(1) 利用 teams 線上教學，並將教學錄影連結公布北科 i 學園，以利學生觀課 (2) 利用北科 i 學園公布課程相關訊息 (3) 在符合防疫規範的前提下，保留學生須到校進行實體測驗的可能",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "許益瑞",
+    "email": "ijuihsu@ntut.edu.tw",
+    "latestUpdate": "2024-10-18 23:48:57",
+    "objective": "學生與教授討論擬定之研究題目，在教授個別指導下，進行實驗之研究，以培養學生尋找相關資料，文獻及獨立研究的訓練，並將其研究成果撰寫成報告並公開發表練習。\nTo make students able to carry out independent study.  Students will be assigned a short topic.  An independent experimental design, data analysis, and final report presentation are necessary for this course.",
+    "schedule": "Week 1 : Introduction \nWeek 2 : Literature search \nWeek 3-16 : Reading and Praticals experiments.\nWeek 14 : Due the report to department\nWeek 15 : Give a final report in the department\nWeek 18 : Give a final report in lab.  meeting",
+    "scorePolicy": "平時 : 70% (participate the group meeting every week)\n系上期末報告 15%\n實驗室期末報告 15%",
+    "materials": "SCI Journal",
+    "consultation": "每週二實驗室討論時間",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
     "foreignLanguageTextbooks": true
   },
   {

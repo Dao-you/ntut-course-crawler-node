@@ -26,6 +26,19 @@
     "foreignLanguageTextbooks": true
   },
   {
+    "name": "李宜桓",
+    "email": "yihuanlee@ntut.edu.tw",
+    "latestUpdate": "2024-10-18 16:22:32",
+    "objective": "學生與教授討論擬定之研究題目，在教授個別指導下，進行實驗之研究，以培養學生尋找相關資料，文獻及獨立研究的訓練，並將其研究成果撰寫成報告並公開發表練習。\nTo make students able to carry out independent study.  Students will be assigned a short topic.  An independent experimental design, data analysis, and final report presentation are necessary for this course.",
+    "schedule": "1st week  實驗室規範與基本技術教學\n2nd week 實驗室規範與基本技術教學\n3rd week  閱讀論文與實驗研究進行\n4th week  閱讀論文與實驗研究進行\n5th week  閱讀論文與實驗研究進行\n6th week  閱讀論文與實驗研究進行\n7th week  閱讀論文與實驗研究進行\n8th week  閱讀論文與實驗研究進行\n9th week  閱讀論文與實驗研究進行\n10th week  閱讀論文與實驗研究進行\n11th week  閱讀論文與實驗研究進行\n12th week  閱讀論文與實驗研究進行\n13th week  閱讀論文與實驗研究進行\n14th week  閱讀論文與實驗研究進行\n15th week  閱讀論文與實驗研究進行\n16th week  閱讀論文與實驗研究進行\n17th week  閱讀論文與實驗研究進行\n18th week  期末成果報告",
+    "scorePolicy": "期末成果報告 50%\n出席與論文閱讀 50%",
+    "materials": "SCI 國際學術期刊",
+    "consultation": "若有任何有關此課程的問題，請寄信至: yihuanlee@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "因應疫情發展，本學期教學及授課方式請依照學校網頁所公布之訊息為準：(https://oaa.ntut.edu.tw/p/404-1008-98622.php?Lang=zh-tw) 如因疫情暫停實體課程，將使用 Google Meet 線上會議平台，會議網址將在北科 i 學園公佈",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "林群哲",
     "email": "cclin0530@ntut.edu.tw",
     "latestUpdate": "2024-10-15 12:46:37",
@@ -49,6 +62,19 @@
     "consultation": "分子系館二樓研究室電話 27712171~2408email:f10914@mail.ntut.edu.tw",
     "課程對應SDGs指標": "SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "1.line 群組 2. 若遠距上課，使用 TEAMS",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "許益瑞",
+    "email": "ijuihsu@ntut.edu.tw",
+    "latestUpdate": "2024-10-18 23:47:35",
+    "objective": "學生與教授討論擬定之研究題目，在教授個別指導下，進行實驗之研究，以培養學生尋找相關資料，文獻及獨立研究的訓練，並將其研究成果撰寫成報告並公開發表練習。\nTo make students able to carry out independent study.  Students will be assigned a short topic.  An independent experimental design, data analysis, and final report presentation are necessary for this course.",
+    "schedule": "學生選定實驗室後，配合各個實驗室老師規定執行。\n以下為本實驗室作法 \n\n第一週  說明與規定\n第二週  資料檢索與基本實驗解說\n第三週  基本樣品合成與文獻選讀\n第四週  基本樣品鑑定技術: NMR\n第五週  基本樣品鑑定技術: UV\n第六週  基本樣品鑑定技術: IR 十一\n第七週  基本樣品鑑定技術: XRD\n第八週  基本實驗報告撰寫\n第九週  實驗結果討論\n第十週  擬定新的合成樣品與方向\n第十一週  合成新的配位基\n第十二週  合成新的配位基\n第十三週  合成新的配位基結構確認\n第十四週   合成新的配位基結構確認\n第十五週  合成新的金屬錯合物\n第十六週  合成新的金屬錯合物\n第十七週  合成新的金屬錯合物結構確認\n第十八週  期末報告討論與撰寫",
+    "scorePolicy": "出席 50%  期中報告 20% 期末報告 30%",
+    "materials": "SCI paper",
+    "consultation": "每週二實驗室討論時間",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
     "foreignLanguageTextbooks": true
   },
   {
