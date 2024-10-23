@@ -11,5 +11,31 @@
     "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "陳斌豪",
+    "email": "binhao17@mail.ntut.edu.tw",
+    "latestUpdate": "2024-10-22 09:21:10",
+    "objective": "先修課程：負責教授同意學生與教授討論擬定專題研究的題目，在教授的個別指導下，進行實驗研究，並將研究結果寫成報告。\nThe topic of the special projects is discussed and together by the students and advisor. Under the face-to -face instruction of the advisor the student will conduct the research and experiments, and the final report at the end of the semester.",
+    "schedule": "每兩週線上討論各階段進度",
+    "scorePolicy": "線上討論出席率\n期末報告",
+    "materials": "自編教材",
+    "consultation": "線上討論",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "黃晟豪",
+    "email": "chhuang@stust.edu.tw",
+    "latestUpdate": "2024-10-22 10:20:20",
+    "objective": "先修課程：負責教授同意學生與教授討論擬定專題研究的題目，在教授的個別指導下，進行實驗研究，並將研究結果寫成報告。\nThe topic of the special projects is discussed and together by the students and advisor. Under the face-to -face instruction of the advisor the student will conduct the research and experiments, and the final report at the end of the semester.",
+    "schedule": "第 1~6 週      文獻回顧並決定主題\n第 7~12 週    進行初步規劃與試驗\n第 13~18 週  完成初步測試並研擬改善方式",
+    "scorePolicy": "參與度  30%\n完成度  30%\n驗證與實驗精神  30%\n其他 10%",
+    "materials": "自編教材",
+    "consultation": "與學生建立 LINE 群組",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "與學生建立 LINE 群組，遠距資訊將透過群組發布",
+    "foreignLanguageTextbooks": false
   }
 ]

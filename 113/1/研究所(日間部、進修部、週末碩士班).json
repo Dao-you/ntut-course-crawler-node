@@ -3280,7 +3280,8 @@
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505203",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=335789&code=11167"
+      "ShowSyllabus.jsp?snum=335789&code=11167",
+      "ShowSyllabus.jsp?snum=335789&code=22675"
     ]
   },
   {
@@ -14823,7 +14824,8 @@
     "notes": "日職合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505203",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=337146&code=11167"
+      "ShowSyllabus.jsp?snum=337146&code=11167",
+      "ShowSyllabus.jsp?snum=337146&code=22675"
     ]
   },
   {
@@ -15836,7 +15838,7 @@
       }
     ],
     "people": "5",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "共同科館 303A 室",
@@ -27005,7 +27007,7 @@
       }
     ],
     "people": "10",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -31914,8 +31916,8 @@
         "code": "109"
       }
     ],
-    "people": "54",
-    "peopleWithdraw": "2",
+    "people": "53",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -32788,7 +32790,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "工管博和管理博合開",

@@ -26,6 +26,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "陳志鏗",
+    "email": "ckchen0618@gmail.com",
+    "latestUpdate": "2024-10-22 16:47:25",
+    "objective": "先修課程：負責教授同意學生與教授討論擬定專題研究的題目，在教授的個別指導下，進行實驗研究，並將研究結果寫成報告。",
+    "schedule": "a. 週次    b. 單元主題\n1.    Introduction\n2.    Project Status Update & Work Assignments\n3.    Data Analysis & Literature Survey\n4.    Next Steps & Literature Survey\n5.    Proposal for Design Testing Equipment\n6.    Proposal for Design Testing Equipment (Refined)\n7.    Detail Design for Design Testing Equipment\n8.    Detail Design for Design Testing Equipment (Refined)\n9.    Midterm Group Report\n10.   Detail Design for Design Testing Equipment (Update)\n11.   Manufacturing the Testing Equipment\n12.   Status Update & Literature Survey\n13.   Status Update & Literature Survey\n14.   Data Collection & Literature Survey\n15.   Data Collection & Literature Survey\n16.   Status Update/Analysis & Literature Survey\n17.   Status Update/Analysis & Discussion\n18.   Final Report",
+    "scorePolicy": "Final Report 100%",
+    "materials": "教師 ppt",
+    "consultation": "Email 聯絡",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "Email 聯絡",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "陳柏全",
     "email": "bochen@ntut.edu.tw",
     "latestUpdate": "2024-10-21 19:41:39",
@@ -52,6 +65,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "陳斌豪",
+    "email": "binhao17@mail.ntut.edu.tw",
+    "latestUpdate": "2024-10-22 09:18:05",
+    "objective": "電池實驗 (LTO & LiB) 雙電池實驗\nMCU 模擬",
+    "schedule": "每週 meeting 一次",
+    "scorePolicy": "平時 30%\nproject 30%\nreport 40%",
+    "materials": "自編",
+    "consultation": "每週二、三與助教及老師於綜合科學館 Lab_B1021 討論",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "無",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "黃盈庭",
     "email": "huangyt@ntut.edu.tw",
     "latestUpdate": "2024-10-21 16:35:59",
@@ -62,6 +88,19 @@
     "consultation": "透過 email 聯繫老師，討論課程相關問題。",
     "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
     "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "黃晟豪",
+    "email": "chhuang@stust.edu.tw",
+    "latestUpdate": "2024-10-22 10:19:50",
+    "objective": "先修課程：負責教授同意學生與教授討論擬定專題研究的題目，在教授的個別指導下，進行實驗研究，並將研究結果寫成報告。\nThe topic of the special projects is discussed and together by the students and advisor. Under the face-to -face instruction of the advisor the student will conduct the research and experiments, and the final report at the end of the semester.",
+    "schedule": "第 1~6 週      文獻回顧並決定主題\n第 7~12 週    進行初步規劃與試驗\n第 13~18 週  完成初步測試並研擬改善方式",
+    "scorePolicy": "參與度  30%\n完成度  30%\n驗證與實驗精神  30%\n其他 10%",
+    "materials": "自編教材",
+    "consultation": "與學生建立 LINE 群組",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
+    "remarks": "與學生建立 LINE 群組，遠距資訊將透過群組發布",
     "foreignLanguageTextbooks": false
   },
   {
