@@ -26,6 +26,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "黃秀英",
+    "email": "hhwang@ntut.edu.tw",
+    "latestUpdate": "2024-11-25 14:34:40",
+    "objective": "先修課程：負責教授同意學生與教授討論擬定專題研究的題目，在教授的個別指導下，進行實驗研究，並將研究結果寫成報告。四技修三學期，而在每一學期修完時如欲換題目時需等老師將該學期成績打出後再徵求原來及新老師都同意才可更換題目。",
+    "schedule": "Weekly group meeting:\nPart I: Literature Survey\nPart II: Data collection\nPart III: Report\na. 週次    b. 單元主題\n1.    Introduction\n2.    Project Status Update & Work Assignments (Practice)\n3.    Data Analysis & Literature Survey (Practice)\n4.    Next Steps & Literature Survey (Practice)\n5.    Proposal for Design Testing Equipment (Practice)\n6.    Proposal for Design Testing Equipment (Refined) (Practice)\n7.    Detail Design for Design Testing Equipment (Practice)\n8.    Detail Design for Design Testing Equipment (Refined) (Practice)\n9.    Miterm Group Report\n10.   Detail Design for Design Testing Equipment (Update) (Practice)\n11.   Manufacturing the Testing Equipment (Practice)\n12.   Status Update & Literature Survey (Practice)\n13.   Status Update & Literature Survey (Practice)\n14.   Data Collection & Literature Survey (Practice)\n15.   Data Collection & Literature Survey (Practice)\n16.   Status Update/Analysis & Literature Survey (Practice)\n17.   Status Update/Analysis & Discussion (Practice)\n18.   Final Report",
+    "scorePolicy": "1.\tMidterm Report：20 %\n2.\tAssignment：30 %\n3.\tFinal Report：30 %\n4.\tAttendance:20 %",
+    "materials": "References:\nCAD (Tools)\nFEA (Tools)\nOptimization (Papers & Tools)\nData Collection (Papers)\nTesting/Measurement (Measurement Tools)\nPost-Process (Data Process & Reporting)",
+    "consultation": "Instructor: H.-Y. HwangOffice Hours: Tuesday 08:00-12:00, 1:00-3:00 (reference only)，please e-mail or call to make an appointment Email: hhwang@mail.ntut.edu.twOffice: Complex Building 526-12TEL: (02) 27712171 ext 3618",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "remarks": "The classes will be adjusted according to the COVID condition:Class Time: Based on the announcementMethod: Remote ClassStudents: No need to come to the school but need to attend the online classesClassroom: Places for online in-time classesClass Material: i-School  https://istudy.ntut.edu.tw/learn/index.phpClass Link: GoogleMeet  https://meet.google.com/hbe-npat-gpuAttendance: ZUVIO",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "黃晟豪",
     "email": "chhuang@stust.edu.tw",
     "latestUpdate": "2024-10-22 10:20:20",

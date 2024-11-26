@@ -2660,6 +2660,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=336819&code=24404",
       "ShowSyllabus.jsp?snum=336819&code=12143",
+      "ShowSyllabus.jsp?snum=336819&code=11321",
       "ShowSyllabus.jsp?snum=336819&code=12234"
     ]
   },
@@ -17561,7 +17562,7 @@
       }
     ],
     "people": "44",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
