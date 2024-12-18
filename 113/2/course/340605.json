@@ -1,0 +1,28 @@
+[
+  {
+    "name": "李泳霆",
+    "email": "ytl821@gmail.com",
+    "latestUpdate": "2024-12-17 01:25:57",
+    "objective": "電池分類，電池化學，電池功能及表現，電池之製造，電池使用注意事項，電池檢驗及測試，電池選擇及安裝，燃料電池，電動車使用之電池未來高級電池之介紹。\nBattery Classification，Battery Chemistry，Battery Function and Performance，Battery Manufacturing，Battery service Precautions，Battery Inspection and Testing，Battery Selection and Installation，Fuel Battery， Battery for the Electric Vehicle，Introduction to the Advanced Future Battery.",
+    "schedule": "1 燃料電池簡介\n2 鹼性燃料電池\n3 質子交換膜燃料電池\n4 直接甲醇燃料電池\n5 太陽能電池簡介\n6 半導體材料特性\n7 矽太陽電池技術\n8 砷化鎵，Cu2S/CdS 太陽電池\n9 染料敏化太陽能電池\n\n(課程實際進度：依學習狀況再做調整)",
+    "scorePolicy": "隨堂測驗\n期中考\n期末考",
+    "materials": "使用自編教材。\n\n參考書目:\n1. 「燃料電池技術」，肖鋼 編著，管衍德 校訂，出版社：全華圖書。\n2. 「燃料電池基礎」(Fuel Cell Fundamentals)，Ryan O'Hayre, Suk-Won Cha, Whitney Colella, Fritz B. Prinz 原著，王曉紅、黃宏 編譯，趙中興 審閱，出版社：全華圖書。\n3. 「太陽電池 工作原理、技術與系統應用」（Solar Cells Operating Principles, Technology and System Applications）， Matrin A. Green 著，曹昭陽、狄大衛、李秀文 譯。",
+    "consultation": "email: ytl@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "remarks": "以實體授課為主；若因其他因素（如疫情嚴重等）而暫停實體上課時，將使用 Google Meet 視訊上課。",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "陳柏端",
+    "email": "r92222019@ntu.edu.tw",
+    "latestUpdate": "2024-12-17 17:19:43",
+    "objective": "電池分類，電池化學，電池功能及表現，電池之製造，電池使用注意事項，電池檢驗及測試，電池選擇及安裝，燃料電池，電動車使用之電池未來高級電池之介紹。\nBattery Classification，Battery Chemistry，Battery Function and Performance，Battery Manufacturing，Battery service Precautions，Battery Inspection and Testing，Battery Selection and Installation，Fuel Battery， Battery for the Electric Vehicle，Introduction to the Advanced Future Battery.",
+    "schedule": "鋰電池介紹 6 周課程\n2 周正負極材料、電解液\n3 周失效分析\n1 周段考",
+    "scorePolicy": "段考",
+    "materials": "自編教材",
+    "consultation": "周二 10-12 點共同科館 507 室",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "遠距教學連結 https://meet.google.com/rpa-jqhx-kwe 課程諮詢管道 chenpotuan@mail.ntut.edu.tw",
+    "foreignLanguageTextbooks": false
+  }
+]

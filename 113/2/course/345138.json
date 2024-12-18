@@ -1,0 +1,15 @@
+[
+  {
+    "name": "郭忠義",
+    "email": "jykuo@ntut.edu.tw",
+    "latestUpdate": "2024-12-16 21:23:11",
+    "objective": "本課程探討各種電腦網路的應用程式介面，以及網路應用系統的設計與實作技術，透過課程實作練習與專題製作，實作各種網路應用系統。內容包含 1. 網頁資料擷取與分析，2. Linux ubuntu 管理實作練習、DevSecOps 持續開發整合、安全與效能測試實作練習，3. Socket、TCP/UDP Client Server、Concurrent Processing Software Design。\n\n【先備知識：修過熟悉 Python 程式設計、C 語言程式設計】",
+    "schedule": "【先備知識：修過熟悉 Python 程式設計、C 語言程式設計】\nWeek 1 (02/19): 網頁開放資料擷取與分析，Python 實作練習 I  \nWeek 2 (02/26): 網頁靜態資料擷取與分析，Python 實作練習 II \nWeek 3 (03/05): 網頁動態資料擷取與分析，Python 實作練習 III \nWeek 4 (03/12): 網頁動態資料擷取與分析，Python 實作練習 IV \nWeek 5 (03/19): 實作 Quiz I \nWeek 6 (03/26): Linux 實作練習 I (基本指令與帳號管理) \nWeek 7 (04/02): Linux 實作練習 II (核心編譯、Daemon) \nWeek 8 (04/09): 網路負載與效能測試 \nWeek 9 (04/16): 自動化建置 DevSecOps 實作練習\nWeek10 (04/23): 網路程式安全實作 I \nWeek11 (04/30): 網路程式安全實作 II \nWeek12 (05/07): 實作 Quiz II, 繳交 Term Project 規劃報告 \nWeek13 (05/14): 網路傳輸基本概念 (TCP/IP, Sockets) 實作練習 (環境建置) \nWeek14 (05/21): 伺服器與客戶端程式 (TCP Sockets Client-Server) C 實作練習 \nWeek15 (05/28): Packet 監測實作練習 \nWeek16 (06/04): UDP Sockets, UDP Client-Server, C 實作練習，Quiz III \nWeek17 (06/11): Term Project: Report & Demo \nWeek18 (06/18): Term Project: Report & Demo",
+    "scorePolicy": "40% Practices\n40% quiz\n20% term project",
+    "materials": "自製教材、W. Richard Stevens, UNIX Network Programming, Vol.1, Prentice Hall.",
+    "consultation": "TeamsLineZuvio",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

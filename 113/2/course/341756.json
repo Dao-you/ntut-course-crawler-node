@@ -1,0 +1,15 @@
+[
+  {
+    "name": "尤信程",
+    "email": "scyou@ntut.edu.tw",
+    "latestUpdate": "2024-12-17 17:03:26",
+    "objective": "１.TTL，CMOS 邏輯閘之特性實習２. 組合邏輯電路設計實習３. 序向邏輯電路設計與應用４.FPGA 設計規劃。",
+    "schedule": "Week 1\tGeneral Announcement and Lab Administration\nWeek 2 \tHoliday \nWeek 3\tLab 0: Use of Lab equipment\nWeek 4\tLab 1: Characteristics of logic gates\nWeek 5\tLab 2: Modified Linear Decoder \nWeek 6\tLab 3: FPGA Combinational Circuits (1)\nWeek 7\tHoliday \nWeek 8 \tLab 3: FPGA Combinational Circuits (2)\nWeek   9\tLab 4: Multivibrator Circuits\nWeek 10\tLab 5: Simple Traffic Controller (1)\nWeek 11\tLab 5: Simple Traffic Controller (2)\nWeek 12\tLab 6: Serial Data Transmissions (1)\nWeek 13\tLab 6: Serial Data Transmissions (2)\nWeek 14\tLab 7: FPGA Sequential Circuits (1)\nWeek 15\tHoliday \nWeek 16\tLab 7: FPGA Sequential Circuits (2)\nWeek 17\tFinal exam",
+    "scorePolicy": "Participation and check off worked circuits: 60%\nLab reports: 20 %\nFinal exam: 20 % (*)\n* The final exam covers basic knowledge students should know to successfully complete the lab experiments. Students whose final exam scores below 33 points are determined not to have enough knowledge to complete the experiments independently. Therefore, the instructor reserves the rights not to count the points of some worked circuits and reports for those students.",
+    "materials": "Lecture notes and reference datasheets are available as handouts.",
+    "consultation": "我的研究室：科研大樓 1533 我的 email：scyou@ntut.edu.tw。",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "若學校因應疫情規定遠距教學，則使用 Microsoft Teams 平台上課 1. 學校的 Microsoft Teams 使用（學號 @cc.ntut.edu.tw）登入 2. 我的 email：scyou@ntut.edu.tw。",
+    "foreignLanguageTextbooks": false
+  }
+]

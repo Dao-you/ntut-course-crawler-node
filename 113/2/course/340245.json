@@ -1,0 +1,15 @@
+[
+  {
+    "name": "蕭郁達",
+    "email": "ydhsiao@ntut.edu.tw",
+    "latestUpdate": "2024-12-05 16:32:36",
+    "objective": "本課程內容包括控制閥、控制器之介紹，程序動態應答分析，閉還路控制系統分析，控制器調諧，頻率應答分析及串級控制系統之介紹\nThis course contents the introduction of control valve and controller, process dynamics, close loop control system, tuning of feedback controller, frequency response techniques, and cascade control system.",
+    "schedule": "Week 1 – Introduction to Process Control\nWeek 2 – Laplace Transforms\nWeek 3 – Transfer Function Models\nWeek 4 – Process Dynamic Behaviors\nWeek 5 – Control Valves and Instrumentation\nWeek 6-7 – Feedback Controllers\nWeek 8 – Midterm Exam\nWeek 9-10 – Stability of Closed-Loop Control Systems\nWeek 11-12 – PID Controller Tuning\nWeek 13-14 – Frequency Response Analysis\nWeek 15 – Feedforward and Ratio Control\nWeek 16 – Cascade Control\nWeek 17 – Multiloop and Multivariable Control\nWeek 18 – Final Exam",
+    "scorePolicy": "Participation 20%\nAssignments and Quiz 40%\nMidterm Exam 20%\nFinal Exam 20%",
+    "materials": "1. Dale E. Seborg, Thomas F. Edgar, Duncan A. Mellichamp, Francis J. Doyle III, “Process Dynamics and Control Techniques”, 4th Ed., John Wiley & Sons, Inc., 2017.\n2. Self-made materials",
+    "consultation": "Email",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

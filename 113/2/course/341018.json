@@ -1,0 +1,15 @@
+[
+  {
+    "name": "陳偉堯",
+    "email": "waltchen@ntut.edu.tw",
+    "latestUpdate": "2024-12-18 08:27:47",
+    "objective": "本課程旨在透過實務操作，使同學深入理解土壤力學試驗方法及土壤的各項性質。課程內容涵蓋：土壤含水量測定、比重試驗、孔隙比與飽和度測定、阿太堡限度試驗、粒徑分析（包括篩分析與比重計法）、土壤夯實試驗、滲透性測定、單向度壓密試驗、單軸壓縮試驗、直接剪力試驗及三軸壓縮試驗等，藉由實驗操作培養學生對土壤性質及力學行為的理解與應用能力。",
+    "schedule": "Week 01: 土壤力學試驗流程簡介\nWeek 02: 單位重、含水量\nWeek 03: 比重試驗\nWeek 04: 粒徑分析 - 比重計試驗\nWeek 05: 粒徑分析 - 篩分析\nWeek 06: 阿太堡限度試驗\nWeek 07: 液限試驗、塑限試驗\nWeek 08: 統一土壤分類法\nWeek 09: 期中考試（筆試）\nWeek 10: 期中考停課\nWeek 11: 現場密度試驗（砂錐法）\nWeek 12: 夯實試驗\nWeek 13: 土壤滲透性試驗\nWeek 14: 單向度壓密試驗\nWeek 15: 直接剪力試驗\nWeek 16: 單軸壓縮試驗\nWeek 17: 三軸壓縮試驗簡介\nWeek 18: 期末考試（筆試）",
+    "scorePolicy": "實驗參與：30%\n實驗報告：30%\n期中考：20%\n期末考：20%",
+    "materials": "許澤善，(2020)，電腦輔助繪圖功能之土壤力學試驗，第三版，高立圖書有限公司。\n周逢霖，郭詩毅，游振棋，(2022)，土壤力學試驗，第二版，高立圖書有限公司。",
+    "consultation": "請於 Office Hour 進行諮詢，並請事先預約時間。",
+    "課程對應SDGs指標": "SDG11：永續城市與社區（Sustainable Cities and Communities）SDG15：陸域生命（Life on Land）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "name": "陳鴻崑",
+    "email": "hkchen@ntut.edu.tw",
+    "latestUpdate": "2024-12-16 19:49:58",
+    "objective": "本課程旨在提供多元背景的 EMBA 在職學生從基礎到進階的投資知識與技能。課程涵蓋以下主題：金融市場與投資概論介紹市場結構、風險與報酬概念；金融有價證券探討股票、債券與衍生性商品的特性與操作；共同基金分析主動型與被動型投資工具；投資組合理論著重資產配置與風險分散；效率市場假說與行為財務學探索市場效率與投資者行為偏誤；證券基本分析涵蓋財務報表解讀與股票估值；交易策略與因子投資模型提供量化分析與策略制定工具；避險基金解析高階投資策略與風險管理方法。\nThis course aims to offer EMBA students who have diverse backgrounds with investment knowledge and skills from basic to advanced. Key topics include: Overview of Financial Markets and Investment, covering market structure and risk-return concepts; Financial Securities, examining stocks, bonds, and derivatives; Mutual Funds, comparing active and passive tools; Portfolio Theory, focusing on asset allocation and risk diversification; Efficient Market Hypothesis and Behavioral Finance, exploring market efficiency and behavioral biases; Fundamental Analysis of Securities, involving financial statement analysis and stock valuation; Trading Strategies and Factor Models, introducing quantitative methods; and Hedge Funds, addressing advanced strategies and risk management.",
+    "schedule": "Week 1: 課程介紹 / 金融市場與投資概論 \nWeek 2: 金融有價證券\nWeek 3: 共同基金\nWeek 4: 投資組合理論 \nWeek 5: 效率市場假說與行為財務學\nWeek 6: 證券基本分析\nWeek 7: 交易策略與因子投資模型 \nWeek 8: 避險基金\nWeek 9: 永續投資\nWeek 10: 報告與討論 (1/3)\nWeek 11: 報告與討論 (2/3) \nWeek 12: 報告與討論 (3/3)",
+    "scorePolicy": "出席課程參與 50%\n作業與個案研討報告 50%",
+    "materials": "徐俊明，投資學：基礎與應用 (五版)，新陸書局。\n徐俊明，投資學：理論與實務 (十版)，新陸書局。\n姜堯民，財務軟體應用，新陸書局。\n謝劍平，投資學：基本原理與實務（九版），智勝文化。\n謝劍平，現代投資學：分析與管理（八版），智勝文化。",
+    "consultation": "研究室：宏裕科技研究大樓 638 室 Email: hkchen@ntut.edu.tw 分機: 5918Office Hours: 可隨時 Email 聯繫",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "陳煒朋",
+    "email": "wpc@ntut.edu.tw",
+    "latestUpdate": "2024-12-17 08:57:49",
+    "objective": "為因應瞬息萬變的金融投資環境，期許學生具備宏觀的投資管理知識，本課程主要本課程結合資訊工具與軟體運用、以深入淺出方式介紹投資決策之基本觀念及理論架構，並搭配財務軟體、財金資料庫、與財金資訊網站的應用。藉由這些資訊工具與技術，將財務投資的觀念與原理加以運用於重要的投資決策。課程內容架構包括：(1) 財務與投資學原理；(2) 資料庫的使用；(3) 財務軟體的操作；(4) 財務與投資個案分析。透過本課程之學習，促使投資人能獲取合理的投資報酬或擊敗大盤，領先各基金之績效，以制訂出正確的長短期投資決策。\nIn response to the rapidly changing environment of financial investments, expecting that students have knowledge of macro investment management, this course combines information and software tools to use, the major goal of this course is to help students understanding the basic principles and theories of investments. By mixing explanation and implementation using financial software and database, it can give students the skills to conduct a sophisticated assessment on investment decisions. The major topics include the following: (1) principles of investments, (2) financial database, (3) financial software, and (4) case study in investments. Through the learning of this course, prompting investors to be able to obtain a reasonable return on investment or beat the market, ahead of the performance of each Fund, in order to work out the correct short and long term investment decisions.",
+    "schedule": "1. 總體經濟與產業分析\n2. 公司分析\n3. 技術分析\n4. 投資組合管理\n5. 共同基金\n6. 衍生性金融商品",
+    "scorePolicy": "課堂參與：50%\n作業報告：50%",
+    "materials": "(1) Bodie, Z., Kane, A., & Marcus, A., “Investments” 11th Edition., 2018, McGraw-Hill International Edition. (華泰書局)。\n(2) Benninga, S., “Financial Modeling” 3rd Edition. (指南書局)。\n(3) 姜堯民，財務軟體應用，（新陸書局）。\n(4) 謝劍平著，投資學基本原理與實務，（智勝文化）。",
+    "consultation": "學生加退選簽核及諮詢課程問題管道：研究室：科研大樓 940 室 Email：wpc@ntut.edu.tw 分機：6721Office Hours：可隨時 Email 聯繫",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

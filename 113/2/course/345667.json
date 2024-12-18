@@ -1,0 +1,15 @@
+[
+  {
+    "name": "鄭麗珍",
+    "email": "jessicacheng@mail.ntut.edu.tw",
+    "latestUpdate": "2024-12-16 22:11:02",
+    "objective": "此課程旨在說明決策理論之基本觀念，及其在真實世界裡相關決策問題之分析。使學生具備了解並建構決策問題，建構並推估決策之不確定性，以及建構並評估效用模式之能力。\nThis course provides an overview of the basic concepts of decision theory and their applications on the real-world decision problems. Students will learn about the problem identification and modeling, the modeling and estimation of the associated uncertainty, and modeling and evaluation of the utility function.",
+    "schedule": "1.\t決策分析導論 (6 小時)\n2.\t系統化決策分析 (6 小時)\n3.\t多屬性決策分析簡介 (6 小時)",
+    "scorePolicy": "報告及作業 80%\n上課參與 20%",
+    "materials": "自編教材",
+    "consultation": "lijen.cheng@gmail.com",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
