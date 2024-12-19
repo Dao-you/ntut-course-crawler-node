@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "吳柏輝",
+    "email": "bhwu@ntut.edu.tw",
+    "latestUpdate": "2024-12-18 16:44:01",
+    "objective": "指導學生進行研究專題，以培育其研發能力。每一位學生必須經指導教授選定題目，獨立或數位同學成一組完成硬體或軟體專題，並書寫印製，經系公開展示與評分。\nTeaching students to do the research work and to write the papers. Before graduation, the students have possessed the ability to do the R/D work. Each student must be through professor's instructions to select the topics of special project, personal or group work should be completed the project's hardware or software and issued the paper. An announcement has been made by the department, then get the grade and credit.",
+    "schedule": "1. 主題確定\n2-1. 建立建築能源模型 (SketchUp)\n2-2. 建築空調能耗模擬計算 (OpenStudio)\n2-3. 機器視覺 AI 辨識 (Python)\n3. 研究設計\n4. 電腦運算分析\n5. 結果檢討與回饋\n6. 報告撰寫與發表\n※ 課程進度與內容將視學生學習情況適度調整。",
+    "scorePolicy": "實務專題報告 (報告: 50%; 口頭答辯: 40%; 出席學習 / 討論: 10%)",
+    "materials": "自編講義",
+    "consultation": "※如有任何問題，請事先與授課教師約定時間與地點※電子郵件：bhwu@ntut.edu.tw 研究室地點：綜合科館 515-2 室研究室分機：3529",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "傅子恒",
+    "email": "jomo0825@gmail.com",
+    "latestUpdate": "2024-12-18 20:48:48",
+    "objective": "本課程利用多項互動媒體製作工具進行互動媒體設計之實作。課程內容將從媒材的角度出發，透過對於各式媒材之實驗性處理，進一步深入理解其特徵以及可能性。\n\n本門課程含有較為繁重的自主練習。\n\nThis course uses a variety of interactive media production tools to implement interactive media. The content of the course will start from the perspective of media, through the experimental treatment of various media, to further understand its characteristics and possibilities.\n\nThis course includes heavy self-training progress.",
+    "schedule": "W1\tIntroduction\nW2\t實作 #01 - 靜態影像編輯\nW3\t實作 #02 - 靜態攝影後處理\nW4\t實作 #03 - 校園攝影蒙太奇\nW5\t實作 #04 - AI 文本寫作\nW6\t實作 #05 - AI 室內設計\nW7\t實作 #06 - AI 角色設計\nW8\t實作 #07 - AI 工具安裝\nW9\t實作 #08 - AI 海報設計\nW10\t期中考週\nW11\t實作 #09 - AI 音樂設計\nW12\t實作 #10 - AI 卡牌設計\nW13\t實作 #11 - AI 產品設計 (I)\nW14\t實作 #12 - AI 產品設計 (II)\nW15\t實作 #13 - AI 產品設計 (III)\nW16\tFinal Project Demo I\nW17\tFinal Project Demo II\nW18\t期末考週",
+    "scorePolicy": "作業: 5 分 x 10 次 = 50\n期末作業: 50 分",
+    "materials": "教師自編",
+    "consultation": "開學後將建立 MS Teams 群組，作為本課程之正式課程諮詢管道。",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "蕭名宏",
+    "email": "mhhsiao@ntut.edu.tw",
+    "latestUpdate": "2024-12-18 12:29:57",
+    "objective": "汽車材料的構成，金屬、非金屬、非鐵金屬、燒結合金及複合材料等在汽車分野上的應用，汽車材料的動向。\nCompositions of Automotive Material，Applications of Metal、Nonmetal、Nonferrous Metal、Sintered Alloy、Composite materials for Automotive、Automotive Materia",
+    "schedule": "第 1 週：車輛材料及評量簡介\n第 2 週：材料結構及車輛工程簡介\n第 3 週：車輛金屬材料及結晶構造\n第 4 週：原子結構及鍵結 (Ⅰ)\n第 5 週及第 6 週：車輛金屬材料機械性質\n第 7 週 車輛金屬材料物理性質\n第 8 週及第 9 週：材料固溶和缺陷及材料的固體擴散速率計算\n第 10 週：金屬材料之組織及結晶構造 \n第 11 週：金屬材料顯微組織與物理性質\n第 12 週：金屬材料變態點；第 13 週：相圖 (Ⅰ)\n第 14 週：相圖 (Ⅱ); 第 15 週：複合材料第 16 週小考\n第 17 週：車輛陶瓷及朔膠材料\n第 18 週 期末考",
+    "scorePolicy": "上課表現 10%\n第 1 次期中考 20%\n第 1 次期中考 30%\n期末考 40%",
+    "materials": "汽車材料學 全華科技圖書 吳和桔",
+    "consultation": "email: mhhsiao@ntut.edu.twlineID: xmh69",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

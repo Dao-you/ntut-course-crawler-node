@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "范書愷",
+    "email": "morrisfan@ntut.edu.tw",
+    "latestUpdate": "2024-12-18 17:16:00",
+    "objective": "本課程結合設計思考與深度學習技術，專為金融領域應用而設計。學生將學習設計思考的五個核心步驟：同理心、問題定義、創意發想、原型設計和測試，並運用這些步驟解決金融實際問題。課程內容涵蓋數據收集與清洗、特徵工程、深度學習模型構建與訓練，及模型部署與應用。\n學生將使用 Pandas、NumPy、Keras、TensorFlow 等工具，進行數據處理和模型開發，並通過 PBL 項目進行實務操作，體驗跨域合作的過程。\n課程特別強調實務應用，涵蓋信用風險評估、股票價格預測、信用卡欺詐檢測等金融案例。學生將參與多次業界專家分享和企業參訪，了解最新的行業動態和實務經驗。本課程致力於培養具備前瞻性思維、創新能力和實務操作能力的金融科技專業人才。\nThis course combines design thinking and deep learning techniques tailored for financial applications. Students will explore the five key steps of design thinking: empathy, problem definition, ideation, prototyping, and testing. These steps will be applied to solve practical financial challenges.\nThe course content includes data collection and cleaning, feature engineering, deep learning model building, training, and deployment. Students will work with tools like Pandas, NumPy, Keras, and TensorFlow for data analysis and model development. The learning process is enriched through PBL (Project-Based Learning) projects, offering hands-on experience in interdisciplinary teamwork.\nBy integrating technical skills and innovative thinking, this course aims to develop forward-thinking financial technology professionals equipped with practical expertise.",
+    "schedule": "* Generative Adversarial Networks;\n* Vision Transformer;\n* Deep Reinforcement Learning\n* Diffusion Models",
+    "scorePolicy": "4 Homework Assignments",
+    "materials": "Christopher M. Bishop • Hugh Bishop\nDeep Learning\nFoundations and Concepts, Springer\n\nUnderstanding Deep Learning\nSimon J.D. Prince\nOctober 1, 2024",
+    "consultation": "Contact CoM Office:1400-1600 on Tuesdays",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

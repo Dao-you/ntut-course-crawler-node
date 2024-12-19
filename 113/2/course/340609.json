@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "宋鴻康",
+    "email": "hksung0226@yahoo.com.tw",
+    "latestUpdate": "2024-12-18 21:44:45",
+    "objective": "「鐵道車輛系統與維修基地」課程，乃為培養具有鐵路車輛分析設計及檢修技術操作能力之人員，掌握鐵道裝備設計製造、檢修的基礎知識與應用能力，具有鐵道車輛製造、檢修、運用、管理等綜合職業能力和創新精神的高素質技能型專門人才。本課程將從鐵道車輛基本結構開始介紹，並探討鐵道車輛與鐵道基礎之互制關係。而後導入各式特殊鐵道車輛設計之原理與用途，如：高速客車、傾斜式列車、自導向系統…. 等，並研討各種車型之行駛穩定性與脫軌風險計算方式。最後介紹鐵道車輛維修之概念與實務，並介紹維修基地之設計與配置，再導入先進預兆健康預防檢修法與 AR 技術於檢修之應用與發展。\nThis course of \"Railway Vehicle System and Maintenance Depot\" will cover the basic design criteria of the railway vehicle, its sub-systems and integration. We will discuss factors that affect the design, sizing, manufacturing and maintenance of the sub-systems of the railway vehicle, including their integration with other sub-systems to work as one complete train. Various factors affecting reliability, accessibility and maintainability will be addressed. Then several types of vehicle (high-speed-vehicle, tilting train, self-guide bogie will be introduced to determine the dynamic stability and derailment risk. Finally, the design of maintenance depot will be studied and the latest technologies (PHM, AR) on railway vehicle maintenance will be introduced.",
+    "schedule": "第一週蒸汽機車，柴電機車，柴液機車概要：包括性能及功用\n第二週電力機車，電聯列車概要：包括性能及功用\n第三週傾斜式列車太魯閣號及普悠瑪號特性及性能\n第四週新車設計 EMU3000,900,E500,R2 輛支線環保列車\n第五週台北機務段校外參訪實習，新車構造及駕駛模擬機試乘\n第六週捷運列車，輕軌列車，單軌列車性能及構造\n第七週高鐵列車構造與動力系統\n第八週機電系統列車維修及廠段功能",
+    "scorePolicy": "30% 出席率及平時表現\n30% 期中考試\n40% 期末報告及考試",
+    "materials": "軌道車輛工程概論\n全華出版社",
+    "consultation": "國營臺灣鐵路公司、台灣高鐵公司、桃園捷運公司",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

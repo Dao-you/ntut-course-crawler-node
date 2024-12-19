@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "孔繁傑",
+    "email": "fjkung@ntut.edu.tw",
+    "latestUpdate": "2024-12-18 14:28:34",
+    "objective": "C 語言，指標，結構，陣列，堆疊，佇列，串列，樹狀結構\n，排列，搜尋。\nThis course is mainly aimed at introducing the data  structures commonly used in programming languages,include  \n\n(1) ADT (abstract data type) and complexity ,(2) static structures and their storage representation ,(3) recursion,\n\nstacks,and prefix,infix,and posfix expressions (4) queues\n\n(5) lists,linked lists,(6) trees,binary trees,height balanced trees,heaps,(7) graph,(8) soring,and (9) searching,hashing.",
+    "schedule": "Weeks 1-2: Chapters 1-2 (Algorithms, data organization, and arrays)\nWeeks 3-6: Chapters 3-4 (Stacks, queues, and linked lists)\nWeeks 7-8: Chapter 5 (Trees introduction)\nWeek 9: Midterm\nWeeks 10-11: Chapter 6 (Graphs introduction)\nWeeks 12-13: Chapter 7 (Sorting introduction)\nWeek 14: Chapter 8 (Hashing)\nWeeks. 15-17: Selected topics from chapters. 9-12\nWeek 18: Final",
+    "scorePolicy": "Homework: 40%, Midterm: 30%, Final: 30%, Bonus",
+    "materials": "Textbook - \nE. Horowitz, S. Sahni, and S. Anderson-Freed. Fundamentals of Data Structures in C 2/e, Silicon Press\n\nReferences-\n蔡錫鈞 戴顯權 譯，基礎資料結構使用 C (Fundamentals of Data Structures in C 2/e)，開發圖書公司\n戴顯權 譯，基礎資料結構使用 C++ (Fundamentals of Data Structures in C++ 2/e)，開發圖書公司",
+    "consultation": "Email: fjkung@ntut.edu.twOffice hours: Monday (13:00-16:00), Wednesday (13:00-16:00) Office: 綜合科館 518",
+    "課程對應SDGs指標": "SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -142,7 +142,9 @@
     "language": "",
     "notes": "綜科 501",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603057",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344058&code=12245"
+    ]
   },
   {
     "code": "3603074",
@@ -526,7 +528,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504605",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344084&code=12398"
+    ]
   },
   {
     "code": "4504907",
@@ -940,7 +944,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704012",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344110&code=11088"
+    ]
   },
   {
     "code": "3723017",
@@ -990,7 +996,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3723017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344111&code=12457"
+    ]
   },
   {
     "code": "3704031",
@@ -1711,7 +1719,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344134&code=12398"
+    ]
   },
   {
     "code": "4503509",
@@ -1813,7 +1823,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503501",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344138&code=12398"
+    ]
   },
   {
     "code": "4503909",
@@ -2789,7 +2801,9 @@
     "language": "",
     "notes": "一 / ABC；至中分署受訓，2/17-3/19 採視訊",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344195&code=24514"
+    ]
   },
   {
     "code": "3872201",
@@ -3533,7 +3547,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502807",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344215&code=12398"
+    ]
   },
   {
     "code": "4502914",
@@ -4017,7 +4033,9 @@
     "language": "",
     "notes": "科研 235",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344228&code=12391"
+    ]
   },
   {
     "code": "3105001",
@@ -4832,7 +4850,9 @@
     "language": "",
     "notes": "職機電所、職製科所合開；{教室：三教 308}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005059",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344351&code=23780"
+    ]
   },
   {
     "code": "5605056",
@@ -6058,7 +6078,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906783",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344515&code=11896"
+    ]
   },
   {
     "code": "4916015",
@@ -6313,7 +6335,9 @@
     "language": "",
     "notes": "一樓",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344529&code=12353"
+    ]
   },
   {
     "code": "5105040",
@@ -6705,7 +6729,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211432",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344576&code=10546"
+    ]
   },
   {
     "code": "5235417",
@@ -7601,7 +7627,9 @@
     "language": "",
     "notes": "碩一必修；設計 106",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5806003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344703&code=12437"
+    ]
   },
   {
     "code": "5806044",
@@ -7864,7 +7892,9 @@
     "language": "",
     "notes": "億光大樓 1343 大教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6030019",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344824&code=21896"
+    ]
   },
   {
     "code": "6030020",
@@ -9233,6 +9263,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344979&code=11088",
       "ShowSyllabus.jsp?snum=344979&code=11552"
     ]
   },
@@ -9388,7 +9419,8 @@
     "notes": "碩一必修 王 3/8-9、翁 5/3-4、吳 6/14-15",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275020",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=344982&code=10662"
+      "ShowSyllabus.jsp?snum=344982&code=10662",
+      "ShowSyllabus.jsp?snum=344982&code=11440"
     ]
   },
   {
@@ -9447,6 +9479,7 @@
     "notes": "碩一必修 鄭 2/22-23 、朴 5/10-11、蔡 6/7-8",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275021",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344983&code=12101",
       "ShowSyllabus.jsp?snum=344983&code=11117"
     ]
   },
@@ -10141,7 +10174,9 @@
     "language": "",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345020&code=12391"
+    ]
   },
   {
     "code": "C215043",
@@ -11415,7 +11450,9 @@
     "language": "",
     "notes": "設計館 301 電腦教室、攝影棚",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871211",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345052&code=22127"
+    ]
   },
   {
     "code": "1400027",
@@ -11719,7 +11756,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345060&code=23509"
+    ]
   },
   {
     "code": "4402063",
@@ -11770,7 +11809,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402063",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345061&code=23509"
+    ]
   },
   {
     "code": "4402092",
@@ -12843,7 +12884,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105196",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345308&code=23257"
+    ]
   },
   {
     "code": "3105121",
@@ -13108,7 +13151,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504602",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345330&code=12398"
+    ]
   },
   {
     "code": "7305087",
@@ -13662,7 +13707,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345467&code=11734"
+    ]
   },
   {
     "code": "4205016",
@@ -13713,7 +13760,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345468&code=23012"
+    ]
   },
   {
     "code": "4206007",
@@ -13815,7 +13864,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211435",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345488&code=11014"
+    ]
   },
   {
     "code": "5231409",
@@ -13919,7 +13970,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211434",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345491&code=11123"
+    ]
   },
   {
     "code": "5221419",
@@ -14183,7 +14236,9 @@
     "language": "",
     "notes": "{教室：可排三教 309}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3004095",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345533&code=12456"
+    ]
   },
   {
     "code": "5605060",
@@ -14763,6 +14818,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345663&code=11224",
+      "ShowSyllabus.jsp?snum=345663&code=10988",
       "ShowSyllabus.jsp?snum=345663&code=11982",
       "ShowSyllabus.jsp?snum=345663&code=11117"
     ]
@@ -14839,6 +14895,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C255031",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345664&code=11224",
+      "ShowSyllabus.jsp?snum=345664&code=10988",
       "ShowSyllabus.jsp?snum=345664&code=11982",
       "ShowSyllabus.jsp?snum=345664&code=11117"
     ]
@@ -14955,6 +15012,9 @@
     "notes": "實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345667&code=11573",
+      "ShowSyllabus.jsp?snum=345667&code=11088",
+      "ShowSyllabus.jsp?snum=345667&code=11401",
       "ShowSyllabus.jsp?snum=345667&code=12173"
     ]
   },
@@ -15029,6 +15089,9 @@
     "notes": "實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C255052",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345668&code=11573",
+      "ShowSyllabus.jsp?snum=345668&code=11088",
+      "ShowSyllabus.jsp?snum=345668&code=11401",
       "ShowSyllabus.jsp?snum=345668&code=12173"
     ]
   },
@@ -15323,7 +15386,9 @@
     "language": "",
     "notes": "(群組 7) 資訊管理 (關聯群 3)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345685&code=11440"
+    ]
   },
   {
     "code": "C205011",
@@ -15869,6 +15934,7 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215048",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345719&code=11401",
       "ShowSyllabus.jsp?snum=345719&code=12342"
     ]
   },
@@ -16148,7 +16214,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602051",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345730&code=12245"
+    ]
   },
   {
     "code": "3603082",
@@ -16199,7 +16267,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603082",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345731&code=10304"
+    ]
   },
   {
     "code": "3603061",
@@ -16565,7 +16635,9 @@
     "language": "",
     "notes": "(群組 1) 經營與策略管理 (關聯群 3)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215034",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345766&code=11401"
+    ]
   },
   {
     "code": "3603005",
@@ -17486,7 +17558,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1414001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345861&code=23688"
+    ]
   },
   {
     "code": "1415005",
@@ -17638,7 +17712,9 @@
     "language": "",
     "notes": "排球甲",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1003002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345865&code=22881"
+    ]
   },
   {
     "code": "1003002",
@@ -17688,7 +17764,9 @@
     "language": "",
     "notes": "桌球甲",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1003002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345866&code=23655"
+    ]
   },
   {
     "code": "4906229",
@@ -18245,7 +18323,9 @@
     "language": "",
     "notes": "科研 243",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02033",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345965&code=12452"
+    ]
   },
   {
     "code": "AB03072",
@@ -18457,6 +18537,8 @@
     "language": "",
     "notes": "科研 243",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03073",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346008&code=12452"
+    ]
   }
 ]

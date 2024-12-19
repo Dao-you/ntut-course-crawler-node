@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "林敬皇",
+    "email": "gbox@ntut.edu.tw",
+    "latestUpdate": "2024-12-18 16:05:54",
+    "objective": "資訊安全其主要目的是讓初接觸資訊安全領域的學生能夠瞭解什麼是資訊安全，並且能夠對於資訊安全有更正確認知。課程規劃如下：資訊安全介紹、基礎密碼學介紹、電腦病毒與惡意程式、網路安全與攻擊、網路安全防護，應用層安全、網頁安全、雲端安全、物聯網安全、個人資料保護。\nThe main objective of this course is to enable students in the field of information security to understand what information security is and to have a better understanding of information security. The course describes as follows: Information security introduction, Basic cryptography, Network security and attacks, Network security protection, Application security, Web security, Cloud security, Internet of Things security, Personal data protection",
+    "schedule": "週次 / Week - 單元主題 / Topic\n1. 工業控制系統資通安全概論\n2.ICS 與物聯網安全管理\n3. 物聯網與雲端安全雲端安全標準\n4. 資安事件與威脅情資\n5. 網頁應用程式安全簡介\n6. 身分驗證與通行碼破解",
+    "scorePolicy": "期末專題報告",
+    "materials": "自編教材 / Use of self-made materials",
+    "consultation": "mail 或 office hour time",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
