@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "余憲政",
+    "email": "shiannjengyu@gmail.com",
+    "latestUpdate": "2024-12-19 10:51:02",
+    "objective": "本課程涵蓋太空系統工程的進階課題，包括當前研究和新興技術。本課程將深入理解太空系統的設計、開發、測試和實施，著重於子系統的整合和系統性能的最佳化。主題將包括先進的材料和結構、推進系統、航電系統、控制系統、人因因素等。學生將通過案例研究、設計專案和模擬實例進行學習。\nThis course covers advanced topics in space systems engineering, including current research and emerging technologies. The course will provide an in-depth understanding of the design, development, testing, and implementation of space systems, with a focus on the integration of subsystems and the optimization of system performance. Topics will include advanced materials and structures, propulsion systems, avionics, control systems, human factors, and more. Students will gain hands-on experience through case studies, design projects, and simulation exercises.",
+    "schedule": "進階衛星系統工程課程大綱:\n1.\t系統工程計畫管理\n2.\t系統工程 - 以立方衛星系統為例\n3.\t衛星通訊系統介紹 - 以立方衛星為例\n4.\t衛星通訊系統設計與元件挑選 - 以立方衛星為例\n5.\t衛星結構與機構次系統設計介紹\n6.\t衛星熱控次系統設計介紹\n7.\t衛星導航與控制規格介紹\n8.\t衛星姿態判定與星象儀\n9.\t衛星控制\n10.\t 衛星酬載介紹\n11.\t 衛星導航接收機設計\n12.\t 衛星導航接收機於氣象衛星之應用\n13.\t 遙測酬載設計\n14.\t 遙測影像處理系統\n15.\t 立方衛星設計研討與測試實驗設備",
+    "scorePolicy": "1.\t學期作業、考試、評量\n作業 40%, 期中考 30%, 期末報告 30%\n2.\t教學方法及教學相關配合事項（如助教、網站或圖書及資料庫等）: 簡報講授與討論",
+    "materials": "本課程使用自編教材授課。",
+    "consultation": "email 聯絡方式: shiannjengyu@gmail.com",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

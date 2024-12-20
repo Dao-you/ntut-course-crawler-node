@@ -1775,7 +1775,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3706085",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342117&code=12457"
+    ]
   },
   {
     "code": "3715001",
@@ -2349,7 +2351,9 @@
     "language": "",
     "notes": "限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005013",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342153&code=12043"
+    ]
   },
   {
     "code": "4005092",
@@ -2711,7 +2715,9 @@
     "language": "",
     "notes": "限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4007010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342201&code=11299"
+    ]
   },
   {
     "code": "5605090",
@@ -3737,7 +3743,9 @@
     "language": "",
     "notes": "全英授課 / 土木 208",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236098",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342306&code=11397"
+    ]
   },
   {
     "code": "4236100",
@@ -4263,7 +4271,8 @@
     "notes": "碩博合開課程，碩士班請選本課號",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=342356&code=11319"
+      "ShowSyllabus.jsp?snum=342356&code=11319",
+      "ShowSyllabus.jsp?snum=342356&code=11677"
     ]
   },
   {
@@ -5463,7 +5472,9 @@
     "language": "",
     "notes": "英文上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105040",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342420&code=11113"
+    ]
   },
   {
     "code": "5105013",
@@ -8634,6 +8645,7 @@
     "notes": "綜合科館第三演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006003",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342800&code=12492",
       "ShowSyllabus.jsp?snum=342800&code=10919"
     ]
   },
@@ -8796,6 +8808,7 @@
     "notes": "億光大樓 1343 大教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007007",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342803&code=12492",
       "ShowSyllabus.jsp?snum=342803&code=12305"
     ]
   },
@@ -10123,6 +10136,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805071",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=342936&code=10955",
       "ShowSyllabus.jsp?snum=342936&code=10894"
     ]
   },
@@ -10735,7 +10749,9 @@
     "language": "",
     "notes": "EMI",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7305088",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343005&code=12462"
+    ]
   },
   {
     "code": "A000011",
@@ -10965,7 +10981,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7815116",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343016&code=24181"
+    ]
   },
   {
     "code": "7815118",
@@ -11823,7 +11841,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805146",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343107&code=24406"
+    ]
   },
   {
     "code": "AS05016",
@@ -12759,7 +12779,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505219",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343207&code=12099"
+    ]
   },
   {
     "code": "A505220",
@@ -12816,7 +12838,9 @@
     "language": "",
     "notes": "上限 10 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505220",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343208&code=11222"
+    ]
   },
   {
     "code": "AB05003",
@@ -13049,7 +13073,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05099",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343230&code=12148"
+    ]
   },
   {
     "code": "AB05100",
@@ -13221,6 +13247,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343245&code=11494",
+      "ShowSyllabus.jsp?snum=343245&code=11334",
       "ShowSyllabus.jsp?snum=343245&code=11969"
     ]
   },
@@ -13346,7 +13373,9 @@
     "language": "",
     "notes": "光華 409, 預選限 10 人，日 / 職碩 / 外碩 / 設計博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343258&code=11633"
+    ]
   },
   {
     "code": "AC05234",
@@ -13470,7 +13499,9 @@
     "language": "",
     "notes": "日外碩 (限研究組修)/ 設計博合開，光華 409, 預選限 10 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05235",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343262&code=11633"
+    ]
   },
   {
     "code": "AC05236",
@@ -13674,7 +13705,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343284&code=12304",
-      "ShowSyllabus.jsp?snum=343284&code=11533"
+      "ShowSyllabus.jsp?snum=343284&code=11533",
+      "ShowSyllabus.jsp?snum=343284&code=11633"
     ]
   },
   {
@@ -14095,7 +14127,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343300&code=12558"
+    ]
   },
   {
     "code": "AY25003",
@@ -14199,7 +14233,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY05006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343307&code=24521"
+    ]
   },
   {
     "code": "AY15015",
@@ -16064,19 +16100,39 @@
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=113&sem=2&code=3080",
         "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3084",
+        "code": "3084"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11083",
+        "code": "11083"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
+      "thu": [
+        "3",
+        "4"
+      ],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16105,6 +16161,11 @@
         "name": "機電博所",
         "link": "Subj.jsp?format=-4&year=113&sem=2&code=3080",
         "code": "3080"
+      },
+      {
+        "name": "機電外國學生專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3084",
+        "code": "3084"
       }
     ],
     "teacher": [],
@@ -16124,88 +16185,6 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6607003",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6607006",
-    "description": {
-      "zh": "包括理論與實驗，由機電所教授共同開課，課程討主要內容介紹機電科技之基礎知識與先進應用技術，側重在機電科技與創新設計相關之專業知識。",
-      "en": "This course, conducted by several professors from the Institute of. Mechanical & Electric Engineering introduces the fundamental theories and advanced technologies in the field of mechatronics and advanced technology. The topics covered mainly lie in areas of automation technology, mechatronics, advanced manufacturing technology, air conditioning & refrigeration engineering and vehicle engineering."
-    },
-    "id": "343400",
-    "name": {
-      "zh": "機電科技特論 (二)",
-      "en": "Special Topics on Mechanical & Electric engineering (二)"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電博所",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3080",
-        "code": "3080"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6607008",
-    "description": {
-      "zh": "本課程之目的為讓技術導向博士班學生於學期間至本所各分組專業相關之企業、政府單位或具規模之其他機構從事全職實務技術研發工作，讓技術導向博士生除發展學術理論外，更擁有業界實務經驗，以成為學養精湛且具有實務技能之高階專業人才。",
-      "en": "The main purpose of this course is to elevate an all-round ability for the technique-orientated Ph.D. students . During the semester, students are required to go to government-based organizations or industry / business-oriented agencies working as a full-time R & D practical job. Course takers are in addition to developing technology-oriented doctoral level academic theory, but also has practical experience in the industry, to become a highly specialized personnel with practical professional skills."
-    },
-    "id": "343401",
-    "name": {
-      "zh": "實務技術研發實習",
-      "en": "Internship of practical technology research and development"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "40",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電博所",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3080",
-        "code": "3080"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607008",
     "syllabusLinks": []
   },
   {
@@ -16553,88 +16532,6 @@
     ]
   },
   {
-    "code": "6607004",
-    "description": {
-      "zh": "讀書報告、專題討論、機電科技相關技術及產品介紹與討論、Seminar 心得等，可重覆修習。",
-      "en": "Case Study, Workshop, Group discussion, Seminars, Mechatronics in Modern Industries."
-    },
-    "id": "343456",
-    "name": {
-      "zh": "專題討論",
-      "en": "Mechanical & Electric Technology Seminar"
-    },
-    "stage": "2",
-    "credit": "1.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "機電外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3084",
-        "code": "3084"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
-    "syllabusLinks": []
-  },
-  {
-    "code": "6607003",
-    "description": {
-      "zh": "幫助學生認識一般科技文章以及科技論文語法、文體、句子結構等，並加強英文口頭表達之能力。",
-      "en": "This course helps the learners recognize the syntax, style, and organization as far as the papers on technology and technical writings are concerned. Discussions include specific ways to technical presentation and technical writings."
-    },
-    "id": "343457",
-    "name": {
-      "zh": "科技英文表達",
-      "en": "Technical English Presentation"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電外國學生專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3084",
-        "code": "3084"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6607003",
-    "syllabusLinks": []
-  },
-  {
     "code": "6607006",
     "description": {
       "zh": "包括理論與實驗，由機電所教授共同開課，課程討主要內容介紹機電科技之基礎知識與先進應用技術，側重在機電科技與創新設計相關之專業知識。",
@@ -16963,7 +16860,9 @@
     "language": "",
     "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344257&code=24541"
+    ]
   },
   {
     "code": "3105187",
@@ -19600,7 +19499,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344611&code=12382"
+    ]
   },
   {
     "code": "5425218",
@@ -19661,7 +19562,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425218",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344616&code=11732"
+    ]
   },
   {
     "code": "5605001",
@@ -19831,7 +19734,28 @@
         "code": "3096"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "李鎮宇",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12246",
+        "code": "12246"
+      },
+      {
+        "name": "邱俊智",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12577",
+        "code": "12577"
+      },
+      {
+        "name": "陳柏瑄",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12343",
+        "code": "12343"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -21223,6 +21147,7 @@
     "notes": "進修部教室，限本系生修，上限 14 人，外系生勿選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344910&code=11196",
       "ShowSyllabus.jsp?snum=344910&code=12304"
     ]
   },
@@ -21275,7 +21200,9 @@
     "language": "",
     "notes": "光華 409, 預選限 10 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344914&code=11633"
+    ]
   },
   {
     "code": "AC05314",
@@ -21326,7 +21253,9 @@
     "language": "",
     "notes": "排進修部教室，限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05314",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344920&code=11334"
+    ]
   },
   {
     "code": "AC05320",
@@ -22362,7 +22291,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345006&code=10662"
+      "ShowSyllabus.jsp?snum=345006&code=10662",
+      "ShowSyllabus.jsp?snum=345006&code=12148"
     ]
   },
   {
@@ -22854,7 +22784,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345020&code=12391"
+      "ShowSyllabus.jsp?snum=345020&code=12391",
+      "ShowSyllabus.jsp?snum=345020&code=12148"
     ]
   },
   {
@@ -23203,7 +23134,9 @@
     "language": "",
     "notes": "億光大樓 1343 大教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6027028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345080&code=22601"
+    ]
   },
   {
     "code": "6030008",
@@ -23307,7 +23240,9 @@
     "language": "",
     "notes": "億光大樓 1343 大教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6030021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345082&code=11110"
+    ]
   },
   {
     "code": "6015029",
@@ -24487,7 +24422,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY05002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345162&code=12460"
+    ]
   },
   {
     "code": "5826208",
@@ -25301,7 +25238,8 @@
     "notes": "碩博合開課程，博士班請選本課號",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4507005",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345180&code=11319"
+      "ShowSyllabus.jsp?snum=345180&code=11319",
+      "ShowSyllabus.jsp?snum=345180&code=11677"
     ]
   },
   {
@@ -29039,7 +28977,9 @@
     "language": "",
     "notes": "限 30 人；{教室：三教 309}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345408&code=24388"
+    ]
   },
   {
     "code": "4006001",
@@ -29423,7 +29363,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4206007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345469&code=24567"
+    ]
   },
   {
     "code": "4205011",
@@ -29539,7 +29481,9 @@
     "language": "",
     "notes": "上限 15 人 / 土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4226007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345471&code=10968"
+    ]
   },
   {
     "code": "4205033",
@@ -29948,7 +29892,9 @@
     "language": "",
     "notes": "土木 308",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236107",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345480&code=11122"
+    ]
   },
   {
     "code": "4236057",
@@ -32426,7 +32372,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405114",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345618&code=11150"
+    ]
   },
   {
     "code": "A405114",
@@ -32483,7 +32431,9 @@
     "language": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405114",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345621&code=11150"
+    ]
   },
   {
     "code": "A405009",
@@ -32656,7 +32606,9 @@
     "language": "",
     "notes": "綜科 511",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105172",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345631&code=10940"
+    ]
   },
   {
     "code": "AB05091",
@@ -32898,7 +32850,9 @@
     "language": "",
     "notes": "一般教室，限本系生 10 人，日碩 / 外碩 / 創新所 / 設計博合開 (",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06201",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345646&code=11334"
+    ]
   },
   {
     "code": "5605055",
@@ -33282,6 +33236,7 @@
       "ShowSyllabus.jsp?snum=345667&code=11573",
       "ShowSyllabus.jsp?snum=345667&code=11088",
       "ShowSyllabus.jsp?snum=345667&code=11401",
+      "ShowSyllabus.jsp?snum=345667&code=11435",
       "ShowSyllabus.jsp?snum=345667&code=12173"
     ]
   },
@@ -33359,6 +33314,7 @@
       "ShowSyllabus.jsp?snum=345668&code=11573",
       "ShowSyllabus.jsp?snum=345668&code=11088",
       "ShowSyllabus.jsp?snum=345668&code=11401",
+      "ShowSyllabus.jsp?snum=345668&code=11435",
       "ShowSyllabus.jsp?snum=345668&code=12173"
     ]
   },
@@ -34301,7 +34257,9 @@
     "language": "",
     "notes": "全英授課 / 土木 505",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345705&code=12400"
+    ]
   },
   {
     "code": "C205031",
@@ -34903,7 +34861,9 @@
     "language": "",
     "notes": "綜科 417, 預選 32 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105211",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345747&code=12399"
+    ]
   },
   {
     "code": "AY05004",
@@ -37277,7 +37237,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505118",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345898&code=11050"
+    ]
   },
   {
     "code": "3625053",
@@ -38391,7 +38353,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346258&code=23683"
+    ]
   },
   {
     "code": "AA02002",
@@ -38441,7 +38405,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346259&code=11334"
+    ]
   },
   {
     "code": "AA02008",
@@ -38497,6 +38463,65 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02008",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346260&code=23683"
+    ]
+  },
+  {
+    "code": "AA02009",
+    "description": {
+      "zh": "本課程的主要目的在教授學生創新創業的實務，讓學生實際組成團隊進行創業，並有老師全程指導實踐創業，學校並提供基本創業基金與創業場地，輔導學生實際體會創業的過程。課程內容包括：創新創業精神、創新思考、自我了解、團隊組成、經營模式建立、創業財務、創業專題進行、創業競賽等。",
+      "en": "This course is to instruct students to practice the entrepreneurship and innovation. Students will form an entrepreneurship team. Teacher will guide the students throughout the entrepreneurship processes. University will offer students initial funds and incubation assistances. Students will gain practical experiences on how to establish entrepreneurship. The contents include entrepreneurial thoughts and actions, design thinking, self-understanding, team formation, business model development, entrepreneurship finance, entrepreneurship practices, entrepreneurship contests, and so on."
+    },
+    "id": "346261",
+    "name": {
+      "zh": "微型創業實戰",
+      "en": "Foundations of Management and Entrepreneurship"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11505",
+        "code": "11505"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "A",
+        "B",
+        "C"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=15",
+        "code": "15"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02009",
     "syllabusLinks": []
   }
 ]

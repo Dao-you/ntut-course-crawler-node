@@ -50,5 +50,18 @@
     "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
     "remarks": "若 COVID-19 疫情警戒等級規劃上課方式原則如下，實際實施日期與上課方式，請依照學校網頁所公布之訊息為準：● 上課方式： 遠距上課 採分流上課。● 評量標準，採線上出席紀錄與報告書評量。● 上課方試：遠距教學 Google Meet (開學後建立)● 訊息通知教材提供平台：FB (開學後建立)● 加退選及諮詢課程管道：ylchang@ntut.edu.tw",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "劉宇晨",
+    "email": "ycliu@ntut.edu.tw",
+    "latestUpdate": "2024-12-19 14:06:06",
+    "objective": "指導學生進行研究專題，以培育其實務的能力，學生必須選定一實務專題，由本系教師指導，在畢業前完成成品製作，且須有書面報告。\nl The objective of this course is to teach students how to do research and write technical papers. And the students have possessed the ability to do the R/D work before graduation. Each student must select the topics of special project under professor's instructions. Personal or group work should be completed the project's hardware or software and issue the paper to get the grade and credits.",
+    "schedule": "1. 課程介紹與專題方向選定 / Course Introduction and Project Topic Selection  \n2. 專案管理與規劃 / Project Management and Planning\n3. 文獻與技術資料搜集 / Literature and Technical Data Collection\n4. 專題設計初步規劃 / Preliminary Project Design Planning\n5. 元件與工具選型 / Component and Tool Selection\n6. 設計模擬與測試準備 / Design Simulation and Test Preparation\n7. 專題製作開始 / Project Fabrication Begins\n8. 製作進度檢查與問題解決 / Progress Check and Problem Solving\n9. 專題設計中期報告 / Midterm Project Presentation \n10. 硬體與軟體整合 / Hardware and Software Integration \n11. 故障診斷與調試 / Fault Diagnosis and Debugging  \n12. 優化與功能完善 / Optimization and Feature Refinement  \n13. 最終系統測試與驗證 / Final System Testing and Validation  \n14. 專題成果文件撰寫 / Project Documentation Writing \n15. 專題簡報製作 / Presentation Preparation  \n16. 專題成果展示與報告模擬 / Mock Presentation and Feedback\n17. 專題成果展示與評估 / Final Project Presentation and Evaluation\n18. 課程回顧與反思 / Course Review and Reflection",
+    "scorePolicy": "專題進度與過程紀錄 (20%)\n期中報告 (20%)\n最終專案成果與展示 (60%)",
+    "materials": "self-made materials",
+    "consultation": "1. 課程助教 / Teaching Assistant (TA) 2. 教師辦公時間 / Instructor Office Hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]

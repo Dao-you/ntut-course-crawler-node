@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "傅子恒",
+    "email": "jomo0825@gmail.com",
+    "latestUpdate": "2024-12-19 20:47:32",
+    "objective": "The breakthrough in Generative AI (GAI) technology has brought about a significant transformation in multimedia content design, with AI-generated videos, images, and text approaching the proficiency level of professionals. This course focuses on two major technologies: Large Language Models (LLM) and Diffusion Models, utilizing open-source tools such as Llama and Stable Diffusion for hands-on practice. In addition to providing an in-depth and comprehensive explanation of the working principles of LLMs and Diffusion Models, the course also teaches students the fundamental operation of AI and how to efficiently produce high-quality and creative AI-generated content. By mastering generative AI technology and its applications, students will be able to embed AI-generated multimedia content into various information systems, significantly enhancing system functionality, aesthetics, and user experience. This course aims to equip students with solid skills in learning, research, and application, achieving a human-AI co-creation of hypermedia content.\n\n* Both theories and applications will be covered.\n* Use Python + Keras for coding in W01~W06.",
+    "schedule": "===Introduction to Generative AI\t\nW01\tOverview of Generative AI\nW02\tBasics of Generative AI (1) – Linear algebra, Back propagation, Linear regression, Classifier\nW03\tBasics of Generative AI (2) – Auto encoder, VAE\nW04\tBasics of Generative AI (3) – RNN, Transformer\nW05\tBasics of Generative AI (4) – Diffusion model\n===Large Language Models (LLMs)\t\nW06\tIntroduction to LLMs – Prompt engineering\nW07\tLLM applications - Reading/Writing/Coding\nW08\tFine-tuning a LLM\nW09\tMid-term Week\nW10\tLLM RAG\n===Diffusion Models\t\nW11\tIntroduction to Diffusion Models\nW12\tClip Prompt Engineering\nW13\tFine-tuning a Diffusion Model - TI\nW14\tFine-tuning a Diffusion Model - DB\nW15\tControlNet\n===Other Models\t\nW16\tAudio Generation\nW17\tVideo Generation\nW18\tFinal Week",
+    "scorePolicy": "* Mid-term Exam 40%\n* Final Report 60%",
+    "materials": "https://www.amazon.com/Generative-Deep-Learning-Teaching-Machines-dp-1098134184/dp/1098134184/ref=dp_ob_image_bk",
+    "consultation": "Will launch an MS Teams group when the class starts.",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "* You'll need to run AI on GPU. For running on a local Windows system, a 8GB VRAM graphic card is required. RTX 2070 8GB* If you don't have a qualified GPU, you may consider to purchase Runpod or Google Colab. For each week roughly USD$10 expense is estimated. Actual expenses fluctuate according to personal exercise usage.",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "傅子恒",
+    "email": "jomo0825@gmail.com",
+    "latestUpdate": "2024-12-19 20:50:09",
+    "objective": "This course provides the fundamental knowledge, the structure and the designing methods of interactive game programming using Unity3D and C#. Students will learn how to split a game system into modular components and realize the whole system step by step.",
+    "schedule": "W1\t9/11\tSoftware Installation\nW2\t9/18\tLevel Design – part I\nW3\t9/25\tLevel Design – part II\nW4\t10/2\tTransform & Overlap\nW5\t10/9\tExcercise I\nW6\t10/16\tGameplay Framework\nW7\t10/23\tAnimation System / Fungus\nW8\t10/30\tGame Manager & FSM\nW9\t11/6\tMid-term Demo\nW10\t11/13\tPhysics\nW11\t11/20\tPlayer Controller\nW12\t11/27\tGame AI\nW13\t12/4\tCamera Control\nW14\t12/11\tGraphical User Interface\nW15\t12/18\tParticle and Shader\nW16\t12/25\tSub-system Introduction\nW17\t1/1\tExercise II\nW18\t1/8\tFinal Project Demo",
+    "scorePolicy": "Participation：10%\nMid-term presentation: 40%\nFinal Project: 50%",
+    "materials": "Made by teaching group.",
+    "consultation": "We will have MS Teams group once the course starts. Please make sure you can login MS Teams by your school account.",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

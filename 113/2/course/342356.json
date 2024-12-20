@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
     "remarks": "因應疫情可能會調整授課內容、授課方式、評分項目與配分。如果無法實體上課，預定使用 Microsoft Teams 於原定上課時間遠距上課，細節再另行公布。",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "顏維謀",
+    "email": "wmyan@mail.ntut.edu.tw",
+    "latestUpdate": "2024-12-19 11:17:00",
+    "objective": "專題報告、專題演講、研究小組討論\nLiterature Study, Seminar, Group meeting.",
+    "schedule": "Each week invites professional researchers or professors to give a talk.",
+    "scorePolicy": "According to the each experience report and the attendance rate.\n\nExperience report: 50%\n\nAttendance rate: 50%",
+    "materials": "Each week invites professional researchers or professors to give a talk.",
+    "consultation": "Thanks.",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "remarks": "No",
+    "foreignLanguageTextbooks": false
   }
 ]

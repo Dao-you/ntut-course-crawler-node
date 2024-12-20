@@ -477,7 +477,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504107",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344083&code=12467"
+    ]
   },
   {
     "code": "4504605",
@@ -581,7 +583,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504907",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344088&code=12467"
+    ]
   },
   {
     "code": "1419998",
@@ -1720,7 +1724,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503001",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=344134&code=12398"
+      "ShowSyllabus.jsp?snum=344134&code=12398",
+      "ShowSyllabus.jsp?snum=344134&code=12467"
     ]
   },
   {
@@ -1772,7 +1777,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503509",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344135&code=12467"
+    ]
   },
   {
     "code": "4503501",
@@ -1809,12 +1816,12 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [],
-      "sat": [
-        "7",
-        "8",
-        "9"
-      ]
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
+      "sat": []
     },
     "classroom": [],
     "people": "0",
@@ -3100,7 +3107,9 @@
     "language": "",
     "notes": "四 / A B C",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344202&code=23248"
+    ]
   },
   {
     "code": "1419998",
@@ -3492,7 +3501,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "限學號單數的學生選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502503",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344214&code=10822"
@@ -3533,12 +3542,12 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [
-        "A",
-        "B",
-        "C"
-      ],
-      "sat": []
+      "fri": [],
+      "sat": [
+        "7",
+        "8",
+        "9"
+      ]
     },
     "classroom": [],
     "people": "0",
@@ -3641,7 +3650,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344220&code=12467"
+    ]
   },
   {
     "code": "1003002",
@@ -4284,7 +4295,9 @@
     "language": "",
     "notes": "綜科 318",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344257&code=24541"
+    ]
   },
   {
     "code": "3105187",
@@ -6921,7 +6934,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344611&code=12382"
+    ]
   },
   {
     "code": "5425218",
@@ -6982,7 +6997,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5425218",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344616&code=11732"
+    ]
   },
   {
     "code": "5605001",
@@ -7152,7 +7169,28 @@
         "code": "3096"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11429",
+        "code": "11429"
+      },
+      {
+        "name": "李鎮宇",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12246",
+        "code": "12246"
+      },
+      {
+        "name": "邱俊智",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12577",
+        "code": "12577"
+      },
+      {
+        "name": "陳柏瑄",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12343",
+        "code": "12343"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8544,6 +8582,7 @@
     "notes": "進修部教室，限本系生修，上限 14 人，外系生勿選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344910&code=11196",
       "ShowSyllabus.jsp?snum=344910&code=12304"
     ]
   },
@@ -8596,7 +8635,9 @@
     "language": "",
     "notes": "光華 409, 預選限 10 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05230",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344914&code=11633"
+    ]
   },
   {
     "code": "AC05314",
@@ -8647,7 +8688,9 @@
     "language": "",
     "notes": "排進修部教室，限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05314",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344920&code=11334"
+    ]
   },
   {
     "code": "AC05320",
@@ -9683,7 +9726,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345006&code=10662"
+      "ShowSyllabus.jsp?snum=345006&code=10662",
+      "ShowSyllabus.jsp?snum=345006&code=12148"
     ]
   },
   {
@@ -10175,7 +10219,8 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345020&code=12391"
+      "ShowSyllabus.jsp?snum=345020&code=12391",
+      "ShowSyllabus.jsp?snum=345020&code=12148"
     ]
   },
   {
@@ -10675,7 +10720,9 @@
     "language": "",
     "notes": "六 / 234",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345033&code=24080"
+    ]
   },
   {
     "code": "3602054",
@@ -11165,7 +11212,9 @@
     "language": "",
     "notes": "設計館地下一樓 B02 木工廠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871202",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345043&code=22933"
+    ]
   },
   {
     "code": "3871203",
@@ -11279,7 +11328,9 @@
     "language": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871205",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345046&code=22933"
+    ]
   },
   {
     "code": "3871208",
@@ -13538,7 +13589,9 @@
     "language": "",
     "notes": "限 30 人；{教室：三教 309}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345408&code=24388"
+    ]
   },
   {
     "code": "4006001",
@@ -13813,7 +13866,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4206007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345469&code=24567"
+    ]
   },
   {
     "code": "5211435",
@@ -14511,7 +14566,9 @@
     "language": "",
     "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405114",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345621&code=11150"
+    ]
   },
   {
     "code": "A405214",
@@ -14625,7 +14682,9 @@
     "language": "",
     "notes": "綜科 511",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105172",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345631&code=10940"
+    ]
   },
   {
     "code": "3871207",
@@ -15015,6 +15074,7 @@
       "ShowSyllabus.jsp?snum=345667&code=11573",
       "ShowSyllabus.jsp?snum=345667&code=11088",
       "ShowSyllabus.jsp?snum=345667&code=11401",
+      "ShowSyllabus.jsp?snum=345667&code=11435",
       "ShowSyllabus.jsp?snum=345667&code=12173"
     ]
   },
@@ -15092,6 +15152,7 @@
       "ShowSyllabus.jsp?snum=345668&code=11573",
       "ShowSyllabus.jsp?snum=345668&code=11088",
       "ShowSyllabus.jsp?snum=345668&code=11401",
+      "ShowSyllabus.jsp?snum=345668&code=11435",
       "ShowSyllabus.jsp?snum=345668&code=12173"
     ]
   },
@@ -17458,7 +17519,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1411004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345858&code=20716"
+    ]
   },
   {
     "code": "1410111",
@@ -17508,7 +17571,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410111",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345860&code=22058"
+    ]
   },
   {
     "code": "1414001",
@@ -18540,5 +18605,103 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=346008&code=12452"
     ]
+  },
+  {
+    "code": "5705495",
+    "description": {
+      "zh": "本課程在於協助同學了解數位轉型的浪潮趨勢，以及適應新科技所改變的商業模式。課程將介紹創新的商業模式例如共享經濟、金融科技、線上至離線、使用者生成內容等平台模式應用。每個模式將會連結到實務中企業個案，以協助同學進一步深入了解與分析創新的模式概念。本課程將涵蓋數位轉型與創新模式的基本概念，以數位轉型與科技適應角度，透過實務案例來了解創新商業模式。",
+      "en": "This course aims to help students understand the trend of digital transformation and technology adaption in business models. The innovative business models will be introduced such as sharing economy, FinTech, online-to-offline, user-generated content, and so on. The matched cases will be selected to elaborate and analyze the innovative business models. This course will provide comprehensive knowledge of innovative business models by digital transformation and technology adaption (information and communication technology)."
+    },
+    "id": "346144",
+    "name": {
+      "zh": "數位轉型與創新商業模式",
+      "en": "Digital Transformation and Innovative Business Models"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3096",
+        "code": "3096"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂正欽",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=23585",
+        "code": "23585"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "A",
+        "B",
+        "C"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=486",
+        "code": "486"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4403042",
+    "description": {
+      "zh": "本課程論述中古車之車況鑑定技術，包含車身結構鑑定、VIN 鑑定、泡水車鑑定及相關中古車車況技術鑑定。",
+      "en": "This course discusses the vehicle condition appraisal technology of used cars, including car body structure appraisal, VIN appraisal, water-damaged car appraisal and related technical appraisal of used car condition."
+    },
+    "id": "346247",
+    "name": {
+      "zh": "中古車車況鑑定技術",
+      "en": "Vehicle Condition Appraisal Technology of Used Cars"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四車四",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2757",
+        "code": "2757"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4403042",
+    "syllabusLinks": []
   }
 ]

@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
     "remarks": "",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "蘇威豪",
+    "email": "weihao.su@ntut.edu.tw",
+    "latestUpdate": "2024-12-19 18:17:37",
+    "objective": "探討工作研究涵蓋之各項技術：時間研究、動作研究、程序分析、作業分析、影片分析、工作抽查、標準工時與效率管理、動作經濟原理、生產線平衡、生產力衡量等。\nThe purpose of this course is to provide students with a resource which describes the techniques and procedures of motion and time study .It contains: techniques of methods study, work station design, PTS, stop watch time study, standard data, assembly line balancing.",
+    "schedule": "第 01-2 週：魚骨圖、柏拉圖分析\n第 03-4 週：操作程序圖\n第 05-6 週：流程程序圖\n第 07-8 週：人機程序圖\n第 09 週：期中考",
+    "scorePolicy": "平時作業及出席：40％\n技術操作：30％\n口頭報告：30％",
+    "materials": "自編教材",
+    "consultation": "WEIHAO.SU@SU@NTUT.EDU.TW",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]

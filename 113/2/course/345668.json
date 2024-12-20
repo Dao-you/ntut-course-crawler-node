@@ -39,6 +39,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "蔡佩芳",
+    "email": "ptsai@ntut.edu.tw",
+    "latestUpdate": "2024-12-19 18:26:00",
+    "objective": "本課程旨在針對人工智慧工具與決策分析應用於供應鏈管理的探討，其中包含：電子化企業概論、經營模式、企業再造、企業資源管理、中小企業電子化、商業電子化、供應鏈管理、需求鏈管理、協同預測管理、以及相關的個案研究。\nThe objectives of this course are to discuss the AI tools and decision analysis in supply chain management. The topics of this course includes: Introduction of E-Business management, Business Models, Business Reengineering, Enterprise Resource Planning, E-Business management for Small and Medium Enterprise, E-Commerce Platform, Supply Chain Management, Demand Chain Management, and case studies.",
+    "schedule": "核心能力與競爭力、企業策略工具\n顧客需求與風險管理\n核心能力與外包\n企業策略與決策問題類型\n決策風險偏好與效用理論\n個案探討",
+    "scorePolicy": "出席（30%）、課堂個案討論（40%）、個案作業 (40%)",
+    "materials": "Fawcett 等著，梅明德編譯，供應鏈管理：從願景到實現 - 策略與流程觀點，三版，2019，台灣培生教育出版，全華圖書發行。",
+    "consultation": "Office Hours: 1000-1400 on Wednesdaysemail: ptsai@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "鄭麗珍",
     "email": "jessicacheng@mail.ntut.edu.tw",
     "latestUpdate": "2024-12-16 22:07:16",

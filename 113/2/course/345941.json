@@ -2,9 +2,9 @@
   {
     "name": "吳建勳",
     "email": "chwu@ntut.edu.tw",
-    "latestUpdate": "2024-12-19 09:43:15",
+    "latestUpdate": "2024-12-19 09:45:08",
     "objective": "應用感測器概論內容包括：(1) 發電機、電動機與電瓶實驗；(2) 二極體、電晶體與運算放大器實驗；(3) 電源轉換器與電動機驅動器實驗。學生將學習車輛電機的基本要求，並練習如何應用適當工具設計與製作電路，課程著重學生實作演練。\nThis course aims to train students in understanding the fundamental vehicle electrical requirements, and utilizing tools to design and implement the electric circuits. Topics include: (1) Generators, motors, and batteries experiments, (2) Diodes, transistors and operational amplifiers experiments, and (3) Source converters and motor drivers experiments.",
-    "schedule": "第 01 週  課程與實驗環境簡介 + 應用感測器 (元件 01)\n第 02 週  應用感測器 (元件 02)(元件 03)\n第 03 週  應用感測器 (元件 04)(元件 05)\n第 04 週  應用感測器 (元件 06)(元件 07)\n第 05 週  綜合模組整合與測試 01\n第 06 週  應用感測器 (元件 08)(元件 09)\n第 07 週  應用感測器 (元件 10)(元件 11)\n第 08 週  應用感測器 (元件 12)(元件 13)\n第 09 週  期中考 (選擇與填空)\n第 10 週  應用感測器 (元件 14)(元件 15)\n第 11 週  綜合模組整合與測試 02\n第 12 週  應用感測器 (元件 16)(元件 17)\n第 13 週  應用感測器 (元件 18)(元件 19)\n第 14 週  應用感測器 (元件 20)(元件 21)\n第 15 週  應用感測器 (元件 22)(元件 23)\n第 16 週  模組課程\n第 17 週  綜合測試與討論\n第 18 週  期末報告 (情境說明 + 實體展示)",
+    "schedule": "第 01 週  課程與實驗環境簡介 + 應用感測器 (元件 01)\n第 02 週  應用感測器 (元件 02)(元件 03)\n第 03 週  應用感測器 (元件 04)(元件 05)\n第 04 週  應用感測器 (元件 06)(元件 07)\n第 05 週  綜合模組整合與測試 01\n第 06 週  應用感測器 (元件 08)(元件 09)\n第 07 週  應用感測器 (元件 10)(元件 11)\n第 08 週  應用感測器 (元件 12)(元件 13)\n第 09 週  期中考 (選擇與填空)\n第 10 週  應用感測器 (元件 14)(元件 15)\n第 11 週  綜合模組整合與測試 02\n第 12 週  應用感測器 (元件 16)(元件 17)\n第 13 週  應用感測器 (元件 18)(元件 19)\n第 14 週  應用感測器 (元件 20)(元件 21)\n第 15 週  應用感測器 (元件 22)(元件 23)\n第 16 週  綜合模組整合與測試 03\n第 17 週  綜合測試與討論\n第 18 週  期末報告 (情境說明 + 實體展示)",
     "scorePolicy": "平時點名：10%\n平時練習：20%\n期  中  考：30%\n期末報告：40%",
     "materials": "自編教材",
     "consultation": "https://meet.google.com/gtm-ueao-pfr 線上討論 (google meet) 或 email:chwu@ntut.edu.tw",

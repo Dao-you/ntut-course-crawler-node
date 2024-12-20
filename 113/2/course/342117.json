@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "蘇威豪",
+    "email": "weihao.su@ntut.edu.tw",
+    "latestUpdate": "2024-12-19 18:08:59",
+    "objective": "本課程主要分成三部分。第一部分介紹工業機器人的結構，分類和其工作空間等基礎。第二部分介紹機器人的端效器、語言指令及其控制系統和安全。最後再介紹機器人如何與系統相整合，以執行功能性的製造單元 (或製造系統)。\nThis course basically is composed of 3 parts. First, configuration, classification and work cell of the industrial robots will be introduced. Secondary, end-of-tooling, programming & instruction, control system controller and safety is covered. Finally, the robot and system integration to execute a functional manufacturing cell (or system) will be provided.",
+    "schedule": "eek 1: 工業機器人現況與實務案例分析\nWeek 2-Week 4: 智慧機器人內建 2.5D 視覺應用\nWeek 5: 智慧機器人自動光學檢測與字元辨識應用\nWeek 6: 智慧機器人網路通訊應用\nWeek 7-Week 9: 智慧機器人內建 3D 視覺與碰撞偵測應用\nWeek 10-Week12: 智慧機器人 AI+AOI 應用\nWeek 13-week 15: 智慧機器人手臂智能管理系統應用\nWeek 16-Week18: 期末分組作業練習與報告",
+    "scorePolicy": "上課出席：30%\nPBL 協作型機器人作業：70%",
+    "materials": "自編教材",
+    "consultation": "E-MAIL:WEIHAO.SU@NTUT.EDU.TW",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

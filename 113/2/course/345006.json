@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
     "remarks": "本學期課程因應疫情警戒等級規劃上課方式如下：※「一級」：實體授課。※「三級」(含)：遠距授課。※「二級」說明如下：● 上課方式：實體授課● 評量方式：分組報告 60%、課程參與與出席 40%● 遠距上課網址：請加入 line ID = 0937143666● 學生加退選簽核及諮詢課程問題管道：請加入 line ID = 0937143666",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "魏銪志",
+    "email": "vickrey@mail.ntut.edu.tw",
+    "latestUpdate": "2024-12-19 14:37:19",
+    "objective": "本課程的主旨在研討資訊管理的發展及新趨勢，內容包含資訊策略管理、資料庫管理、網路管理、電腦硬體技術、系統分析、軟體工程、管理資訊系統、決策支援系統、商業智慧、資訊倫理、資訊安全、知識管理、社會網絡等。\nThe focus of this course is on research and discussion of the developments and novel trends of information management. The topics include information strategy management, database management, network management, computer hardware developments, system analysis, software engineering, management information systems, decision support systems, business intelligence, information ethics, information security, knowledge management, social networks, and so forth.",
+    "schedule": "1. 營運持續管理\n2. 資安與個資管理系統概論",
+    "scorePolicy": "上課出席 50%\n上課參與 50%",
+    "materials": "自編教材",
+    "consultation": "課程將透過北科 i 學園公告，課程問題請 Email: vickrey@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "可能調整教學方式如需遠距教學，將使用 微軟的 Teams",
+    "foreignLanguageTextbooks": false
   }
 ]
