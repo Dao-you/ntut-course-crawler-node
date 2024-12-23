@@ -2066,7 +2066,9 @@
     "language": "",
     "notes": "科研 235",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344152&code=23286"
+    ]
   },
   {
     "code": "1400028",
@@ -2457,7 +2459,9 @@
     "language": "",
     "notes": "一 7 & 四 5 6",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344186&code=24006"
+    ]
   },
   {
     "code": "1420005",
@@ -3355,7 +3359,9 @@
     "language": "",
     "notes": "需使用電腦教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4402092",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344207&code=12451"
+    ]
   },
   {
     "code": "1400028",
@@ -6599,7 +6605,9 @@
     "language": "",
     "notes": "二樓_1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105218",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344548&code=10914"
+    ]
   },
   {
     "code": "5202101",
@@ -7216,7 +7224,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705038",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344657&code=11429"
+    ]
   },
   {
     "code": "5705052",
@@ -7393,7 +7403,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344660&code=11429"
+    ]
   },
   {
     "code": "5706001",
@@ -8076,7 +8088,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344827&code=11077"
+    ]
   },
   {
     "code": "6105023",
@@ -8583,7 +8597,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344910&code=11196",
-      "ShowSyllabus.jsp?snum=344910&code=12304"
+      "ShowSyllabus.jsp?snum=344910&code=12304",
+      "ShowSyllabus.jsp?snum=344910&code=11680"
     ]
   },
   {
@@ -8747,7 +8762,9 @@
     "language": "",
     "notes": "排計中電腦教室，限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05320",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344926&code=11680"
+    ]
   },
   {
     "code": "C275004",
@@ -9727,6 +9744,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345006&code=10662",
+      "ShowSyllabus.jsp?snum=345006&code=12439",
       "ShowSyllabus.jsp?snum=345006&code=12148"
     ]
   },
@@ -9844,7 +9862,10 @@
     "language": "",
     "notes": "A 班 碩一必修 (個案寫作或論文寫作 2 選 1) 台北集中上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345010&code=11429",
+      "ShowSyllabus.jsp?snum=345010&code=10938"
+    ]
   },
   {
     "code": "C205028",
@@ -10137,7 +10158,9 @@
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215040",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345019&code=11429"
+    ]
   },
   {
     "code": "C215041",
@@ -10359,6 +10382,7 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225011",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345025&code=10938",
       "ShowSyllabus.jsp?snum=345025&code=24277"
     ]
   },
@@ -10616,7 +10640,9 @@
     "language": "",
     "notes": "六 / 8 9",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345031&code=24132"
+    ]
   },
   {
     "code": "1401032",
@@ -11444,7 +11470,9 @@
     "language": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871210",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345051&code=22839"
+    ]
   },
   {
     "code": "3871211",
@@ -12884,7 +12912,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415221",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345288&code=12565"
+    ]
   },
   {
     "code": "3105196",
@@ -12988,7 +13018,9 @@
     "language": "",
     "notes": "綜科 514, 限職電機所電力組學生修課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105121",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345309&code=11980"
+    ]
   },
   {
     "code": "AC05303",
@@ -13092,7 +13124,9 @@
     "language": "",
     "notes": "排進修部教室，限 30 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06304",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345320&code=12453"
+    ]
   },
   {
     "code": "4505509",
@@ -14239,7 +14273,8 @@
     "notes": "{教室：可排三教 309}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3004806",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345532&code=22447"
+      "ShowSyllabus.jsp?snum=345532&code=22447",
+      "ShowSyllabus.jsp?snum=345532&code=24388"
     ]
   },
   {
@@ -14344,7 +14379,9 @@
     "language": "",
     "notes": "{教室：三教 309}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605060",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345542&code=11132"
+    ]
   },
   {
     "code": "4005022",
@@ -14741,7 +14778,9 @@
     "language": "",
     "notes": "設計館地下 1 樓 B03 金工廠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871207",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345632&code=12434"
+    ]
   },
   {
     "code": "5605055",
@@ -14803,7 +14842,9 @@
     "language": "",
     "notes": "職機電所、職製科所合開；{教室：綜科 110-1}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605055",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345648&code=11098"
+    ]
   },
   {
     "code": "C245007",
@@ -14878,6 +14919,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345663&code=11224",
       "ShowSyllabus.jsp?snum=345663&code=10988",
+      "ShowSyllabus.jsp?snum=345663&code=12532",
       "ShowSyllabus.jsp?snum=345663&code=11982",
       "ShowSyllabus.jsp?snum=345663&code=11117"
     ]
@@ -14955,6 +14997,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345664&code=11224",
       "ShowSyllabus.jsp?snum=345664&code=10988",
+      "ShowSyllabus.jsp?snum=345664&code=12532",
       "ShowSyllabus.jsp?snum=345664&code=11982",
       "ShowSyllabus.jsp?snum=345664&code=11117"
     ]
@@ -15269,6 +15312,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345670&code=11710",
+      "ShowSyllabus.jsp?snum=345670&code=11429",
       "ShowSyllabus.jsp?snum=345670&code=11396"
     ]
   },
@@ -15344,6 +15388,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265053",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345671&code=11710",
+      "ShowSyllabus.jsp?snum=345671&code=11429",
       "ShowSyllabus.jsp?snum=345671&code=11396"
     ]
   },
@@ -15580,7 +15625,8 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345687&code=11396"
+      "ShowSyllabus.jsp?snum=345687&code=11396",
+      "ShowSyllabus.jsp?snum=345687&code=12439"
     ]
   },
   {
@@ -16562,7 +16608,9 @@
     "language": "",
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345756&code=10938"
+    ]
   },
   {
     "code": "C215001",
@@ -17160,7 +17208,9 @@
     "language": "",
     "notes": "{教室：綜科 327}",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4006005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345814&code=11018"
+    ]
   },
   {
     "code": "5211415",
@@ -17315,7 +17365,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1416004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345853&code=22367"
+    ]
   },
   {
     "code": "1418012",
@@ -17365,7 +17417,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1418012",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345855&code=22262"
+    ]
   },
   {
     "code": "1418001",
@@ -17675,7 +17729,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1415005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345862&code=24531"
+    ]
   },
   {
     "code": "1410170",
@@ -18439,7 +18495,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "計中電腦教室",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03072",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345967&code=10662"

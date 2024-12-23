@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "吳斯偉",
+    "email": "swu@ntut.edu.tw",
+    "latestUpdate": "2024-12-22 18:53:36",
+    "objective": "針對學生之學習研究心得報告，集體討論，以訓練學生研究之能力。\nGroup Discussion.",
+    "schedule": "本人上課週數以期刊論文討論為主",
+    "scorePolicy": "課堂參與和報告",
+    "materials": "自編講義和哈佛個案",
+    "consultation": "swu@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "remarks": "本課程涵蓋部分 SDGs 項目",
+    "foreignLanguageTextbooks": true
+  }
+]
