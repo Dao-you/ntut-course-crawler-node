@@ -1,5 +1,18 @@
 [
   {
+    "name": "王錫福",
+    "email": "sfwang@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 09:23:07",
+    "objective": "訓練學生獨立思考，培養學生對材料性質之認識及製造能力，專題內容包括材料性質認識，材料保固技術訓練，材料表面處理，技術培育等。學生必須研讀相關文獻後再研討專題實驗內容，並對實驗及結果加以詳述，而完成學士論文報告。\nThis course is trying to train independent thinking, to cultivate understanding\nand manufacturing ability of material property for students, the content of\nthis subject includes the knowledge of material characteristics, the technique\ntraining of material protection, the surface treatment, technique cultivation,\netc.. All the students must study related documents before they research\nthe subject-matter content, they have to make a detailed report to the\nexperiment and result at the final report.",
+    "schedule": "w1-w15 Project research\nw16-w18 Oral presentation",
+    "scorePolicy": "40% Oral presentation\n40% Project text report\n20% Report grading by advisor",
+    "materials": "SCI 論文",
+    "consultation": "email: sfwang@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "1. 依學校公布，如遇疫情嚴峻，將採遠距上課，教材放北科 i 學園。依計網中心在 Microsoft Team 所提供之課程連結 (登入請用：學號 @cc.ntut.edu.tw，密碼同 nportal 入口網頁密碼。) 2. 同學如有加退選簽核或課程問題請 email: hhhsu@mail.ntut.edu.tw",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "吳玉娟",
     "email": "wuyc@ntut.edu.tw",
     "latestUpdate": "2024-12-17 17:22:21",
@@ -23,6 +36,19 @@
     "consultation": "若有任何問題可以 email 進行連絡討論",
     "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "若有任何問題可以 email 進行連絡討論 (mwwu@ntut.edu.tw)。若因疫情而不適合實體授課，將以 microsoft teams 系統內的課程群組進行遠端視訊上課及線上即時討論。",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "李紹先",
+    "email": "ssli@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 11:20:46",
+    "objective": "訓練學生獨立思考，培養學生對材料性質之認識及製造能力，專題內容包括材料性質認識，材料保固技術訓練，材料表面處理，技術培育等。學生必須研讀相關文獻後再研討專題實驗內容，並對實驗及結果加以詳述，而完成學士論文報告。\nThis course is trying to train independent thinking, to cultivate understanding\nand manufacturing ability of material property for students, the content of\nthis subject includes the knowledge of material characteristics, the technique\ntraining of material protection, the surface treatment, technique cultivation,\netc.. All the students must study related documents before they research\nthe subject-matter content, they have to make a detailed report to the\nexperiment and result at the final report.",
+    "schedule": "無進度",
+    "scorePolicy": "論文報告",
+    "materials": "no",
+    "consultation": "email: ssli@ntut.edu.twoffice: MMRE department, office 403.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
+    "remarks": "如遇疫情 實驗課程改為文獻閱讀及 teams 線上報告",
     "foreignLanguageTextbooks": false
   },
   {
@@ -114,6 +140,19 @@
     "consultation": "email: cpc@mail.ntut.edu.tw",
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）",
     "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "楊永欽",
+    "email": "ycyang@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 09:26:06",
+    "objective": "訓練學生獨立思考，培養學生對材料性質之認識及製造能力，專題內容包括材料性質認識，材料保固技術訓練，材料表面處理，技術培育等。學生必須研讀相關文獻後再研討專題實驗內容，並對實驗及結果加以詳述，而完成學士論文報告。",
+    "schedule": "完成專題報告",
+    "scorePolicy": "專題報告 100%",
+    "materials": "無",
+    "consultation": "請使用電子郵件聯繫任課老師 ycyang@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
+    "remarks": "請找指導老師個別安排進度",
     "foreignLanguageTextbooks": false
   }
 ]

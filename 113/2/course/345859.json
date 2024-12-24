@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG6：潔淨水與衛生（Clean Water and Sanitation）",
     "remarks": "",
     "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "曾昭衡",
+    "email": "tsengco@ntut.edu.tw",
+    "latestUpdate": "2024-12-21 05:42:24",
+    "objective": "本課程介紹科技論文寫作與報告，課程內容包括科技論文寫作元素介紹 (摘要、介紹、方法、結果、討論、結論) 與撰寫方式，文獻搜尋與整理，報告與發表注意事項，以利環境所碩博士生應用於未來論文撰寫與成果發表。\nThis class focuses on the Introduction of major elements in technical writing, including abstract, introduction, research methods, results, discussion, and conclusion. Writing grammar, style, and methods to perform literature search and review are also introduced. The main aim of this course is enhancing the ability of graduate students in future thesis writing and research publication.",
+    "schedule": "1.Introduction\n2.Methods section\n3.Results section\n4.Discussion section\n5.How to write the abstract?\nTips for journal submission\nThe writing process",
+    "scorePolicy": "3 Presentations",
+    "materials": "Steve Wallace\u000b, How to Write and Submit an Academic Paper in 16 Weeks",
+    "consultation": "tsengco@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
   }
 ]

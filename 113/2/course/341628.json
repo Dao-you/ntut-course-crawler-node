@@ -15,13 +15,13 @@
   {
     "name": "蘇威豪",
     "email": "weihao.su@ntut.edu.tw",
-    "latestUpdate": "2024-12-19 18:17:37",
+    "latestUpdate": "2024-12-23 09:31:26",
     "objective": "探討工作研究涵蓋之各項技術：時間研究、動作研究、程序分析、作業分析、影片分析、工作抽查、標準工時與效率管理、動作經濟原理、生產線平衡、生產力衡量等。\nThe purpose of this course is to provide students with a resource which describes the techniques and procedures of motion and time study .It contains: techniques of methods study, work station design, PTS, stop watch time study, standard data, assembly line balancing.",
-    "schedule": "第 01-2 週：魚骨圖、柏拉圖分析\n第 03-4 週：操作程序圖\n第 05-6 週：流程程序圖\n第 07-8 週：人機程序圖\n第 09 週：期中考",
-    "scorePolicy": "平時作業及出席：40％\n技術操作：30％\n口頭報告：30％",
-    "materials": "自編教材",
-    "consultation": "WEIHAO.SU@SU@NTUT.EDU.TW",
-    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "schedule": "週次 1\t實習規則說明、分組\t\n週次 2\t實習一：魚骨圖、柏拉圖應用\t\n週次 3\t實習二：操作程序圖應用\t\n週次 4\t實習三：流程程序圖應用\t\n週次 5\t實習四：人機程序圖應用\t\n週次 6\t實習五：動素判定及雙手程序圖\t\n週次 7\t實習六：作業環境評估及\t\n週次 8\t田野調查說明\t\n週次 9\t期中考週\n週次 10\t田野調查 (一)\t\n週次 11\t田野調查 (二)\t\n週次 12\t實習八：碼錶測時\t\n週次 13\t實習九：時間研究表格計算\t\n週次 14\t實習十：評比\t\n週次 15\t實習十一：動作經濟原則\t\n週次 16\t實習十二：MTM 寬放\t\n週次 17\t期末分組報告及提交書面報告\t\n週次 18\t期末考週",
+    "scorePolicy": "課堂互動與點名佔 20%\n技術操作 (實習報告) 佔 40%\n期末報告佔 40%",
+    "materials": "自編教材\nA. Frevialds, B.W. Niebel 著，王明揚、林迪意譯，工作研究 (Niebel's Methods, Standards, and Work Design, 13e)，2015，東華書局。",
+    "consultation": "蘇威豪老師：科研大樓 947 室，Email: weihao.su@ntut.edu.tw 陳隆昇老師：科研大樓 439 室，Email: lschen@ntut.edu.tw 請事先以 email 預約",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

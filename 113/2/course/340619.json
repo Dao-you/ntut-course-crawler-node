@@ -26,6 +26,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "黃晟豪",
+    "email": "chhuang@stust.edu.tw",
+    "latestUpdate": "2024-12-23 21:42:52",
+    "objective": "介紹台灣軌道車輛現況及未來、軌道車輛名詞、轉向架與懸吊系統、車輛設計分析方法、車輛文化等。",
+    "schedule": "Week_01_軌道系統簡介\nWeek_02_軌道系統簡介\nWeek_03_軌道車輛構造\nWeek_04_軌道車輛構造\nWeek_05_輪軌互制與行車安全性\nWeek_06_輪軌互制與行車安全性\nWeek_07_車體、聯結器及轉向架\nWeek_08_懸吊系統\nWeek_09_期中考\nWeek_10_軌道車輛結構分析\nWeek_11_軌道車輛結構分析\nWeek_12_軌道車輛結構分析\nWeek_13_軌道車輛設計\nWeek_14_軌道車輛設計\nWeek_15_軌道車輛設計\nWeek_16_期末考\nWeek_17_軌道車輛文化與歷史 (線上授課)\nWeek_18_軌道車輛文化與歷史 (線上授課)",
+    "scorePolicy": "期中考          20%\n期末考          20%\n期末報告      20%\n課程參與與作業 20%\n出席              20%",
+    "materials": "自編教材",
+    "consultation": "將於課程第一周開設 LINE 群組相關問題可於 LINE 群組發問",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "將於課程第一周開設 LINE 群組相關問題可於 LINE 群組發問",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "蕭耀榮",
     "email": "yshiao@ntut.edu.tw",
     "latestUpdate": "2024-12-16 21:32:13",

@@ -1,9 +1,22 @@
 [
   {
+    "name": "吳修明",
+    "email": "hmwu@ntut.edu.tw",
+    "latestUpdate": "2024-12-20 09:22:00",
+    "objective": "先修課程：負責教授同意。自動化機械之機構、感測器與驅動器介面技術、可程式控制程式設計及應用、作實際自動化機械之模擬、分析及設計專題。\nprerequisite: the permission of the instructor\nsubjects: mechatronic systems, mechanism of mechatronic systems, sensors, drivers and actuators, interface techniques , PLC, and case study.",
+    "schedule": "二週：機械臂運動學\n二週：路徑規劃與運動控制\n二週：視覺感測與應用",
+    "scorePolicy": "作業：100%",
+    "materials": "參考書：機器人控制原理與實務 施慶隆、李文猶編著 全華書局",
+    "consultation": "Office hours",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "張敬源",
     "email": "chang@mail.ntut.edu.tw",
-    "latestUpdate": "2024-12-17 19:26:55",
-    "objective": "先修課程：負責教授同意。本課程導入設計思考，配合苗圃計劃，說明機械手臂之基本操作原理與實務應用；內容包括：機械手臂的控制、學習路徑規劃、進行模擬實驗、上機實作。藉由機械手臂模擬與實作，使得修習本課程之學生可以透過實際操作更加了解機械手臂設計原理與應用。",
+    "latestUpdate": "2024-12-20 13:53:06",
+    "objective": "先修課程：負責教授同意。本課程導入設計思考，說明機械手臂之基本操作原理與實務應用；內容包括：機械手臂的控制、學習路徑規劃、進行模擬實驗、上機實作。藉由機械手臂模擬與實作，使得修習本課程之學生可以透過實際操作更加了解機械手臂設計原理與應用。",
     "schedule": "第十三週：機械手臂介紹及程式概述\n第十四週：路徑規劃\n第十五週：模擬實驗\n第十六週：模擬實驗\n第十七週：上機實作 \n第十八週：上機測驗",
     "scorePolicy": "平時表現 (40%)、考試 (60%)",
     "materials": "使用自編教材",

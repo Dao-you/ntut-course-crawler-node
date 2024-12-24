@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "張致遠",
+    "email": "tofar@mail.ntut.edu.tw",
+    "latestUpdate": "2024-12-22 02:49:48",
+    "objective": "通訊系統簡介，類比調變技術（AM，FM），脈波調變技術，數位調變技術。\ncourse title : communication system\ndescription : this course is a first course in the area of communication . It primly contains the concept of communication system and the analogy communications .",
+    "schedule": "待定",
+    "scorePolicy": "待定",
+    "materials": "待定",
+    "consultation": "與授課教師約定時間諮詢",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

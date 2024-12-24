@@ -11,5 +11,31 @@
     "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
     "remarks": "本課程涵蓋部分 SDGs 項目",
     "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "邱俊智",
+    "email": "ccchiuv@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 11:09:41",
+    "objective": "針對學生之學習研究心得報告，集體討論，以訓練學生研究之能力。\nGroup Discussion.",
+    "schedule": "1. 研究架構介紹\n2. 文獻報告\n3. 文獻報告\n4. 綜合解析與討論",
+    "scorePolicy": "課堂參與 20%\n作業 30%\n文獻報告 50%",
+    "materials": "自編教材",
+    "consultation": "Office Hours: Wed. 10:00 AM - 16:00 PM. Please schedule a discussion time via email in advance.",
+    "課程對應SDGs指標": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "陳柏瑄",
+    "email": "phc@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 09:16:18",
+    "objective": "針對學生之學習研究心得報告，集體討論，以訓練學生研究之能力。\nGroup Discussion.",
+    "schedule": "Week1:Course overview\nWeek2:Guide of paper reading\nWeek3:Paper presentation and discussion\nWeek4:Paper presentation and discussion\nWeek5:Paper presentation and discussion\nWeek6:Paper presentation and discussion\nWeek7:Paper presentation and discussion\nWeek8:Paper presentation and discussion\nWeek9:Midterm\nWeek10:Paper presentation and discussion\nWeek11:Paper presentation and discussion\nWeek12:Paper presentation and discussion\nWeek13:Paper presentation and discussion\nWeek14:Paper presentation and discussion\nWeek15:Paper presentation and discussion\nWeek16:Paper presentation and discussion\nWeek17:Paper presentation and discussion\nWeek18:Paper presentation and discussion",
+    "scorePolicy": "課程參與：35%（個人）\n課堂報告：65%（團體）",
+    "materials": "1.Journal paper\n2.Harvard Business Review\n3.MIT Sloan Management Review\n4.Recommended journals in SSCI and TSSCI",
+    "consultation": "1.Students are encouraged to ask questions directly during class time.2.For any questions, students can also schedule an appointment via email (phc@ntut.edu.tw).",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "Please feel free to contact instructor.",
+    "foreignLanguageTextbooks": true
   }
 ]

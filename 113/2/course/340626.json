@@ -13,6 +13,19 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "李達生",
+    "email": "f11167@ntut.edu.tw",
+    "latestUpdate": "2024-12-24 08:23:28",
+    "objective": "指導學生進行研究專題，以培育其研發能力。每一位學生必須經指導教授選定題目，獨立或數位同學成一組完成硬體或軟體專題，並書寫印製，經系公開展示與評分。\nTeaching students to do the research work and to write the papers. Before graduation, the students have possessed the ability to do the R/D work. Each student must be through professor's instructions to select the topics of special project, personal or group work should be completed the project's hardware or software and issued the paper. An announcement has been made by the department, then get the grade and credit.",
+    "schedule": "1-3 專題題目制定\n4-8 第一階段實作計畫\n9    討論與修訂\n10-16 實作成果準備\n17-18 報告製作",
+    "scorePolicy": "參與情況 30%\n實作成果 70%",
+    "materials": "自編講義",
+    "consultation": "每周綜科館 610 室提供 6 小時諮詢",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG13：氣候行動（Climate Action）SDG17：夥伴關係（Partnerships for the Goals）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "李魁鵬",
     "email": "kplee@ntut.edu.tw",
     "latestUpdate": "2024-12-16 21:57:35",

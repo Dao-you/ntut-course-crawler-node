@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "同學如有加退選簽核或課程問題請 email: wuyc@ntut.edu.tw。若有問題請 email: wuyc@ntut.edu.tw",
     "foreignLanguageTextbooks": true
+  },
+  {
+    "name": "楊永欽",
+    "email": "ycyang@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 09:31:30",
+    "objective": "第一章 陶瓷製程概論\n1.1 陶瓷產品 1.2 陶瓷製程特色 1.3 目前瞭解程度　　\n第二章 固。液 氣三相反應　\n2.1 三相反應 2.2 乾燥\n第三章 粉末特性評估　　　 \n3.1 名詞定義 3.2 粉末規格 3.3 熱化與熱物分析 3.4 粉末之密度　　　\n第四章 成形前處理之製程　　\n4.1 粉碎 4.2 混合 4.3 成團\n第五章 成形製程\n5.1 乾壓法 5.2 注漿法 5.3 塑性成形法\n第六章 膠體狀態與穩定\n6.1 固液相界面 6.2 帶電界面 6.3 穩定態 6.4 流變性質\n第七章 懸浮液系統\n7.1 水懸浮液 7.2 泥漿性質 7.3 牛頓型懸浮液 7.4 有抗粘劑容液流變性質\n第八章 濕製程\n8.1 壓濾製程 8.2 離心製程 8.3 注漿製程 8.4 乳化及發泡製程 8. 5 其他　　　　　　　　　　　\nThis course is a special topics of Special topics of Processings of Ceramics.",
+    "schedule": "依進度調整",
+    "scorePolicy": "期中考  期末考",
+    "materials": "無",
+    "consultation": "自行找老師",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]

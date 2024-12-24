@@ -1,5 +1,18 @@
 [
   {
+    "name": "王貞淑",
+    "email": "wangcs@ntut.edu.tw",
+    "latestUpdate": "2024-12-23 15:13:33",
+    "objective": "本課程在使學生了解各種不同的資訊科技 (Information Technology) 與管理資訊系統間的關連性，並實際應用所教授的 IT 技術進行學術研究。藉由 IT 技術的應用演練，讓學生將實際進行問題分析、模型發展、系統開發、模擬實驗及最後的研究結論與模型驗證。提升學生獨立思考與解決問題之能力，培養科學的態度與學術研究的知識。本課程能夠：\n1. 學生俱備基礎數據分析能力 \n2. 能夠將所學應用於生活中決策問題輔助",
+    "schedule": "週次 (堂次) \t課程主題 \n1.\t數據分析概述\t\n2.    資料前處理\t作業 1: 怎麼吃最聰明？\t\n3.    講到大數據，一定要分析呀！不然咧\n              作業 2: 選出您的夢幻球隊\n4\t讓你的組織注入 AI 魂\t作業 3: 誰是願意付錢的好顧客？\t\n           \n5.     機器學習畫布 \tMachine Learning Canvas 框架介紹與應用 \n                 作業 4: 設計您的畫布？\n6\t眾裡尋他千百度：文字探勘",
+    "scorePolicy": "（一）發言與討論及出缺席占總成績 30%\n1.\t管理實務：老師在課堂提出問題，同學根據學習環境的條件，及學期報告的資料整理，進行心得分享與討論\n2.\t老師在課堂給予學生重點引導，帶領學生深入瞭解問題，並提供問題的解決方向。\n3.\t課堂上若有需要隨時進行點名。\n4.\t點名以重視課堂學習為精神，因特殊原因請假可獲得部分分數。\n\n（二）操做練習 (作業等) 占總成績 70%\n1.\t各項工具：帶領學生操作 RapidMiner, orange 3 等軟體的操作。\n2.\t借由各項工具完成指定作業。",
+    "materials": "自編教材",
+    "consultation": "wangcs@ntut.edu.tw",
+    "課程對應SDGs指標": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "范書愷",
     "email": "morrisfan@ntut.edu.tw",
     "latestUpdate": "2024-12-18 17:19:24",
@@ -28,10 +41,10 @@
   {
     "name": "黃乾怡",
     "email": "jayhuang@ntut.edu.tw",
-    "latestUpdate": "2024-12-18 17:16:01",
-    "objective": "本課程教導學生對製造業與服務業進行精實化管理的策略與技巧。課程內容包含：造成大型企業倒閉的商務環境改變與組織內的問題；科技提昇與電子化管理對企業的衝擊；精實化企業中有效及具競爭力營運管理的要素；精實化管理的發展策略與技巧。探討競爭優勢與生產服務系統模式、經營模式之關連，包括大量客製化、競爭優勢階段性、 發展競爭優勢作為、 豐富顧客價值。本課程將使學員熟習各項品質管理的理論基礎與發展趨勢，強化理論研究與實務應用能力。首先，課程涵蓋基礎統計使學員具備研究方法與分析技術能力，了解收集、統整和分析資料。其次，討論量化的六標準差管理相關工具及專案推行流程，以系統化思維探討問題並提出有效可行的解決對策，持續提升品質及客戶滿意。最後，介紹制度面及組織管理面的全球品管概念，闡述創造魅力品質之重要理論模型及影響服務品質關鍵因素。\nThis course covers the strategies and techniques of managing a lean business in manufacturing and in service. The linkages between competitive advantages and production systems, competitive advantages and business models will be discussed first. Then, topics include mass customization, competitive advantage stages, developing competitive capability and maximize customer value. This class will help students familiarize themselves with the trend of theoretical basis of the quality management and strengthen their ability in both theoretical research and practical application. First, the course covers basic statistics so that students will be acquainted with research methods and analysis techniques. Second, the six sigma management tools will be reviewed and the process for its implementation will also be addressed. Finally, the system- and the organization-level quality as well as the Kano Model for attractive quality will be discussed.",
-    "schedule": "資料探勘技術\n- 資料類型與轉換\n- 資料視覺化\n- 關聯規則\n- 決策樹分析\n- 預測模型評估\n精實系統\n現代品質定義與變異\n6 Sigma 意涵\n二維品質模型（Kano Model）\n品質機能展開（ QFD ）\n失效模式及效應分析 (FMEA)\n量測系統分析 (MSA)\n管制圖 (Control chart)\n製程能力分析 (Cp & Cpk)\n田口品質工程 (Taguchi quality engineering)",
-    "scorePolicy": "出席 50%\n報告 50%",
+    "latestUpdate": "2024-12-23 13:37:43",
+    "objective": "此課程旨在說明決策理論之基本觀念，及其在真實世界裡相關決策問題之分析。使學生具備了解並建構決策問題，建構並推估決策之不確定性，以及建構並評估效用模式之能力。\nThis course provides an overview of the basic concepts of decision theory and their applications on the real-world decision problems. Students will learn about the problem identification and modeling, the modeling and estimation of the associated uncertainty, and modeling and evaluation of the utility function.",
+    "schedule": "週次\t日期\t           單   元   主   題\n01\t02/15~16\t    精實策略決策分析與研討（黃乾怡教授）\n02\t02 月 22 日\t    精實策略決策分析與研討 - 遠距教學（黃乾怡教授）\n03\t03 月 01 日\t    精實策略決策分析與研討 - 遠距教學（黃乾怡教授）\n04\t03/15~16\t    數位化策略決策分析與研討（范書愷教授）\n05\t03 月 22 日\t    數位化策略決策分析與研討 - 遠距教學（范書愷教授）\n06\t03 月 29 日\t    數位化策略決策分析與研討 - 遠距教學（范書愷教授）\n07\t04/10~11\t    產品策略決策分析與研討（梁曉帆教授）寰騰匯 台北上課\n08\t04 月 19 日\t    產品策略決策分析與研討 - 遠距教學（梁曉帆教授）\n09\t04 月 26 日\t    產品策略決策分析與研討 - 遠距教學（梁曉帆教授）\n10\t05/17~18\t    資訊策略決策分析與研討（王貞淑教授）\n11\t05 月 24 日\t    資訊策略決策分析與研討 - 遠距教學（王貞淑教授）\n12\t05 月 31 日\t    資訊策略決策分析與研討 - 遠距教學（王貞淑教授）\n13\t06/21~22\t    營運策略決策分析與研討（蔡佩芳教授）\n14\t06 月 28 日\t    營運策略決策分析與研討 - 遠距教學（蔡佩芳教授）\n15\t07 月 05 日\t    營運策略決策分析與研討 - 遠距教學（蔡佩芳教授）\n16\t07/12~13\t    系統化策略決策分析與研討（鄭麗珍教授）\n17\t07 月 19 日\t    系統化策略決策分析與研討 - 遠距教學（鄭麗珍教授）\n18\t07 月 26 日\t    系統化策略決策分析與研討 - 遠距教學（鄭麗珍教授）",
+    "scorePolicy": "1. 黃乾怡：出席（50%）、小組報告（50%）\n2. 范書愷：出席（50%）、小組報告（50%）\n3. 梁曉帆：課堂討論（50%）、小組分組實做（50%）\n4. 王貞淑：課堂討論（50%）、小組報告（50%）\n5. 蔡佩芳：出席（20%）、課堂討論（40%）、個案作業 (40%)\n6. 鄭麗珍：出席（20%）、課堂討論（40%）、作業 (40%)\n7. 依據六位授課教師之核給成績分數，取平均值後四捨五入，即為每人所獲得之成績分數。\n8. 缺課達 8 週次（24 堂課）以上，學期成績不予及格。",
     "materials": "自編教材",
     "consultation": "i school",
     "課程對應SDGs指標": "無（None）",
@@ -41,10 +54,10 @@
   {
     "name": "蔡佩芳",
     "email": "ptsai@ntut.edu.tw",
-    "latestUpdate": "2024-12-19 18:25:36",
+    "latestUpdate": "2024-12-23 12:24:59",
     "objective": "本課程旨在針對人工智慧工具與決策分析應用於供應鏈管理的探討，其中包含：電子化企業概論、經營模式、企業再造、企業資源管理、中小企業電子化、商業電子化、供應鏈管理、需求鏈管理、協同預測管理、以及相關的個案研究。\nThe objectives of this course are to discuss the AI tools and decision analysis in supply chain management. The topics of this course includes: Introduction of E-Business management, Business Models, Business Reengineering, Enterprise Resource Planning, E-Business management for Small and Medium Enterprise, E-Commerce Platform, Supply Chain Management, Demand Chain Management, and case studies.",
     "schedule": "核心能力與競爭力、企業策略工具\n顧客需求與風險管理\n核心能力與外包\n企業策略與決策問題類型\n決策風險偏好與效用理論\n個案探討",
-    "scorePolicy": "出席（30%）、課堂個案討論（40%）、個案作業 (40%)",
+    "scorePolicy": "出席（20%）、課堂個案討論（40%）、個案作業 (40%)",
     "materials": "Fawcett 等著，梅明德編譯，供應鏈管理：從願景到實現 - 策略與流程觀點，三版，2019，台灣培生教育出版，全華圖書發行。",
     "consultation": "Office Hours: 1000-1400 on Wednesdaysemail: ptsai@ntut.edu.tw",
     "課程對應SDGs指標": "無（None）",

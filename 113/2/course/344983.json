@@ -24,5 +24,18 @@
     "課程對應SDGs指標": "無（None）",
     "remarks": "If Taipei Tech announces distance learning, the course will be conducted by: Online course platform: Teams or WEBEX.Course materials: Taipei Tech iStudy.Announcement via: Email, LINE.Reach instructor:Email: jftsai@ntut.edu.tw",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "鄭辰仰",
+    "email": "cuc174@gmail.com",
+    "latestUpdate": "2024-12-23 10:59:01",
+    "objective": "The purpose of this course focuses on the applications of intelligent management model to contemporary corporation. This course guides students through the evolution of key artificial intelligence methods and technologies and how they have developed to transform industry and business practice. Cases of real world artificial intelligence applications in manufacturing and service industry are studied.",
+    "schedule": "Topics:\n1.\tOptimization applications in manufacturing industry\n2.\tOptimization applications in service industry\n3.\tDecision making in business management\n4.\tCases study and discussions",
+    "scorePolicy": "Class participation  50%\nCase discussion and presentation  50%",
+    "materials": "Lecture material\nCase papers and reports",
+    "consultation": "Tue 2-4pm",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]

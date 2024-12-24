@@ -1,5 +1,18 @@
 [
   {
+    "name": "吳牧恩",
+    "email": "mnasia1@gmail.com",
+    "latestUpdate": "2024-12-23 09:54:30",
+    "objective": "本課程將介紹大數據分析緣起與理論基礎，大數據分析與企業經營間之獲利關聯，並輔以大數據分析案例讓學員對於大數據應用有更深層的認識與啟發。\nThe big data opportunity, extracting insight from an immense volume, variety and velocity of data, in context, beyond what was previously possible, will be addressed in this course. Applications for big data analytics could include smarter healthcare, multi-channel, finance, computer log analysis, homeland security, traffic control, telecom, search quality, manufacturing, trading analytics, fraud and risk, retailing, among others.",
+    "schedule": "依實際授課進度規劃",
+    "scorePolicy": "出席 30%\n作業 30%\n上課討論 40%",
+    "materials": "自編講義",
+    "consultation": "Line 群組",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "翁頌舜",
     "email": "wengss@ntut.edu.tw",
     "latestUpdate": "2024-12-18 11:37:34",
@@ -9,6 +22,19 @@
     "materials": "(1) 「大數據」，麥爾荀伯格、庫基耶著，林俊宏譯，天下文化出版，2014。\n(2) 「雲端時代的殺手級應用 – 海量資料分析」，胡世忠著，天下雜誌出版，2013。",
     "consultation": "1. 課堂中提問與討論 2. 課後提問與討論 3 . 利用 E-mail 或 Line 提問與討論",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "鄭辰仰",
+    "email": "cuc174@gmail.com",
+    "latestUpdate": "2024-12-23 11:10:37",
+    "objective": "本課程將介紹大數據分析緣起與理論基礎，大數據分析與企業經營間之獲利關聯，並輔以大數據分析案例讓學員對於大數據應用有更深層的認識與啟發。\nThe big data opportunity, extracting insight from an immense volume, variety and velocity of data, in context, beyond what was previously possible, will be addressed in this course. Applications for big data analytics could include smarter healthcare, multi-channel, finance, computer log analysis, homeland security, traffic control, telecom, search quality, manufacturing, trading analytics, fraud and risk, retailing, among others.",
+    "schedule": "依實際授課進度規劃",
+    "scorePolicy": "出席 30%\n作業 30%\n上課討論 40%",
+    "materials": "自編講義",
+    "consultation": "Line 群組",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

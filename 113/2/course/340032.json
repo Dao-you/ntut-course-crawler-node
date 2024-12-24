@@ -11,5 +11,18 @@
     "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
     "remarks": "",
     "foreignLanguageTextbooks": false
+  },
+  {
+    "name": "張敬源",
+    "email": "chang@mail.ntut.edu.tw",
+    "latestUpdate": "2024-12-20 12:58:39",
+    "objective": "本課程設計的是鏈結 AOI 與雷射加工產業，與智能廠接軌共同來解決產業實際應產業之問題與需求。設計課程分成三階段，分別為課程講授、業師實作討論、業師實務專題，三階段前後銜接，循序漸進課程讓學全接觸 AOI 與雷射加工技術。第一部分課程講授主要為基礎之理論傳授，訂立實驗目標、計畫實驗過程、課後評量，予以教學反饋；第二部分實作與討論，採讓學進雷射相關的實驗設計與操作，融會貫通所學理論，培育其實作技能，藉由組與業師討論，練習規劃實驗，實驗安排由簡入深，從認識機台種類系統之光路架設、最終參數的調整等，並藉由組討論記錄表，予以教學回饋；第三部分為企業命題之實務專題，請業師提供產業實務問題，並由產業負責專題內容，讓學了解前業界發展向、業界現況與製程瓶頸等，將理論課程更實務鏈結到雷射應，期末進實務成果發表展與評選，培育其解決實務問題之能。\nThe first part of the course, classroom instruction, primarily focuses on imparting foundational theory, setting experimental objectives, planning the experimental process, conducting post-assessments, and providing instructional feedback. The second part involves hands-on practical work and discussions. Students engage in experimental design and operations related to laser technology, integrating the theoretical knowledge acquired earlier. Through group discussions with industry experts, they learn to plan experiments, starting with understanding different types of machinery, optical path configurations, and parameter adjustments. Discussion records are used to provide instructional feedback. The third part consists of practical projects based on industry propositions. Industry experts present real-world industry problems, and students work on projects related to these topics. This segment allows students to gain insights into industry trends, current industry conditions, and manufact",
+    "schedule": "週數\t單元主題\t作業 / 測驗\t備註\n第 1 週\t生產系統簡介\t\t\n第 2 週\t智能化模型\t                 作業\t\n第 3 週\t關聯式模型\t\t\n第 4 週\t智能排單方式\t                 測驗\t\n第 5 週\t智能加工方式\t\t\n第 6 週\t智能量測方式   \t         測驗\t\n第 7 週\t品管、組裝、倉儲      \t 作業\t\n第 8 週\t品管、組裝、倉儲   \t 作業\t\n第 9 週\t期中考\t測驗\t\n第 10 週\t工業物聯網潛在威脅\t\t\n第 11 週\t工業物聯網潛在威脅\t作業\t\n第 12 週\t工業控制的風險評鑑\t\t\n第 13 週\t工業控制的風險評鑑\t作業\t\n第 14 週\t工控資安\t\t\n第 15 週\t工控資安\t                        作業\t\n第 16 週\t工業控制系統開發標準\t\t\n第 17 週\t工業控制系統組件檢測標準",
+    "scorePolicy": "1. 期中考試佔 30%：上機考試。\n2. 期末考試佔 30%：上機考試。\n3. 平時成績佔 40%：包括作業、出席率、上課狀況等。",
+    "materials": "自編教材",
+    "consultation": "本課程除了介紹智能工業生產教學工廠之外，更針對智能工廠各個工作細節具體提出實務需求，再由上課老師帶學生助教以此些問題作為上課基礎，教導學生共同解決，學生以班級為單位進入工廠實作學習，讓學生更了解技術原理的實際應用情境。若有其他的問題可以與老師用 Email 聯絡。",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
   }
 ]
