@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "許志明",
+    "email": "jmshiu@ntut.edu.tw",
+    "latestUpdate": "2024-12-24 17:40:33",
+    "objective": "硬體簡介、影像處理 (單色、彩色、3D 及即時)、圖案識別 (Patten Recognition)、機械視覺於順序控制之應用、機械視覺於回授控制之應用、高速檢測、機械人與機械視覺之結合及應用。\nIntroduction to Hardware of Vision System, Image Processing (Monochrome, Color, 3D and real-time), Pattern Recognition, Application of MV to Sequential Control Application of MV to Feedback Control. High Speed Inspection, Combined Applications of Robotics and MV.",
+    "schedule": "1",
+    "scorePolicy": "2",
+    "materials": "111",
+    "consultation": "11",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
