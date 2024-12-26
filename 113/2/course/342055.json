@@ -2,9 +2,9 @@
   {
     "name": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
-    "latestUpdate": "2024-12-24 11:28:17",
+    "latestUpdate": "2024-12-25 10:52:25",
     "objective": "This course covers the basics and latest developments in information and communication technology (ICT), including multimedia, communications, and networks. Recent advances (Byond 5G(B5G)/6G) of machine learning applications in ICT are covered.",
-    "schedule": "1.  Network Protocols (Internet engineering)\n2. IT  source coding for video standards (Huffman code etc.)\n3. Information theory and channel coding introduction\n4. Convolutional/RS codes for 4G control channel\n5. (optional)  Turbo codes for 4G traffic channel15. \n6. LDPC codes/Polar codes for 5G\n7. Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.)\n8. Error resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n9. Cross layer resource allocation OFDNA/NOMA B5G/6G\n10. Deep Reinforcement Learning  (DRL)\n11. MEC B5G/6G resource allocation Taskd Offloading DRL-DQN DDQN\n12. RIS B5G/6G DRL-SAC\n13. (optional) D2D overlaying IoT unsupervised GNN  \n14. (optional) D2D underlaying IoT BB SVM imitation learning\n15. (optional) Video Chaptering Summarization  NTOU 20241022 talk",
+    "schedule": "1.  Network Protocols (Internet engineering)\n2. IT  source coding for video standards (Huffman code etc.)\n3. Information theory and channel coding introduction\n4. Convolutional/RS codes for 4G control channel\n6. LDPC codes/Polar codes for 5G\n7. Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.)\n8. Error resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n9. Cross layer resource allocation OFDNA/NOMA B5G/6G\n10. Ad hoc networks \n11 Sensors networks\n12 Deep Reinforcement Learning  (DRL)\n13 Mobile EdgeComputing (MEC) B5G/6G resource allocation Taskd Offloading DRL\n14 Reconfigurable Intelligence Surface RIS B5G/6G DRL-SAC\n13. (optional) Device-to-Devbice (D2D) in Intenet of Things (IoT)",
     "scorePolicy": "Oral report 1: 20%\nExam: 40% \nOral report 2: 40%",
     "materials": "Course handouts",
     "consultation": "by email",

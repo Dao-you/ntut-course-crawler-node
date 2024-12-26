@@ -2,10 +2,10 @@
   {
     "name": "蕭郁達",
     "email": "ydhsiao@ntut.edu.tw",
-    "latestUpdate": "2024-12-05 18:28:58",
+    "latestUpdate": "2024-12-25 15:24:43",
     "objective": "本課程說明程序最適化的基本原理，介紹化工程序及能源系統中常見的最適化策略。內容包括：最適化理論及演算法、數學規劃與建模技巧、最適化於化工問題及能源議題之應用。\nThis course aims to introduce optimisation basics and common optimisation strategies in chemical processes and energy systems. The contents include optimisation theory and algorithms, mathematical programming and modelling techniques, and applications to chemical engineering problems and energy issues.",
     "schedule": "Week 1 – Introduction to Process Optimization\nWeek 2 – Linear and Nonlinear Programming\nWeek 3 – Mixed-Integer Programming\nWeek 4 – Disjunctive Programming\nWeek 5 – Global Optimization\nWeek 6 – Stochastic Optimization\nWeek 7 – Flexibility Analysis\nWeek 8-9 – Optimization of Heat Exchanger Networks\nWeek 10-11 – Optimization of Water Networks\nWeek 12-13 – Optimization of Hydrogen Networks\nWeek 14-15 – Optimization of Supply Chains\nWeek 16-18 – Flexibility Analysis for Process Operability",
-    "scorePolicy": "Participation 30%\nAssignments and Quiz 35%\nFinal Report 35%",
+    "scorePolicy": "Participation 30%\nQuiz 30%\nFinal Report 40%",
     "materials": "1. Grossmann, I. E., \"Advanced Optimization for Process Systems Engineering\". Cambridge University Press, 2021.\n2. Self-made materials",
     "consultation": "Email",
     "課程對應SDGs指標": "無（None）",
