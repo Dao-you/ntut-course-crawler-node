@@ -2,12 +2,12 @@
   {
     "name": "曾恕銘",
     "email": "shuming@ntut.edu.tw",
-    "latestUpdate": "2024-12-25 10:52:25",
-    "objective": "This course covers the basics and latest developments in information and communication technology (ICT), including multimedia, communications, and networks. Recent advances (Byond 5G(B5G)/6G) of machine learning applications in ICT are covered.",
-    "schedule": "1.  Network Protocols (Internet engineering)\n2. IT  source coding for video standards (Huffman code etc.)\n3. Information theory and channel coding introduction\n4. Convolutional/RS codes for 4G control channel\n6. LDPC codes/Polar codes for 5G\n7. Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.)\n8. Error resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\n9. Cross layer resource allocation OFDNA/NOMA B5G/6G\n10. Ad hoc networks \n11 Sensors networks\n12 Deep Reinforcement Learning  (DRL)\n13 Mobile EdgeComputing (MEC) B5G/6G resource allocation Taskd Offloading DRL\n14 Reconfigurable Intelligence Surface RIS B5G/6G DRL-SAC\n13. (optional) Device-to-Devbice (D2D) in Intenet of Things (IoT)",
-    "scorePolicy": "Oral report 1: 20%\nExam: 40% \nOral report 2: 40%",
+    "latestUpdate": "2025-01-06 09:18:47",
+    "objective": "This course covers the basics and latest developments in information and communication technology (ICT), including Part I multimedia communications and networks, and Part II Introduction to Generative AI\n本課程涵蓋資訊和通訊技術（ICT）的基礎知識和最新發展，包括第一部分多媒體通訊和網路，第二部分介紹生成人工智慧",
+    "schedule": "Part I multimedia communications and networks\n1.  Network Protocols (Internet engineering)\n2. IT  source coding for video standards (Huffman code etc.)\n3. Information theory and channel coding introduction\n4. Convolutional/RS codes for 4G control channel\n6. LDPC codes/Polar codes for 5G\n7. Multiple access protocols in layer 2 (CSMA/CA with RTS/CTS for Wi-Fi etc.)\n8. Error resilience in wireless video transmission(HARQ(RCPC+CRC), MDC, Cross-layer control, optimization theory (including linear programming))\nPart II Introduction to Generative AI\n9. Generative AI universal\n10.  prompt engineering\n11 LLMtraining\n12 T in ChatGPT transformer intro\n13 Generative AI generationstrategy\n14 Image Generation in Generative AI",
+    "scorePolicy": "Oral report: 30%\nExam: 30% \nFinal report: 40%",
     "materials": "Course handouts",
-    "consultation": "by email",
+    "consultation": "Office hours",
     "課程對應SDGs指標": "無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
