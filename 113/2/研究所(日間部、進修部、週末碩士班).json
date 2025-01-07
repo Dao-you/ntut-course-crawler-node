@@ -1466,7 +1466,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "64",
     "peopleWithdraw": "0",
     "ta": [],
@@ -1737,7 +1743,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14112,9 +14124,9 @@
     ],
     "teacher": [
       {
-        "name": "莊嶸騰",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12500",
-        "code": "12500"
+        "name": "余憲政",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=24521",
+        "code": "24521"
       }
     ],
     "time": {
@@ -14122,12 +14134,12 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [
-        "2",
-        "3",
-        "4"
+      "thu": [],
+      "fri": [
+        "5",
+        "6",
+        "7"
       ],
-      "fri": [],
       "sat": []
     },
     "classroom": [
@@ -14143,9 +14155,7 @@
     "language": "",
     "notes": "億光 405 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY25003",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=343302&code=12500"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "AY05006",
@@ -14181,15 +14191,21 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
-      "fri": [
-        "5",
-        "6",
-        "7"
+      "thu": [
+        "2",
+        "3",
+        "4"
       ],
+      "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光0405",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=571",
+        "code": "571"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14751,7 +14767,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14803,7 +14825,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -22529,65 +22557,6 @@
     ]
   },
   {
-    "code": "5905124",
-    "description": {
-      "zh": "1. 傅利葉分析與訊號取樣，2. 離散時序系統之頻率響應與電路設計， 3. Infinite Impulse Response 數位濾波器設計：Bilinear 轉換式，Impulse-invariance 方式， Step-invariance 方式，高通、帶通、帶拒濾波器轉換式，4.Finite Impulse Response 數位濾波器設計：Fourier Series 方法，Window 方法，5. 離散與快速傅利葉轉換：DFT、FFT 等演算法。",
-      "en": "1.Fourier analysis and signal sampling 2.Frequcy response of discrete time system 3.IIR digital filter design 4.FIR digital filter design 5.Discrete Fourier transform 6.Fast Fourier transform"
-    },
-    "id": "345154",
-    "name": {
-      "zh": "數位信號處理",
-      "en": "Digital Signal Processing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "資工所",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3057",
-        "code": "3057"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "白敦文",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12095",
-        "code": "12095"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "2",
-        "3",
-        "4"
-      ],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "科研大樓334",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=473",
-        "code": "473"
-      }
-    ],
-    "people": "11",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "資工四和資工所合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5905124",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345154&code=12095"
-    ]
-  },
-  {
     "code": "5905101",
     "description": {
       "zh": "1. 數學基礎 1.1 函數成長率之漸近性質 1.2 遞迴關係之解        1.3 數學歸納法 2. 基本分析技巧 2.1 計算複雜度之上下限 2.2 最差情況分析及平均情況分析 2.3 動態平均分析 3. 基本設計技巧 3.1 分擊法 3.2 貪婪法 3.3 動態規劃 3.4 隨機演算法 4. 計算複雜度 4.1 資訊理論證明法 4.2 對抗式證明法 4.3 問題之線性轉換 4.4 完全 NP",
@@ -23472,7 +23441,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33176,7 +33151,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
