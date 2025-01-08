@@ -4392,12 +4392,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科414",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=207",
+        "code": "207"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "請幫忙安排二教 103 教室",
+    "notes": "綜科 414",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105187",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344272&code=23883"
@@ -5382,7 +5388,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344454&code=24535"
+    ]
   },
   {
     "code": "4505308",
@@ -6770,7 +6778,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201440",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344564&code=24025"
+    ]
   },
   {
     "code": "5211432",

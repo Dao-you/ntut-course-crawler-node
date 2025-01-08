@@ -7001,7 +7001,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8882,7 +8888,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
@@ -8940,7 +8952,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=343",
+        "code": "343"
+      }
+    ],
     "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9045,7 +9063,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9100,7 +9124,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9153,7 +9183,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9206,7 +9242,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9259,7 +9301,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11838,7 +11886,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14158,65 +14212,6 @@
     "syllabusLinks": []
   },
   {
-    "code": "AY05006",
-    "description": {
-      "zh": "本課程涵蓋太空系統工程的進階課題，包括當前研究和新興技術。本課程將深入理解太空系統的設計、開發、測試和實施，著重於子系統的整合和系統性能的最佳化。主題將包括先進的材料和結構、推進系統、航電系統、控制系統、人因因素等。學生將通過案例研究、設計專案和模擬實例進行學習。",
-      "en": "This course covers advanced topics in space systems engineering, including current research and emerging technologies. The course will provide an in-depth understanding of the design, development, testing, and implementation of space systems, with a focus on the integration of subsystems and the optimization of system performance. Topics will include advanced materials and structures, propulsion systems, avionics, control systems, human factors, and more. Students will gain hands-on experience through case studies, design projects, and simulation exercises."
-    },
-    "id": "343307",
-    "name": {
-      "zh": "進階太空系統工程",
-      "en": "Advanced Space Systems Engineering"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "太空所",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3075",
-        "code": "3075"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "莊嶸騰",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12500",
-        "code": "12500"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "2",
-        "3",
-        "4"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "億光0405",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=571",
-        "code": "571"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AY05006",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=343307&code=12500"
-    ]
-  },
-  {
     "code": "AY15015",
     "description": {
       "zh": "本課程探討衛星通訊系統收發機設計，介紹衛星端與地球站通訊收發資料流。課程涵蓋的主題包括：通訊協定、通道編碼演算法、調變技術、多天線設計、軟體無線電技術、通訊數據機實現。通過這些主題的介紹，學生將了解衛星通訊收發機設計的技巧，並學習以軟體無線電實現通訊數據機。",
@@ -15399,12 +15394,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科414",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=207",
+        "code": "207"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "請幫忙安排二教 103 教室",
+    "notes": "綜科 414",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105187",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344272&code=23883"
@@ -16389,7 +16390,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344454&code=24535"
+    ]
   },
   {
     "code": "4505308",
@@ -17777,7 +17780,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201440",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344564&code=24025"
+    ]
   },
   {
     "code": "5211432",
@@ -21667,7 +21672,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21721,7 +21732,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21774,7 +21791,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -24131,7 +24154,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "億光1343",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=543",
+        "code": "543"
+      }
+    ],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -31154,7 +31183,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36446,7 +36481,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
