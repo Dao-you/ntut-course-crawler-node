@@ -10906,9 +10906,9 @@
     },
     "classroom": [
       {
-        "name": "二教301",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=26",
-        "code": "26"
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=422",
+        "code": "422"
       }
     ],
     "people": "1",
@@ -11944,7 +11944,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11997,7 +12003,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12050,7 +12062,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12081,6 +12099,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=2&code=3065",
         "code": "3065"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3069",
+        "code": "3069"
       }
     ],
     "teacher": [
@@ -12103,12 +12126,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "資財所和 IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805117",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343097&code=21405"
@@ -12161,7 +12190,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -12192,6 +12227,11 @@
         "name": "管理外國學生專班",
         "link": "Subj.jsp?format=-4&year=113&sem=2&code=3065",
         "code": "3065"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3069",
+        "code": "3069"
       }
     ],
     "teacher": [
@@ -12219,7 +12259,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "資財所和 IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805146",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=343107&code=24406"
@@ -12267,7 +12307,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14209,7 +14255,9 @@
     "language": "",
     "notes": "億光 405 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY25003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=343302&code=24521"
+    ]
   },
   {
     "code": "AY15015",
@@ -15013,7 +15061,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=422",
+        "code": "422"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -26648,9 +26702,9 @@
     },
     "classroom": [
       {
-        "name": "二教301",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=26",
-        "code": "26"
+        "name": "三教403",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=53",
+        "code": "53"
       }
     ],
     "people": "58",
@@ -28460,13 +28514,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=47",
-        "code": "47"
-      }
-    ],
+    "classroom": [],
     "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33979,13 +34027,7 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教504",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=61",
-        "code": "61"
-      }
-    ],
+    "classroom": [],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
