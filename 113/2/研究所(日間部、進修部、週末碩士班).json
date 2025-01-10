@@ -1176,7 +1176,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "先鋒503 ",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=563",
+        "code": "563"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6038,7 +6044,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計251",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=456",
+        "code": "456"
+      }
+    ],
     "people": "4",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6102,7 +6114,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計252",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=457",
+        "code": "457"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6175,7 +6193,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計556",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=381",
+        "code": "381"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6231,7 +6255,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "設計251",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=456",
+        "code": "456"
+      }
+    ],
     "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9400,7 +9430,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=342",
+        "code": "342"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9584,7 +9620,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13741,7 +13783,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教103",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=15",
+        "code": "15"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -36916,9 +36964,9 @@
     },
     "classroom": [
       {
-        "name": "先鋒402 ",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=554",
-        "code": "554"
+        "name": "先鋒602 ",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=566",
+        "code": "566"
       }
     ],
     "people": "20",
@@ -37493,6 +37541,129 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C767002",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AC06101",
+    "description": {
+      "zh": "研究生在第一年必須選定指導教授，以決定設計創作或論文寫作的方向，從事設計創作的研究生必須發展創作理念、創作過程與實作說明，最後彙整創作報告形同於研究論文；從事論文寫作的研究生針對互動媒體設計的相關主題進行研究，並將研究成果撰寫成為論文，其內容包含緒論、文獻探討、研究設計與實施、研究結果與討論、結論與建議等。本課程目的旨在培養獨立企劃研究能力，建構研究設計與研究寫作的能力，對設計創作組而言，過程中培養協同合作的能力是必須具備的要項。",
+      "en": "In the first year graduate students are requested to determine design creation and research topic under the supervision of their advisor. Graduate students who are chosen the fields of design creation should be developed creation principle, design process and pr92tical work. The results of design creation are considered as research thesis. Graduate students who are focus on the research of inter92tive media design should be undertaken the results of research as a thesis. The content of thesis includes introduction, literature review, research design and appro92hes, results and discussion, conclusion and suggestions. The aims of this course are to provide students with opportunity to initiate personal research into industrial design related topic. The course includes a training of developing research, writing up and references. To design creation groups. The collaborative capability is in need of the cultivation of ability during the process."
+    },
+    "id": "346362",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職互動所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3102",
+        "code": "3102"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "14",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06101",
+    "syllabusLinks": []
+  },
+  {
+    "code": "A406001",
+    "description": {
+      "zh": "碩士學位論文寫作",
+      "en": "A student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "346363",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3101",
+        "code": "3101"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A406001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5807001",
+    "description": {
+      "zh": "研究生在教授的指導下，針對工業設計相關特定研究主題進行研究，並將研究成果寫成論文。其內容包括研究方法、理論分析及研究結果﹙含結論與建議﹚。本課程主要目的在提供學生開啟個人對於工業設計領域相關議題的獨立研究能力。因此，本課程將包含如何建構研究設計、寫作與參考文獻的能力。",
+      "en": "Graduate students are required to complete specific research topic under the restriction of their advisor. The results should be written as a thesis. The thesis focuses on the fields in \"industrial design\", and includes research methodology, theory background and conclusive result or findings. The aims of this course are to provide students with opportunity to initiate personal research into industrial design related topic. Therefore, the course includes a training of developing research, writing and bibliographic skills."
+    },
+    "id": "346364",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職創新所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3097",
+        "code": "3097"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "12",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5807001",
     "syllabusLinks": []
   }
 ]
