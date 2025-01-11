@@ -20495,7 +20495,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=480",
+        "code": "480"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21037,7 +21043,13 @@
         "3"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓441",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=504",
+        "code": "504"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21264,7 +21276,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=480",
+        "code": "480"
+      }
+    ],
     "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21334,7 +21352,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21417,7 +21441,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=491",
+        "code": "491"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21561,7 +21591,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓441",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=504",
+        "code": "504"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21635,7 +21671,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21713,7 +21755,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=480",
+        "code": "480"
+      }
+    ],
     "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33001,7 +33049,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33080,7 +33134,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=487",
+        "code": "487"
+      }
+    ],
     "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33149,7 +33209,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓430",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=480",
+        "code": "480"
+      }
+    ],
     "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
@@ -33227,7 +33293,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研哈佛講堂",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=474",
+        "code": "474"
+      }
+    ],
     "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
@@ -35905,7 +35977,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=491",
+        "code": "491"
+      }
+    ],
     "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
