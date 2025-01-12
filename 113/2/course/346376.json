@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "name": "郭五鳳",
+    "email": "ckuo66ntut@ntut.edu.tw",
+    "latestUpdate": "2025-01-11 11:24:17",
+    "objective": "This course provides a comprehensive introduction to the core principles of business management and explores the role of Artificial Intelligence (AI) in transforming business management practices. Students will examine how AI enhances decision-making, improves operational efficiency, and drives innovation across industries. The course combines with theoretical frameworks, real-world case studies, in class focus group discussion, and hands-on projects to equip students with the skills needed to leverage AI in strategic business applications.",
+    "schedule": "Week Month Date\t Topics                                       \t    \n1\t Feb.        18\t Introduction to AI in Business Management\n2\t\t        25\t The Role of AI in Decision-Making\n3\tMarch\t04\t AI for Customer Experience and Engagement\n4\t \t\t11\t AI in Human Resource Management\n5\t\t\t18 \t AI in Marketing and Consumer Behavior Analysis\n6\t\t\t25\t Ethical Considerations in AI for Business\n7\tApril\t        01\t AI in Financial Management\n8\t\t\t08   AI in Supply Chain and Logistics\n9\t\t\t15\t Mid-term Exam.\n10\t\t\t22\t AI in Business Innovation and Entrepreneurship\n11\t\t\t29\t AI and Cybersecurity in Business\n12\tMay\t\t06\t AI and Data Analytics\n13\t\t\t13\t AI and Strategic Management\n14\t\t\t20\t AI in Operations and Process Automation\n15\t\t\t27\t AI and Knowledge Management\n16\tJune\t03\t AI and KPI Performance\n17\t\t\t10\t Future Trends of AI in Business Management\n18\t\t\t17\t Final Exam.",
+    "scorePolicy": "Students will engage in team and individual presentations, contributing 30% to the midterm and 40% to the final exam. The remaining 30% of the overall grade will be determined by class attendance.",
+    "materials": "(1)\tBusiness in Action by Bovee/Thill, \n(2)    Understanding Management by Daft,",
+    "consultation": "Catherine W. Kuo (ckuo66ntut@ntut.edu.tw)",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
