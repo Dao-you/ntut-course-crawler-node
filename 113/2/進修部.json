@@ -2829,7 +2829,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "一 / ABC；至中分署受訓，2/17-3/19 採視訊",
+    "notes": "一 / ABC；至中分署受訓，2/17-3/17 採視訊",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400028",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344195&code=24514"
@@ -5288,7 +5288,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜科610",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=301",
+        "code": "301"
+      }
+    ],
     "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16950,7 +16956,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓442",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=491",
+        "code": "491"
+      }
+    ],
     "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
@@ -19093,7 +19105,9 @@
     "language": "",
     "notes": "限學號雙數的學生選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502503",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346282&code=24135"
+    ]
   },
   {
     "code": "4406042",
