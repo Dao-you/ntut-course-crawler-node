@@ -2472,7 +2472,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3769,7 +3769,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3969,7 +3969,9 @@
     "language": "",
     "notes": "科研 235",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344226&code=24547"
+    ]
   },
   {
     "code": "AB02017",
@@ -4931,7 +4933,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教308",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=49",
+        "code": "49"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9280,7 +9288,13 @@
         "code": "3104"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林鳳儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11315",
+        "code": "11315"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9321,7 +9335,13 @@
         "code": "3105"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "翁頌舜",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11440",
+        "code": "11440"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9696,7 +9716,13 @@
         "code": "3107"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "蔡榮發",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11117",
+        "code": "11117"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9860,7 +9886,13 @@
         "code": "3108"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10821",
+        "code": "10821"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10091,11 +10123,6 @@
     ],
     "teacher": [
       {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11573",
-        "code": "11573"
-      },
-      {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=11396",
         "code": "11396"
@@ -10118,7 +10145,6 @@
     "notes": "碩一必修 114/04/12-13 (在台上課) 實體與遠距教學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205029",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345012&code=11573",
       "ShowSyllabus.jsp?snum=345012&code=11396"
     ]
   },
@@ -11735,7 +11761,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=22",
+        "code": "22"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11882,7 +11914,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教306",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=47",
+        "code": "47"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11935,7 +11973,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=22",
+        "code": "22"
+      }
+    ],
     "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13122,7 +13166,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教206",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=40",
+        "code": "40"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -13786,7 +13836,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=50",
+        "code": "50"
+      }
+    ],
     "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14435,7 +14491,13 @@
         "7"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=50",
+        "code": "50"
+      }
+    ],
     "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16056,14 +16118,9 @@
     ],
     "teacher": [
       {
-        "name": "范書愷",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11573",
-        "code": "11573"
-      },
-      {
-        "name": "陳育威",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11396",
-        "code": "11396"
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10988",
+        "code": "10988"
       }
     ],
     "time": {
@@ -16084,10 +16141,7 @@
     "language": "",
     "notes": "碩二必修，台北集中上課，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205031",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345710&code=11573",
-      "ShowSyllabus.jsp?snum=345710&code=11396"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "C205028",
