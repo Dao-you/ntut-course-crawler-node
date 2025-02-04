@@ -1,5 +1,22 @@
 [
   {
+    "name": "教務處",
+    "href": "Subj.jsp?format=-3&year=113&sem=2&code=01",
+    "class": [
+      {
+        "id": "450",
+        "name": "遠距教學班(大學部)",
+        "href": "Subj.jsp?format=-4&year=113&sem=2&code=450"
+      },
+      {
+        "id": "3113",
+        "name": "遠距教學班(研究所)",
+        "href": "Subj.jsp?format=-4&year=113&sem=2&code=3113"
+      }
+    ],
+    "category": "校院級"
+  },
+  {
     "name": "體育室",
     "href": "Subj.jsp?format=-3&year=113&sem=2&code=10",
     "class": [
@@ -248,6 +265,11 @@
         "id": "2561",
         "name": "工程學院(大)",
         "href": "Subj.jsp?format=-4&year=113&sem=2&code=2561"
+      },
+      {
+        "id": "2768",
+        "name": "人文與社會科學學院(大)",
+        "href": "Subj.jsp?format=-4&year=113&sem=2&code=2768"
       },
       {
         "id": "2772",
