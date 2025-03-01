@@ -69333,6 +69333,15 @@
           "year": "1",
           "sem": "2",
           "type": "★",
+          "name": "資訊都市主義專題(二)",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "2",
+          "type": "★",
           "name": "都市設計特論",
           "credit": "3.0",
           "hours": "3",
@@ -69649,6 +69658,15 @@
           "sem": "2",
           "type": "★",
           "name": "淨零建築",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "2",
+          "type": "★",
+          "name": "循環型建築專題",
           "credit": "3.0",
           "hours": "3",
           "stage": "1"
@@ -71328,7 +71346,25 @@
           "year": "1",
           "sem": "2",
           "type": "★",
+          "name": "行銷管理",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "2",
+          "type": "★",
           "name": "人力資源管理",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "1",
+          "sem": "2",
+          "type": "★",
+          "name": "管理會計",
           "credit": "3.0",
           "hours": "3",
           "stage": "1"
