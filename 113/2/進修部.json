@@ -41,8 +41,14 @@
       ],
       "sat": []
     },
-    "classroom": [],
-    "people": "34",
+    "classroom": [
+      {
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=45",
+        "code": "45"
+      }
+    ],
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -74,7 +80,58 @@
         "code": "2754"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李昭賢",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11636",
+        "code": "11636"
+      },
+      {
+        "name": "邱弘緯",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11232",
+        "code": "11232"
+      },
+      {
+        "name": "高立人",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11433",
+        "code": "11433"
+      },
+      {
+        "name": "崔紘嘉",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12442",
+        "code": "12442"
+      },
+      {
+        "name": "陳建中",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11158",
+        "code": "11158"
+      },
+      {
+        "name": "陳晏笙",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11678",
+        "code": "11678"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "黃育賢",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11130",
+        "code": "11130"
+      },
+      {
+        "name": "楊濠瞬",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11894",
+        "code": "11894"
+      },
+      {
+        "name": "潘孟鉉",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12231",
+        "code": "12231"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -85,13 +142,20 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3604004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344057&code=11232",
+      "ShowSyllabus.jsp?snum=344057&code=11433",
+      "ShowSyllabus.jsp?snum=344057&code=11991",
+      "ShowSyllabus.jsp?snum=344057&code=11130",
+      "ShowSyllabus.jsp?snum=344057&code=11894",
+      "ShowSyllabus.jsp?snum=344057&code=12231"
+    ]
   },
   {
     "code": "3603057",
@@ -142,8 +206,8 @@
         "code": "291"
       }
     ],
-    "people": "17",
-    "peopleWithdraw": "0",
+    "people": "37",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科 501",
@@ -201,7 +265,7 @@
         "code": "52"
       }
     ],
-    "people": "23",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -260,7 +324,7 @@
         "code": "52"
       }
     ],
-    "people": "23",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -312,8 +376,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "12",
+    "classroom": [
+      {
+        "name": "六教626",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=446",
+        "code": "446"
+      }
+    ],
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -356,7 +426,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -397,7 +467,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "40",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -438,7 +508,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "40",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -495,7 +565,7 @@
         "code": "54"
       }
     ],
-    "people": "25",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -554,7 +624,7 @@
         "code": "54"
       }
     ],
-    "people": "25",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -613,7 +683,7 @@
         "code": "56"
       }
     ],
-    "people": "25",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -793,12 +863,12 @@
     },
     "classroom": [
       {
-        "name": "三教307",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=48",
-        "code": "48"
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=43",
+        "code": "43"
       }
     ],
-    "people": "36",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -882,7 +952,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "35",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -915,8 +985,8 @@
     "teacher": [
       {
         "name": "林志平",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10431",
-        "code": "10431"
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=24607",
+        "code": "24607"
       }
     ],
     "time": {
@@ -932,15 +1002,21 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "11",
+    "classroom": [
+      {
+        "name": "六教427",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=434",
+        "code": "434"
+      }
+    ],
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "林志平",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3704011",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=344109&code=10431"
+      "ShowSyllabus.jsp?snum=344109&code=24607"
     ]
   },
   {
@@ -985,8 +1061,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "11",
+    "classroom": [
+      {
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=41",
+        "code": "41"
+      }
+    ],
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1037,8 +1119,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "11",
+    "classroom": [
+      {
+        "name": "六教427",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=434",
+        "code": "434"
+      }
+    ],
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1090,8 +1178,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "7",
+    "classroom": [
+      {
+        "name": "六教224",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=422",
+        "code": "422"
+      }
+    ],
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1123,7 +1217,23 @@
         "code": "2877"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林益辰",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10504",
+        "code": "10504"
+      },
+      {
+        "name": "陳協慶",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11552",
+        "code": "11552"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10988",
+        "code": "10988"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -1134,13 +1244,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344116&code=11552"
+    ]
   },
   {
     "code": "3860004",
@@ -1175,7 +1287,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1205,7 +1317,33 @@
         "code": "2879"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王謹誠",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12236",
+        "code": "12236"
+      },
+      {
+        "name": "李凱雄",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=24404",
+        "code": "24404"
+      },
+      {
+        "name": "陳嘉勳",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11469",
+        "code": "11469"
+      },
+      {
+        "name": "陳斌豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12143",
+        "code": "12143"
+      },
+      {
+        "name": "黃晟豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12234",
+        "code": "12234"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -1216,13 +1354,16 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344121&code=12236",
+      "ShowSyllabus.jsp?snum=344121&code=11469"
+    ]
   },
   {
     "code": "4404009",
@@ -1257,7 +1398,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1298,7 +1439,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1339,7 +1480,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1380,7 +1521,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1421,7 +1562,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1462,7 +1603,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1503,7 +1644,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1544,7 +1685,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1585,7 +1726,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1626,7 +1767,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "34",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1711,7 +1852,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "46",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1748,9 +1889,69 @@
         "code": "12398"
       },
       {
+        "name": "李文興",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10911",
+        "code": "10911"
+      },
+      {
+        "name": "李達生",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11167",
+        "code": "11167"
+      },
+      {
+        "name": "李魁鵬",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10996",
+        "code": "10996"
+      },
+      {
+        "name": "施陽正",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10958",
+        "code": "10958"
+      },
+      {
+        "name": "柯明村",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10822",
+        "code": "10822"
+      },
+      {
+        "name": "胡石政",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10870",
+        "code": "10870"
+      },
+      {
+        "name": "陳清祺",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11684",
+        "code": "11684"
+      },
+      {
         "name": "陳澤興",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=12467",
         "code": "12467"
+      },
+      {
+        "name": "楊安石",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11319",
+        "code": "11319"
+      },
+      {
+        "name": "蔡一豪",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12561",
+        "code": "12561"
+      },
+      {
+        "name": "鄭鴻斌",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10997",
+        "code": "10997"
+      },
+      {
+        "name": "簡良翰",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11083",
+        "code": "11083"
+      },
+      {
+        "name": "顏維謀",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11677",
+        "code": "11677"
       }
     ],
     "time": {
@@ -1823,7 +2024,7 @@
         "code": "43"
       }
     ],
-    "people": "46",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1882,7 +2083,7 @@
         "code": "48"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1946,7 +2147,7 @@
         "code": "156"
       }
     ],
-    "people": "25",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1999,8 +2200,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "27",
+    "classroom": [
+      {
+        "name": "六教726",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=451",
+        "code": "451"
+      }
+    ],
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2059,7 +2266,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2118,9 +2325,15 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "27",
-    "peopleWithdraw": "0",
+    "classroom": [
+      {
+        "name": "六教326",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=428",
+        "code": "428"
+      }
+    ],
+    "people": "20",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "科研 235",
@@ -2178,7 +2391,7 @@
         "code": "47"
       }
     ],
-    "people": "38",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2265,7 +2478,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "38",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2322,7 +2535,7 @@
         "code": "47"
       }
     ],
-    "people": "38",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2381,7 +2594,7 @@
         "code": "45"
       }
     ],
-    "people": "38",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2440,7 +2653,7 @@
         "code": "291"
       }
     ],
-    "people": "38",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2537,8 +2750,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "22",
+    "classroom": [
+      {
+        "name": "三教501",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=336",
+        "code": "336"
+      }
+    ],
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2677,8 +2896,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "13",
+    "classroom": [
+      {
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=438",
+        "code": "438"
+      }
+    ],
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2731,8 +2956,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "13",
+    "classroom": [
+      {
+        "name": "三教501",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=336",
+        "code": "336"
+      }
+    ],
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2784,8 +3015,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "13",
+    "classroom": [
+      {
+        "name": "六教526",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=438",
+        "code": "438"
+      }
+    ],
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2837,8 +3074,14 @@
       ],
       "sat": []
     },
-    "classroom": [],
-    "people": "12",
+    "classroom": [
+      {
+        "name": "二教202",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=20",
+        "code": "20"
+      }
+    ],
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2891,7 +3134,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2934,7 +3177,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2975,7 +3218,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3016,7 +3259,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3057,7 +3300,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3098,7 +3341,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3139,7 +3382,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3196,7 +3439,7 @@
         "code": "45"
       }
     ],
-    "people": "20",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3299,7 +3542,7 @@
         "code": "47"
       }
     ],
-    "people": "20",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3358,7 +3601,7 @@
         "code": "23"
       }
     ],
-    "people": "20",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3401,7 +3644,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3458,7 +3701,7 @@
         "code": "154"
       }
     ],
-    "people": "20",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3517,7 +3760,7 @@
         "code": "335"
       }
     ],
-    "people": "45",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3620,7 +3863,7 @@
         "code": "52"
       }
     ],
-    "people": "22",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3679,7 +3922,7 @@
         "code": "335"
       }
     ],
-    "people": "45",
+    "people": "61",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3722,7 +3965,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "45",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3779,7 +4022,7 @@
         "code": "335"
       }
     ],
-    "people": "25",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3876,8 +4119,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "24",
+    "classroom": [
+      {
+        "name": "二教201",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=19",
+        "code": "19"
+      }
+    ],
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4024,7 +4273,7 @@
         "code": "462"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4076,9 +4325,15 @@
       ],
       "sat": []
     },
-    "classroom": [],
-    "people": "30",
-    "peopleWithdraw": "0",
+    "classroom": [
+      {
+        "name": "六教625",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=445",
+        "code": "445"
+      }
+    ],
+    "people": "37",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "科研 235",
@@ -4127,8 +4382,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "30",
+    "classroom": [
+      {
+        "name": "六教427",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=434",
+        "code": "434"
+      }
+    ],
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4180,8 +4441,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "30",
+    "classroom": [
+      {
+        "name": "三教303",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=46",
+        "code": "46"
+      }
+    ],
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4224,7 +4491,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4280,7 +4547,7 @@
         "code": "201"
       }
     ],
-    "people": "26",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4338,7 +4605,7 @@
         "code": "196"
       }
     ],
-    "people": "24",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4397,7 +4664,7 @@
         "code": "211"
       }
     ],
-    "people": "12",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4456,7 +4723,7 @@
         "code": "201"
       }
     ],
-    "people": "7",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4515,7 +4782,7 @@
         "code": "207"
       }
     ],
-    "people": "5",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4569,16 +4836,16 @@
     },
     "classroom": [
       {
-        "name": "綜科511",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=211",
-        "code": "211"
+        "name": "三教409",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=57",
+        "code": "57"
       }
     ],
-    "people": "11",
-    "peopleWithdraw": "0",
+    "people": "60",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
-    "notes": "綜科 511",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105203",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344273&code=11009"
@@ -4633,7 +4900,7 @@
         "code": "211"
       }
     ],
-    "people": "26",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4692,7 +4959,7 @@
         "code": "201"
       }
     ],
-    "people": "11",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4726,11 +4993,6 @@
     ],
     "teacher": [
       {
-        "name": "王紳",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11462",
-        "code": "11462"
-      },
-      {
         "name": "范育成",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=11246",
         "code": "11246"
@@ -4755,14 +5017,13 @@
         "code": "335"
       }
     ],
-    "people": "38",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=344276&code=11462",
       "ShowSyllabus.jsp?snum=344276&code=11246"
     ]
   },
@@ -4799,7 +5060,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "21",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4856,7 +5117,7 @@
         "code": "45"
       }
     ],
-    "people": "23",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4910,12 +5171,12 @@
     },
     "classroom": [
       {
-        "name": "三教206",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=40",
-        "code": "40"
+        "name": "三教201",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=333",
+        "code": "333"
       }
     ],
-    "people": "11",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4958,7 +5219,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5008,11 +5269,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "{教室：綜合科館演講廳}",
+    "notes": "2/18 綜科 110-1，其他時間在綜科 2 演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005086",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344333&code=11840"
@@ -5136,7 +5397,7 @@
         "code": "94"
       }
     ],
-    "people": "15",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5179,7 +5440,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5229,8 +5490,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "16",
+    "classroom": [
+      {
+        "name": "六教326",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=428",
+        "code": "428"
+      }
+    ],
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5282,8 +5549,14 @@
       ],
       "sat": []
     },
-    "classroom": [],
-    "people": "18",
+    "classroom": [
+      {
+        "name": "三教410",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=58",
+        "code": "58"
+      }
+    ],
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5341,7 +5614,7 @@
         "code": "41"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5384,7 +5657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5441,7 +5714,7 @@
         "code": "301"
       }
     ],
-    "people": "12",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5484,7 +5757,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5535,12 +5808,12 @@
     },
     "classroom": [
       {
-        "name": "三教407",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=55",
-        "code": "55"
+        "name": "綜科421",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=108",
+        "code": "108"
       }
     ],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5599,7 +5872,7 @@
         "code": "40"
       }
     ],
-    "people": "15",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5663,7 +5936,7 @@
         "code": "52"
       }
     ],
-    "people": "18",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5727,7 +6000,7 @@
         "code": "52"
       }
     ],
-    "people": "18",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5786,7 +6059,7 @@
         "code": "55"
       }
     ],
-    "people": "8",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5829,7 +6102,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5885,7 +6158,7 @@
         "code": "118"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5984,7 +6257,7 @@
         "code": "118"
       }
     ],
-    "people": "17",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6042,7 +6315,7 @@
         "code": "118"
       }
     ],
-    "people": "14",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6100,7 +6373,7 @@
         "code": "118"
       }
     ],
-    "people": "6",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6158,7 +6431,7 @@
         "code": "118"
       }
     ],
-    "people": "7",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6216,7 +6489,7 @@
         "code": "118"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6274,13 +6547,15 @@
         "code": "383"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "共同 411",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906703",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344510&code=11212"
+    ]
   },
   {
     "code": "4906751",
@@ -6330,7 +6605,7 @@
         "code": "383"
       }
     ],
-    "people": "7",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6388,7 +6663,7 @@
         "code": "383"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6446,7 +6721,7 @@
         "code": "383"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6499,12 +6774,12 @@
     },
     "classroom": [
       {
-        "name": "紡織一樓",
+        "name": "分子107",
         "link": "Croom.jsp?format=-3&year=113&sem=2&code=337",
         "code": "337"
       }
     ],
-    "people": "11",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6547,7 +6822,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "2",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6599,12 +6874,12 @@
     },
     "classroom": [
       {
-        "name": "紡織一樓",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=337",
-        "code": "337"
+        "name": "二教302",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=27",
+        "code": "27"
       }
     ],
-    "people": "11",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6650,59 +6925,6 @@
       "wed": [],
       "thu": [],
       "fri": [],
-      "sat": [
-        "2",
-        "3",
-        "4"
-      ]
-    },
-    "classroom": [
-      {
-        "name": "紡織一樓",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=337",
-        "code": "337"
-      }
-    ],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "一樓",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105007",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=344529&code=12353"
-    ]
-  },
-  {
-    "code": "5105040",
-    "description": {
-      "zh": "本課程將介紹一系列的生物分子及這些生物分子所扮演的角色。課程從認識細菌、植物、動物細胞及各種細胞胞器開始，接著探討蛋白質、酵素、DNA、RNA 結構和功能及他們在生命中的重要性。再論及 DNA 複製及轉錄和 RNA 轉譯成蛋白質的重要性及機制。PCR 和 DNA 重組技術的重要性是安排在最後來介紹。",
-      "en": "This course is to introduce a series of biomaterials and their functions. Begins from bacterial, plant, and animal cells and the differences between these cell organs. To learn of DNA, RNA, proteins, and enzymes base on their structures and functions. The phenomena of DNA replication and translation, and RNA translation will be studied. The PCR method and DNA recombinant technology also included in this course."
-    },
-    "id": "344530",
-    "name": {
-      "zh": "高等生物化學",
-      "en": "Advanced biochemistry"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "職高分所",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3092",
-        "code": "3092"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -6710,9 +6932,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105040",
-    "syllabusLinks": []
+    "notes": "3/3 停開，二週【停開】",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105007",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344529&code=12353"
+    ]
   },
   {
     "code": "5105019",
@@ -6747,27 +6971,17 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "紡織二樓_1",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=277",
-        "code": "277"
-      }
-    ],
+    "classroom": [],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "二樓＿1",
+    "notes": "3/3 停開，二週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344532&code=11151"
@@ -6817,18 +7031,20 @@
     },
     "classroom": [
       {
-        "name": "紡織一樓",
+        "name": "分子107",
         "link": "Croom.jsp?format=-3&year=113&sem=2&code=337",
         "code": "337"
       }
     ],
-    "people": "5",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "一樓",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344538&code=23329"
+    ]
   },
   {
     "code": "5105026",
@@ -6874,12 +7090,12 @@
     },
     "classroom": [
       {
-        "name": "紡織二樓_1",
+        "name": "分子205",
         "link": "Croom.jsp?format=-3&year=113&sem=2&code=277",
         "code": "277"
       }
     ],
-    "people": "11",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6931,8 +7147,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "5",
+    "classroom": [
+      {
+        "name": "分子207",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=109",
+        "code": "109"
+      }
+    ],
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6975,7 +7197,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "15",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7032,7 +7254,7 @@
         "code": "59"
       }
     ],
-    "people": "11",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7091,7 +7313,7 @@
         "code": "29"
       }
     ],
-    "people": "11",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7150,7 +7372,7 @@
         "code": "44"
       }
     ],
-    "people": "23",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7182,7 +7404,83 @@
         "code": "3094"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "余盛延",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10465",
+        "code": "10465"
+      },
+      {
+        "name": "林含怡",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11733",
+        "code": "11733"
+      },
+      {
+        "name": "施欣文",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11589",
+        "code": "11589"
+      },
+      {
+        "name": "洪媽益",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11423",
+        "code": "11423"
+      },
+      {
+        "name": "張詠翔",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11679",
+        "code": "11679"
+      },
+      {
+        "name": "梁斯寧",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12382",
+        "code": "12382"
+      },
+      {
+        "name": "莊惠鈞",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12565",
+        "code": "12565"
+      },
+      {
+        "name": "陳心怡",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12207",
+        "code": "12207"
+      },
+      {
+        "name": "陳岡伯",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12233",
+        "code": "12233"
+      },
+      {
+        "name": "陳怡倩",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11082",
+        "code": "11082"
+      },
+      {
+        "name": "陳雅玫",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11278",
+        "code": "11278"
+      },
+      {
+        "name": "黃如瑩",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11092",
+        "code": "11092"
+      },
+      {
+        "name": "葉采青",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11538",
+        "code": "11538"
+      },
+      {
+        "name": "葛瑞斐",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11227",
+        "code": "11227"
+      },
+      {
+        "name": "蔡逸萍",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11436",
+        "code": "11436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -7203,13 +7501,28 @@
         "code": "117"
       }
     ],
-    "people": "8",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415220",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344600&code=10465",
+      "ShowSyllabus.jsp?snum=344600&code=11733",
+      "ShowSyllabus.jsp?snum=344600&code=11589",
+      "ShowSyllabus.jsp?snum=344600&code=11423",
+      "ShowSyllabus.jsp?snum=344600&code=11679",
+      "ShowSyllabus.jsp?snum=344600&code=12382",
+      "ShowSyllabus.jsp?snum=344600&code=12565",
+      "ShowSyllabus.jsp?snum=344600&code=12233",
+      "ShowSyllabus.jsp?snum=344600&code=11082",
+      "ShowSyllabus.jsp?snum=344600&code=11278",
+      "ShowSyllabus.jsp?snum=344600&code=11092",
+      "ShowSyllabus.jsp?snum=344600&code=11538",
+      "ShowSyllabus.jsp?snum=344600&code=11227",
+      "ShowSyllabus.jsp?snum=344600&code=11436"
+    ]
   },
   {
     "code": "5416100",
@@ -7244,7 +7557,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7301,7 +7614,7 @@
         "code": "117"
       }
     ],
-    "people": "3",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7370,7 +7683,7 @@
         "code": "117"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7415,7 +7728,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7465,11 +7778,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "{教室：綜合科館演講廳}",
+    "notes": "2/18 綜科 110-2，其他時間在綜科 2 演講廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605002",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344620&code=12501"
@@ -7524,7 +7837,7 @@
         "code": "94"
       }
     ],
-    "people": "13",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7597,7 +7910,7 @@
         "code": "486"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7605,6 +7918,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705038",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344657&code=11429",
+      "ShowSyllabus.jsp?snum=344657&code=12246",
       "ShowSyllabus.jsp?snum=344657&code=12577",
       "ShowSyllabus.jsp?snum=344657&code=12343"
     ]
@@ -7652,12 +7966,12 @@
     },
     "classroom": [
       {
-        "name": "科研大樓732",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=486",
-        "code": "486"
+        "name": "科研大樓735",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=488",
+        "code": "488"
       }
     ],
-    "people": "22",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7716,7 +8030,7 @@
         "code": "486"
       }
     ],
-    "people": "23",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7775,13 +8089,15 @@
         "code": "486"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705102",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344660&code=24497"
+    ]
   },
   {
     "code": "5706001",
@@ -7816,7 +8132,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7856,28 +8172,18 @@
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [
-        "A",
-        "B",
-        "C"
-      ],
+      "tue": [],
       "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓732",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=486",
-        "code": "486"
-      }
-    ],
-    "people": "2",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "停開，一週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705301",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344672&code=22653"
@@ -7932,7 +8238,7 @@
         "code": "486"
       }
     ],
-    "people": "24",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7991,7 +8297,7 @@
         "code": "488"
       }
     ],
-    "people": "9",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8049,7 +8355,7 @@
         "code": "387"
       }
     ],
-    "people": "14",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8108,7 +8414,7 @@
         "code": "139"
       }
     ],
-    "people": "14",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8151,7 +8457,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8218,7 +8524,7 @@
         "code": "543"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8279,7 +8585,7 @@
         "code": "543"
       }
     ],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8338,7 +8644,7 @@
         "code": "543"
       }
     ],
-    "people": "13",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8397,7 +8703,7 @@
         "code": "543"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8440,7 +8746,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8496,7 +8802,7 @@
         "code": "56"
       }
     ],
-    "people": "19",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8555,7 +8861,7 @@
         "code": "154"
       }
     ],
-    "people": "13",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8614,7 +8920,7 @@
         "code": "156"
       }
     ],
-    "people": "5",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8657,7 +8963,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "8",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8771,7 +9077,7 @@
         "code": "399"
       }
     ],
-    "people": "13",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8888,7 +9194,7 @@
         "code": "570"
       }
     ],
-    "people": "3",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8946,7 +9252,7 @@
         "code": "45"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8980,6 +9286,11 @@
     ],
     "teacher": [
       {
+        "name": "吳可久",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11393",
+        "code": "11393"
+      },
+      {
         "name": "曹筱玥",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=11196",
         "code": "11196"
@@ -8988,11 +9299,6 @@
         "name": "黃儀婷",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=12304",
         "code": "12304"
-      },
-      {
-        "name": "龍祈澔",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11680",
-        "code": "11680"
       }
     ],
     "time": {
@@ -9015,16 +9321,16 @@
         "code": "47"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "進修部教室，限本系生修，上限 14 人，外系生勿選",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05105",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344910&code=11393",
       "ShowSyllabus.jsp?snum=344910&code=11196",
-      "ShowSyllabus.jsp?snum=344910&code=12304",
-      "ShowSyllabus.jsp?snum=344910&code=11680"
+      "ShowSyllabus.jsp?snum=344910&code=12304"
     ]
   },
   {
@@ -9076,7 +9382,7 @@
         "code": "512"
       }
     ],
-    "people": "10",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9135,7 +9441,7 @@
         "code": "51"
       }
     ],
-    "people": "13",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9205,252 +9511,6 @@
     ]
   },
   {
-    "code": "C275004",
-    "description": {
-      "zh": "專注於戰略和機構的國際層面，並提供了一個框架，在日益複雜的全球經濟裡制定戰略。本課程旨在為學生提供對跨國公司經營裡的文化，政治，競爭，技術，法律和人口環境的理解。然後，它通過在國際背景下獲得成功的全球產業和戰略來探討全球競爭的性質。還涵蓋了跨國公司管理中的組織設計與戰略控制相關問題。",
-      "en": "Focuses on the international dimensions of strategy and organization and provides a framework for formulating strategies in an increasingly complex global economy. The course seeks to provide students with an understanding of the cultural, political, competitive, technological, legal, and demographic environments in which multinational firms operate. It then examines the nature of global competition by exploring the characteristics of global industries and strategies that have been successful in an international context. Also covered are issues related to organizational design and strategic control in the management of multinational enterprises."
-    },
-    "id": "344928",
-    "name": {
-      "zh": "跨國企業管理",
-      "en": "Management of Multinational Enterprises"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C275008",
-    "description": {
-      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
-      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
-    },
-    "id": "344929",
-    "name": {
-      "zh": "國際行銷",
-      "en": "International Marketing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515004",
-    "description": {
-      "zh": "使學生瞭解國際金融之理論與國際金融市場之概況：1. 國際金融市場形成之基礎和背景 2. 介紹中央銀行及國際公營金融中介機構 3. 外匯市場、國際債券市場、國際股票市場、衍生性金融商品市場 4. 國際利率套利與利率均衡論 5. 國際金融市場與金融創新",
-      "en": "To understand theory of international finance and the international financial markets. 1.Introduction to the international financial markets 2.Central banks and international public financial intermediaries, such as BIS and World Bank. 3.Foreign Exchange Market, Int'l Bond Market, Int'l Stock Market, Derivative Market, etc. 4.Interest Rate Parity Theory. 5.Financial Revolution"
-    },
-    "id": "344930",
-    "name": {
-      "zh": "國際金融",
-      "en": "International Finance"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515004",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515005",
-    "description": {
-      "zh": "資料探勘是從大量資料中尋找有用的資訊，是一個跨越統計、資料庫和人工智慧的學門。本課程著重在從資料庫的觀點來看資料探勘的意義，並深入探討幾種資料探勘功能及其技術，最後並以實例討論來驗證資料探勘的應用價值。探討議題包括資料探勘概念、資料探勘功能、資料探勘步驟、資料倉儲、決策樹分析集群分析、關聯分析與購物籃分析等。",
-      "en": "The data mining (DM), which involves in Statistics, Database and Artificial Intelligence fields, prospects to seek Useful information from a great deal of data. This course emphasizes at the view of the database, besides go deeply into several data mining techniques. Finally, the practical case studies will also be discussed. The topic includes the concept of DM, the function of DM, the step of DM, data warehouse, Decision Trees Analysis, Clustering Analysis, Association Rule and Basket Analyzes, etc."
-    },
-    "id": "344931",
-    "name": {
-      "zh": "資料探勘",
-      "en": "Data Mining"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515005",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515012",
-    "description": {
-      "zh": "智慧計算技術結合人工智慧、分散式計算與網際網路技術，逐漸成為未來重要的資訊技術。本課程介紹智慧型計算之理論、架構與應用。課程主要內容包括 - 1. 理論與架構，2. 機器學習與代理人調適，3. 協調技術，4. 合作與競爭，5. 賽局理論與決策，6. 知識本體論， 7. 網路服務。本課程包含機率與隨機程序的基礎原理，如機率量測，隨機變數，大數法則，隨機程序，穩態隨機程序及其特性。本門課程為研究所在通訊及控制組之基本課程。",
-      "en": "Intelligent Computing integrate artificial intelligence, network, distributed computing and web technology. This course introduces the state of the art of Intelligent Computing, its theories, languages, architectures and applications. Students can learn from the course the basic concepts and understanding of agent system through the course. The content includes the Intelligent Computing about - 1.Fundamental theories and architectures, 2. Machine learning and adaptive agents, 3.Negotiation and coordination, 4 Cooperative and competitive problem solving, 5. Game theories and decision making, 6. Ontology and knowledge sharing, 7.Semantic web and web services."
-    },
-    "id": "344932",
-    "name": {
-      "zh": "智慧計算",
-      "en": "Intelligent Computing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515012",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515013",
-    "description": {
-      "zh": "課程主要為介紹學術界最新的深度學習研究成果，教導學員使用 Python 深度學習套件，讓學員能將深度學習技術應用於各個不同的領域。課程內容包括： ●車牌與門牌數字辨識 ●人臉辨識 ●1000 種影像分類 ●辨識 9000 種物件 ●自動駕駛模擬 ●嵌入式深度學習演算法 空虛，寂寞，覺得冷？讓深度學習來幫助你: ●遞迴式神經網路 (RNN)：找不到人聊天？訓練自己的聊天機器人 ●對抗生成網路 (GAN)：用 GAN 產生自己的夢中情人 ●深度強化學習 (DRL)：訓練 AI 跟你一起玩遊戲",
-      "en": "The goal of this course is to introduce latest deep learning researches and allow students to develop deep learning applications using Python library (TensorFlow & Keras). The content includes: ●Number recognition of License plate and Doorplate ●Face Recognition ●1000 Image Classification ●9000 Object Detection ●Autopilot simulation ●Embedded Deep Learning Algorithms ●Convolutional Neural Networks (CNN) ●Recurrent Neural Networks (RNN) ●Long-Short Term Memory (LSTM) ●Generative Adversarial Networks (GAN) ●Deep Reinforcement Learning"
-    },
-    "id": "344933",
-    "name": {
-      "zh": "深度學習應用開發實務",
-      "en": "Building Deep Learning Applications"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515013",
-    "syllabusLinks": []
-  },
-  {
     "code": "C515018",
     "description": {
       "zh": "課程主要為介紹學術界最新的深度學習研究成果，教導學員使用 Python 深度學習套件，讓學員能將深度學習技術應用於各個不同的領域。課程內容包括：●車牌與門牌數字辨識 ●人臉辨識 ●1000 種影像分類 ●辨識 9000 種物件 ●自動駕駛模擬 ●嵌入式深度學習演算法 空虛，寂寞，覺得冷？讓深度學習來幫助你 ●遞迴式神經網路 (RNN)：找不到人聊天？訓練自己的聊天機器人 ●對抗生成網路 (GAN)：用 GAN 產生自己的夢中情人 ●深度強化學習 (DRL)：訓練 AI 跟你一起玩遊戲",
@@ -9472,48 +9532,13 @@
         "code": "3103"
       }
     ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515018",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515019",
-    "description": {
-      "zh": "本課程以深入淺出之方式，介紹與機器學習之相關技術及演算法，目標是修習本課程之學生具有閱讀機器學習相關文獻之基本知識，並能從事相關之實務或電腦模擬實驗之工作，因此本課程著重在廣泛介紹各類之演算法之應用，而非深究少數演算法之深奧數學原理．本課程涵蓋之演算法，包含：最佳化基本知識，隨機最佳化演算法，隨機搜尋，決策樹，隨機森林，類神經網路及深度學習相關演算法，基因演算法，貝氏定理及應用，高斯混合模型，隱藏式馬可夫鍊 (及訓練演算法)，支援向量機，線性及邏輯迴歸，分群方法，降維方法，提升方法，決策融合技巧，及增強式學習等。",
-      "en": "This introductory course covers most of the techniques and algorithms related to the current trend in the machine learning field. The goal of this course is that students complete this course can read and understand the literature in the machine learning field, and can conduct computer simulations for experiments or apply the techniques to practical problems. Therefore, this course intends to cover a broad range of algorithms with emphasis on applications, rather than to cover only a few algorithms with extensive mathematical treatments. The algorithms covered in this course include: foundations of optiminizations, random search, decision tree, random decision forests, neural networks and deep learning, genetic algorithm, Bayes' theorem and its applications, Gauss mixture model, hidden Markov model (with its training algorithm), support vector machine, linear and logistic regressions, clustering algorithms, dimension reduction techniques (LDA, PCA, ICA, FA), boosting methods, decision."
-    },
-    "id": "344935",
-    "name": {
-      "zh": "機器學習",
-      "en": "Machine Learning"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
+    "teacher": [
       {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
-        "code": "3103"
+        "name": "賴冠廷",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12084",
+        "code": "12084"
       }
     ],
-    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -9524,12 +9549,12 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515019",
+    "notes": "碩一修，3/16.23,4/12.20 ,5/4.18.25,6/7",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515018",
     "syllabusLinks": []
   },
   {
@@ -9554,7 +9579,23 @@
         "code": "3103"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "范育成",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11246",
+        "code": "11246"
+      },
+      {
+        "name": "彭朋群",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11369",
+        "code": "11369"
+      },
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12245",
+        "code": "12245"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9565,13 +9606,17 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩一修，3/15.16.22.23 ,4/13, 5/3.4.18.25",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344936&code=11246",
+      "ShowSyllabus.jsp?snum=344936&code=11369",
+      "ShowSyllabus.jsp?snum=344936&code=12245"
+    ]
   },
   {
     "code": "C515023",
@@ -9606,11 +9651,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "UTA, 碩一修，7/11-14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515023",
     "syllabusLinks": []
   },
@@ -9653,13 +9698,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "42",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "碩一必修 (經管)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205026",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344938&code=11315"
+    ]
   },
   {
     "code": "C205026",
@@ -9706,7 +9753,9 @@
     "language": "",
     "notes": "碩一必修 (資財)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205026",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344959&code=11440"
+    ]
   },
   {
     "code": "C285022",
@@ -9772,7 +9821,7 @@
         "code": "480"
       }
     ],
-    "people": "25",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9827,7 +9876,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9871,7 +9920,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9928,7 +9977,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9989,7 +10038,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10034,7 +10083,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10081,13 +10130,15 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205026",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=344987&code=11117"
+    ]
   },
   {
     "code": "C205028",
@@ -10200,7 +10251,7 @@
       ]
     },
     "classroom": [],
-    "people": "15",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10332,7 +10383,7 @@
         "code": "504"
       }
     ],
-    "people": "24",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10340,7 +10391,8 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205027",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345010&code=11429",
-      "ShowSyllabus.jsp?snum=345010&code=10938"
+      "ShowSyllabus.jsp?snum=345010&code=10938",
+      "ShowSyllabus.jsp?snum=345010&code=24463"
     ]
   },
   {
@@ -10406,7 +10458,7 @@
         "code": "474"
       }
     ],
-    "people": "38",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10486,7 +10538,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "121",
+    "people": "190",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10565,7 +10617,7 @@
         "code": "480"
       }
     ],
-    "people": "37",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10641,14 +10693,15 @@
         "code": "474"
       }
     ],
-    "people": "38",
-    "peopleWithdraw": "0",
+    "people": "45",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215040",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345019&code=11429"
+      "ShowSyllabus.jsp?snum=345019&code=11429",
+      "ShowSyllabus.jsp?snum=345019&code=24001"
     ]
   },
   {
@@ -10730,7 +10783,7 @@
         "code": "491"
       }
     ],
-    "people": "18",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10782,6 +10835,11 @@
     ],
     "teacher": [
       {
+        "name": "王健全",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=24614",
+        "code": "24614"
+      },
+      {
         "name": "李顯章",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=24355",
         "code": "24355"
@@ -10812,7 +10870,7 @@
         "code": "474"
       }
     ],
-    "people": "70",
+    "people": "72",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10886,7 +10944,7 @@
         "code": "504"
       }
     ],
-    "people": "19",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10966,13 +11024,14 @@
         "code": "474"
       }
     ],
-    "people": "40",
+    "people": "58",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225017",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345026&code=24183",
       "ShowSyllabus.jsp?snum=345026&code=11224"
     ]
   },
@@ -11050,7 +11109,7 @@
         "code": "480"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11112,7 +11171,7 @@
         "code": "42"
       }
     ],
-    "people": "41",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11170,7 +11229,7 @@
         "code": "42"
       }
     ],
-    "people": "41",
+    "people": "52",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11229,7 +11288,7 @@
         "code": "42"
       }
     ],
-    "people": "41",
+    "people": "63",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11288,7 +11347,7 @@
         "code": "42"
       }
     ],
-    "people": "41",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11331,7 +11390,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11388,7 +11447,7 @@
         "code": "291"
       }
     ],
-    "people": "39",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11431,7 +11490,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11472,7 +11531,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "21",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11522,7 +11581,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "一教303",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=11",
+        "code": "11"
+      }
+    ],
     "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
@@ -11581,7 +11646,7 @@
         "code": "49"
       }
     ],
-    "people": "30",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11801,6 +11866,7 @@
     "notes": "設計館地下一樓 B02 木工廠",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871202",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345043&code=24220",
       "ShowSyllabus.jsp?snum=345043&code=22933"
     ]
   },
@@ -11848,16 +11914,16 @@
     },
     "classroom": [
       {
-        "name": "設計205",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=311",
-        "code": "311"
+        "name": "設計703",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=325",
+        "code": "325"
       }
     ],
-    "people": "30",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "設計館 205 教室",
+    "notes": "設計館 703 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871203",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345044&code=24049"
@@ -11912,7 +11978,7 @@
         "code": "311"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11970,7 +12036,7 @@
         "code": "311"
       }
     ],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12028,7 +12094,7 @@
         "code": "311"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12087,7 +12153,7 @@
         "code": "309"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12146,13 +12212,15 @@
         "code": "22"
       }
     ],
-    "people": "25",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "一 / A B C",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1400027",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345055&code=22285"
+    ]
   },
   {
     "code": "1404007",
@@ -12195,8 +12263,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "25",
+    "classroom": [
+      {
+        "name": "二教304",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=29",
+        "code": "29"
+      }
+    ],
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12294,12 +12368,12 @@
     },
     "classroom": [
       {
-        "name": "三教306",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=47",
-        "code": "47"
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=334",
+        "code": "334"
       }
     ],
-    "people": "25",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12333,6 +12407,11 @@
     ],
     "teacher": [
       {
+        "name": "胡貝",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12600",
+        "code": "12600"
+      },
+      {
         "name": "彭朋群",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=11369",
         "code": "11369"
@@ -12353,18 +12432,19 @@
     },
     "classroom": [
       {
-        "name": "二教204",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=22",
-        "code": "22"
+        "name": "二教304",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=29",
+        "code": "29"
       }
     ],
-    "people": "25",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "二 / ABC；彭朋群 胡貝禎 (各 1.5 學分)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401041",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345059&code=12600",
       "ShowSyllabus.jsp?snum=345059&code=11369"
     ]
   },
@@ -12410,8 +12490,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "25",
+    "classroom": [
+      {
+        "name": "三教301",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=334",
+        "code": "334"
+      }
+    ],
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12463,8 +12549,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "25",
+    "classroom": [
+      {
+        "name": "二教201",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=19",
+        "code": "19"
+      }
+    ],
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12523,7 +12615,7 @@
         "code": "154"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12582,7 +12674,7 @@
         "code": "45"
       }
     ],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12640,7 +12732,7 @@
         "code": "45"
       }
     ],
-    "people": "27",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12693,7 +12785,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12746,7 +12838,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12789,7 +12881,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12830,7 +12922,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12871,7 +12963,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12912,7 +13004,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12953,7 +13045,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12994,7 +13086,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13035,7 +13127,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13076,7 +13168,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13133,7 +13225,7 @@
         "code": "543"
       }
     ],
-    "people": "7",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13192,7 +13284,7 @@
         "code": "51"
       }
     ],
-    "people": "6",
+    "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13251,7 +13343,7 @@
         "code": "51"
       }
     ],
-    "people": "8",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13311,7 +13403,7 @@
         "code": "392"
       }
     ],
-    "people": "3",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13370,7 +13462,7 @@
         "code": "139"
       }
     ],
-    "people": "5",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13429,7 +13521,7 @@
         "code": "139"
       }
     ],
-    "people": "13",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13487,7 +13579,7 @@
         "code": "311"
       }
     ],
-    "people": "30",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13546,7 +13638,7 @@
         "code": "117"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13605,7 +13697,7 @@
         "code": "40"
       }
     ],
-    "people": "13",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13664,7 +13756,7 @@
         "code": "214"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13723,7 +13815,7 @@
         "code": "44"
       }
     ],
-    "people": "9",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13841,7 +13933,7 @@
         "code": "156"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13900,7 +13992,7 @@
         "code": "50"
       }
     ],
-    "people": "25",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13959,7 +14051,7 @@
         "code": "383"
       }
     ],
-    "people": "14",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14018,7 +14110,7 @@
         "code": "399"
       }
     ],
-    "people": "16",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14070,8 +14162,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "0",
+    "classroom": [
+      {
+        "name": "三教510",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=67",
+        "code": "67"
+      }
+    ],
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14130,7 +14228,7 @@
         "code": "117"
       }
     ],
-    "people": "11",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14187,7 +14285,7 @@
         "code": "399"
       }
     ],
-    "people": "8",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14246,7 +14344,7 @@
         "code": "411"
       }
     ],
-    "people": "10",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14291,25 +14389,15 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [
-        "A",
-        "B",
-        "C"
-      ],
+      "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教309",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=50",
-        "code": "50"
-      }
-    ],
-    "people": "13",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 30 人；{教室：三教 309}",
+    "notes": "3/3 停開，一週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005100",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345408&code=24388"
@@ -14359,12 +14447,12 @@
     },
     "classroom": [
       {
-        "name": "綜科110_2",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=411",
-        "code": "411"
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=41",
+        "code": "41"
       }
     ],
-    "people": "9",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14423,7 +14511,7 @@
         "code": "156"
       }
     ],
-    "people": "9",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14475,12 +14563,18 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "8",
+    "classroom": [
+      {
+        "name": "土木2F",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=260",
+        "code": "260"
+      }
+    ],
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205011",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345467&code=11734"
@@ -14528,8 +14622,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "37",
+    "classroom": [
+      {
+        "name": "三教307",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=48",
+        "code": "48"
+      }
+    ],
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14581,8 +14681,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "23",
+    "classroom": [
+      {
+        "name": "六教426",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=433",
+        "code": "433"
+      }
+    ],
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14641,7 +14747,7 @@
         "code": "422"
       }
     ],
-    "people": "2",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14700,7 +14806,7 @@
         "code": "59"
       }
     ],
-    "people": "5",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14759,7 +14865,7 @@
         "code": "67"
       }
     ],
-    "people": "17",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14818,13 +14924,15 @@
         "code": "59"
       }
     ],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221419",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345492&code=22200"
+    ]
   },
   {
     "code": "5211416",
@@ -14848,7 +14956,13 @@
         "code": "3093"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "謝坤學",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=22937",
+        "code": "22937"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -14869,13 +14983,15 @@
         "code": "51"
       }
     ],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "新聘兼任謝坤學老師",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211416",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345493&code=22937"
+    ]
   },
   {
     "code": "5705482",
@@ -14900,6 +15016,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "余相賓",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=24606",
+        "code": "24606"
+      },
       {
         "name": "陳建丞",
         "link": "Teach.jsp?format=-3&year=113&sem=2&code=11224",
@@ -14926,13 +15047,14 @@
         "code": "487"
       }
     ],
-    "people": "20",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "余相賓 2",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705482",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345522&code=24606",
       "ShowSyllabus.jsp?snum=345522&code=11224"
     ]
   },
@@ -14946,6 +15068,65 @@
     "name": {
       "zh": "模具設計與開發",
       "en": "Die Design & Development"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "訓四機四",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2753",
+        "code": "2753"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "嚴建隆",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12456",
+        "code": "12456"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "三教309",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=50",
+        "code": "50"
+      }
+    ],
+    "people": "24",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "2/12 改週五 / 第 234 節",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3004806",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345532&code=12456"
+    ]
+  },
+  {
+    "code": "3004095",
+    "description": {
+      "zh": "(1) 塑膠材料種類、特性、及其應用；(2) 塑膠的成形方法；(3) 塑膠射出成形品設計；(4)   射出成形機的分類與規格；(5) 射出成形模具的機構；(6) 射出成形模具零件規格與選用；  (7) 成形品的缺陷與對策。",
+      "en": "(1) Plastic materials types, characteristics, and applications. (2) Forming methods of plastic materials. (3) Part design of injection molding. (4) Classification and specification of injection molding machine. (5) Mechanism of injection mold. (6) Injection mold's parts and part selection. (7) Defects and strategy."
+    },
+    "id": "345533",
+    "name": {
+      "zh": "塑膠射出成形與模具實務",
+      "en": "Plastic injection molding and mold practices"
     },
     "stage": "1",
     "credit": "3.0",
@@ -14985,73 +15166,20 @@
     },
     "classroom": [
       {
-        "name": "三教309",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=50",
-        "code": "50"
+        "name": "三教410",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=58",
+        "code": "58"
       }
     ],
-    "people": "33",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "{教室：可排三教 309}",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3004806",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345532&code=22447",
-      "ShowSyllabus.jsp?snum=345532&code=24388"
-    ]
-  },
-  {
-    "code": "3004095",
-    "description": {
-      "zh": "(1) 塑膠材料種類、特性、及其應用；(2) 塑膠的成形方法；(3) 塑膠射出成形品設計；(4)   射出成形機的分類與規格；(5) 射出成形模具的機構；(6) 射出成形模具零件規格與選用；  (7) 成形品的缺陷與對策。",
-      "en": "(1) Plastic materials types, characteristics, and applications. (2) Forming methods of plastic materials. (3) Part design of injection molding. (4) Classification and specification of injection molding machine. (5) Mechanism of injection mold. (6) Injection mold's parts and part selection. (7) Defects and strategy."
-    },
-    "id": "345533",
-    "name": {
-      "zh": "塑膠射出成形與模具實務",
-      "en": "Plastic injection molding and mold practices"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "訓四機四",
-        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2753",
-        "code": "2753"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "嚴建隆",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=12456",
-        "code": "12456"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "2",
-        "3",
-        "4"
-      ],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "32",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "{教室：可排三教 309}",
+    "notes": "2/12 改週六 / 第 567 節",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3004095",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345533&code=12456"
+      "ShowSyllabus.jsp?snum=345533&code=22447",
+      "ShowSyllabus.jsp?snum=345533&code=24388"
     ]
   },
   {
@@ -15103,7 +15231,7 @@
         "code": "50"
       }
     ],
-    "people": "14",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15162,8 +15290,8 @@
         "code": "186"
       }
     ],
-    "people": "10",
-    "peopleWithdraw": "0",
+    "people": "11",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "{教室：綜科 327}",
@@ -15216,12 +15344,12 @@
     },
     "classroom": [
       {
-        "name": "二教304",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=29",
-        "code": "29"
+        "name": "二教204",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=22",
+        "code": "22"
       }
     ],
-    "people": "9",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15280,7 +15408,7 @@
         "code": "55"
       }
     ],
-    "people": "31",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15334,16 +15462,16 @@
     },
     "classroom": [
       {
-        "name": "先鋒1401",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=569",
-        "code": "569"
+        "name": "先鋒1402",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=570",
+        "code": "570"
       }
     ],
-    "people": "3",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "先鋒 1401 教室",
+    "notes": "先鋒 1402 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405114",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345621&code=11150"
@@ -15392,16 +15520,16 @@
     },
     "classroom": [
       {
-        "name": "先鋒1402",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=570",
-        "code": "570"
+        "name": "先鋒1401",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=569",
+        "code": "569"
       }
     ],
-    "people": "4",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "先鋒 1402 教室",
+    "notes": "先鋒 1401 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405214",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345625&code=11968"
@@ -15461,7 +15589,7 @@
         "code": "211"
       }
     ],
-    "people": "15",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15520,7 +15648,7 @@
         "code": "322"
       }
     ],
-    "people": "13",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15584,7 +15712,7 @@
         "code": "94"
       }
     ],
-    "people": "10",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15658,7 +15786,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15737,7 +15865,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15857,7 +15985,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15936,7 +16064,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16056,7 +16184,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16066,6 +16194,7 @@
       "ShowSyllabus.jsp?snum=345670&code=11710",
       "ShowSyllabus.jsp?snum=345670&code=11985",
       "ShowSyllabus.jsp?snum=345670&code=11429",
+      "ShowSyllabus.jsp?snum=345670&code=11440",
       "ShowSyllabus.jsp?snum=345670&code=11396"
     ]
   },
@@ -16133,7 +16262,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16143,6 +16272,7 @@
       "ShowSyllabus.jsp?snum=345671&code=11710",
       "ShowSyllabus.jsp?snum=345671&code=11985",
       "ShowSyllabus.jsp?snum=345671&code=11429",
+      "ShowSyllabus.jsp?snum=345671&code=11440",
       "ShowSyllabus.jsp?snum=345671&code=11396"
     ]
   },
@@ -16240,7 +16370,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16374,7 +16504,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16431,7 +16561,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16486,7 +16616,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16530,7 +16660,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16587,13 +16717,15 @@
         "code": "55"
       }
     ],
-    "people": "25",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503511",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345693&code=24601"
+    ]
   },
   {
     "code": "C205031",
@@ -16651,7 +16783,7 @@
       ]
     },
     "classroom": [],
-    "people": "119",
+    "people": "130",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16724,7 +16856,7 @@
         "code": "480"
       }
     ],
-    "people": "27",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16804,13 +16936,14 @@
         "code": "474"
       }
     ],
-    "people": "40",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215048",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345719&code=12384",
       "ShowSyllabus.jsp?snum=345719&code=11401",
       "ShowSyllabus.jsp?snum=345719&code=12342"
     ]
@@ -16889,7 +17022,7 @@
         "code": "487"
       }
     ],
-    "people": "35",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16964,7 +17097,7 @@
         "code": "480"
       }
     ],
-    "people": "23",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17008,9 +17141,9 @@
     ],
     "teacher": [
       {
-        "name": "吳牧恩",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11985",
-        "code": "11985"
+        "name": "丁秀儀",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11710",
+        "code": "11710"
       },
       {
         "name": "陳柏瑄",
@@ -17055,7 +17188,7 @@
     "notes": "(群組 7) 資訊管理 (關聯群 6)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215047",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345727&code=11985",
+      "ShowSyllabus.jsp?snum=345727&code=11710",
       "ShowSyllabus.jsp?snum=345727&code=12343",
       "ShowSyllabus.jsp?snum=345727&code=12173",
       "ShowSyllabus.jsp?snum=345727&code=12342"
@@ -17110,7 +17243,7 @@
         "code": "49"
       }
     ],
-    "people": "18",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17169,7 +17302,7 @@
         "code": "48"
       }
     ],
-    "people": "36",
+    "people": "54",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17228,7 +17361,7 @@
         "code": "48"
       }
     ],
-    "people": "36",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17271,7 +17404,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17312,7 +17445,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17353,7 +17486,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17409,7 +17542,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "10",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17455,8 +17588,8 @@
       },
       {
         "name": "林志平",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10431",
-        "code": "10431"
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=24607",
+        "code": "24607"
       }
     ],
     "time": {
@@ -17473,15 +17606,16 @@
       ]
     },
     "classroom": [],
-    "people": "5",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=345758&code=22834",
       "ShowSyllabus.jsp?snum=345758&code=11225",
-      "ShowSyllabus.jsp?snum=345758&code=10431"
+      "ShowSyllabus.jsp?snum=345758&code=24607"
     ]
   },
   {
@@ -17553,7 +17687,7 @@
         "code": "491"
       }
     ],
-    "people": "16",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17614,8 +17748,8 @@
         "code": "288"
       }
     ],
-    "people": "36",
-    "peopleWithdraw": "0",
+    "people": "50",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科 306",
@@ -17657,7 +17791,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17698,7 +17832,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17739,7 +17873,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17780,7 +17914,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17821,7 +17955,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "22",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17862,7 +17996,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17919,7 +18053,7 @@
         "code": "59"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17978,7 +18112,7 @@
         "code": "155"
       }
     ],
-    "people": "12",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18037,7 +18171,7 @@
         "code": "186"
       }
     ],
-    "people": "2",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18069,42 +18203,24 @@
         "code": "3093"
       }
     ],
-    "teacher": [
-      {
-        "name": "林靜娟",
-        "link": "Teach.jsp?format=-3&year=113&sem=2&code=10450",
-        "code": "10450"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "六教226",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=423",
-        "code": "423"
-      }
-    ],
-    "people": "1",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "2/11 停開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211415",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=345848&code=10450"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "1416009",
@@ -18154,7 +18270,7 @@
         "code": "20"
       }
     ],
-    "people": "40",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18212,7 +18328,7 @@
         "code": "22"
       }
     ],
-    "people": "28",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18270,7 +18386,7 @@
         "code": "24"
       }
     ],
-    "people": "28",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18328,7 +18444,7 @@
         "code": "22"
       }
     ],
-    "people": "29",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18386,7 +18502,7 @@
         "code": "24"
       }
     ],
-    "people": "24",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18439,12 +18555,12 @@
     },
     "classroom": [
       {
-        "name": "二教202",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=20",
-        "code": "20"
+        "name": "三教207",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=41",
+        "code": "41"
       }
     ],
-    "people": "40",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18502,7 +18618,7 @@
         "code": "47"
       }
     ],
-    "people": "23",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18560,7 +18676,7 @@
         "code": "43"
       }
     ],
-    "people": "44",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18613,12 +18729,12 @@
     },
     "classroom": [
       {
-        "name": "三教401",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=335",
-        "code": "335"
+        "name": "三教303",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=46",
+        "code": "46"
       }
     ],
-    "people": "49",
+    "people": "82",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18676,7 +18792,7 @@
         "code": "333"
       }
     ],
-    "people": "49",
+    "people": "56",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18780,7 +18896,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18897,7 +19013,7 @@
         "code": "54"
       }
     ],
-    "people": "22",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18956,7 +19072,7 @@
         "code": "48"
       }
     ],
-    "people": "35",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19010,12 +19126,12 @@
     },
     "classroom": [
       {
-        "name": "六教326",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=428",
-        "code": "428"
+        "name": "三教407",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=55",
+        "code": "55"
       }
     ],
-    "people": "9",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19075,25 +19191,15 @@
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [
-        "A",
-        "B",
-        "C"
-      ],
+      "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "科研大樓442",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=491",
-        "code": "491"
-      }
-    ],
-    "people": "6",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "(群組 1) 經營與策略管理",
+    "notes": "(群組 1) 經營與策略管理，2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=345931&code=11315"
@@ -19132,7 +19238,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "36",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19173,7 +19279,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19214,7 +19320,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19271,7 +19377,7 @@
         "code": "40"
       }
     ],
-    "people": "13",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19330,7 +19436,7 @@
         "code": "52"
       }
     ],
-    "people": "35",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19389,7 +19495,7 @@
         "code": "462"
       }
     ],
-    "people": "25",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19434,16 +19540,22 @@
       "tue": [],
       "wed": [],
       "thu": [
+        "7",
         "8",
-        "9",
-        "A"
+        "9"
       ],
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "20",
-    "peopleWithdraw": "0",
+    "classroom": [
+      {
+        "name": "六教625",
+        "link": "Croom.jsp?format=-3&year=113&sem=2&code=445",
+        "code": "445"
+      }
+    ],
+    "people": "23",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -19500,7 +19612,7 @@
         "code": "119"
       }
     ],
-    "people": "5",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19558,7 +19670,7 @@
         "code": "118"
       }
     ],
-    "people": "15",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19621,7 +19733,7 @@
         "code": "462"
       }
     ],
-    "people": "35",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19680,13 +19792,15 @@
         "code": "486"
       }
     ],
-    "people": "4",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346144&code=23585"
+    ]
   },
   {
     "code": "4403042",
@@ -19737,7 +19851,7 @@
         "code": "42"
       }
     ],
-    "people": "38",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19780,7 +19894,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19837,7 +19951,7 @@
         "code": "54"
       }
     ],
-    "people": "23",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19896,12 +20010,479 @@
         "code": "40"
       }
     ],
-    "people": "20",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406042",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346283&code=22163"
+    ]
+  },
+  {
+    "code": "AC06101",
+    "description": {
+      "zh": "研究生在第一年必須選定指導教授，以決定設計創作或論文寫作的方向，從事設計創作的研究生必須發展創作理念、創作過程與實作說明，最後彙整創作報告形同於研究論文；從事論文寫作的研究生針對互動媒體設計的相關主題進行研究，並將研究成果撰寫成為論文，其內容包含緒論、文獻探討、研究設計與實施、研究結果與討論、結論與建議等。本課程目的旨在培養獨立企劃研究能力，建構研究設計與研究寫作的能力，對設計創作組而言，過程中培養協同合作的能力是必須具備的要項。",
+      "en": "In the first year graduate students are requested to determine design creation and research topic under the supervision of their advisor. Graduate students who are chosen the fields of design creation should be developed creation principle, design process and pr92tical work. The results of design creation are considered as research thesis. Graduate students who are focus on the research of inter92tive media design should be undertaken the results of research as a thesis. The content of thesis includes introduction, literature review, research design and appro92hes, results and discussion, conclusion and suggestions. The aims of this course are to provide students with opportunity to initiate personal research into industrial design related topic. The course includes a training of developing research, writing up and references. To design creation groups. The collaborative capability is in need of the cultivation of ability during the process."
+    },
+    "id": "346362",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職互動所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3102",
+        "code": "3102"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "15",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AC06101",
+    "syllabusLinks": []
+  },
+  {
+    "code": "A406001",
+    "description": {
+      "zh": "碩士學位論文寫作",
+      "en": "A student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "346363",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職智財所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3101",
+        "code": "3101"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "13",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=A406001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5807001",
+    "description": {
+      "zh": "研究生在教授的指導下，針對工業設計相關特定研究主題進行研究，並將研究成果寫成論文。其內容包括研究方法、理論分析及研究結果﹙含結論與建議﹚。本課程主要目的在提供學生開啟個人對於工業設計領域相關議題的獨立研究能力。因此，本課程將包含如何建構研究設計、寫作與參考文獻的能力。",
+      "en": "Graduate students are required to complete specific research topic under the restriction of their advisor. The results should be written as a thesis. The thesis focuses on the fields in \"industrial design\", and includes research methodology, theory background and conclusive result or findings. The aims of this course are to provide students with opportunity to initiate personal research into industrial design related topic. Therefore, the course includes a training of developing research, writing and bibliographic skills."
+    },
+    "id": "346364",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "職創新所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3097",
+        "code": "3097"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "18",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5807001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515001",
+    "description": {
+      "zh": "碩士學位論文寫作",
+      "en": "A student must write a thesis to fulfill the partial requirements for the Master degree."
+    },
+    "id": "346411",
+    "name": {
+      "zh": "論文",
+      "en": "Thesis"
+    },
+    "stage": "2",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "▲",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "15",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515001",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275011",
+    "description": {
+      "zh": "戰略管理使用綜合管理視角去解決相關的制定和實施企業和企業級戰略的問題。該課程包括開發識別問題的能力，評估戰略選擇，並瞭解戰略的形成和執行的組織過程。它建立在功能區課程所獲得的知識，並使用案例研究和項目，以提高學生的分析和決策能力。前提：必須參與上學期的課程或與得到研究生導師的許可。",
+      "en": "Strategic management uses a general management perspective in addressing issues related to the formulation and implementation of corporate and business level strategy. The course involves developing the ability to identify issues, evaluate strategic options and understand the organizational process by which strategies get formed and executed. It builds on the knowledge gained in functional area courses and uses case studies and projects to improve students' analytical and decision-making skills. Prerequisite: Must be taken in last semester or with permission of the Graduate Advisor."
+    },
+    "id": "346412",
+    "name": {
+      "zh": "策略管理",
+      "en": "Strategic Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "13",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩二修，Dr. Liliana,12/1 輔課，12/13-16 正課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515024",
+    "description": {
+      "zh": "研究生須要具有整合、分析資料與創新思維、寫作能力以完成碩博士論文。本課程主要包括：一、 良好研究特質，二、 研究規劃， 三、學習方法， 四、 創新思維方法 五、 寫作方法， 六、 簡報方法， 七、 研究實務練習",
+      "en": "Graduate students need to integrate information and innovative insights to successfully achieve a master or Ph.D degree. The course includes: 1. Characteristics of good researchers. 2. Research planning. 3. Learning method. 4. Innovative thinking. 5. Writing method. 6. Present method. 7. Research design practice"
+    },
+    "id": "346413",
+    "name": {
+      "zh": "研究方法論",
+      "en": "Research Methodology"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張陽郎",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11213",
+        "code": "11213"
+      },
+      {
+        "name": "黃育賢",
+        "link": "Teach.jsp?format=-3&year=113&sem=2&code=11130",
+        "code": "11130"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "13",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二修",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515024",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=346413&code=11213",
+      "ShowSyllabus.jsp?snum=346413&code=11130"
+    ]
+  },
+  {
+    "code": "C515011",
+    "description": {
+      "zh": "該課程強調關鍵的經濟和商業概念（包括對需求和供應，生產，成本和利潤的分析；市場支配力；戰略行為和定價；國際貿易理論）影響決策。",
+      "en": "The course emphasizes key economic and business concepts(including analysis of demand and supply, production, cost, and profit; market power, strategic behavior, and pricing; international trade theories) that influence decisions."
+    },
+    "id": "346414",
+    "name": {
+      "zh": "策略與決策",
+      "en": "Decision and Strategies"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "10",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩一修，Dr.Mahmut Yasar,3/1 輔課；3/7-10 正課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515011",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515003",
+    "description": {
+      "zh": "本課程在介紹如何運用企業內與員工之有關資源，包括其能力、知識、技術、態度和激勵，以配合企業整體競爭策略與形式。其內容有：人力資源分析、策略及目標、支援性作業之取得、發展及報酬、人力資源的維護。",
+      "en": "This course introduce how to apply the resource of the inter-corporation and employee, such as capacity, knowledge, technology, attitude and incentive, in order to cooperate business integrate competitive strategy."
+    },
+    "id": "346416",
+    "name": {
+      "zh": "人力資源管理",
+      "en": "Human Resource Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3103",
+        "code": "3103"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "12",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩一修，8/1-4",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515003",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3603108",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生須於學期中至相關機構連續實習 18 週，每週不得低於 2.5 天。實習期滿後須由實習機構出具實習證明及成績考核，學生應於校外實習完成後一週內繳交校外實習報告，由實習輔導老師評定實習成績。",
+      "en": "This course is designed to enhance students' on-job practical experiences. Students will work at an engineering related company or research organizations for 18 weeks (20 hours per week) during the semester. Through the program, students would learn the hands-on professional technology. Each student would be required to submit a written report right after the end of the internship for grading."
+    },
+    "id": "350735",
+    "name": {
+      "zh": "實務校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603108",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3603106",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用整學期至電子工程相關機構實習，參與校外合作機構所提供之訓練，觀摩學習專業工廠之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告。須在同一機構連續實習 4.5 月，學生應全職於實習機構實習。",
+      "en": "The course is developed to increase on-job practice capability of students. Participants practice and learn the real operation of the electronic engineering related fields in one of the corporative electronic engineering company during one semester. A practice intern and a well-prepared report must be completed to the course requirement. It is necessary to practice in one corporative electronic engineering company full-time at least 4.5 months."
+    },
+    "id": "350736",
+    "name": {
+      "zh": "學期校外實習",
+      "en": "Semester Practical Training"
+    },
+    "stage": "1",
+    "credit": "9.0",
+    "hours": "40",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電子四丙",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2633",
+        "code": "2633"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3603106",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB04021",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用課餘至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "350737",
+    "name": {
+      "zh": "校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "5.0",
+    "hours": "24",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四乙",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=2759",
+        "code": "2759"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "2",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
     "syllabusLinks": []
   }
 ]
