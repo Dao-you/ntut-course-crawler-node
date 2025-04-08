@@ -1331,7 +1331,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -4858,7 +4858,7 @@
       }
     ],
     "people": "34",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -10153,7 +10153,7 @@
       }
     ],
     "people": "10",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室",
@@ -10506,7 +10506,7 @@
       }
     ],
     "people": "12",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "光電四和光電所合開",
@@ -16783,7 +16783,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -30898,7 +30898,7 @@
       }
     ],
     "people": "28",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -36527,7 +36527,7 @@
       }
     ],
     "people": "47",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -44498,6 +44498,88 @@
     "language": "",
     "notes": "國立臺北藝術大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "350728",
+    "name": {
+      "zh": "氣膠儀器分析",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "3705033",
+    "description": {
+      "zh": "本課程主要目的為讓研究生可以利用學期中、暑期、或寒假 (可跨學期) 至指導教授認可之校外公私立機構進行或參與實務研發，以增進研究生之實務研究能力。研究生於指導教授認可之校外研發機構的實務研究總累計時數不得低於 320 小時 (於 (跨) 學期中、暑期、或寒假期間)，研究生於校外實務研發期滿後，由校外研發機構出具研究生於該機構之實務研發證明與實務研究成績；研究生並且必須繳交實務研發紀錄及實務研究心得報告予指導教授，指導教師依據研究生之實務研發紀錄及心得報告，指導研究生撰寫成實務研究成果報告，彙交所屬系所保存，並作為成績核定之依據。研究生校外實務研究學期成績之評定比例原則：校外實務研發機構占 50%，研究生指導教授占 50%。",
+      "en": "The main purpose of this course is to promote an all-round ability for the graduate students at NTUT. During the summer break , graduate students are required to go to the organizations or agencies with respect to their individual research topics and future development by undergoing the on site research. The course takers will need to stay in the same individual organization or agency with a time span of no less than 320 hours. The students will also need to present to the thesis advisor the on-site research document which will thus be collected and deposited in the individual department or graduate institute office. The grading principle will be equivalently decided by the thesis advisor (50%) and the on-site organizations or agencies (50%), respectively."
+    },
+    "id": "350729",
+    "name": {
+      "zh": "校外實務研究",
+      "en": "Graduate On-Site Research"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "18",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "工管所",
+        "link": "Subj.jsp?format=-4&year=113&sem=2&code=3045",
+        "code": "3045"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=3705033",
     "syllabusLinks": []
   }
 ]
