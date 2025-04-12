@@ -4492,7 +4492,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "綜科 610",
+    "notes": "配合 USR 計畫  綜科 610",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406203",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=342352&code=11321"
@@ -6303,7 +6303,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221104",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=342454&code=12344",
@@ -8411,7 +8411,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5855007",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=342735&code=12437"
@@ -8747,7 +8747,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資工所和創新資安班合開",
@@ -22836,7 +22836,7 @@
       }
     ],
     "people": "10",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -23637,7 +23637,7 @@
       }
     ],
     "people": "12",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "設計 603",
@@ -38793,7 +38793,7 @@
     },
     "classroom": [],
     "people": "35",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "政大蔡炎龍，詳 https://myppt.cc/KrzIJC",
@@ -39342,7 +39342,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5826252",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=346421&code=10971"
