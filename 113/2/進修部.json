@@ -2595,7 +2595,7 @@
       }
     ],
     "people": "49",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -5010,18 +5010,12 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教401",
-        "link": "Croom.jsp?format=-3&year=113&sem=2&code=335",
-        "code": "335"
-      }
-    ],
+    "classroom": [],
     "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "使用系上教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3605001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=344276&code=11246"
@@ -5715,7 +5709,7 @@
       }
     ],
     "people": "9",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科 610",
