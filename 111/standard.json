@@ -17120,6 +17120,15 @@
           "year": "4",
           "sem": "1",
           "type": "★",
+          "name": "工程統計",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "4",
+          "sem": "1",
+          "type": "★",
           "name": "IC製程",
           "credit": "3.0",
           "hours": "3",
@@ -17148,6 +17157,15 @@
           "sem": "1",
           "type": "★",
           "name": "奈米科技概論",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "4",
+          "sem": "1",
+          "type": "★",
+          "name": "薄膜科學與工程",
           "credit": "3.0",
           "hours": "3",
           "stage": "1"
@@ -17327,15 +17345,6 @@
           "year": "4",
           "sem": "2",
           "type": "★",
-          "name": "工程統計",
-          "credit": "3.0",
-          "hours": "3",
-          "stage": "1"
-        },
-        {
-          "year": "4",
-          "sem": "2",
-          "type": "★",
           "name": "生產工程",
           "credit": "3.0",
           "hours": "3",
@@ -17346,15 +17355,6 @@
           "sem": "2",
           "type": "★",
           "name": "模具設計",
-          "credit": "3.0",
-          "hours": "3",
-          "stage": "1"
-        },
-        {
-          "year": "4",
-          "sem": "2",
-          "type": "★",
-          "name": "薄膜科學與工程",
           "credit": "3.0",
           "hours": "3",
           "stage": "1"
@@ -130650,6 +130650,15 @@
           "sem": "1",
           "type": "★",
           "name": "真空技術",
+          "credit": "3.0",
+          "hours": "3",
+          "stage": "1"
+        },
+        {
+          "year": "4",
+          "sem": "1",
+          "type": "★",
+          "name": "物聯網應用概論",
           "credit": "3.0",
           "hours": "3",
           "stage": "1"
