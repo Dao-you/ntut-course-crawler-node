@@ -749,6 +749,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504100",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=350877&code=12398",
+      "ShowSyllabus.jsp?snum=350877&code=10996",
       "ShowSyllabus.jsp?snum=350877&code=10822",
       "ShowSyllabus.jsp?snum=350877&code=10870",
       "ShowSyllabus.jsp?snum=350877&code=11684",
@@ -916,6 +917,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03052",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350887&code=11440",
       "ShowSyllabus.jsp?snum=350887&code=11396",
       "ShowSyllabus.jsp?snum=350887&code=12173",
       "ShowSyllabus.jsp?snum=350887&code=12342"
@@ -2038,7 +2040,9 @@
     "language": "",
     "notes": "科研 243",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB02010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350937&code=24433"
+    ]
   },
   {
     "code": "AB03002",
@@ -2089,7 +2093,9 @@
     "language": "",
     "notes": "科研 235",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350938&code=23885"
+    ]
   },
   {
     "code": "AB03063",
@@ -5987,7 +5993,9 @@
     "language": "",
     "notes": "碩二（教室分子 207)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351284&code=11981"
+    ]
   },
   {
     "code": "5105006",
@@ -6686,7 +6694,9 @@
     "language": "",
     "notes": "限 60 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605090",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351407&code=11936"
+    ]
   },
   {
     "code": "5705401",
@@ -8649,7 +8659,9 @@
     "language": "",
     "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351721&code=11440"
+    ]
   },
   {
     "code": "C225019",
@@ -8683,6 +8695,11 @@
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
         "code": "11315"
+      },
+      {
+        "name": "簡德年",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=22653",
+        "code": "22653"
       }
     ],
     "time": {
@@ -8862,6 +8879,7 @@
     "notes": "碩一必修，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351746&code=11440",
       "ShowSyllabus.jsp?snum=351746&code=10938"
     ]
   },
@@ -9110,6 +9128,11 @@
     ],
     "teacher": [
       {
+        "name": "呂怜樺",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11893",
+        "code": "11893"
+      },
+      {
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
         "code": "11315"
@@ -9122,15 +9145,15 @@
     ],
     "time": {
       "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
+      "mon": [
         "A",
         "B",
         "C"
       ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
       "sat": []
     },
     "classroom": [],
@@ -9564,7 +9587,9 @@
     "language": "",
     "notes": "(群組 7) 資訊管理 (關聯群 3)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215032",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351757&code=11440"
+    ]
   },
   {
     "code": "C215050",
@@ -9787,7 +9812,9 @@
     "language": "",
     "notes": "(群組 2) 組織領導與人力資源管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351766&code=11224"
+    ]
   },
   {
     "code": "C225021",
@@ -9968,11 +9995,21 @@
         "code": "3217"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11396",
+        "code": "11396"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
-      "tue": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
       "wed": [],
       "thu": [],
       "fri": [],
@@ -10009,7 +10046,13 @@
         "code": "3218"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭儀風",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=22438",
+        "code": "22438"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -10080,7 +10123,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1404006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351774&code=24132"
+    ]
   },
   {
     "code": "1401032",
@@ -11695,7 +11740,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "桃分署代開課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4503202",
     "syllabusLinks": []
   },
@@ -13021,7 +13066,10 @@
     "language": "",
     "notes": "與日碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351900&code=10996",
+      "ShowSyllabus.jsp?snum=351900&code=24123"
+    ]
   },
   {
     "code": "4505403",
@@ -13047,9 +13095,9 @@
     ],
     "teacher": [
       {
-        "name": "柯明村",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10822",
-        "code": "10822"
+        "name": "陳清祺",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11684",
+        "code": "11684"
       }
     ],
     "time": {
@@ -13072,7 +13120,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505403",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351901&code=11684"
+    ]
   },
   {
     "code": "4506201",
@@ -13780,7 +13830,9 @@
     "language": "",
     "notes": "綜科 511。",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3105135",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351973&code=11009"
+    ]
   },
   {
     "code": "3105132",
@@ -13948,7 +14000,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505003",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351991&code=24535"
+    ]
   },
   {
     "code": "3723047",
@@ -14743,14 +14797,24 @@
         "code": "3216"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳育威",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11396",
+        "code": "11396"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
       "tue": [],
       "wed": [],
       "thu": [],
-      "fri": [],
+      "fri": [
+        "A",
+        "B",
+        "C"
+      ],
       "sat": []
     },
     "classroom": [],
@@ -14831,7 +14895,9 @@
     "language": "",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352167&code=12148"
+    ]
   },
   {
     "code": "C205035",
@@ -14904,6 +14970,7 @@
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352168&code=11224",
       "ShowSyllabus.jsp?snum=352168&code=11982"
     ]
   },
@@ -14978,6 +15045,7 @@
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265008",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352169&code=11224",
       "ShowSyllabus.jsp?snum=352169&code=11982"
     ]
   },
@@ -15891,7 +15959,9 @@
     "language": "",
     "notes": "自然與科學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410167",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352241&code=22367"
+    ]
   },
   {
     "code": "1410192",
@@ -15991,7 +16061,9 @@
     "language": "",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410082",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352243&code=20716"
+    ]
   },
   {
     "code": "1410094",
@@ -16151,7 +16223,9 @@
     "language": "",
     "notes": "人文與藝術",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1410101",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352246&code=22058"
+    ]
   },
   {
     "code": "1415005",
@@ -16678,7 +16752,9 @@
     "language": "",
     "notes": "排進修部教室，職互動所與職創新所合開，限 40 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05301",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352279&code=11334"
+    ]
   },
   {
     "code": "AB03065",
@@ -16882,7 +16958,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404024",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352355&code=12354"
+    ]
   },
   {
     "code": "4403063",
@@ -17093,7 +17171,9 @@
     "language": "",
     "notes": "共同 302 室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905581",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352402&code=11049"
+    ]
   },
   {
     "code": "5105001",
@@ -17143,7 +17223,9 @@
     "language": "",
     "notes": "碩二（教室分子 207)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352421&code=10914"
+    ]
   },
   {
     "code": "5105024",
@@ -17473,7 +17555,9 @@
     "language": "",
     "notes": "(群組 3) 工業與科技管理 (關聯群 7)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352439&code=10662"
+    ]
   },
   {
     "code": "C205001",
@@ -17589,6 +17673,7 @@
     "notes": "碩二必修，六 234，台北集中上課，USR 計畫，國際會議廳",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352441&code=11440",
       "ShowSyllabus.jsp?snum=352441&code=11088"
     ]
   },
@@ -17655,6 +17740,7 @@
     "notes": "碩二必修，六 234，台北集中上課，USR",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352444&code=11440",
       "ShowSyllabus.jsp?snum=352444&code=11088"
     ]
   },
@@ -17923,7 +18009,10 @@
     "language": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352467&code=10504",
+      "ShowSyllabus.jsp?snum=352467&code=11435"
+    ]
   },
   {
     "code": "C515001",
@@ -18339,7 +18428,9 @@
     "language": "",
     "notes": "車輛所、職車輛所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4405002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352573&code=12234"
+    ]
   },
   {
     "code": "4406112",
@@ -18494,7 +18585,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5415125",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352685&code=12382"
+    ]
   },
   {
     "code": "5415126",
@@ -18763,7 +18856,9 @@
     "language": "",
     "notes": "工管所 工管 4 甲乙丙合開，科研 640",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3734009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352746&code=11051"
+    ]
   },
   {
     "code": "AB03072",
@@ -18814,6 +18909,8 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB03072",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352747&code=10662"
+    ]
   }
 ]
