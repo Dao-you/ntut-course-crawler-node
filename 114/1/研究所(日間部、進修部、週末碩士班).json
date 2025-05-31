@@ -5164,7 +5164,9 @@
     "language": "",
     "notes": "英文開課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105059",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=349689&code=11395"
+    ]
   },
   {
     "code": "5105066",
@@ -12906,7 +12908,9 @@
     "language": "",
     "notes": "外生專班、機電博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AG05001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350485&code=11083"
+    ]
   },
   {
     "code": "AG05002",
@@ -13936,7 +13940,9 @@
     "language": "",
     "notes": "機電博班和機械外生班合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6607004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350611&code=11083"
+    ]
   },
   {
     "code": "6607002",
@@ -21848,7 +21854,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105087",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351606&code=11077"
+    ]
   },
   {
     "code": "AC05101",
@@ -22015,6 +22023,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AC05103",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351625&code=11393",
+      "ShowSyllabus.jsp?snum=351625&code=11680",
       "ShowSyllabus.jsp?snum=351625&code=11969"
     ]
   },
@@ -23332,7 +23341,8 @@
     "notes": "(群組 4) 行銷管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205003",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351748&code=10938"
+      "ShowSyllabus.jsp?snum=351748&code=10938",
+      "ShowSyllabus.jsp?snum=351748&code=24277"
     ]
   },
   {
@@ -24276,7 +24286,8 @@
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351770&code=10821"
+      "ShowSyllabus.jsp?snum=351770&code=10821",
+      "ShowSyllabus.jsp?snum=351770&code=12439"
     ]
   },
   {
@@ -26291,7 +26302,9 @@
     "language": "",
     "notes": "能源系和機電博合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505208",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351897&code=11083"
+    ]
   },
   {
     "code": "4505602",
@@ -26505,7 +26518,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4506201",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351902&code=11083"
+    ]
   },
   {
     "code": "8527014",
@@ -28530,7 +28545,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A405004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352000&code=11541"
+    ]
   },
   {
     "code": "A405133",
@@ -30009,7 +30026,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352117&code=12558"
+    ]
   },
   {
     "code": "4236097",
@@ -30849,6 +30868,7 @@
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215041",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352167&code=12439",
       "ShowSyllabus.jsp?snum=352167&code=12148"
     ]
   },
@@ -32129,6 +32149,7 @@
     "notes": "電子大四與電子所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3615041",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352223&code=21704",
       "ShowSyllabus.jsp?snum=352223&code=11433"
     ]
   },
@@ -32911,7 +32932,9 @@
     "language": "",
     "notes": "全英語 / 資財四甲、資財所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05127",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352292&code=12439"
+    ]
   },
   {
     "code": "AB05126",
@@ -33032,7 +33055,9 @@
     "language": "",
     "notes": "全英語 / 資財四甲、資財所和創新資安合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05128",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352294&code=12439"
+    ]
   },
   {
     "code": "A505117",
@@ -34701,7 +34726,8 @@
     "notes": "(群組 3) 工業與科技管理 (關聯群 7)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215038",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352439&code=10662"
+      "ShowSyllabus.jsp?snum=352439&code=10662",
+      "ShowSyllabus.jsp?snum=352439&code=12439"
     ]
   },
   {
@@ -35378,7 +35404,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105067",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352486&code=11395"
+    ]
   },
   {
     "code": "7925127",
@@ -37065,7 +37093,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235438",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352744&code=10467"
+    ]
   },
   {
     "code": "5235439",
@@ -37116,7 +37146,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5235439",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352745&code=12392"
+    ]
   },
   {
     "code": "5211108",
