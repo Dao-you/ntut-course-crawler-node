@@ -6498,7 +6498,9 @@
     "language": "",
     "notes": "先鋒 PBL",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705273",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=349840&code=12532"
+    ]
   },
   {
     "code": "5705301",
@@ -19251,7 +19253,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505203",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351227&code=11167"
+    ]
   },
   {
     "code": "4505305",
@@ -20899,7 +20903,9 @@
     "language": "",
     "notes": "限 20 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005100",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351375&code=24388"
+    ]
   },
   {
     "code": "5605020",
@@ -21175,7 +21181,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351412&code=12246"
+      "ShowSyllabus.jsp?snum=351412&code=12246",
+      "ShowSyllabus.jsp?snum=351412&code=12532"
     ]
   },
   {
@@ -23839,6 +23846,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215029",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351756&code=12389",
+      "ShowSyllabus.jsp?snum=351756&code=12532",
       "ShowSyllabus.jsp?snum=351756&code=12173"
     ]
   },
@@ -24065,7 +24073,9 @@
     "language": "",
     "notes": "(群組 1) 經營與策略管理 (關聯群 2)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351765&code=12532"
+    ]
   },
   {
     "code": "C225005",
@@ -33114,7 +33124,9 @@
     "language": "",
     "notes": "集中授課；上限 10 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505117",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352297&code=11785"
+    ]
   },
   {
     "code": "A505118",
