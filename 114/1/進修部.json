@@ -8723,6 +8723,7 @@
     "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351721&code=11429",
       "ShowSyllabus.jsp?snum=351721&code=10821",
       "ShowSyllabus.jsp?snum=351721&code=11440"
     ]
@@ -8943,6 +8944,7 @@
     "notes": "碩一必修，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351746&code=11429",
       "ShowSyllabus.jsp?snum=351746&code=10821",
       "ShowSyllabus.jsp?snum=351746&code=11440",
       "ShowSyllabus.jsp?snum=351746&code=10938"
@@ -9727,7 +9729,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351762&code=11403"
+    ]
   },
   {
     "code": "C225004",
@@ -9809,6 +9813,8 @@
     "notes": "(群組 1) 經營與策略管理 (關聯群 2)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351765&code=11429",
+      "ShowSyllabus.jsp?snum=351765&code=12390",
       "ShowSyllabus.jsp?snum=351765&code=12532"
     ]
   },
@@ -11028,7 +11034,9 @@
     "language": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871106",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351792&code=24599"
+    ]
   },
   {
     "code": "3871107",
@@ -15203,7 +15211,10 @@
     "language": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352171&code=11403",
+      "ShowSyllabus.jsp?snum=352171&code=11315"
+    ]
   },
   {
     "code": "C235011",
@@ -15275,7 +15286,10 @@
     "language": "",
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352172&code=11403",
+      "ShowSyllabus.jsp?snum=352172&code=11315"
+    ]
   },
   {
     "code": "C205035",

@@ -6394,7 +6394,9 @@
     "language": "",
     "notes": "英語",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705105",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=349838&code=12390"
+    ]
   },
   {
     "code": "5705268",
@@ -9116,7 +9118,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505093",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350149&code=11133"
+    ]
   },
   {
     "code": "6505097",
@@ -10508,7 +10512,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7905011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350287&code=11257"
+    ]
   },
   {
     "code": "7915107",
@@ -12068,7 +12074,9 @@
     "language": "",
     "notes": "科研 825",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350421&code=11403"
+    ]
   },
   {
     "code": "AB05081",
@@ -16732,7 +16740,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7905010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350797&code=11257"
+    ]
   },
   {
     "code": "7905009",
@@ -22988,6 +22998,7 @@
     "notes": "碩一必修 (桃資)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351721&code=11429",
       "ShowSyllabus.jsp?snum=351721&code=10821",
       "ShowSyllabus.jsp?snum=351721&code=11440"
     ]
@@ -23208,6 +23219,7 @@
     "notes": "碩一必修，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205022",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351746&code=11429",
       "ShowSyllabus.jsp?snum=351746&code=10821",
       "ShowSyllabus.jsp?snum=351746&code=11440",
       "ShowSyllabus.jsp?snum=351746&code=10938"
@@ -23992,7 +24004,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理，台北上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215050",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351762&code=11403"
+    ]
   },
   {
     "code": "C225004",
@@ -24074,6 +24088,8 @@
     "notes": "(群組 1) 經營與策略管理 (關聯群 2)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225004",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351765&code=11429",
+      "ShowSyllabus.jsp?snum=351765&code=12390",
       "ShowSyllabus.jsp?snum=351765&code=12532"
     ]
   },
@@ -24763,7 +24779,9 @@
     "language": "",
     "notes": "甲、乙組選修；機電、製科合開；限 21 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005069",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351829&code=12490"
+    ]
   },
   {
     "code": "6007018",
@@ -31102,7 +31120,10 @@
     "language": "",
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352171&code=11403",
+      "ShowSyllabus.jsp?snum=352171&code=11315"
+    ]
   },
   {
     "code": "C235011",
@@ -31174,7 +31195,10 @@
     "language": "",
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352172&code=11403",
+      "ShowSyllabus.jsp?snum=352172&code=11315"
+    ]
   },
   {
     "code": "C205035",
@@ -37478,7 +37502,9 @@
     "language": "",
     "notes": "電子所和太空所合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AY15025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353053&code=10823"
+    ]
   },
   {
     "code": "AY15005",
