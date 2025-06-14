@@ -1,0 +1,16 @@
+[
+  {
+    "name": "丁秀儀",
+    "email": "hiting@ntut.edu.tw",
+    "latestUpdate": "2025-05-27 19:32:01",
+    "objective": "This course explores the foundational principles of business ethics and their practical applications in modern organizations. Through case studies, ethical frameworks, and global perspectives, students will examine how businesses navigate moral dilemmas, fulfill social responsibilities, and pursue sustainable strategies. The course begins with essential ethical theories and decision-making tools, followed by discussions on responsible management, corporate social responsibility (CSR), and stakeholder engagement. It also addresses the complexities of cultural relativism, professional ethics, and organizational misconduct. In the second half of the semester, students will explore emerging topics such as AI ethics, algorithmic bias, and governance challenges in the digital era. Interactive learning formats—such as group debates, scenario analysis, and student presentations—will help develop critical thinking and ethical awareness. By the end of the course, students will be able to analyze ethical issues from multiple perspectives and propose responsible, context-sensitive solutions in real-world business settings.",
+    "schedule": "Week 1\tCourse Introduction and the Meaning of Business Ethics\nWeek 2\tMoral Reasoning and Ethical Theories\nWeek 3\tCommon Ethical Dilemmas in Business\nWeek 4\tEthical Decision-Making Frameworks and Tools\nWeek 5\tResponsible Management: Three Dimensions\nWeek 6\tCorporate Sustainability and Its Relationship to Business\nWeek 7\tCorporate Social Responsibility (CSR) and Stakeholder Theory\nWeek 8\tCross-Cultural Ethics and Moral Relativism\nWeek 9\tWhy Do Good People Do Bad Things?\nWeek 10\tEthical Challenges in Organizational Practice\nWeek 11\tSustainability Strategies and Innovation\nWeek 12\tProfessional Ethics and Workplace Roles\nWeek 13\tResponsible AI and Algorithmic Bias\nWeek 14\tAI Ethics Governance and Explainability\nWeek 15\tPhilosophical Perspectives on AI Ethics\nWeek 16\tShould AI Be Regulated?\nWeek 17\tIntegration and Cross-Topic Discussion\nWeek 18\tFinal Presentations",
+    "scorePolicy": "Class Participation & Quizzes\t40%\nGroup Case Analysis Report 30%\nFinal Project & Presentation 30%",
+    "materials": "Course materials will be compiled and provided by the instructor.",
+    "consultation": "Students may contact the instructor via email.",
+    "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG5：性別平等（Gender Equality）SDG10：減少不平等（Reduced Inequalities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "remarks": "If needed, classes will be conducted online via Microsoft Teams. Further instructions will be provided in advance.",
+    "foreignLanguageTextbooks": false
+  }
+]

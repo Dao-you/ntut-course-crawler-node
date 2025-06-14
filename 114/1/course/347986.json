@@ -1,0 +1,16 @@
+[
+  {
+    "name": "邱志洲",
+    "email": "chih3c@ntut.edu.tw",
+    "latestUpdate": "2025-05-29 14:24:27",
+    "objective": "訓練學生應用統計套裝軟體進行資料整理、陳列、分析、解釋及統計推論，以建立學生使用統計套裝軟體進行統計資料分析之能力。課程主題包括敘述統計之圖表製作、假設檢定、信賴區間、變異數分析和迴歸模型。學期末，學生應能以標準統計分析程序，分析商業資料，並根據統計分析之結果，建議可行之企業決策。\nThis course reviews and expands upon core topics in probability and\nstatistics through the study and practice of data analysis. Topics\ninclude numerical and graphical summaries of data, hypothesis testing,\nconfidence intervals, analysis of variance, and regression. Upon\ncompletion of this course, students should be able to think critically\nabout data and apply standard statistical inference procedures to draw\nconclusions from such analysis.",
+    "schedule": "1 (09/09)\tWeek1\t課程簡介及要求\t\t\n2 (09/16)\tWeek2\t迴歸分析 1：單變量\t\t\n3 (09/23)\tWeek3\t迴歸分析 2：單變量\t\t\n4 (09/30)\tWeek4\t迴歸分析 3：多變量\t\t\n5 (10/07)\tWeek5\t迴歸分析 4：多變量\t\t\n6 (10/14)\tWeek6\t軟體實操作\t\t\n7 (10/21)\tWeek7\tExam1\t\t\n8 (10/28)\tWeek8\t資料分析軟體介紹 1\t\t\n9 (11/04)\tWeek9\t資料分析軟體介紹 2\t\t\n10 (11/11)\tWeek10\t資料分析軟體介紹 3\t\t\n11 (11/18)\tWeek11\t資料分析軟體介紹 4\t\t\n12 (11/25)\tWeek12\t實際個案說明 data discussion\t\t\n13 (12/02)\tWeek13\t實際個案說明 data discussion\t\t\n14 (12/09)\tWeek14\tExam2\t\t\n15 (12/16)\tWeek15\tProject discussion\t\t\n16 (12/23)\tWeek16\tProject discussion\t\t\n17 (12/30)\tWeek17\tProject presentation\t\t\n18 (01/06)\tWeek18\tProject presentation",
+    "scorePolicy": "考試\t40%(=2*20%)\n學期報告\t60%",
+    "materials": "量化研究與統計分析：SPSS (PASW) 資料分析範例解析\n作者：邱皓政 / 出版社：高教代理 / 出版日：2012/02 / 版次：5 版 / ISBN：9789571160948",
+    "consultation": "課程諮詢管道 1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

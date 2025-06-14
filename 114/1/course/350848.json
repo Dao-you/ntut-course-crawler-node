@@ -1,0 +1,16 @@
+[
+  {
+    "name": "曾釋鋒",
+    "email": "tsf@ntut.edu.tw",
+    "latestUpdate": "2025-05-22 06:46:19",
+    "objective": "本課程涵蓋半導體產業趨勢發展、超大型 (Giga) 半導體工廠廠務系統與先進自動化工廠運作、以及先進半導體製程技術和設備等三大部分。\nThis course mainly consists of development trend, Giga FAB, FAB automation, and processing technology and equipment for advanced semiconductor manufacturing.",
+    "schedule": "週次\t課程主題\n一\t半導體產業趨勢與製造流程 (含課程說明)\n二\t超大型半導體工廠廠務系統 & 綠建築與節能\n三\t濕式蝕刻製程設備與技術\n四\t乾式蝕刻製程設備與技術\n五\tAI 自動化在半導體設備的應用\n六\t爐管及離子佈值製程設備與技術\n七\t先進量測設備與技術\n八\t參訪：台積 Fab 廠區參訪 (F15A)\n九\t期中考\n十\t先進自動化工廠運作\n十一\t光阻塗佈 / 曝光 / 顯影製程設備與技術 (一)\n十二\t光阻塗佈 / 曝光 / 顯影製程設備與技術 (二)\n十三\t化學氣相沉積製程設備與技術\n十四\t物理氣相沉積製程設備與技術\n十五\t參訪：半導體供應鏈廠商 (TEL)\n十六\t平坦化製程設備與技術\n十七\t\n十八\t期末考",
+    "scorePolicy": "1. 期中考試：30%\n2. 期末考試：30%\n3. 平時作業：30%\n4. 出席：10%",
+    "materials": "自編教材",
+    "consultation": "諮詢地點：綜科館 423 室",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]

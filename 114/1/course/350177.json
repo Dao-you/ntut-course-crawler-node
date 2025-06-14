@@ -1,0 +1,16 @@
+[
+  {
+    "name": "伊柏文",
+    "email": "yibeltal_chanie@mail.ntut.edu.tw",
+    "latestUpdate": "2025-05-27 12:07:58",
+    "objective": "1. 深度學習介紹，2. 監督式學習，3. 無監督式學習，4. 物聯網，5. 感知層，6. 網路層，7. 應用層，8. 深度學習與物聯網應用實例。\n1. Introduction to Deep Learning, 2. Supervised Learning, 3. Unsupervised Learning, 4. Internet of Things, 5. Perception Layer, 6. Network Layer, 7. Application Layer, 8. Deep Learning and Internet of Things",
+    "schedule": "1-2  Introduction to Deep Learning\n3-4. Supervised Learning\n5-6. Unsupervised Learning, \n7-8.  Fundamentals of Neural Networks\n9-10. Image classification and detection \n11-12. Recurrent Neural Network \n13. Internet of Things, \n14-15. Perception Layer, Network Layer,  and Application Layer\n16-17. Deep Learning and Internet of Things\n18 Final Report",
+    "scorePolicy": "Homework: 45%\nPaper Presentation : 15%\nAttendance:10%\nFinal project and report: 30%",
+    "materials": "References :\n\n1. Goodfellow, I., Bengio, Y. & Courville, A.: Deep Learning. 2016, MIT.\n2. B.K. Tripathy, J. Anuradham: Internet of Things(IoT): Technologies, \n    Applications, Challenges and Solutions, CRC Press, Taylor and Francis, \n    2017\n3.  Anirudh Koul, Siddha Ganju, Meher Kasam: Practical Deep Learning for \n    Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using \n    Python, Keras & TensorFlow 1st Edition",
+    "consultation": "email: yibeltal_chanie@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI3：使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

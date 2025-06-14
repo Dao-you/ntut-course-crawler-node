@@ -1,0 +1,16 @@
+[
+  {
+    "name": "陳怡倩",
+    "email": "icchen@ntut.edu.tw",
+    "latestUpdate": "2025-05-27 16:34:59",
+    "objective": "This course aims to introduce the foundational principles of qualitative and quantitative research methodologies. It provides learners with a conceptual and practical grounding in research design, enabling them to conduct methodologically sound explorations and investigations across both paradigms. Furthermore, the course examines the integration of artificial intelligence (AI) tools in the research process—highlighting their applications in data collection, transcription, coding, and analysis—to enhance research efficiency, accuracy, and depth.\n本課程旨在介紹質性與量化研究方法的基本原理，並為學習者提供研究設計的概念基礎與實務能力，使其能夠在兩種研究範式中進行方法嚴謹的研究。此外，課程亦將探討人工智慧（AI）工具於研究歷程中的應用，包括在資料蒐集、轉錄、編碼與分析等階段的整合運用，藉此提升研究的效率、準確性與深度。",
+    "schedule": "Week 1 Course Introduction\t\nWeek 2 AI Tools for Research; Finding a Research Topic\nWeek 3 Library Resources; Ethics in Research\t\nWeek 4 Qualitative Research Design\nWeek 5 Double Tenth Day (no class)\nWeek 6 Qualitative Data\t        \t        \nWeek 7 QRD I: Phenomenological Study        \nWeek 8 QRD II: Ethnological Study\nWeek 9 QRD III: Case Study\t        \nWeek 10 AI tools for Qualitative Data Analysis\t\nWeek 11 Quantitative Research \nWeek 12 Quantitative Data \nWeek 13 Quantitative Research Design I: Paired T-test Study\nWeek 14 Quantitative Research Design II: Independent T-test Study\nWeek 15 Quantitative Research Design III: Correlation Study    \nWeek 16 Mixed Research Method Design\nWeek 17 Final Project Due; Final Project Presentations I       \t         \nWeek 18 Final Project Presentations  II",
+    "scorePolicy": "Active class participation & class activities (60%); final project & presentation (40%)",
+    "materials": "Course Reader",
+    "consultation": "Please send e-mail to icchen@ntut.edu.tw.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）",
+    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI3：使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "Please log in to TEAMS using your @cc.ntut.edu.tw account, and you would be able to join the class TEAMS there.",
+    "foreignLanguageTextbooks": true
+  }
+]
