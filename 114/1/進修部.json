@@ -11286,7 +11286,9 @@
     "language": "",
     "notes": "設計館 205 教室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871109",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351795&code=24219"
+    ]
   },
   {
     "code": "3871111",
