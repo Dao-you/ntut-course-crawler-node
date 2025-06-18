@@ -5564,51 +5564,6 @@
     ]
   },
   {
-    "code": "5221428",
-    "description": {
-      "zh": "本堂課主要在於從全球化與在地化的角度探討當代建築與都市設計中的重要理論、案例與關鍵課題，尤其藉由回溯其自二十世紀初以來的發展歷史，本課程將聚焦於一系列具有代表性的建築師與設計作品，透過他們在建築與都市設計上的專業實踐來反思當代人類社會所面臨的各種挑戰與機會。具體本課程將透過案例討論與分析的方式來進行，所有學生將對於指定案例進行獨立研究，並應用課堂所教授之方法與工具對於該案例進行理論與空間構成的分析性評論，最終再彙整成一份完整的評述報告。案例分析的內容將需要包括以下四個重點：一、時空背景如何對於建築與都市設計之實踐造成影響？二、空間生產的過程與結果如何回應真實社會的需求？三、如何從空間構成的角度反思設計之於空間的意義與價值？四、該案例如何影響未來建築與都市設計之發展趨勢？在分析工具的部分，本課程針對建築與都市設計兩種不同的尺度將分別著重於兩種不同面向的分析：在建築尺度的案例上主要的重點在於空間的組織性，實際操作則是以距離、深度與視野等不同元素的比較分析為主；在都市設計尺度的案例上重點則在於空間的序列性，透過軸線、區段與使用分析對於都市型態的轉變與演化提出反思。",
-      "en": "The course aims to analyze contemporary ideas, ideologies, and projects of architecture and urban design in the context of both globalization and specific local contexts. By tracing the development back to the early 20th century, the work and thinking of influential architects will be examined in terms of their reflection on current challenges in our profession and society. The main content of this course will be delivered through case study. In specific, all students are expected to make analytic comments on assigned cases by applying tools taught in class. Four interrelated issues are to be focused: 1. Context of professional practice; 2. Production of space in relation to social demands; 3. Reflection on spatial configuration; and 4. Influence on future trends."
-    },
-    "id": "349737",
-    "name": {
-      "zh": "空間分析與設計專題",
-      "en": "Special Topics on Spatial Analysis and Design"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "建都所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3158",
-        "code": "3158"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "7",
-        "8",
-        "9"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "新聘乙組老師授課，全英授課",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5221428",
-    "syllabusLinks": []
-  },
-  {
     "code": "5415200",
     "description": {
       "zh": "本課程旨在研討專業英文研究及應用，課程包括專業領域英語文之語域分析，探討各領域中的語法及詞彙特點，並進一步分析不同領域中之修辭及言語萹章使用，進而研討語言溝通目標功能分析並結合策略研究，以將理論應用於專業實務及研究中。",
@@ -29064,7 +29019,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5211412",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352071&code=21565"
+    ]
   },
   {
     "code": "5231413",
@@ -35878,7 +35835,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6105061",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352538&code=12275"
