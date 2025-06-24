@@ -1,0 +1,16 @@
+[
+  {
+    "name": "伊柏文",
+    "email": "yibeltal_chanie@mail.ntut.edu.tw",
+    "latestUpdate": "2025-06-04 12:52:17",
+    "objective": "1.\t深度學習簡介、2. 神經網路基礎、3. 訓練深度神經網路、4. 深度學習架構介紹、\n5. 卷積神經網路、6. 循環神經網路與序列建模、7. 模型評估與性能指標、8. 應用案例分析。\n1.  Introduction to Deep Learning\n2.  Fundamentals of Neural Networks\n3.  Training Deep Neural Networks\n4.  Introduction to Deep Learning Frameworks \n5.  Convolutional Neural Networks\n6.  Recurrent Neural Networks (RNNs) and Sequence Modeling\n7.  Model Evaluation and Performance Metrics\n8.  Application Case Studies",
+    "schedule": "Week 1-2.  Introduction to Deep Learning\nWeek 3-4.  Fundamentals of Neural Networks\nWeek 4-6.  Deep Neural Networks\nWeek 7-8.  Optimization Techniques \nWeek 9-11.  Convolutional Neural Networks\nWeek 12-13.  Recurrent Neural Networks (RNNs) and Sequence Modeling\nWeek 14.  Reinforcement Learning Intro\nWeek 15-16.  Application Case Studies\nWeek 17-18. Final project presentation",
+    "scorePolicy": "Quizzes & Assignments : 40 %\nLabs / Mini Projects: 20 %\nAttendance : 10 %\nFinal Project : 30 %",
+    "materials": "References :\n\n1. Goodfellow, I., Bengio, Y. & Courville, A.: Deep Learning. 2016, MIT.\n\n2.  Anirudh Koul, Siddha Ganju, Meher Kasam: Practical Deep Learning for \n    Cloud, Mobile, and Edge: Real-World AI & Computer-Vision Projects Using \n    Python, Keras & TensorFlow 1st Edition",
+    "consultation": "Email: yibeltal_chanie@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
+    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI3：使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

@@ -2072,6 +2072,11 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=114&sem=1&code=3151",
         "code": "3151"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3187",
+        "code": "3187"
       }
     ],
     "teacher": [
@@ -2131,6 +2136,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=114&sem=1&code=3151",
         "code": "3151"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3171",
+        "code": "3171"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3187",
+        "code": "3187"
       }
     ],
     "teacher": [
@@ -30113,65 +30128,6 @@
     ]
   },
   {
-    "code": "4236114",
-    "description": {
-      "zh": "土木專題特論乃透過國際學者的講課，讓學生學習土木相關領域的重要知識及了解最先進之研究成果或最新開發成品。",
-      "en": "This course will provide important knowledge and information regarding to the latest development or application on the field of civil engineering. Speakers being invited are well-known international scholars in the related area."
-    },
-    "id": "352119",
-    "name": {
-      "zh": "土木專題特論 c",
-      "en": "Civil Engineering Colloquy on Special Topics c"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "防災所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3153",
-        "code": "3153"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "李有豐",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10790",
-        "code": "10790"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "7",
-        "8",
-        "9"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "土木2F",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=260",
-        "code": "260"
-      }
-    ],
-    "people": "3",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "土木 208",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4236114",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352119&code=10790"
-    ]
-  },
-  {
     "code": "4236066",
     "description": {
       "zh": "政府近年積極推動行政資訊化，應用資訊技術提昇行政的效率與品質，以達到便民及創新的效益。地理資訊系統 (Geographical Information System，簡稱 GIs) 之開發與應用，即是提供各使用單位在處理大量圖籍與相關文字資料之管理與查詢的最佳解決方案；配合完整中文介面與印表技術，更可提高效率資訊服務。國內各重大工程在規劃設計時，正逐漸引用地理資訊系統。以其強大之資訊處理、整合、分析、及展示等功能輔助，如圖籍疊合與環框分析等，使工程規劃設計更為準確客觀，發揮工程最大效益。",
@@ -33002,6 +32958,11 @@
     "courseType": "★",
     "class": [
       {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3171",
+        "code": "3171"
+      },
+      {
         "name": "資財所",
         "link": "Subj.jsp?format=-4&year=114&sem=1&code=3175",
         "code": "3175"
@@ -33038,7 +32999,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "資財四甲、資財所和創新資安合開",
+    "notes": "資財四甲、資財所、IMBA 和創新資安合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AB05126",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352293&code=12173"
@@ -35536,6 +35497,16 @@
         "name": "工管所",
         "link": "Subj.jsp?format=-4&year=114&sem=1&code=3151",
         "code": "3151"
+      },
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3171",
+        "code": "3171"
+      },
+      {
+        "name": "管理博所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3187",
+        "code": "3187"
       }
     ],
     "teacher": [
@@ -35736,59 +35707,6 @@
     "notes": "825 / 經管所和 IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705050",
     "syllabusLinks": []
-  },
-  {
-    "code": "4406158",
-    "description": {
-      "zh": "本課程介紹人工智慧深度學習之基礎原理與基本應用，以及智慧型模糊控制之理論與控制器實務。本課程結合理論與實作，讓學生能夠瞭解人工智慧深度學習，深入理解智慧型控制，並進而運用這些技術。課程將介紹人工智慧與深度學習基礎以及實作應用，接著深入介紹模糊邏輯與模糊控制系統的設計與應用。",
-      "en": "This course introduces the fundamental principles and basic applications of Artificial Intelligence (AI) Deep Learning (DL), and the theory and practical implementation of intelligent fuzzy control. The course combines theory and practice to make students understand AI DL, intelligent control, and their applications."
-    },
-    "id": "352534",
-    "name": {
-      "zh": "AI 深度學習應用與智慧型控制",
-      "en": "AI Deep Learning Application and Intelligent Control"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "車輛所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3154",
-        "code": "3154"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蕭耀榮",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10993",
-        "code": "10993"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "5",
-        "6",
-        "7"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "8",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4406158",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352534&code=10993"
-    ]
   },
   {
     "code": "6105061",
@@ -37909,6 +37827,109 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02008",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353093&code=23683"
+    ]
+  },
+  {
+    "code": "AA02015",
+    "description": {
+      "zh": "隨著科技的發展與產值快速成長，網路、電商、商業新模式等各式創業大行其道，成為許多創業者的新選擇，本課程邀請國內知名創業楷模或創業成功典範之企業經理人分享創業成功之經驗。以真實具體的創業經驗為教材，讓學生更深刻體驗創業家之精神。希冀以觀摩學習典範企業的具體經驗，帶領學生學習企業創新與創業的思維，進而激發學生追求成就的渴望，強化青年學子對人生願景的規劃。",
+      "en": "Along with the prosperous development of Internet, the output value of E-commerce is growing fast. Launching a business on the internet has become a new choice for many entrepreneurs. We invite the domestic business manager, as the model of outstanding and successful enterprise, to share his experiences of achievement with students. By offering the real and specific examples, business manager will make students learn further about the enterprisers' entrepreneurship. Through their experiences, we hope students can learn innovations and creations of enterprise; furthermore, students can be inspired to pursue their ambition to strengthen their wills to plan the future."
+    },
+    "id": "353094",
+    "name": {
+      "zh": "創業講座",
+      "en": "Entrepreneurship Lectures"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11429",
+        "code": "11429"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [
+        "A"
+      ],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "40",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開，六週密集授課，科技大樓國際會議廳",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02015",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353094&code=11429"
+    ]
+  },
+  {
+    "code": "AA02004",
+    "description": {
+      "zh": "輔具是輔助器具的簡稱，舉凡日常生活，能使活動更容易、方便的各種用具皆屬之，正確的使用輔具可以改變身心障礙者或老年人原本有障礙的生活，走入社會，降低社會成本。本課程為專案導向課程，課程中除教授輔具設計基本概念，透過實際個案訪談分析目標對象，以工作坊形式找出使用者痛點，進而發展解決方案，提出適切的輔具資源，以幫助身心障礙者或老年人族群。",
+      "en": "Assistive device is the abbreviation of auxiliary equipment. For everyday life, all kinds of utensils that make activities easier and convenient belong to it. Correct use of assistive device can change the life of people with physical and mental disabilities or the elderly who have obstacles, and enter the society and reduce Social costs. This is a project-oriented course. The course introduces the concept of auxiliary equipment; students can also analyze target audience through different case studies. During workshops, it helps students indicate users’ pain points and develop the solutions. The goal of this course is to come out with the resources to help people with disabilities or the elderly."
+    },
+    "id": "353097",
+    "name": {
+      "zh": "創新設計與智慧輔具",
+      "en": "Assistive technology: research & application"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳圳卿",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11334",
+        "code": "11334"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "7",
+        "8"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02004",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353097&code=11334"
     ]
   }
 ]
