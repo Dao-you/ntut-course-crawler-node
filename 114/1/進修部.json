@@ -8399,7 +8399,23 @@
         "code": "3215"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "朴維鎮",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12101",
+        "code": "12101"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8414,7 +8430,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修",
+    "notes": "碩一必修，蔡 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": []
   },
@@ -8481,7 +8497,13 @@
         "code": "3215"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12298",
+        "code": "12298"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8496,7 +8518,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修",
+    "notes": "碩一必修，11.02、12.07",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275023",
     "syllabusLinks": []
   },
@@ -8522,7 +8544,13 @@
         "code": "3215"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "徐昕煒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12436",
+        "code": "12436"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -8537,7 +8565,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修",
+    "notes": "碩一必修，9.07、9.14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
     "syllabusLinks": []
   },
@@ -10167,7 +10195,9 @@
     "language": "",
     "notes": "(群組 7) 資訊管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C285002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351772&code=11396"
+    ]
   },
   {
     "code": "1400027",
@@ -15010,7 +15040,9 @@
     "language": "",
     "notes": "(群組 7) 資訊管理 (關聯群 6)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235013",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352166&code=11396"
+    ]
   },
   {
     "code": "C215041",
@@ -19141,5 +19173,56 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352747&code=10662"
     ]
+  },
+  {
+    "code": "5705461",
+    "description": {
+      "zh": "本課程包含 2 大部份，服務與創新管理及智慧財產權與科技法律。 服務與創新管理旨在了解服務與創新管理之意義、方法與現況，內容包含服務之本質、創新之意義、服務與創新管理之方法、科技之應用、服務與創新管理現況介紹等。智慧財產權與科技法律旨在了解如何以智慧財產權來保護科技研發成果，內容包括智慧財產權法規介紹與專利運用策略實務。",
+      "en": "This course contains two major parts, service and innovation management and Intellectual property and technology law. Service and innovation management is to demonstrate the definition, the methodologies and the state of the art of service and innovation management, including the nature of service, innovation, the tools for service and innovation management, technology application and current development of service and innovation management. Intellectual property and technology law is to demonstrate understanding how to protect R & D achievements with intellectual property rights. This course includes intellectual property laws and patent strategies practice."
+    },
+    "id": "352761",
+    "name": {
+      "zh": "服務與科技管理導論",
+      "en": "Introduction to Services and Technology Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職經管所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3202",
+        "code": "3202"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "呂正欽",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=23585",
+        "code": "23585"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "A",
+        "B",
+        "C"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "9",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705461",
+    "syllabusLinks": []
   }
 ]
