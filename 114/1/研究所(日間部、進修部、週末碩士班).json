@@ -23103,6 +23103,11 @@
     ],
     "teacher": [
       {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11505",
+        "code": "11505"
+      },
+      {
         "name": "吳牧恩",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11985",
         "code": "11985"
@@ -23116,11 +23121,6 @@
         "name": "劉亮志",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11982",
         "code": "11982"
-      },
-      {
-        "name": "鄭辰仰",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11764",
-        "code": "11764"
       }
     ],
     "time": {
@@ -37962,58 +37962,6 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02004",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353097&code=11334"
-    ]
-  },
-  {
-    "code": "AA02002",
-    "description": {
-      "zh": "隨著高齡化社會的來臨與國家對於身心障礙者生活福祉的重視，輔助科技相關資源與人才需求日益倍增，各類輔具產品使用已成為這些族群在醫療照護上與生活品質提升上不可或缺的一環。本門課程為「生醫輔助科技跨域微學程」之入門基礎課程，建立學生對輔助科技有基本的通盤認識，期許未來具備相關能力投入輔助創新產品研發。若未來有志投入輔助科技相關產業工作，建議微學程可由此門課程開始選修。由於輔助科技涵蓋醫學與工程相關領域專業知識技術的整合，故由本校與臺北醫學大學攜手合作，兩校多位教師一同共授，提供兩校各 20 位學生選修，以促進學生或教師間的交流合作，本課程上課地點除了在本校，將有部分週次於北醫校園上課。",
-      "en": "With the advent of aging society and the country's emphasis on the well-being of people with physical and mental disabilities, the demand of assistive technology resources and manpower is getting increased. The use of various assistive products has become an indispensable part for these people in medical care and quality of life. Assistive technology covers and integrates expertise in medicine and engineering related fields. The aims of this course are to let students have the comprehensive understanding of the current status and future trends of assistive technology. This course is the basic course for the “Assistive Technology Interdisciplinary Program”. If students consider to involve assistive technology-related industries in the future, we encourage students to enroll this course."
-    },
-    "id": "353098",
-    "name": {
-      "zh": "輔助科技導論",
-      "en": "Introduction to Assistive Technology"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新創業(研)",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2398",
-        "code": "2398"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳圳卿",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11334",
-        "code": "11334"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "10",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02002",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=353098&code=11334"
     ]
   }
 ]

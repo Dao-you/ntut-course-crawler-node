@@ -8900,6 +8900,11 @@
     ],
     "teacher": [
       {
+        "name": "王貞淑",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11505",
+        "code": "11505"
+      },
+      {
         "name": "吳牧恩",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11985",
         "code": "11985"
@@ -8913,11 +8918,6 @@
         "name": "劉亮志",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11982",
         "code": "11982"
-      },
-      {
-        "name": "鄭辰仰",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11764",
-        "code": "11764"
       }
     ],
     "time": {
@@ -19173,56 +19173,5 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352747&code=10662"
     ]
-  },
-  {
-    "code": "5705461",
-    "description": {
-      "zh": "本課程包含 2 大部份，服務與創新管理及智慧財產權與科技法律。 服務與創新管理旨在了解服務與創新管理之意義、方法與現況，內容包含服務之本質、創新之意義、服務與創新管理之方法、科技之應用、服務與創新管理現況介紹等。智慧財產權與科技法律旨在了解如何以智慧財產權來保護科技研發成果，內容包括智慧財產權法規介紹與專利運用策略實務。",
-      "en": "This course contains two major parts, service and innovation management and Intellectual property and technology law. Service and innovation management is to demonstrate the definition, the methodologies and the state of the art of service and innovation management, including the nature of service, innovation, the tools for service and innovation management, technology application and current development of service and innovation management. Intellectual property and technology law is to demonstrate understanding how to protect R & D achievements with intellectual property rights. This course includes intellectual property laws and patent strategies practice."
-    },
-    "id": "352761",
-    "name": {
-      "zh": "服務與科技管理導論",
-      "en": "Introduction to Services and Technology Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "職經管所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3202",
-        "code": "3202"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "呂正欽",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=23585",
-        "code": "23585"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [
-        "A",
-        "B",
-        "C"
-      ],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "9",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705461",
-    "syllabusLinks": []
   }
 ]
