@@ -8767,11 +8767,6 @@
         "code": "10821"
       },
       {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11440",
         "code": "11440"
@@ -8785,6 +8780,11 @@
         "name": "劉建浩",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11537",
         "code": "11537"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -8988,11 +8988,6 @@
         "code": "10821"
       },
       {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11440",
         "code": "11440"
@@ -9006,6 +9001,11 @@
         "name": "劉建浩",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11537",
         "code": "11537"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -15294,6 +15294,11 @@
     ],
     "teacher": [
       {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
         "name": "林淑玲",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11403",
         "code": "11403"
@@ -15307,11 +15312,6 @@
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
         "code": "11315"
-      },
-      {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
       },
       {
         "name": "陳柏瑄",
@@ -15369,6 +15369,11 @@
     ],
     "teacher": [
       {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
         "name": "林淑玲",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11403",
         "code": "11403"
@@ -15382,11 +15387,6 @@
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
         "code": "11315"
-      },
-      {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
       },
       {
         "name": "陳柏瑄",

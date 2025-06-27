@@ -22970,11 +22970,6 @@
         "code": "10821"
       },
       {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11440",
         "code": "11440"
@@ -22988,6 +22983,11 @@
         "name": "劉建浩",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11537",
         "code": "11537"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -23191,11 +23191,6 @@
         "code": "10821"
       },
       {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
-      },
-      {
         "name": "翁頌舜",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11440",
         "code": "11440"
@@ -23209,6 +23204,11 @@
         "name": "劉建浩",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11537",
         "code": "11537"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12173",
+        "code": "12173"
       }
     ],
     "time": {
@@ -31059,6 +31059,11 @@
     ],
     "teacher": [
       {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
         "name": "林淑玲",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11403",
         "code": "11403"
@@ -31072,11 +31077,6 @@
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
         "code": "11315"
-      },
-      {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
       },
       {
         "name": "陳柏瑄",
@@ -31134,6 +31134,11 @@
     ],
     "teacher": [
       {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
         "name": "林淑玲",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11403",
         "code": "11403"
@@ -31147,11 +31152,6 @@
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
         "code": "11315"
-      },
-      {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
       },
       {
         "name": "陳柏瑄",
@@ -37963,5 +37963,180 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353097&code=11334"
     ]
+  },
+  {
+    "code": "AA02002",
+    "description": {
+      "zh": "隨著高齡化社會的來臨與國家對於身心障礙者生活福祉的重視，輔助科技相關資源與人才需求日益倍增，各類輔具產品使用已成為這些族群在醫療照護上與生活品質提升上不可或缺的一環。本門課程為「生醫輔助科技跨域微學程」之入門基礎課程，建立學生對輔助科技有基本的通盤認識，期許未來具備相關能力投入輔助創新產品研發。若未來有志投入輔助科技相關產業工作，建議微學程可由此門課程開始選修。由於輔助科技涵蓋醫學與工程相關領域專業知識技術的整合，故由本校與臺北醫學大學攜手合作，兩校多位教師一同共授，提供兩校各 20 位學生選修，以促進學生或教師間的交流合作，本課程上課地點除了在本校，將有部分週次於北醫校園上課。",
+      "en": "With the advent of aging society and the country's emphasis on the well-being of people with physical and mental disabilities, the demand of assistive technology resources and manpower is getting increased. The use of various assistive products has become an indispensable part for these people in medical care and quality of life. Assistive technology covers and integrates expertise in medicine and engineering related fields. The aims of this course are to let students have the comprehensive understanding of the current status and future trends of assistive technology. This course is the basic course for the “Assistive Technology Interdisciplinary Program”. If students consider to involve assistive technology-related industries in the future, we encourage students to enroll this course."
+    },
+    "id": "353098",
+    "name": {
+      "zh": "輔助科技導論",
+      "en": "Introduction to Assistive Technology"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "陳圳卿",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11334",
+        "code": "11334"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "10",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA02002",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353098&code=11334"
+    ]
+  },
+  {
+    "code": "AS05004",
+    "description": {
+      "zh": "本課程介紹大數據在各個領域決策制定的應用，課程內容包括大數據分析與應用、大數據管理、大數據分法與策略、資料探勘介紹、資料探勘方法、大數據平台、大數據行銷實務、大數據個案分析、期末專題製作與報告。學生可以經由多個案例學習大數據的應用實務、目前技術與未來發展方向。",
+      "en": "This course explores the rapidly developing fields of big data for the efficiency of decision making in various fields. The topics are about basic concepts of data manipulations, analytic, and communications which are including: introduction to big data; basic knowledge of data mining; special topics of big data in business Analytics, and data analytic project. The course will help students careful consideration of what is desired from big data, how big data analytic to add value to business, etc. Students can gain a strong data science knowledge set and techniques via in-depth case studies, most current readings and experiences, and most current and future technology exploration."
+    },
+    "id": "353111",
+    "name": {
+      "zh": "大數據分析",
+      "en": "Big Data Analytics"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "管理外國學生專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3171",
+        "code": "3171"
+      },
+      {
+        "name": "資財所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3175",
+        "code": "3175"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王正豪",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11297",
+        "code": "11297"
+      },
+      {
+        "name": "鄭麗珍",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12173",
+        "code": "12173"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "2",
+        "3",
+        "4"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓240",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=460",
+        "code": "460"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "資財所和 IMBA 合開",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4236113",
+    "description": {
+      "zh": "土木專題特論乃透過國際學者的講課，讓學生學習土木相關領域的重要知識及了解最先進之研究成果或最新開發成品。",
+      "en": "This course will provide important knowledge and information regarding to the latest development or application on the field of civil engineering. Speakers being invited are well-known international scholars in the related area."
+    },
+    "id": "353119",
+    "name": {
+      "zh": "土木專題特論 b",
+      "en": "Civil Engineering Colloquy on Special Topics b"
+    },
+    "stage": "1",
+    "credit": "2.0",
+    "hours": "2",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "防災所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3153",
+        "code": "3153"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李有豐",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10790",
+        "code": "10790"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "7",
+        "8"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "土木2F",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=260",
+        "code": "260"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "土木 208",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4236113",
+    "syllabusLinks": []
   }
 ]
