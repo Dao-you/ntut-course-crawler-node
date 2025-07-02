@@ -3357,7 +3357,9 @@
     "language": "",
     "notes": "土木 205",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236062",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=349535&code=11097"
+    ]
   },
   {
     "code": "4236077",
@@ -7684,14 +7686,14 @@
     ],
     "teacher": [
       {
+        "name": "王立邦",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11725",
+        "code": "11725"
+      },
+      {
         "name": "林文印",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11110",
         "code": "11110"
-      },
-      {
-        "name": "陳孝行",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10919",
-        "code": "10919"
       }
     ],
     "time": {
@@ -7840,6 +7842,11 @@
     ],
     "teacher": [
       {
+        "name": "王立邦",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11725",
+        "code": "11725"
+      },
+      {
         "name": "林文印",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11110",
         "code": "11110"
@@ -7848,11 +7855,6 @@
         "name": "胡憲倫",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11128",
         "code": "11128"
-      },
-      {
-        "name": "陳孝行",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10919",
-        "code": "10919"
       }
     ],
     "time": {
@@ -7985,57 +7987,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=350039&code=12492"
     ]
-  },
-  {
-    "code": "6016021",
-    "description": {
-      "zh": "本課程之主旨在於加強學生對水質化學之深入了解，以作為進一步對水質管理應用之基礎。課程內容包括高等平衡化學、高等複合化學、高等氧化還原化學在於薄膜處理、離子交換、吸附處理及高級消毒處理程序之應用",
-      "en": "This class will provide graduate student authoritative information on the current knowledge of water chemistry, water quality and water quality control.  The topic will include the applications of Chemical equilibrium, Redox reaction and coordination chemistry on water treatment processes such as CSF, membrane, GAC, Ion exchange and disinfection processes."
-    },
-    "id": "350041",
-    "name": {
-      "zh": "高等水質化學",
-      "en": "Advanced aquatic chemistry"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "環境所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3164",
-        "code": "3164"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳孝行",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10919",
-        "code": "10919"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "6",
-        "7",
-        "8"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6016021",
-    "syllabusLinks": []
   },
   {
     "code": "6017030",
@@ -9411,7 +9362,9 @@
     "language": "",
     "notes": "限生化碩選課；和博班生化組合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805036",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350179&code=11190"
+    ]
   },
   {
     "code": "6805056",
@@ -9533,7 +9486,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6805061",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=350181&code=11338"
+      "ShowSyllabus.jsp?snum=350181&code=11338",
+      "ShowSyllabus.jsp?snum=350181&code=11190"
     ]
   },
   {
@@ -16385,7 +16339,9 @@
     "language": "",
     "notes": "限博士班生化組選課，和生化碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=7307006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350788&code=11190"
+    ]
   },
   {
     "code": "7307001",
