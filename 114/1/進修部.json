@@ -14877,7 +14877,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205006",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352153&code=10843"
+    ]
   },
   {
     "code": "4205023",
@@ -15191,6 +15193,7 @@
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352168&code=11573",
       "ShowSyllabus.jsp?snum=352168&code=11224",
       "ShowSyllabus.jsp?snum=352168&code=11982"
     ]
@@ -15266,6 +15269,7 @@
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C265008",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352169&code=11573",
       "ShowSyllabus.jsp?snum=352169&code=11224",
       "ShowSyllabus.jsp?snum=352169&code=11982"
     ]
