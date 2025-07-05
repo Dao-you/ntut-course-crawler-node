@@ -20994,7 +20994,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705401",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351410&code=24463"
+    ]
   },
   {
     "code": "5705472",
@@ -24219,7 +24221,9 @@
     "language": "",
     "notes": "(群組 5) 創新與創業管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351768&code=24463"
+    ]
   },
   {
     "code": "C235011",
