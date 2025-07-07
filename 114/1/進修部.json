@@ -2312,7 +2312,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3601013",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350957&code=24469"
+    ]
   },
   {
     "code": "3601058",
