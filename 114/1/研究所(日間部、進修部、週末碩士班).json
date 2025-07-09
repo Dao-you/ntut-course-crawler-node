@@ -35143,7 +35143,9 @@
     "language": "",
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352464&code=11088"
+    ]
   },
   {
     "code": "C215023",
@@ -38174,7 +38176,9 @@
     "language": "",
     "notes": "總整課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C104005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353139&code=12243"
+    ]
   },
   {
     "code": "C104007",
@@ -38225,7 +38229,9 @@
     "language": "",
     "notes": "總整課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C104007",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353140&code=11309"
+    ]
   },
   {
     "code": "C103008",
