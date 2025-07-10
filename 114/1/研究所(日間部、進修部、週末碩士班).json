@@ -38287,7 +38287,9 @@
     "language": "",
     "notes": "核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353141&code=24584"
+    ]
   },
   {
     "code": "0199997",
