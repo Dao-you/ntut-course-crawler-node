@@ -2050,7 +2050,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓243",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=462",
+        "code": "462"
+      }
+    ],
     "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6952,6 +6958,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351412&code=24581",
       "ShowSyllabus.jsp?snum=351412&code=12246",
       "ShowSyllabus.jsp?snum=351412&code=12532"
     ]

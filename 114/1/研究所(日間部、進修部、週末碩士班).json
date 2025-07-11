@@ -21129,6 +21129,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351412&code=24581",
       "ShowSyllabus.jsp?snum=351412&code=12246",
       "ShowSyllabus.jsp?snum=351412&code=12532"
     ]
@@ -38288,7 +38289,8 @@
     "notes": "核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C103008",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=353141&code=24584"
+      "ShowSyllabus.jsp?snum=353141&code=24584",
+      "ShowSyllabus.jsp?snum=353141&code=24348"
     ]
   },
   {
