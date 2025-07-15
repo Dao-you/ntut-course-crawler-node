@@ -15316,11 +15316,6 @@
         "code": "12389"
       },
       {
-        "name": "林淑玲",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11403",
-        "code": "11403"
-      },
-      {
         "name": "林雅惠",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=12390",
         "code": "12390"
@@ -15339,6 +15334,11 @@
         "name": "鍾建屏",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=12342",
         "code": "12342"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12148",
+        "code": "12148"
       }
     ],
     "time": {
@@ -15358,7 +15358,6 @@
     "notes": "碩二必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205035",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352171&code=11403",
       "ShowSyllabus.jsp?snum=352171&code=11315"
     ]
   },
@@ -15391,11 +15390,6 @@
         "code": "12389"
       },
       {
-        "name": "林淑玲",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11403",
-        "code": "11403"
-      },
-      {
         "name": "林雅惠",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=12390",
         "code": "12390"
@@ -15414,6 +15408,11 @@
         "name": "鍾建屏",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=12342",
         "code": "12342"
+      },
+      {
+        "name": "魏銪志",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12148",
+        "code": "12148"
       }
     ],
     "time": {
@@ -15433,7 +15432,6 @@
     "notes": "碩二",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C235011",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352172&code=11403",
       "ShowSyllabus.jsp?snum=352172&code=11315"
     ]
   },
@@ -18253,6 +18251,11 @@
         "name": "林益辰",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=10504",
         "code": "10504"
+      },
+      {
+        "name": "邱垂昱",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
+        "code": "10632"
       },
       {
         "name": "蔡佩芳",
