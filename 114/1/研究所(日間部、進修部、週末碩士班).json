@@ -4851,7 +4851,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一甲",
+    "notes": "碩一單號選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=349661&code=12181"
@@ -33676,64 +33676,6 @@
       "zh": "本課程將透過每週專題演講方式，讓學生了解有機材料之最新開發成品或最先進之研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
       "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area.  Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
     },
-    "id": "352368",
-    "name": {
-      "zh": "專題討論",
-      "en": "Colloquy"
-    },
-    "stage": "1",
-    "credit": "1.0",
-    "hours": "2",
-    "courseType": "▲",
-    "class": [
-      {
-        "name": "高分所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3157",
-        "code": "3157"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "郭霽慶",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11535",
-        "code": "11535"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "8",
-        "9"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教505",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=62",
-        "code": "62"
-      }
-    ],
-    "people": "1",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "碩一乙",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=352368&code=11535"
-    ]
-  },
-  {
-    "code": "5105001",
-    "description": {
-      "zh": "本課程將透過每週專題演講方式，讓學生了解有機材料之最新開發成品或最先進之研究成果。演講者之安排將以校外知名專家學者及校內各計畫執行者為主。",
-      "en": "This course will provide important information regarding to the latest development or application on the organic materials. Speakers being invited are well-known scholars in organic area.  Graduate students or thesis advisors will also be invited to report any in interesting result from their graduate studies."
-    },
     "id": "352369",
     "name": {
       "zh": "專題討論",
@@ -33774,7 +33716,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一丙",
+    "notes": "碩一雙號選修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105001",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352369&code=12530"
