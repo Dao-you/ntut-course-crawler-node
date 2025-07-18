@@ -22588,14 +22588,14 @@
         "code": "12101"
       },
       {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10821",
+        "code": "10821"
+      },
+      {
         "name": "洪子晏",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=12298",
         "code": "12298"
-      },
-      {
-        "name": "蔡佩芳",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11435",
-        "code": "11435"
       }
     ],
     "time": {
@@ -22612,7 +22612,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩一必修，蔡 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
+    "notes": "碩一必修，林 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": []
   },
