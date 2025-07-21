@@ -8443,7 +8443,9 @@
     "language": "",
     "notes": "碩一必修，林 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351710&code=10821"
+    ]
   },
   {
     "code": "C275014",
