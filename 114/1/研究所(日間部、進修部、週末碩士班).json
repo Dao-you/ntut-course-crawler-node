@@ -13338,57 +13338,6 @@
     ]
   },
   {
-    "code": "C005005",
-    "description": {
-      "zh": "本課程為本校「智慧鐵道學程」的選修課程。本課程開授之目標，是希望修課學生能夠瞭解現今整個鐵道通訊及資訊系統與行控中心的架構、配置、功能及目標。前瞻資通訊技術（Information and Communication Technology, ICT）的發展與創新應用，將定義了整個鐵道產業的未來。由於鐵道通訊及資訊系統本身屬於跨管理、通訊與資訊等專業領域的技術，因此，本課程是針對選讀學程之學生，邀請鐵道通訊及資訊技術應用專家，以業師的身份共同參與授課。 本課程會要求修課同學於期末報告時，針對管理、通訊及資訊三部分提出通訊系統與行控中心之創新想法規劃與評估報告，並邀請學者與產業專家共同擔任評審及評比分數。",
-      "en": "This course is the elective subject of Intelligent Railway Curriculum. The main purpose of this course is to provide the students an overall understanding of the structure, configuration, function, and the objective of the domestic railway industry and operation control center (OCC). The course will be composed with advanced development and innovative application of Information and Communication Technology (ICT), and will dictate the future of railway industry. ICT of railway industry is interdisciplinary which involves management, communication, and information, etc. This intercollegiate course will invite industrial instructors, i.e. ICT experts from some relevant fields in intelligent railway industry to our course. In the final project and report, students are required to plan and assess the communication system and OCC focused on advanced management, communication, and information, and evaluated by qualified experts."
-    },
-    "id": "350557",
-    "name": {
-      "zh": "鐵道通訊與資訊系統",
-      "en": "Railway Communication and Information Systems"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "智慧鐵道學位學程",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3182",
-        "code": "3182"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "蒲鶴章",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=24422",
-        "code": "24422"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "車輛系和鐵道碩士學程合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C005005",
-    "syllabusLinks": []
-  },
-  {
     "code": "C735001",
     "description": {
       "zh": "專題演講或書報討論",
@@ -38333,6 +38282,52 @@
     "ta": [],
     "language": "",
     "notes": "台大張智星 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "353184",
+    "name": {
+      "zh": "自然語言處理",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "5",
+        "6"
+      ],
+      "wed": [],
+      "thu": [
+        "5"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "清大高宏宇 https://ppt.cc/fCH4qx",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
