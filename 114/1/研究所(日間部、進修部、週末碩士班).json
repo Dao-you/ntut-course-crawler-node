@@ -38330,5 +38330,154 @@
     "notes": "清大高宏宇 https://ppt.cc/fCH4qx",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "353185",
+    "name": {
+      "zh": "生成式 AI 文字與圖像生成原理實務",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "黃正民",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11551",
+        "code": "11551"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "8",
+        "9",
+        "A"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "政大蔡炎龍 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353185&code=11551"
+    ]
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "353186",
+    "name": {
+      "zh": "電腦視覺實務與深度學習",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "遠距教學班(研究所)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3113",
+        "code": "3113"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "曾柏軒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11635",
+        "code": "11635"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "2",
+        "3",
+        "4"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "台大鄭文皇 https://ppt.cc/fCH4qx",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "4005144",
+    "description": {
+      "zh": "醫學基礎、藥物學概論、預防醫學概論、醫療倫理與醫療效益概論、永續照護概論 、感染與傳染病防治概論、精神照護概論、一般醫學概論、急重症醫學概論、醫療與生活科技技術概論",
+      "en": "1. General principle  2. Pharmacology 3. Prophylaxis  4. Ethics and medical effects   5. Perpetual care  6. Infections management and prevention  7. Spiritual Care  8. General medicine 9. emergency medical care 10. LOHAS (Lifestyles of Health and Sustainability) technology"
+    },
+    "id": "357677",
+    "name": {
+      "zh": "醫學概論",
+      "en": "Medicine Introduction"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "機電所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3152",
+        "code": "3152"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "7",
+        "8",
+        "9"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "【停開】",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005144",
+    "syllabusLinks": []
   }
 ]
