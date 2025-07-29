@@ -9163,7 +9163,13 @@
         "code": "3166"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "吳佳倫",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=24641",
+        "code": "24641"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -9182,7 +9188,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "吳佳倫老師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505147",
     "syllabusLinks": []
   },
@@ -9238,7 +9244,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "光電系和電資外生所合開，先？201",
+    "notes": "光電系和電資外生所合開，先鋒 201",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505151",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=350175&code=11179"
@@ -34070,7 +34076,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "共同 302 室",
+    "notes": "共同 302 室，7/28 改禮拜二上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4905581",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352402&code=11049"
