@@ -11220,64 +11220,6 @@
     ]
   },
   {
-    "code": "3871108",
-    "description": {
-      "zh": "本課程提供學生與家具實務界交流的平台，邀請家具相關領域的專家進行專題演講，並提供相互研討交流的機會，藉此使同學瞭解家具產業界現況及未來學習的發展方向。",
-      "en": "This course provides students a platform for interacting with current furniture industry, through giving speeches from furniture relative field of industry experts. And provide opportunities for mutual discussions and exchanges. Thereby enabling students to understand the development of the furniture industry's current status and future direction of learning."
-    },
-    "id": "351794",
-    "name": {
-      "zh": "家具與設計講座 (一)",
-      "en": "Practice Forum of Furniture and Design (I)"
-    },
-    "stage": "1",
-    "credit": "2.0",
-    "hours": "2",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "攜四設一",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3219",
-        "code": "3219"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳殿禮",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11275",
-        "code": "11275"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "3",
-        "4"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計207",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=389",
-        "code": "389"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "設計館 207 教室",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3871108",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351794&code=11275"
-    ]
-  },
-  {
     "code": "3871109",
     "description": {
       "zh": "課程講授家具結構之專業知識與應用技術，理論與實務並重。內容包括開發流程、產品工程、基本力學、木材特性、複合板特性、木材接合、機械扣件、框類家具結構特性、板類家具結構特性、層板家具結構特性等。",
