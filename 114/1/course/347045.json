@@ -9,7 +9,7 @@
     "materials": "橋梁設計講義",
     "consultation": "Email；辦公室諮詢 (課後)",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "教導學生使用諸如 ChapGPT 等 AI 工具進行橋梁工程設計與報告編撰。",
     "foreignLanguageTextbooks": false
   }

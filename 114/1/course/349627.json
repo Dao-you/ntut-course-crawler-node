@@ -9,7 +9,7 @@
     "materials": "教科書： 自編講義\n參考書籍：\n1. Fox, R.W., Pritchard, P.J. and McDonald, A.T., “Introduction toFluid Mechanics”, \n    7th ed., 2010, John Wiley & Sons, Inc. (滄海書局)\n2. Kundu, P. K. and Cohen, I.M. “Fluid Mechanics”, 2008 (巨擘)\n3. White, F.M., “Viscous Fluid Flow”, 3rd ed., 2006.\n4. JiJi, L.M., “Heat Convection”, Springer, 2006. (巨擘書局)\n5. Wong, K.F., “Intermediate Heat Transfer”, Marcel Dekker, Inc, 2003.\n    (亞勃克國際圖書)\n6. Incropera, F.P., Dewitt, D.P., Bergman, T.L., and Lavine, A.S.,\n  “Introduction to Heat Transfer”, 5th ed., 2007 (東華書局).\n7. Cengel, Y.A., “Heat and Mass Transfer: A Practical Approach”, \n    3rd ed., 2006. (滄海書局)\n8. Versteeg, H.K, W. Malalasekera (2007), An Introduction to\n    Computational Fluid Dynamics---The Finite Volume Method.\n    (www.amazon.com), (巨擘)\n9. Patankar, S.V. (1980), Numerical Heat Transfer and Fluid Flow.\n    (圖書館)\n10. Anderson, D.A., J.C. Tannehill, R.H. Pletcher (1984,1997),\n     Computational Fluid Mechanics and Heat Transfer, 1984 ed. \n    (圖書館), 1997ed.(巨擘)\n11. Cebeci, T., Shao, J.P., Kafyeke, T., and Laurendeau, E., “Computational Fluid   \n      Dynamics for Engineers”, 2005. (電子書)\n12. Tu, J., Liu, C., and Yeoh, G.H., “Computational Fluid Dynamics: \n      A Practical Approach”, 2008. (電子書)\n13. 張智星，MATLAB 程式設計與應用，1999. (有費網路資料可供下載) \n   MATLAB 程式設計：入門篇 http://mirlab.org/jang/books/matlabProgramming4beginner/\n   MATLAB 程式設計：進階篇 http://mirlab.org/jang/books/matlabProgramming4guru/",
     "consultation": "f10958@ntut.edu.tw",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

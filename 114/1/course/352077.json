@@ -9,7 +9,7 @@
     "materials": "自主學習教材：（視現況調整）\nCoursera 線上費課程\n\nGoogle 官方\nIntroduction to Responsible AI\nResponsible AI: Applying AI Principles with Google Cloud\n\nIBM 官方\nGenerative AI: Prompt Engineering Basics\n\niPAS 公版教材\nhttps://aimfg.org.tw/",
     "consultation": "cic@mail.ntut.edu.tw",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI3：使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "本課程主要 AI 工具如下：文字生成：ChatGPT, Claude, Gemini 等圖像生成：Midjourney, DALL-E, Krita with Comfy UI 等程式輔助：Cursor, Windsurf, Lovable 等設計整合：Figma AI 其他：Krea, Lovart 視趨勢而定",
     "foreignLanguageTextbooks": false
   }

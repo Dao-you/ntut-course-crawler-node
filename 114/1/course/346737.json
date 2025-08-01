@@ -9,7 +9,7 @@
     "materials": "相關網路資源。",
     "consultation": "Office hours",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -23,7 +23,7 @@
     "materials": "無",
     "consultation": "每週二 1000-1100",
     "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -37,7 +37,7 @@
     "materials": "相關網路資源。",
     "consultation": "Office hours 於綜科 219 或者 Email:shihhao@ntut.edu.tw",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -51,7 +51,7 @@
     "materials": "無",
     "consultation": "(1) 透過電子郵件 ctchuang@ntut.edu.tw 討論課程問題 (2) 於教師諮商時間 (Office Hours) 討論課程問題",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -65,7 +65,7 @@
     "materials": "演講者上課講義內容",
     "consultation": "教師時間 提供個別諮詢",
     "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "依學校規定",
     "foreignLanguageTextbooks": false
   }

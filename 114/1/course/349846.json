@@ -9,7 +9,7 @@
     "materials": "●\t資料探勘 (Data Mining), 曾憲雄等，旗標出版股份有限公司，2005\n●\tMachine learning, Tom Mitchell, McGraw-Hill, 1997\n●\tData Mining: Concepts and Techniques, Han and Kamber, Morgan Kaufmann, 2000\n●\tPredictive Data Mining, Weiss and Indurkhya, Morgan Kaufmann, 1998\n●\tData Mining Your Web Site, J. Mena, Digital Press, 1999\n●\tResearch paper collection, (collected by instructor) will be distributed in class\n●\tApplied Multivariate Statistical Analysis, by Johnson, R.A., and Wichern, D.W., Prentice Hall, 2002. \n●\tMachine Learning Group at the University of Waikato https://www.cs.waikato.ac.nz/ml/weka/courses.html",
     "consultation": "課程諮詢管道 1.\tOffice hour 詢問 2.\tGoogle meet 遠距討論 3.\tLine group 群組訊息分享及討論",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

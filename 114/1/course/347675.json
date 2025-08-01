@@ -9,7 +9,7 @@
     "materials": "材料工程實習 (三) 修課同學，如有實習上的疑問與不便，可告知授課教師或助教詢問與解惑。備有講義與相關專業書籍及資料，可提供材料工程實習的同學參考。",
     "consultation": "OFFICE HOURS",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -23,7 +23,7 @@
     "materials": "教科書:\n1. 材料工程實驗及原理 ---01979-01  . 林樹均等著  全華圖書公司出版\n2. 金屬材料實驗 ---1. 洪敏雄等著  中華民國材料科學學會出版\n\n另外參考書:\n1. 金屬塑性加工學 (理論及實驗)  余煥騰老師著，全華圖書公司 (修訂二版)\n2.Manufacturing Processes for Engineering Materials by Kalpakjian and Steven Schimid, SI 第五版，東華書局\n3.Materials and Processes in Manufacturing by Degarmo ,Black ,Kohser   高立圖書公司  (中文版 or 外文)",
     "consultation": "課程諮詢、課程諮詢內容及教材提供在 I - 學園平台 及 TEAMS",
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "本學期原則採實體授課方式；因應疫情警戒標準，本學期教學及授課方式請依照學校網頁所公布之訊息為準遠距上課或實體授課視疫情公告，分組進行實驗、實驗數據整理，三級 (含) 以上警戒：課程全採遠距授課。學生遠距上課或實體授課視疫情公告，上課時間、上課內容及教材提供在 I - 學園平台 及 TEAMS◎",
     "foreignLanguageTextbooks": false
   }

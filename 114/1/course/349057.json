@@ -9,7 +9,7 @@
     "materials": "自編教材\nUse of self-made materials",
     "consultation": "請至綜合科館 526-21 室",
     "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "因應遠距教學調整之上課方式，將使用 Microsoft Teams. 上課網址：Microsoft Teams Account Information =>  https://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
     "foreignLanguageTextbooks": false
   },
@@ -23,7 +23,7 @@
     "materials": "電子電路控制 (建興出版社)",
     "consultation": "教師辦公時間，提供個別諮詢",
     "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "依學校規定辦理",
     "foreignLanguageTextbooks": false
   },
@@ -37,7 +37,7 @@
     "materials": "第 13~18 週 能源系老師及業師聯合授課 (ppt)",
     "consultation": "能源系 蕭淵元老師 yyhsiao@ntut.edu.tw",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

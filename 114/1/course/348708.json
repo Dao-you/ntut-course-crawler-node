@@ -9,7 +9,7 @@
     "materials": "主要教材：投影片與網路教材\n參考教材：\n1. 臺大資管系孔令傑老師的線上程式設計課程\nhttps://youtube.com/playlist?list=PLMHSr8fseBzUvwjKtR6pX0Vv9Q9H-V3lY&si=QrUUPicdD2amB9dp\n2. C Programming Language, 2nd edition, by Kernighan Brian W. and Ritchie Dennis, Pearson, 1988.\n3. C++ Primer, 5th edition, by Stanley Lippman, Josée Lajoie, and Barbara Moo, Addison-Wesley Professional, 2012.\n4. Beginning C++ Through Game Programming, 4th edition, by Michael Dawson, Cengage Learning PTR, 2014.\n5. 由片語學習 C 程式設計（第二版）, 劉邦 著，國立臺灣大學出版中心，2019.",
     "consultation": "約課後時間進行諮詢",
     "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

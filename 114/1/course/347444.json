@@ -9,7 +9,7 @@
     "materials": "自編講義",
     "consultation": "請聯絡授課教師：陳文斌老師 e-mail: wpchen@mail.ntut.edu.tw 研究室：綜科館 802-1",
     "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "若因疫情發展，實施遠距教學以 google meet 視訊會議方式進行，會議連結：https://meet.google.com/sac-wwou-kzh 實驗實作部分將另行安排補做實驗時間。課堂講授內容會以教學全都錄上傳網路 i - 學園，若因疫情隔離無法到校同學，請自行參閱課堂錄影。",
     "foreignLanguageTextbooks": false
   },
@@ -23,7 +23,7 @@
     "materials": "自編講義",
     "consultation": "以 line 即時聯繫，實體在研究室討論或是線上遠距會議討論。",
     "課程對應SDGs指標": "SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

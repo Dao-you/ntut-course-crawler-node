@@ -9,7 +9,7 @@
     "materials": "There is no required textbook for this course. However, lectures are based largely on the following sources—you can consider one of these if you're looking for a reference:\n\n1. Michael Sipser, “Introduction to the Theory of Computation”\n2. John Hopcroft and Jeffrey Ullman, “Introduction to Automata Theory, Languages, and Computation”\n\nOther supplementary resources: \n\n3. Alexandra Silva, \"Kleene Coalgebra\", Ph.D. thesis\n4. Javier Esparza and Michael Blondin, \"Automata Theory -- An Algorithmic Approach\", https://michaelblondin.com/automata/\n5. C. Baier, J.-P. Katoen, \"Principal of Model Checking\"",
     "consultation": "Email: jalin@ntut.edu.tw",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "Course Website: TBA",
     "foreignLanguageTextbooks": false
   }

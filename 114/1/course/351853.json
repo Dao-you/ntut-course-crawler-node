@@ -9,7 +9,7 @@
     "materials": "You may find the corresponding materials to the lectures in the following books.\n\n1. Alfred V. Aho, Monica S. Lam, Ravi Sethi et Jeffrey D. Ullman Modern Compilers: Principles, Techniques, and Tools. \n\n2. Benjamin C. Pierce Types and Programming Languages\n\n3. Randal E. Bryant et David R. O'Hallaron Computer Systems: A Programmer's Perspective\n\nOther relevant resources:\n- Nielson, Nielson, and Hankin. Principles of Program Analysis \n- Appel. Modern compiler implementation in ML (there are also Java/C versions) \n- Robert Harper. Practical Foundations for Programming Languages",
     "consultation": "Course website: TBAContact email: jalin@ntut.edu.tw",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "Please install OCaml in your machine before the class. https://ocaml.org/Some learning resources:- resources provided on the official website above- Try OCaml is a tutorial you can follow in your browser.  https://try.ocamlpro.com/ - OCaml Programming: Correct + Efficient + Beautiful is fantastic and free to read online  https://cs3110.github.io/textbook/cover.html - so is The Real world OCaml  https://dev.realworldocaml.org/- Learn Programming with OCaml contains materials equivalent to the algorithm course but written in OCaml  https://usr.lmf.cnrs.fr/lpo/",
     "foreignLanguageTextbooks": false
   }

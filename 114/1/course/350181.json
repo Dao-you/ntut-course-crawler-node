@@ -9,7 +9,7 @@
     "materials": "1. 指定教科書: ”Lewin's Genes XII” by  Benjamin Lewin, ISBN：9781284104493\n\n2. 參考教科書: （http://www.ncbi.nlm.nih.gov/books?term=genes） \nMolecular Biology of the Cell 5/e 2008  by Bruce Alberts, et al. Published by Garland Science ISBN: 9780815341062\nHolland-Frei Cancer Medicine. 6th edition. Kufe DW, Pollock RE, Weichselbaum RR, et al., editors.\nAn Introduction to Genetic Analysis. 10th edition. Griffiths AJF, Miller JH, Suzuki DT, et al.\n\n3. 另可再給幾篇近期 Review 文章",
     "consultation": "wendywwh@ntut.edu.tw 或電話諮詢 02-27712171 ext 4776",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）SDG14：水下生命（Life below Water）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "核心目標 02 確保糧食安全，消除飢餓，促進永續農業核心目標 14 保育及永續利用海洋生態系，以確保生物多樣性，並防止海洋環境劣化核心目標 15 保育及永續利用陸域生態系，以確保生物多樣性，並防止土地劣化",
     "foreignLanguageTextbooks": true
   },
@@ -23,7 +23,7 @@
     "materials": "Gene , the version is acceptable after 10th edition  (major) \nMolecular Biology of the cell (5th)",
     "consultation": "線上 或 辦公室。",
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "線上課程會預先公告！以 Google Meet 為主。",
     "foreignLanguageTextbooks": true
   }

@@ -9,7 +9,7 @@
     "materials": "[1] Artificial Neural Networks - A Practical Course, by Da Silva et al. 2017\n[2] Neural Networks and Learning Machines, by Simon Haykin. 2008\n[3] Raschka, Sebastian, and Vahid Mirjalili. \"Python machine learning: Machine learning and deep learning with Python, scikit-learn, and TensorFlow 2.\" Packt Publishing Ltd, 2019.\n[4] Nielsen, Michael A. \"Neural networks and deep learning.\" Vol. 25. San Francisco, CA, USA: Determination press, 2015.",
     "consultation": "Email: dcychiang@ntut.edu.tw",
     "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   }

@@ -9,7 +9,7 @@
     "materials": "教師自編教材",
     "consultation": "劉建浩 專任教授 jhliou@ntut.edu.tw 徐昕 專任助理教授 hwhsu@ntut.edu.tw 張秉宸 專任教授 pcchang@ntut.edu.tw 車振華 專任教授 zhche@ntut.edu.tw 翁頌舜 專任教授 wengss@ntut.edu.tw 洪子晏 專任助理教授 tyhong@ntut.edu.tw",
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -23,7 +23,7 @@
     "materials": "教師自編教材",
     "consultation": "課後諮詢或寄信至 tyhong@ntut.edu.tw",
     "課程對應SDGs指標": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -37,7 +37,7 @@
     "materials": "自編教材\n「永續工程與管理」，中國工業工程學會",
     "consultation": "E-Mail: hwhsu@ntut.edu.twTEL: +886-2-27712171 ext.2323Lab website: https://sites.google.com/view/sdsclab/",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG3：良好健康和福祉（Good Health and Well-being）SDG4：優質教育（Quality Education）SDG5：性別平等（Gender Equality）SDG6：潔淨水與衛生（Clean Water and Sanitation）SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG10：減少不平等（Reduced Inequalities）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG13：氣候行動（Climate Action）SDG14：水下生命（Life below Water）SDG15：陸域生命（Life on Land）SDG16：和平正義與有力的制度（Peace, Justice and Strong Institutions）SDG17：夥伴關係（Partnerships for the Goals）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -51,7 +51,7 @@
     "materials": "教師自編教材",
     "consultation": "課後時間諮詢 TA 或老師，或寄信至 pcchang@ntut.edu.tw",
     "課程對應SDGs指標": "SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "課後時間諮詢 TA 或老師，或寄信至 pcchang@ntut.edu.tw",
     "foreignLanguageTextbooks": false
   }

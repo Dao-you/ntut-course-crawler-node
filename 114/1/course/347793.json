@@ -9,7 +9,7 @@
     "materials": "1. DEITEL, \"VISUAL C# HOW TO PROGRAM 6/E (GE),\" Chuan Hwa Book Co., LTD., 2017. ISBN: 9781292153469.\n2. 邱宏彬、邱奕儒，程式設計基本功與實務範例解析－使用 C#(第四版), 全華，2023，ISBN: 9786263283350。\n3.  Baxter-reynolds, Matthew/ Classon, Iris, \"Programming Windows Store Apps with C#\", O’Reilly Media, 2014. ISBN: 9781449320850.",
     "consultation": "Email: alanwu@ntut.edu.tw",
     "課程對應SDGs指標": "SDG1：消除貧窮（No Poverty）SDG2：消除飢餓（Zero Hunger）SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）",
     "remarks": "The course progress will be fine-tuned according to the actual class situation.The examination will include computer-based practical work and a final project report.",
     "foreignLanguageTextbooks": true
   }

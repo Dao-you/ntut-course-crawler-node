@@ -9,7 +9,7 @@
     "materials": "Textbook\nHandouts\n\nReferences:\nTan, Steinbach, Karpatne, Kumar, Introduction to Data Mining, 2e, 2019\nOpen AI spinning Up https://spinningup.openai.com/en/latest/spinningup/rl_intro.html\n\nMendenhall and Sincich, Statistics for engineering and the sciences, 5/e, Prentice Hall.\n鄭羽熙，人工智慧關鍵技術初探，2019.8.26\nJinwoo Shin, Deep Learning for Optimization, Communication and Networks, The East Asian School of Information Theory & Communication (EASITC), August 6-10, 2018 \nhttps://www-users.cs.umn.edu/~kumar001/dmbook/index.php#item4\nhttp://www.willamette.edu/~gorr/classes/cs449/intro.html\nhttps://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html\nhttp://www.aiotlab.org/teaching/dl_app.html\nNVIDIA 深度學習基礎理論與實踐 Slides1 深度學習基本原理\nMicrosoft Azure Service Custom Vision Cavedu 教育團隊\n生成網路_曾吉弘 02_自動編碼器",
     "consultation": "office hours",
     "課程對應SDGs指標": "無（None）",
-    "課程是否導入AI": "AI4：簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

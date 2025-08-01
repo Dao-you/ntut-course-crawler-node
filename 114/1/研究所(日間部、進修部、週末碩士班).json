@@ -7261,65 +7261,6 @@
     ]
   },
   {
-    "code": "5825107",
-    "description": {
-      "zh": "本課程之目的係透過對文化之研究與解析，作為產品設計發展之元素，藉由設計專題之應用，開發出具文化意涵之商品，以培養學生對各種文化之解析能力，與設計之創新技能。",
-      "en": "The aim of this course is via the research and analyze the culture, which to be the element of the development of product design. Through the application of design project to develop the cultural product. It could train the students the ability of analyzing the every cultures and the innovation skill of design."
-    },
-    "id": "349932",
-    "name": {
-      "zh": "設計與文化研究",
-      "en": "Study of Design and  Culture"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "創新所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3162",
-        "code": "3162"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳殿禮",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11275",
-        "code": "11275"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [
-        "5",
-        "6",
-        "7"
-      ],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "設計207",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=389",
-        "code": "389"
-      }
-    ],
-    "people": "12",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=5825107",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=349932&code=11275"
-    ]
-  },
-  {
     "code": "5905001",
     "description": {
       "zh": "碩士學位論文寫作",
@@ -22570,7 +22511,8 @@
     "notes": "碩一必修，林 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351710&code=10821"
+      "ShowSyllabus.jsp?snum=351710&code=10821",
+      "ShowSyllabus.jsp?snum=351710&code=12298"
     ]
   },
   {
@@ -22659,7 +22601,9 @@
     "language": "",
     "notes": "碩一必修，11.02、12.07",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351712&code=12298"
+    ]
   },
   {
     "code": "C275025",

@@ -9,7 +9,7 @@
     "materials": "1. 教科書 textbook (必備)\na. 計算機概論：AI 與科技的共舞，第 19 版，作者：趙坤茂 等，出版社：全華，ISBN:  978-626-328-9062 \nb. 看圖學 C 語言與運算思維，第 2 版，作者：陳會安，出版社：全華，ISBN: 978-986-503-591-4",
     "consultation": "email",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "remarks": "若本校公布採遠距教學，本課程將採遠距授課。",
     "foreignLanguageTextbooks": false
   }

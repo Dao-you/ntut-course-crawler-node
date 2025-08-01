@@ -8444,7 +8444,8 @@
     "notes": "碩一必修，林 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351710&code=10821"
+      "ShowSyllabus.jsp?snum=351710&code=10821",
+      "ShowSyllabus.jsp?snum=351710&code=12298"
     ]
   },
   {
@@ -8533,7 +8534,9 @@
     "language": "",
     "notes": "碩一必修，11.02、12.07",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275023",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351712&code=12298"
+    ]
   },
   {
     "code": "C275025",

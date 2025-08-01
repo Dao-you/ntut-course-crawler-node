@@ -9,7 +9,7 @@
     "materials": "參考書目: Papers in the literature.",
     "consultation": "請 email 至授課教師洽詢課程相關資訊。課程動態資訊，將更新於北科 i 學園 PLUS。",
     "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）AI5：深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
     "remarks": "",
     "foreignLanguageTextbooks": true
   },
@@ -23,7 +23,7 @@
     "materials": "教師另準備教材",
     "consultation": "與助教或教師聯繫另約時間",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -37,7 +37,7 @@
     "materials": "無",
     "consultation": "每週討論",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   },
@@ -51,7 +51,7 @@
     "materials": "教師自行準備之教材",
     "consultation": "每週團體討論時間或另與指導老師約時間討論",
     "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
-    "課程是否導入AI": "AI2：鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）",
     "remarks": "",
     "foreignLanguageTextbooks": false
   }

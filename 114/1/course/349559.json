@@ -9,7 +9,7 @@
     "materials": "自編教材\nUse of self-made materials",
     "consultation": "請至綜合科館 526-21 室",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "無（None）",
+    "課程是否導入AI": "● 無（None）",
     "remarks": "因應遠距教學調整之上課方式，將使用 Microsoft Teams. 上課網址：Microsoft Teams Account Information =>  https://cnc.ntut.edu.tw/p/405-1004-99923,c10059.php?Lang=zh-tw",
     "foreignLanguageTextbooks": false
   },
@@ -23,7 +23,7 @@
     "materials": "無指定教科書\n開放選擇相關之期刊研究論文",
     "consultation": "Office Hours: Tuesday 09:00-12:00, 13:00-16:00 (reference only)，please e-mail or call to make an appointmentEmail: hhwang@mail.ntut.edu.twOffice: Complex Building 526-12TEL: (02) 27712171 ext 3618",
     "課程對應SDGs指標": "SDG4：優質教育（Quality Education）",
-    "課程是否導入AI": "AI1：使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
     "remarks": "The classes will be adjusted according to the COVID condition, based on the announcement.If remote classes are needed, students do not need to come to the school but need to attend the online classes.Class Material: i-School https://istudy.ntut.edu.tw/learn/index.phpClass Link: GoogleMeet https://meet.google.com/hbe-npat-gpuAttendance: ZUVIO",
     "foreignLanguageTextbooks": false
   }
