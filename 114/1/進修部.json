@@ -4546,7 +4546,13 @@
         "code": "3193"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾釋鋒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12036",
+        "code": "12036"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -4566,7 +4572,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005086",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351090&code=12036"
+    ]
   },
   {
     "code": "4005087",

@@ -2442,7 +2442,13 @@
         "code": "3152"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾釋鋒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12036",
+        "code": "12036"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -6217,7 +6223,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語 / 哈佛",
+    "notes": "哈佛",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705501",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=349833&code=12246"
@@ -6865,13 +6871,7 @@
         "code": "3161"
       }
     ],
-    "teacher": [
-      {
-        "name": "邱俊智",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12577",
-        "code": "12577"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -6892,15 +6892,13 @@
         "code": "487"
       }
     ],
-    "people": "3",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=349848&code=12577"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "5705504",
@@ -7014,7 +7012,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705509",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=349852&code=12343"
@@ -18613,7 +18611,13 @@
         "code": "3193"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "曾釋鋒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12036",
+        "code": "12036"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -18633,7 +18637,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005086",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351090&code=12036"
+    ]
   },
   {
     "code": "4005087",
@@ -33507,7 +33513,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705499",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352362&code=12246"
@@ -35888,7 +35894,13 @@
         "code": "3160"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "覃鑫富",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12635",
+        "code": "12635"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -35907,7 +35919,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘教師覃鑫富",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605010",
     "syllabusLinks": []
   },
@@ -35939,21 +35951,15 @@
       "mon": [],
       "tue": [],
       "wed": [],
-      "thu": [],
-      "fri": [
-        "2",
-        "3",
-        "4"
+      "thu": [
+        "5",
+        "6",
+        "7"
       ],
+      "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "綜科110_2",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=411",
-        "code": "411"
-      }
-    ],
+    "classroom": [],
     "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
@@ -37593,7 +37599,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "英語授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4906233",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353073&code=12142"
@@ -38430,6 +38436,63 @@
     "language": "",
     "notes": "【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005144",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C503005",
+    "description": {
+      "zh": "本課程旨在培養學生掌握人工智慧技術在通訊網路中的應用，特別是在衛星通訊系統和無線網路中的實踐。學生將學習通訊網路的基礎概念、衛星次系統、軌道力學與資料解析，並瞭解無線網路架構、資源分配及網路切片技術。此外，學生將掌握如何利用人工智慧和深度強化學習技術進行資源優化、訊號處理與異常檢測，並應用實驗平台進行模擬和實驗，最終具備設計、實施並優化通訊網路的能力。",
+      "en": "This course aims to equip students with the skills to apply artificial intelligence techniques in communication networks, particularly in satellite communication systems and wireless networks. Students will learn the fundamental concepts of communication networks, satellite subsystems, orbital mechanics, and data analysis, as well as the architecture of wireless networks, resource allocation, and network slicing technologies. Additionally, students will master how to use artificial intelligence and deep reinforcement learning techniques for resource optimization, signal processing, and anomaly detection. They will also apply experimental platforms for simulations and experiments, ultimately gaining the ability to design, implement, and optimize communication networks."
+    },
+    "id": "357697",
+    "name": {
+      "zh": "人工智慧於通訊網路優化",
+      "en": "Artificial Intelligence in Communication Network Optimization"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "彭朋群",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11369",
+        "code": "11369"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [
+        "2",
+        "3",
+        "4"
+      ],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "億光0935",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=529",
+        "code": "529"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開，核心課程",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C503005",
     "syllabusLinks": []
   }
 ]
