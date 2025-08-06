@@ -31362,7 +31362,13 @@
         "code": "3158"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林裕森",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12638",
+        "code": "12638"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -31381,7 +31387,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘甲組老師授課，全英授課",
+    "notes": "全英授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231417",
     "syllabusLinks": []
   },
