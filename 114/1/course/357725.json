@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "簡德年",
+    "email": "tenienchien@gmail.com",
+    "latestUpdate": "2025-08-06 17:01:32",
+    "objective": "本課程在於協助同學了解數位轉型的浪潮趨勢，以及適應新科技所改變的商業模式。課程將介紹創新的商業模式例如共享經濟、金融科技、線上至離線、使用者生成內容等平台模式應用。每個模式將會連結到實務中企業個案，以協助同學進一步深入了解與分析創新的模式概念。本課程將涵蓋數位轉型與創新模式的基本概念，以數位轉型與科技適應角度，透過實務案例來了解創新商業模式。\nThis course aims to help students understand the trend of digital transformation and technology adaption in business models. The innovative business models will be introduced such as sharing economy, FinTech, online-to-offline, user-generated content, and so on. The matched cases will be selected to elaborate and analyze the innovative business models. This course will provide comprehensive knowledge of innovative business models by digital transformation and technology adaption (information and communication technology).",
+    "schedule": "Week 01\tCourse Introduction \nWeek 02\tDeveloping a Digital Transformation Blueprint: Vision, Alignment, and Commitment\nWeek 03\tSelecting the Scope and Prioritizing Transformation Areas\nWeek 04\tDefining Possibilities: Business Innovation through Technology\nWeek 05\tResource Mapping and Agile Team Structure Design\nWeek 06\tJournal Reading (1): Theoretical Foundations and Integrated Frameworks of Digital Transformation (Theme 1)\nWeek 07\tJournal Reading (2): Strategies and Organizational Capabilities for Digital Transformation (Theme 2)\nWeek 08\tJournal Reading (3): Innovation and Business Model Renewal Driven by Digital Transformation (Theme 3)\nWeek 09\tMidterm Project Presentation \nWeek 10\tRecruiting and Retaining Digital Talent: Building an Attractive Workplace\nWeek 11\tPerformance Systems and Reskilling for Technical Talent\nWeek 12\tAgile Operations and Organizational Structure Redesign\nWeek 13\tUser Experience Design and Customer-Centric Innovation\nWeek 14\tBuilding Technical Platforms and Cloud Strategy Implementation\nWeek 15\tFinal Project Presentation \nWeek 16\tConstitution Day – No Class\nWeek 17\tLunar New Year Holiday – No Class\nWeek 18\tFinal Presentation and Course Wrap-Up",
+    "scorePolicy": "Class Participation: 40%\nMidterm Project: 30%\nFinal Project: 30%",
+    "materials": "Self-compiled materials will be used in this course. Slides and case studies will be prepared and provided during class sessions.\n\n1. Eric Lamarre, Kate Smaje, Rodney Zemmel (2023). The McKinsey Guide to Outcompeting in the Age of Digital and AI. Wiley. ISBN: 978-1394207114\n\n2. Alex Zarifis, Despo Ktoridou, Leonidas Efthymiou, Xusen Cheng (2023). Business Digital Transformation: Selected Cases from Industry Leaders. Palgrave Macmillan. ISBN: 978-3031336645",
+    "consultation": "Office Hours: Monday 16:00-18:00Thursday 11:00-13:00Please schedule a discussion time via email in advance.",
+    "課程對應SDGs指標": "SDG4：優質教育（Quality Education）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）SDG12：負責任的消費與生產（Responsible Consumption and Production）SDG17：夥伴關係（Partnerships for the Goals）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]

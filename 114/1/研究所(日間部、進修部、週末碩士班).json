@@ -5328,6 +5328,11 @@
         "code": "12344"
       },
       {
+        "name": "黃光廷",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12144",
+        "code": "12144"
+      },
+      {
         "name": "蘇瑛敏",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=10546",
         "code": "10546"
@@ -5361,10 +5366,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新增一位乙組老師授課",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221103",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=349699&code=12344",
+      "ShowSyllabus.jsp?snum=349699&code=12144",
       "ShowSyllabus.jsp?snum=349699&code=10546"
     ]
   },
@@ -13516,9 +13522,9 @@
     ],
     "teacher": [
       {
-        "name": "曾釋鋒",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12036",
-        "code": "12036"
+        "name": "許穎超",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12597",
+        "code": "12597"
       }
     ],
     "time": {
@@ -13540,9 +13546,7 @@
     "language": "",
     "notes": "半導體碩一必修課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C775001",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=350590&code=12036"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "4505602",
@@ -22899,7 +22903,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351721&code=11429",
       "ShowSyllabus.jsp?snum=351721&code=10821",
-      "ShowSyllabus.jsp?snum=351721&code=11440"
+      "ShowSyllabus.jsp?snum=351721&code=11440",
+      "ShowSyllabus.jsp?snum=351721&code=12173"
     ]
   },
   {
@@ -22962,7 +22967,8 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351741&code=11315"
+      "ShowSyllabus.jsp?snum=351741&code=11315",
+      "ShowSyllabus.jsp?snum=351741&code=22653"
     ]
   },
   {
@@ -23121,7 +23127,8 @@
       "ShowSyllabus.jsp?snum=351746&code=11429",
       "ShowSyllabus.jsp?snum=351746&code=10821",
       "ShowSyllabus.jsp?snum=351746&code=11440",
-      "ShowSyllabus.jsp?snum=351746&code=10938"
+      "ShowSyllabus.jsp?snum=351746&code=10938",
+      "ShowSyllabus.jsp?snum=351746&code=12173"
     ]
   },
   {
@@ -30244,7 +30251,13 @@
         "code": "3153"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "劉琦允",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12632",
+        "code": "12632"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [
@@ -30269,7 +30282,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "全英 / 劉琦允老師 / 土木 208",
+    "notes": "全英 / 土木 208",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236122",
     "syllabusLinks": []
   },
@@ -34867,7 +34880,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理和經營策略實務",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352455&code=24421"
+    ]
   },
   {
     "code": "C215039",
@@ -35927,7 +35942,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605010",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352569&code=12635"
+    ]
   },
   {
     "code": "5605040",
@@ -36336,7 +36353,13 @@
         "code": "3195"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳明彥",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12627",
+        "code": "12627"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37936,7 +37959,10 @@
     "language": "",
     "notes": "資財所和 IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=AS05004",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353111&code=11297",
+      "ShowSyllabus.jsp?snum=353111&code=12173"
+    ]
   },
   {
     "code": "4236113",
@@ -38499,6 +38525,8 @@
     "language": "",
     "notes": "大研合開，核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503005",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357697&code=11369"
+    ]
   }
 ]

@@ -8834,7 +8834,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351721&code=11429",
       "ShowSyllabus.jsp?snum=351721&code=10821",
-      "ShowSyllabus.jsp?snum=351721&code=11440"
+      "ShowSyllabus.jsp?snum=351721&code=11440",
+      "ShowSyllabus.jsp?snum=351721&code=12173"
     ]
   },
   {
@@ -8897,7 +8898,8 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351741&code=11315"
+      "ShowSyllabus.jsp?snum=351741&code=11315",
+      "ShowSyllabus.jsp?snum=351741&code=22653"
     ]
   },
   {
@@ -9056,7 +9058,8 @@
       "ShowSyllabus.jsp?snum=351746&code=11429",
       "ShowSyllabus.jsp?snum=351746&code=10821",
       "ShowSyllabus.jsp?snum=351746&code=11440",
-      "ShowSyllabus.jsp?snum=351746&code=10938"
+      "ShowSyllabus.jsp?snum=351746&code=10938",
+      "ShowSyllabus.jsp?snum=351746&code=12173"
     ]
   },
   {
@@ -18030,7 +18033,9 @@
     "language": "",
     "notes": "(群組 6) 財金管理 (聯輔會) 修畢企業管理和經營策略實務",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215045",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352455&code=24421"
+    ]
   },
   {
     "code": "C215039",
@@ -18745,7 +18750,13 @@
         "code": "3195"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳明彥",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12627",
+        "code": "12627"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],

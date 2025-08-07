@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "覃鑫富",
+    "email": "trandinhphuc1508@gmail.com",
+    "latestUpdate": "2025-08-06 18:45:44",
+    "objective": "Introduction (Chapt. 1)\nMaterial Classification (Chapts. 2 & 3) \nMechanical Testing (Chapt. 4)\nStress-Strain Equations and Models (Chapt. 5)\nPrincipal States of Stress and Strain (Chapt. 6)\nFailure Criteria (Chapt. 7)\nFracture of Cracked Members (Chapt. 8) \nHigh-Cycle Fatigue (Chapt. 9)\nFatigue of Notched Members (Chapt. 10)\nFatigue Crack Growth (Chapt. 11)\nPlastic Deformation (Chapt. 12)\nLow-Cycle Fatigue (Chapt. 14)\nCreep (Chapt. 15)",
+    "schedule": "The teacher expects each chapter to be finished weekly, but the schedule is flexible.",
+    "scorePolicy": "Homework:  30%\nMidterm Exam.:  30%\nFinal Exam.:  40%\nNo late homework.\nNo plagiarizing on homework.",
+    "materials": "Textbook:  “Mechanical Behavior of Materials” 5th Ed. by N. E. Dowling, Pearson, 2020. (高立圖書公司代理)",
+    "consultation": "Students might have access to curricular consultation from the advisor to get advice about courses or academic planning.",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 無（None）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  }
+]
