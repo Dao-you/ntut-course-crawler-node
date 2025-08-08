@@ -2468,7 +2468,9 @@
     "language": "",
     "notes": "綜三演講廳，系主任",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005926",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=349397&code=12036"
+    ]
   },
   {
     "code": "4005036",
@@ -7661,6 +7663,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6006002",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350030&code=11725",
       "ShowSyllabus.jsp?snum=350030&code=11110"
     ]
   },
@@ -7823,6 +7826,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6007006",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350033&code=11725",
       "ShowSyllabus.jsp?snum=350033&code=11110",
       "ShowSyllabus.jsp?snum=350033&code=11128"
     ]
