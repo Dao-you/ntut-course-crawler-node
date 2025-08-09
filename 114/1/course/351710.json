@@ -1,5 +1,19 @@
 [
   {
+    "name": "朴維鎮",
+    "email": "eugenepark993@gmail.com",
+    "latestUpdate": "2025-08-08 13:45:34",
+    "objective": "介紹概念和解決問題的技術在生產管理和運營管理中的重要性。主題包括需求預測、容量管理、資源配置、庫存管理、供應鏈管理、品質控制和專案管理。\nIntroduction to concepts and problem-solving techniques important in production management and operations management. Topics include demand forecasting, capacity management, resource allocation, inventory management, supply chain management, quality control, and project management.",
+    "schedule": "Ch 3 Forecasting\nCh19 Linear Programming\nDigital Twin",
+    "scorePolicy": "Presentation: 40%\nAssignment: 30% \nClass Participation: 30%",
+    "materials": "William J Stevenson, Operations Management, 14th Ed., McGraw-Hill Higher Education, 2020.",
+    "consultation": "Email or Line",
+    "課程對應SDGs指標": "SDG7：可負擔的潔淨能源（Affordable and Clean Energy）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "林榮禾",
     "email": "rhlin@ntut.edu.tw",
     "latestUpdate": "2025-07-31 21:29:15",

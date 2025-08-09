@@ -22525,6 +22525,7 @@
     "notes": "碩一必修，林 12.13-14 朴 115.1.10-11 洪 11.01、12.06",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275009",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351710&code=12101",
       "ShowSyllabus.jsp?snum=351710&code=10821",
       "ShowSyllabus.jsp?snum=351710&code=12298"
     ]
@@ -37168,7 +37169,13 @@
         "code": "3150"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "劉人瑋",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12634",
+        "code": "12634"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37213,7 +37220,13 @@
         "code": "3150"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "莊承義",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12633",
+        "code": "12633"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
