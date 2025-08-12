@@ -2117,69 +2117,6 @@
     ]
   },
   {
-    "code": "3735007",
-    "description": {
-      "zh": "本課程旨在讓學生學習如何做財務投資決策，使得商業或工業的投資專案得到最大投資效益或最經濟的成本，課程主題包含：投資環境的定義、投資專案評估方法、利率及通膨率、資產折舊、所得稅、專案現金流量分析、專案投資風險與不確定性、實質選擇權、商業及工業投資案例研討。本課程中將考量專案投資分析的各種影響因素，使得決策者可以更有效地做出投資決策。",
-      "en": "The objective of this course is to teach students how to make smart financial decisions in an effort to create economical products. The subjects includes: the investment environment, investment project evaluation, interest rate and inflation rate, depreciation, income taxes, developing project cash flows, uncertainty and risk, real options, special topics of business and engineering decision. Various factors that affect the investment project decision problems are discussed to help decision maker properly resolves investment decision."
-    },
-    "id": "349386",
-    "name": {
-      "zh": "高等工程經濟",
-      "en": "Advanced Engineering Economics"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "工管所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3151",
-        "code": "3151"
-      },
-      {
-        "name": "管理外國學生專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3171",
-        "code": "3171"
-      },
-      {
-        "name": "管理博所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3187",
-        "code": "3187"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "6",
-        "7",
-        "8"
-      ],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "2",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "IMBA、工管博和管理博，823",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=3735007",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=349386&code=10632"
-    ]
-  },
-  {
     "code": "3735011",
     "description": {
       "zh": "隨工業物聯網的快速發展，越來越多的感測數據得以被記錄，除了依賴專家的經驗判斷，更可藉由數據分析的結果提供決策上的輔助。本課程將介紹資料科學的基本分析架構，從問題定義、數據前處理、特徵工程、模型建立、結果解釋與評估等，除課堂講授資料科學工具與方法外，並利用作業、個案研究、案例資料，以訓練同學資料分析的能力與解決問題的經驗。",
@@ -31411,7 +31348,9 @@
     "language": "",
     "notes": "全英授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231417",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352182&code=12638"
+    ]
   },
   {
     "code": "4906003",
@@ -37200,7 +37139,9 @@
     "language": "",
     "notes": "新聘教師，英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3625002",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352764&code=12634"
+    ]
   },
   {
     "code": "3635029",
@@ -37251,7 +37192,9 @@
     "language": "",
     "notes": "新聘教師，英語授課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3635029",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352765&code=12633"
+    ]
   },
   {
     "code": "4005030",
