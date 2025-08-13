@@ -1,5 +1,19 @@
 [
   {
+    "name": "陳秀慧",
+    "email": "a0922156879@gmail.com",
+    "latestUpdate": "2025-08-12 10:21:00",
+    "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
+    "schedule": "1\t9/12\t液晶高分子材料於 5G 的應用\t陳秀慧老師 (分子)\n2\t9/19\t液晶高分子材料於 5G 的應用\t陳秀慧老師 (分子)\n3\t9/26\t液晶高分子材料於 4D 列印的應用\t陳秀慧老師 (分子)\n4\t10/3\t軟性電子材料設計\t李文亞老師 (化工)\n5\t10/10\t國慶日放假一天\t\n6\t10/17\t軟性場效應電晶體元件\t李文亞老師 (化工)\n7\t10/24\t軟性記憶體元件與神經型態運算\t李文亞老師 (化工)\n8\t10/31\tGoogle Colab 與類神經網路 (實體操作)\t李文亞老師 (化工)\n9\t11/07\t期中考試週\t\n10\t11/14\t\t楊詠荍老師 (材資)\n11\t11/21\t\t楊詠荍老師 (材資)\n12\t11/28\tbioceramics and its applications\t楊詠荍老師 (材資)\n13\t12/05\tbioceramics and its applications\t楊詠荍老師 (材資)\n14\t12/12\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\n15\t12/19\t電化學製程與分析技術於生醫電子及能源之應用\t陳柏均老師 (材資)\n16\t12/26\t二維原子層材料製程與光電元件之應用 \t陳柏均老師 (材資)\n17\t01/02\t二維原子層材料製程與光電元件之應用 \t陳柏均老師 (材資)\n18\t01/09\t期末考試週\t陳秀慧老師 (分子)",
+    "scorePolicy": "各位授課老師上完課進行評分",
+    "materials": "由各個老師提供自編教材",
+    "consultation": "聯絡各個單元上課的老師",
+    "課程對應SDGs指標": "SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）",
+    "remarks": "依據各種狀況會對課程進行彈性調整",
+    "foreignLanguageTextbooks": true
+  },
+  {
     "name": "楊詠荍",
     "email": "Vicki.yeung@mail.ntut.edu.tw",
     "latestUpdate": "2025-08-11 10:13:55",

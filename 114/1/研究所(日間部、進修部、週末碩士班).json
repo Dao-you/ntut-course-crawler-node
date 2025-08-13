@@ -10882,7 +10882,9 @@
     "language": "",
     "notes": "經管所和 IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805139",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350340&code=24406"
+    ]
   },
   {
     "code": "9905002",
@@ -35692,7 +35694,13 @@
         "code": "3166"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "陳佳",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12630",
+        "code": "12630"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -35717,9 +35725,11 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "陳佳勳老師",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=6505161",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352541&code=12630"
+    ]
   },
   {
     "code": "6505162",
@@ -38387,7 +38397,9 @@
     "language": "",
     "notes": "台大鄭文皇 https://ppt.cc/fCH4qx",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=353186&code=11635"
+    ]
   },
   {
     "code": "4005144",
