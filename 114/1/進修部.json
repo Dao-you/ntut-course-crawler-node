@@ -6659,13 +6659,7 @@
         "code": "3201"
       }
     ],
-    "teacher": [
-      {
-        "name": "韓麗龍",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=24388",
-        "code": "24388"
-      }
-    ],
+    "teacher": [],
     "time": {
       "sun": [],
       "mon": [],
@@ -6673,22 +6667,16 @@
       "wed": [],
       "thu": [],
       "fri": [],
-      "sat": [
-        "2",
-        "3",
-        "4"
-      ]
+      "sat": []
     },
     "classroom": [],
-    "people": "2",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "限 20 人",
+    "notes": "限 20 人，8/13 停開【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005100",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351375&code=24388"
-    ]
+    "syllabusLinks": []
   },
   {
     "code": "5605020",
@@ -6844,7 +6832,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6897,7 +6891,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -6958,7 +6958,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -7054,7 +7060,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
@@ -9395,9 +9407,9 @@
         "code": "11225"
       },
       {
-        "name": "邱垂昱",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=10632",
-        "code": "10632"
+        "name": "蘇威豪",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12457",
+        "code": "12457"
       }
     ],
     "time": {
@@ -10127,14 +10139,14 @@
     ],
     "teacher": [
       {
-        "name": "王貞淑",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11505",
-        "code": "11505"
-      },
-      {
         "name": "林榮禾",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=10821",
         "code": "10821"
+      },
+      {
+        "name": "邱求慧",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=21717",
+        "code": "21717"
       },
       {
         "name": "彭祖乙",
@@ -10200,6 +10212,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "邱求慧",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=21717",
+        "code": "21717"
+      },
       {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11396",
@@ -18449,7 +18466,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=487",
+        "code": "487"
+      }
+    ],
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
@@ -18554,7 +18577,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "科研大樓732",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=486",
+        "code": "486"
+      }
+    ],
     "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
