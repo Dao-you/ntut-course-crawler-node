@@ -4917,7 +4917,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505008",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351218&code=22081"
+    ]
   },
   {
     "code": "4505007",
@@ -18812,7 +18814,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4406144",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352667&code=12627"
+    ]
   },
   {
     "code": "5415125",
