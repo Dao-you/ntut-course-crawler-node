@@ -13430,7 +13430,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "綜三演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=343",
+        "code": "343"
+      }
+    ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
@@ -21824,252 +21830,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351627&code=11633"
     ]
-  },
-  {
-    "code": "C515006",
-    "description": {
-      "zh": "這們課程主要是討論人工智慧 (AI) 的理論基礎與相關應用，課程內容包含： 1. AI 問題的解題方法（搜尋技巧） 2. 知識表示的方法 3. AI 程式語言：LISP 與 PROLOG 4. 推論方法 5. 進階研究主題",
-      "en": "This course provides a thorough discussion of AI's theoretical foundations and advanced applications. These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation 3. AI algorithms and data structure in LISP and PROLOG 4. algorithms for reasoning 5. advanced topics for AI problem solving"
-    },
-    "id": "351644",
-    "name": {
-      "zh": "人工智慧",
-      "en": "Artificial Intelligence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
-        "code": "3209"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515006",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515007",
-    "description": {
-      "zh": "由於雲端運算的快速發展，大量資料收集與儲存技術已成瓶頸，大數據技術與管理提供一套具延展性與容錯能力的分散儲存與計算架構，能有效處理大量複雜數據資料的儲存與運算。 本課程除介紹現有的大數據生態與趨勢，並針對目前軟硬體架構的處理瓶頸，提供系統組態與部署、服務層級協定、監控與管理等系統性規劃的解決方案，並導入跨領域的工程管理科學知識。課程簡扼論述大數據技術與管理的重要，並在 Hadoop 生態系統中，以 Cloudera Hadoop 為應用範例，實作說明其重要性。 課程內容包括：大數據的概念、應用生態與趨勢、Hadoop 硬體規格與基礎架構規劃、叢集組態與部署、叢集服務層級協定、叢集監控與管理、相關生態技術、及概略介紹 Hadoop 認證與準備。",
-      "en": "The course will introduce Apache Hadoop core technologies and administration with its major including: Big Data (BD) in demand and its application trend, Core technologies of Hadoop for BD management, Hadoop Administration and management tool, Hadoop cluster deployment,YARN applications plus MapReduce, Hadoop cluster hardware and software, Introduction of Hadoop ecosystem projects, HDFS configuration for high availability (HA), Hadoop security, Cluster resource scheduling and configuration, and Hadoop certification program, etc."
-    },
-    "id": "351645",
-    "name": {
-      "zh": "大數據技術與管理",
-      "en": "Big Data Technology and Administration"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
-        "code": "3209"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515007",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515010",
-    "description": {
-      "zh": "該課程涵蓋數據和信息的組織和人際關係。您將開發必要的技能和知識，以使用數據和分析來告知管理並做出更好的決策。通過案例和課堂討論，您將學習研究設計，內部諮詢，變更管理，數據解釋和演示的技能。",
-      "en": "This class covers the organizational and interpersonal sides of data and information.  You will develop the skills and knowledge necessary to use data and analytics to inform management and make better decisions.  Through case examples and classroom discussion you will learn skills in research design, internal consulting, change management, data interpretation and presentation."
-    },
-    "id": "351646",
-    "name": {
-      "zh": "實證管理",
-      "en": "Evidence-Based Management"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
-        "code": "3209"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515010",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515014",
-    "description": {
-      "zh": "1. 網路協定、2. 消息理論和資料壓縮與視訊標準、3. 錯誤更正碼：迴旋碼渦輪碼低密度同位檢查碼 BCH/RS 碼、4. 無線視訊傳輸的抗錯、5. 跨層資源分配、6. 無線區域網路、7. 隨意網路和感測網路、8. 無線個人 / 大都會 / 體域 / 網狀網路、9. 物聯網等最新發展",
-      "en": "1. Network protocols 2. Information theory, source coding and Video standards 3. channel coding: convolutional codes/turbo codes/LDPC codes/BCH/RS codes 4. Error resilience in wireless video transmission 5. cross layer resource allocation 6.802.11 7. ad hoc and sensor network 8. WPAN WMAN WBAN WMN 9. IoT and other recent advances"
-    },
-    "id": "351647",
-    "name": {
-      "zh": "新世代資通訊技術",
-      "en": "New-generation Information and Communication Technology"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
-        "code": "3209"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515014",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515016",
-    "description": {
-      "zh": "這門課程主要是討論人工智慧 (AI) 的理論基礎與相關應用，課程內容包含：1. AI 問題的解題方法（搜尋技巧） 2. 知識表示的方法 3. AI 程式語言：LISP 與 PROLOG  4. 推論方法 5. 進階研究主題",
-      "en": "This course provides a thorough discussion of AI's theoretical foundations and advanced applications. These are the following : 1. the fundamentals of problem solving (search algorithm) 2. knowledge representation 3. AI algorithms and data structure in LISP and PROLOG 4. algorithms for reasoning 5. advanced topics for AI problem solving"
-    },
-    "id": "351648",
-    "name": {
-      "zh": "人工智慧概論",
-      "en": "Introduction to Artificial Intelligence"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
-        "code": "3209"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515016",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C515017",
-    "description": {
-      "zh": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作 Python 作為資料科學的實作工具，包括其相關 Python 基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用 Python 取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的 AI 演算方法來分析大數據並輔助決策。",
-      "en": "Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making."
-    },
-    "id": "351649",
-    "name": {
-      "zh": "資料科學",
-      "en": "Data Science"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "AI雙聯專班",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
-        "code": "3209"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
-    "syllabusLinks": []
   },
   {
     "code": "C205034",
@@ -35000,7 +34760,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩二修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515001",
     "syllabusLinks": []
   },
@@ -35324,6 +35084,11 @@
       }
     ],
     "teacher": [
+      {
+        "name": "吳斯偉",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11429",
+        "code": "11429"
+      },
       {
         "name": "林鳳儀",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11315",
@@ -35855,7 +35620,13 @@
         "code": "3160"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "彭尉祖",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12628",
+        "code": "12628"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -35874,7 +35645,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "新聘教師彭尉祖",
+    "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605040",
     "syllabusLinks": []
   },
@@ -36166,57 +35937,6 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352578&code=11589"
     ]
-  },
-  {
-    "code": "4005013",
-    "description": {
-      "zh": "機械振動、非線性振動、振動量測、振動抑制及隔離技術、振動與波之傳播、聲音之反射及折射、噪音之降低及吸音材料、消音器與噪音控制、法規及環境等。",
-      "en": "Topics include: Mechanical vibration, Vibration  transmission, Vibration measurement, The use of vibration isolators and absorbers, Fundamentals of acoustics, Noise control engineering, Instrumentation and Law."
-    },
-    "id": "352663",
-    "name": {
-      "zh": "振動與噪音控制",
-      "en": "Vibration and Noise Control"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3152",
-        "code": "3152"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [
-        "2",
-        "3",
-        "4"
-      ],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教309",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=50",
-        "code": "50"
-      }
-    ],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "新聘教師馬權威",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005013",
-    "syllabusLinks": []
   },
   {
     "code": "4406144",
@@ -38339,51 +38059,6 @@
     ]
   },
   {
-    "code": "4005144",
-    "description": {
-      "zh": "醫學基礎、藥物學概論、預防醫學概論、醫療倫理與醫療效益概論、永續照護概論 、感染與傳染病防治概論、精神照護概論、一般醫學概論、急重症醫學概論、醫療與生活科技技術概論",
-      "en": "1. General principle  2. Pharmacology 3. Prophylaxis  4. Ethics and medical effects   5. Perpetual care  6. Infections management and prevention  7. Spiritual Care  8. General medicine 9. emergency medical care 10. LOHAS (Lifestyles of Health and Sustainability) technology"
-    },
-    "id": "357677",
-    "name": {
-      "zh": "醫學概論",
-      "en": "Medicine Introduction"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "機電所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3152",
-        "code": "3152"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [
-        "7",
-        "8",
-        "9"
-      ],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "【停開】",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=4005144",
-    "syllabusLinks": []
-  },
-  {
     "code": "C503005",
     "description": {
       "zh": "本課程旨在培養學生掌握人工智慧技術在通訊網路中的應用，特別是在衛星通訊系統和無線網路中的實踐。學生將學習通訊網路的基礎概念、衛星次系統、軌道力學與資料解析，並瞭解無線網路架構、資源分配及網路切片技術。此外，學生將掌握如何利用人工智慧和深度強化學習技術進行資源優化、訊號處理與異常檢測，並應用實驗平台進行模擬和實驗，最終具備設計、實施並優化通訊網路的能力。",
@@ -38491,6 +38166,362 @@
     "language": "",
     "notes": "大研合開，核心課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C503006",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C503004",
+    "description": {
+      "zh": "本課程讓學生深入瞭解射頻模組的基本架構及其在無線通訊技術中的應用，並且掌握人工智慧與深度強化學習的基本概念，學習如何利用人工智慧技術優化射頻模組性能，如增強信號強度和降低干擾。此外，課程將涵蓋電磁模擬軟體及其在射頻模組中的應用，並指導學生設置環境，編寫人工智慧演算法，實現自動化模擬與優化，最終培養獨立解決問題的能力。",
+      "en": "This course enables students to gain an in-depth understanding of the basic structure of RF modules and their applications in wireless communication technology. It also covers the fundamental concepts of artificial intelligence and deep reinforcement learning, teaching students how to use AI techniques to optimize RF module performance, such as enhancing signal strength and reducing interference. Additionally, the course will introduce electromagnetic simulation software and its applications in RF module simulation, guiding students to set up the environment, write AI algorithms, and achieve automated simulation and optimization, ultimately cultivating the ability to solve problems independently."
+    },
+    "id": "357699",
+    "name": {
+      "zh": "人工智慧於射頻模組優化",
+      "en": "Artificial Intelligence  in RF Module Optimization"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "電資學院(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2882",
+        "code": "2882"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "鍾明桉",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12232",
+        "code": "12232"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": [
+        "A",
+        "B",
+        "C"
+      ]
+    },
+    "classroom": [
+      {
+        "name": "綜科305",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=287",
+        "code": "287"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開，核心課程",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C503004",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357699&code=12232"
+    ]
+  },
+  {
+    "code": "5705495",
+    "description": {
+      "zh": "本課程在於協助同學了解數位轉型的浪潮趨勢，以及適應新科技所改變的商業模式。課程將介紹創新的商業模式例如共享經濟、金融科技、線上至離線、使用者生成內容等平台模式應用。每個模式將會連結到實務中企業個案，以協助同學進一步深入了解與分析創新的模式概念。本課程將涵蓋數位轉型與創新模式的基本概念，以數位轉型與科技適應角度，透過實務案例來了解創新商業模式。",
+      "en": "This course aims to help students understand the trend of digital transformation and technology adaption in business models. The innovative business models will be introduced such as sharing economy, FinTech, online-to-offline, user-generated content, and so on. The matched cases will be selected to elaborate and analyze the innovative business models. This course will provide comprehensive knowledge of innovative business models by digital transformation and technology adaption (information and communication technology)."
+    },
+    "id": "357725",
+    "name": {
+      "zh": "數位轉型與創新商業模式",
+      "en": "Digital Transformation and Innovative Business Models"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管所",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3161",
+        "code": "3161"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "簡德年",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=22653",
+        "code": "22653"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [
+        "5",
+        "6",
+        "7"
+      ],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "科研大樓734",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=487",
+        "code": "487"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5705495",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357725&code=22653"
+    ]
+  },
+  {
+    "code": "AA04058",
+    "description": {
+      "zh": "本課程透過系列主題講座，帶領學員從多元視角理解當代國際局勢、外交發展與跨文化溝通策略。課程邀請外交官、國際事務專家、駐外代表及具實務經驗的講者分享全球趨勢、國際關係熱點議題與外交談判技巧，幫助同學建立宏觀國際視野與外交思維，強化其在多元文化背景下的溝通與協調能力。課程將以專題講座、互動對談與案例分析等形式進行，並引導同學反思台灣在全球脈絡中的角色與機會，培養具備國際素養與行動力的未來領導者。",
+      "en": "This course, delivered through a series of thematic lectures, guides students in understanding contemporary international affairs, diplomatic developments, and cross-cultural communication strategies from diverse perspectives. Diplomats, international affairs experts, overseas representatives, and experienced practitioners will be invited to share insights on global trends, key international issues, and diplomatic negotiation skills. The course aims to help students develop a broad international outlook and diplomatic mindset, enhancing their ability to communicate and collaborate effectively in multicultural contexts. Through lectures, interactive discussions, and case analyses, students will be encouraged to reflect on Taiwan’s role and opportunities in the global landscape, cultivating internationally competent and action-oriented future leaders."
+    },
+    "id": "357738",
+    "name": {
+      "zh": "國際科技談判",
+      "en": "International Science and Technology Negotiation"
+    },
+    "stage": "1",
+    "credit": "1.0",
+    "hours": "1",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "創新創業(研)",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=2398",
+        "code": "2398"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "李穎玟",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11610",
+        "code": "11610"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [
+        "5"
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [
+      {
+        "name": "綜二演講廳",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=342",
+        "code": "342"
+      }
+    ],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "大研合開，六週密集授課",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AA04058",
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357738&code=11610"
+    ]
+  },
+  {
+    "code": "C515015",
+    "description": {
+      "zh": "本課程介紹電腦科學中圖形識別的基本原理與相關技術，使學生了解各種圖形識別的分類方法，經由對分類問題的分析，瞭解如何將輸入樣本依不同特性加以分類，並熟悉圖形識別系統之相關議題如：分割、特徵擷取、分類、後處理、訓練、監督 / 非監督式學習、機器學習，進而了解分類問題，增進其解決實際圖形識別分類問題的能力。課程內容包括下列課題：圖形識別概論，Bayesian Decision Theory, Maximum-Likelihood, 非參數法學習，K-Nearest Neighbor Estimation, The Nearest-Neighbor Rule, Positive Boolean Function 多分類器，Linear Discriminant Functions，高維資料分類，分類正確率評估 (Accuracy Assessments) 及其他重要的應用，例如：文件分析、生物辨識、影像監控、遙測影像分類、醫療診斷、資料探勘等概念，最後並透過相關論文的研讀及討論，了解近代圖形識別的最新發展趨勢。",
+      "en": "The course includes: Introduction to Pattern Recognition, Bayesian Decision Theory, Maximum-Likelihood & Bayesian Parameter Estimation, Non-Parametric Classification - Density Estimation, K-Nearest Neighbor Estimation, The Nearest-Neighbor Rule, Multi-Classifier - Positive Boolean Function, Linear Discriminant Functions, Pattern Recognition of High Dimensional Data Sets, Pattern Recognition for Remote Sensing Images, Biometric Certification, Video Surveillance, Accuracy Assessments and Other Related Topics."
+    },
+    "id": "357743",
+    "name": {
+      "zh": "圖形識別",
+      "en": "Pattern Recognition"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "張陽郎",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11213",
+        "code": "11213"
+      },
+      {
+        "name": "謝東儒",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11324",
+        "code": "11324"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二修，9/13.20.27,11/15.22,12/6",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515015",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515022",
+    "description": {
+      "zh": "本課程主要分為專利權的觀念建立，及並以自然語言處理（NLP）作為主要工具，專利權進行量化分析。專利權部份：壹、保護創新：1. 如何透過專利保護科技創新、2. 專利的迷思。貳、專利與創新：1. 如何由需求或靈感取得創新、2. 如何使創新轉化為實質專利 3. 如何從專利撰寫演化出創新。參、專利概念與規法：1. 我國專利體系介紹、2. 專利相關法規之介紹、3. 專利取得的流程、4. 發明專利實體審查基、5. 專利說明書及圖示的撰寫格式、6. 何謂發明單一性及優先權的使用。肆、專利說明書搜尋及閱讀：1. 各國專利的搜尋引擎、2. 專利工具的使用、3. 閱讀專利說明書。伍、專利說明書的撰寫與申請：1. 專利說明書撰寫之重要 2. 專利說明書之格式 3. 專利說明書之撰寫技巧。陸、專利戰略與佈局：1. 商戰專利佈局模式、2. 專利舉發實務、3. 專利舉發方式、4. 專利舉發程序、5. 專利舉發策略運用、6. 舉發撤銷要件。柒、專利侵害及訴訟實例：1. 從案例中學習專利侵害的攻防與法院訴訟的爭點、2. 專家演講 (法官，技審官，審查官，律師) 邀請領域的專家分享實務經驗。專利權數據部份：壹、專利數據收集：深入探討數據清理，篩選，確保學生能夠為分析準備適當的數據集",
+      "en": "Patent-related aspects include:1.\tProtecting Innovation: Learn how to protect technological innovations through patents and debunk common myths surrounding patents.2.\tPatent and Innovation: Understand how to derive innovation from demands or inspirations, turn innovations into substantial patents, and evolve innovations from patent writing.3.\tPatent Concepts and Laws: Get introduced to the patent system in our country, learn about related regulations, understand the process of acquiring a patent, delve into invention patent review basics, and learn the format of writing patent specifications and illustrations. Furthermore, understand what constitutes an invention's singularity and the use of priority rights.4.\tSearching and Reading Patent Specifications: Get accustomed to search engines of patents across various countries and patent tools, and learn how to read patent specifications.5.\tWriting and Applying Patent Specifications: Understand the importance of patent specificati"
+    },
+    "id": "357744",
+    "name": {
+      "zh": "智慧專利分析",
+      "en": "Intelligent Patent Analytics"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "邱弘緯",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11232",
+        "code": "11232"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩二修，9/14.21,10/19,11/2.9.16.30,12/7.14",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515022",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275011",
+    "description": {
+      "zh": "戰略管理使用綜合管理視角去解決相關的制定和實施企業和企業級戰略的問題。該課程包括開發識別問題的能力，評估戰略選擇，並瞭解戰略的形成和執行的組織過程。它建立在功能區課程所獲得的知識，並使用案例研究和項目，以提高學生的分析和決策能力。前提：必須參與上學期的課程或與得到研究生導師的許可。",
+      "en": "Strategic management uses a general management perspective in addressing issues related to the formulation and implementation of corporate and business level strategy. The course involves developing the ability to identify issues, evaluate strategic options and understand the organizational process by which strategies get formed and executed. It builds on the knowledge gained in functional area courses and uses case studies and projects to improve students' analytical and decision-making skills. Prerequisite: Must be taken in last semester or with permission of the Graduate Advisor."
+    },
+    "id": "357745",
+    "name": {
+      "zh": "策略管理",
+      "en": "Strategic Management"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩二修，Dr. Liliana Nordtvedt , 10.24-27",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275011",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C275008",
+    "description": {
+      "zh": "國際商務市場行銷管理。包括在國際環境中的市場研究、定價、促銷和分銷。審查市場的問題出現不同程度的外資參與（出口，許可證，外國分公司）。先修課程：MARK5311 市場行銷。",
+      "en": "Management of marketing in international business. Includes marketing research, pricing, promotion, and distribution in the international environment. Examines marketing problems arising from various degrees of foreign involvement (exports, licensing, foreign subsidiaries). Prerequisite: MARK 5311 (MARKETING)."
+    },
+    "id": "357746",
+    "name": {
+      "zh": "國際行銷",
+      "en": "International Marketing"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "0",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "UTA, 碩二修，Dr. Adwait Khare, 12.19-22",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C275008",
     "syllabusLinks": []
   }
 ]
