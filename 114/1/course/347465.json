@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "林哲宇",
+    "email": "linjy@mail.ntut.edu.tw",
+    "latestUpdate": "2025-08-26 15:32:45",
+    "objective": "先修課程：負責教授同意。半導體材料及 IC 製造流程。如物理沈積 (PVD)、化學沈積 (CVD)、高溫處理、微影、蝕刻及其相關設備介紹、廠物、維修、管理及工安等。IC 封裝及測試。\nIntroduction to semiconductor material, diode, transistor, logic IC and memory IC, etc. description of the operation principles technology and related facilities about semiconductor fabrication processes, such as Physical \nvapor deposition (PVD), chemical vapor deposition (CVD), doping , oxidation , heat process, lithography , and etching etc., discussion of utilities, maintenance, management and industrial safety in the factory. Discussion of IC packaging and testing.",
+    "schedule": "第 1 周 基礎製程介紹\n第 2 周 製程原理介紹\n第 3 周 常用設備介紹",
+    "scorePolicy": "課堂參與及作業 100％",
+    "materials": "半導體製程概論 (第四版) ISBN：9789865035228",
+    "consultation": "linjy@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
