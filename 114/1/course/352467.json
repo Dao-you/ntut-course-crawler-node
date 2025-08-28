@@ -28,6 +28,20 @@
     "foreignLanguageTextbooks": true
   },
   {
+    "name": "邱垂昱",
+    "email": "cychiu@ntut.edu.tw",
+    "latestUpdate": "2025-08-27 10:22:22",
+    "objective": "本課程旨在針對營運模式與供應鏈管理作探討，其中包含: 1. 電子化企業概論 2. 經營模式 3. 企業再造 4. 企業資源管理 5. 中小企業電子化 6. 商業電子化 7. 供應鏈管理 8. 需求鏈管理 9. 協同預測管理 10. 個案研究。\nThe purpose of the course is to discuss the business model and supply chain management. The contents of this course will include: 1. General concept of e-business management 2.The business model3. Business reengineering 4.Enterprise resource planning 5.Small enterprise e-business management6. Channel e-business 7.Supply chain management 8.Demand chain management9.Collaborative management10. Case Study.",
+    "schedule": "Week 15 (12/20) : 　和明紡織 — 導入 AI 圖形辨識開創新商模，光華管理個案收錄庫 (KMCC) 個案編號: 1-23022-11   　\t                             (邱垂昱)\nWeek 16 (12/27) : 　演講邀請  　\t                                         (邱垂昱)\nWeek 17 (01/03) : 　調整放假\nWeek 18 (01/10) : 　嘉豐海洋國際 — 越南合資期創雙贏，光華管理個案收錄庫 (KMCC) 個案編號: 1-14006-11",
+    "scorePolicy": "課程參與 30%\n課程分析與討論 30%\n課程發表 40%",
+    "materials": "光華個案",
+    "consultation": "cychiu@mail.ntut.edu.tw",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG12：負責任的消費與生產（Responsible Consumption and Production）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "蔡佩芳",
     "email": "ptsai@ntut.edu.tw",
     "latestUpdate": "2025-07-14 09:34:38",

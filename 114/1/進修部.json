@@ -48,7 +48,7 @@
         "code": "383"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -107,7 +107,7 @@
         "code": "399"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4525,7 +4525,7 @@
         "code": "41"
       }
     ],
-    "people": "22",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -4625,7 +4625,7 @@
         "code": "51"
       }
     ],
-    "people": "28",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6385,7 +6385,7 @@
         "code": "109"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6601,7 +6601,7 @@
         "code": "58"
       }
     ],
-    "people": "32",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6701,7 +6701,7 @@
         "code": "117"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7077,7 +7077,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7136,7 +7136,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7203,7 +7203,7 @@
         "code": "486"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7751,7 +7751,7 @@
         "code": "54"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7928,7 +7928,7 @@
         "code": "154"
       }
     ],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7986,7 +7986,7 @@
         "code": "52"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8044,7 +8044,7 @@
         "code": "44"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8113,7 +8113,7 @@
         "code": "60"
       }
     ],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8217,7 +8217,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8258,11 +8258,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245039",
     "syllabusLinks": []
   },
@@ -8299,7 +8299,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8340,11 +8340,11 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "7",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245004",
     "syllabusLinks": []
   },
@@ -8381,53 +8381,12 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
-    "syllabusLinks": []
-  },
-  {
-    "code": "C215002",
-    "description": {
-      "zh": "此課程旨在說明決策理論之基本觀念，及其在真實世界裡相關決策問題之分析。使學生具備了解並建構決策問題，建構並推估決策之不確定性，以及建構並評估效用模式之能力。",
-      "en": "This course provides an overview of the basic concepts of decision theory and their applications on the real-world decision problems. Students will learn about the problem identification and modeling, the modeling and estimation of the associated uncertainty, and modeling and evaluation of the utility function."
-    },
-    "id": "351709",
-    "name": {
-      "zh": "決策分析與研討",
-      "en": "Decision Analysis"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "上海EMBA",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3214",
-        "code": "3214"
-      }
-    ],
-    "teacher": [],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [],
-    "people": "0",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=C215002",
     "syllabusLinks": []
   },
   {
@@ -8479,7 +8438,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8571,7 +8530,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8620,7 +8579,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -8995,7 +8954,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "9",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10197,7 +10156,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11248,7 +11207,7 @@
         "code": "311"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11423,7 +11382,7 @@
         "code": "311"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11476,7 +11435,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11528,7 +11487,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11580,7 +11539,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11683,7 +11642,7 @@
         "code": "52"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11742,7 +11701,7 @@
         "code": "47"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11793,7 +11752,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13361,7 +13320,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "12",
+    "people": "13",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13825,7 +13784,7 @@
         "code": "399"
       }
     ],
-    "people": "8",
+    "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13943,7 +13902,7 @@
         "code": "155"
       }
     ],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14706,7 +14665,7 @@
         "code": "58"
       }
     ],
-    "people": "11",
+    "people": "10",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14765,7 +14724,7 @@
         "code": "58"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14883,7 +14842,7 @@
         "code": "382"
       }
     ],
-    "people": "29",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14935,8 +14894,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "19",
+    "classroom": [
+      {
+        "name": "三教503",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=60",
+        "code": "60"
+      }
+    ],
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14988,8 +14953,14 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
-    "people": "23",
+    "classroom": [
+      {
+        "name": "三教408",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=56",
+        "code": "56"
+      }
+    ],
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15039,7 +15010,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教410",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=58",
+        "code": "58"
+      }
+    ],
     "people": "9",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15092,7 +15069,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教210",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=44",
+        "code": "44"
+      }
+    ],
     "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
@@ -15355,7 +15338,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15431,7 +15414,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15734,7 +15717,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15789,7 +15772,13 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "三教504",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=61",
+        "code": "61"
+      }
+    ],
     "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
@@ -16082,7 +16071,7 @@
         "code": "49"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16200,7 +16189,7 @@
         "code": "50"
       }
     ],
-    "people": "14",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17208,7 +17197,7 @@
         "code": "42"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17824,12 +17813,23 @@
         "4"
       ]
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "化工205",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=400",
+        "code": "400"
+      },
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "5",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "碩二（教室分子 207)",
+    "notes": "碩二（教室分子 205)",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5105021",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352423&code=10714"
@@ -18536,6 +18536,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352467&code=12494",
       "ShowSyllabus.jsp?snum=352467&code=10504",
+      "ShowSyllabus.jsp?snum=352467&code=10632",
       "ShowSyllabus.jsp?snum=352467&code=11435"
     ]
   },
@@ -18799,7 +18800,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18856,7 +18857,7 @@
         "code": "486"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19379,7 +19380,7 @@
         "code": "49"
       }
     ],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19703,7 +19704,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19750,7 +19751,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "1",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19791,7 +19792,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19873,12 +19874,64 @@
       "sat": []
     },
     "classroom": [],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "UTA, 碩一修，Dr.Abdul Rasheed, 11.7-10",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275004",
+    "syllabusLinks": []
+  },
+  {
+    "code": "C515017",
+    "description": {
+      "zh": "資料科學為最熱門的職業之一，各行各業對於數據分析的人才需求正在蓬勃發展，本課程在於培育從事資料科學或機器學習的人員來發展相關知識和技能。課程內容以線性代數、機率、統計學等工程數學為理論學習基礎，操作 Python 作為資料科學的實作工具，包括其相關 Python 基礎語法、各種資料型態、數據 可視化、開源工具等。接著學習利用 Python 取得數據資料，進而操作各種迴歸 分析來手動分析數據資料，並實作梯度遞減，決策樹等最佳化演算方法。最後則是介紹機器學習、深度學習等最新的 AI 演算方法來分析大數據並輔助決策。",
+      "en": "Data Science has been ranked as one of the hottest professions and the demand for data practitioners is booming. This course is designed to develop people engaged in data science or machine learning to develop relevant knowledge and skills. You will understand how data science works based on mathematics, such as linear algebra, probability and statistics. Python is the best tool to learn how to conduct data science analyze data. Learn the basic language skills, common data types, visualization tools and extended modules for data grabbing and regression analysis. Gradient decent and decision tree for optimization will be covered. Finally, AI algorithm, machine learning, and deep learning, are introduced how data help in decision making."
+    },
+    "id": "357751",
+    "name": {
+      "zh": "資料科學",
+      "en": "Data Science"
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "AI雙聯專班",
+        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3209",
+        "code": "3209"
+      }
+    ],
+    "teacher": [
+      {
+        "name": "王正豪",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11297",
+        "code": "11297"
+      },
+      {
+        "name": "白敦文",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12095",
+        "code": "12095"
+      }
+    ],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "12",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "碩一修，9/13.21,10/18.19,11/1.2.23",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
     "syllabusLinks": []
   }
 ]
