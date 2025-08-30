@@ -1,5 +1,19 @@
 [
   {
+    "name": "李文亞",
+    "email": "wenyalee@ntut.edu.tw",
+    "latestUpdate": "2025-08-29 16:44:22",
+    "objective": "本課程為整合型課程，以多主題方式介紹當代與下世代先進材料化學技術，包含先進奈米合成技術、奈米微影科技、功能性催化材料化學、生醫材料化學、功能性高分子設計以及軟性元件製作等。本課程為跨系院課程，由多位教師共同授課，提供跨領域知識學習與培養學生跨領域思考。\nThis course is an integrated course that introduces emerging and next-generation advanced materials chemistry in a multi-topic approach, including advanced nanomaterials synthesis, nanolithography technology, catalytic materials chemistry, biomaterials chemistry, functional polymer design, and the production of soft electronic devices. It is an interdepartmental course, lectured by multiple teachers, and providing multidisciplinary knowledge learning.",
+    "schedule": "114-1 院級微課程行事曆 —「先進材料化學特論」\n\n課程安排\n第一週 (9/12)\n課程內容： 液晶高分子材料於 5G 的應用\n授課教師： 陳秀慧老師 (分子)\n\n第二週 (9/19)\n課程內容： 液晶高分子材料於 5G 的應用\n授課教師： 陳秀慧老師 (分子)\n\n第三週 (9/26)\n課程內容： 液晶高分子材料於 4D 列印的應用\n授課教師： 陳秀慧老師 (分子)\n\n第四週 (10/3)\n課程內容： 軟性電子材料設計\n授課教師： 李文亞老師 (化工)\n\n第五週 (10/10)\n國慶日放假一天\n\n第六週 (10/17)\n課程內容： 軟性場效應電晶體元件\n授課教師： 李文亞老師 (化工)\n\n第七週 (10/24)\n課程內容： 軟性記憶體元件與神經型態運算\n授課教師： 李文亞老師 (化工)\n\n第八週 (10/31)\n課程內容： Google Colab 與類神經網路 (實體操作)\n授課教師： 李文亞老師 (化工)\n\n第九週 (11/07)\n期中考試週\n\n第十週 (11/14)\n課程內容： Nanoparticles synthesis and its applications\n授課教師： 楊詠荍老師 (材資)\n\n第十一週 (11/21)\n課程內容： Nanoparticles synthesis and its applications\n授課教師： 楊詠荍老師 (材資)\n\n第十二週 (11/28)\n課程內容： Bioceramics and its applications\n授課教師： 楊詠荍老師 (材資)\n\n第十三週 (12/05)\n課程內容： Bioceramics and its applications\n授課教師： 楊詠荍老師 (材資)\n\n第十四週 (12/12)\n課程內容： 電化學製程與分析技術於生醫電子及能源之應用\n授課教師： 陳柏均老師 (材資)\n\n第十五週 (12/19)\n課程內容： 電化學製程與分析技術於生醫電子及能源之應用\n授課教師： 陳柏均老師 (材資)\n\n第十六週 (12/26)\n課程內容： 二維原子層材料製程與光電元件之應用\n授課教師： 陳柏均老師 (材資)\n\n第十七週 (01/02)\n課程內容： 二維原子層材料製程與光電元件之應用\n授課教師： 陳柏均老師 (材資)\n\n第十八週 (01/09)\n期末考試週 (由陳秀慧老師負責)\n\n備註：\n\n請各位授課老師務必於授課完畢後進行評分，以便期末加總成績。",
+    "scorePolicy": "評量方式由當週上課老師決定",
+    "materials": "自編教材",
+    "consultation": "可用 email 聯絡",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "陳秀慧",
     "email": "a0922156879@gmail.com",
     "latestUpdate": "2025-08-12 10:21:00",
