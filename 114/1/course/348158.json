@@ -2,9 +2,9 @@
   {
     "name": "楊哲化",
     "email": "chyang@ntut.edu.tw",
-    "latestUpdate": "2025-05-23 07:31:17",
+    "latestUpdate": "2025-09-01 10:32:43",
     "objective": "先修課程：3001011 或負責教授同意。介紹結構體在受到張力、壓力、剪力、扭力及彎曲等外力狀態下之變形，分析應力、應變及變形，莫耳圓、壓力容器、樑、柱。\nPrerequisite: ME111 or Consent of Instructor\nIntroduction of the deformation, strain and stress of structures (Beam, Column, Pressure vessel) under several different loading conditions such as Tension, Compression, Shear force, Torsion and Bending moment.",
-    "schedule": "1\t9/10\tIntroduction to Mechanics of Materials\n2\t9/17\tChap. 1 Stress\n3\t9/24\tChap. 2 Strain\n4\t10/1\tChap. 3 Material properties\n5\t10/8\tChap. 3 Material properties                       Quiz 1\n6\t10/15\tChap. 4.1~4.4 Axial loading                      \n7\t10/22\tChap. 4.5~4.8 Axial loading                       \n8\t10/29\tChap. 5 Torsion\n9\t11/5\tMidterm Exam\n10\t11/12\tChap. 6 Bending\n11\t11/19\tChap. 6 Bending\n12\t11/26\tChap. 7 Transverse shear\n13\t12/3\tChap. 8 Combined loading                        \n14\t12/10\tChap. 8 Combined loading                        Quiz 2\n15\t12/17\tChap. 9 Stress transformation\n16\t12/24\tChap. 12 Deflection of beams\n17\t12/31\tChap. 13 Buckling\n18\t1/7\tFinal Exam",
+    "schedule": "1\t9/10\tIntroduction to Mechanics of Materials\n2\t9/17\tChap. 1 Stress\n3\t9/24\tChap. 2 Strain\n4\t10/1\tChap. 3 Material properties\n5\t10/8\tChap. 3 Material properties in rail systems       Quiz 1\n6\t10/15\tChap. 4.1~4.4 Axial loading                      \n7\t10/22\tChap. 4.5~4.8 Axial loading in rail systems                       \n8\t10/29\tChap. 5 Torsion\n9\t11/5\tMidterm Exam\n10\t11/12\tChap. 6 Bending\n11\t11/19\tChap. 6 Bending in rail systems\n12\t11/26\tChap. 7 Transverse shear and rail systems\n13\t12/3\tChap. 8 Combined loading                        \n14\t12/10\tChap. 8 Combined loading                        Quiz 2\n15\t12/17\tChap. 9 Stress transformation\n16\t12/24\tChap. 12 Deflection of beams and rail systems\n17\t12/31\tChap. 13 Buckling and rail systems\n18\t1/7\tFinal Exam",
     "scorePolicy": "Final: 40%, Midterm: 30%, Quiz: 20%, Homework: 10%",
     "materials": "R. C. Hibbeler Mechanics of Materials. 10th edition in SI unit",
     "consultation": "Office hour, TA office hour",
