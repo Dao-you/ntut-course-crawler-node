@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "name": "陳建丞",
+    "email": "ccchen@ntut.edu.tw",
+    "latestUpdate": "2025-09-02 15:18:39",
+    "objective": "在管理決策中，要如何做行銷管理才能使得公司的產品賣得出去並增加公司收入。要如何做資金管理才能使得公司可以正常營運並將資金做適當的管理決策配置。透過國內外相關公司案例的討論，讓學生可以瞭解消費者行為、市場區隔、產品策略、通路、數位 (含 AI) 行銷等議題，以及對財管的投資、融資、營運資金、公司理財等議題有進一步的理解，讓高階經理人可以有更全面的策略營運方針。\nIn management decisions, how should marketing management be conducted to ensure that a company's products sell and increase company revenue? How should financial management be handled to ensure the company operates smoothly and makes appropriate management decisions regarding the allocation of funds? Through discussions of relevant domestic and international company cases, students can gain an understanding of topics such as consumer behavior, market segmentation, product strategy, distribution channels, and digital (including AI) marketing, as well as develop a deeper understanding of financial management topics like investment, financing, working capital, and corporate finance. This will enable senior managers to develop more comprehensive strategic operational guidelines.",
+    "schedule": "經營管理相關議題討論",
+    "scorePolicy": "上課互動與討論 70%\n期末報告 30%",
+    "materials": "老師自編講義",
+    "consultation": "陳建丞老師 ccchen@ntut.edu.tw",
+    "課程對應SDGs指標": "SDG3：良好健康和福祉（Good Health and Well-being）SDG8：尊嚴就業與經濟發展（Decent Work and Economic Growth）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  }
+]
