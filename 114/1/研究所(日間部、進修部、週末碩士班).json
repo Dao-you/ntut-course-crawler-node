@@ -2813,7 +2813,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "土木 208",
+    "notes": "土木 206",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4205065",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=349497&code=24566"
@@ -8387,75 +8387,6 @@
     ]
   },
   {
-    "code": "6105055",
-    "description": {
-      "zh": "本課程在使學生瞭解數位影像之觀念及相關技術，並學習實際用高階語言實現數位影像處理之技術。內容包含：(1) 介紹，(2) 數位影像基礎，(3) 空間域影像強化，(4) 頻域影像強化，(5) 影像還原，(6) 彩色影像處理，(7) 形態學影像處理，(8) 影像分割，(9) 小波與多解析處理，(10) 影像壓縮。",
-      "en": "The goal of this course is to let students to understand the concepts and techniques used in the field of digital image processing. In addition, students will be using the high level language (C++, Java, Matlab etc.) to complete the programming of the corresponding techniques. The outline of this course is given below. (1) Introduction, (2) Digital Image Fundamentals, (3) Image Enhancement in the Spatial Domain, (4) Image Enhancement in the Frequency Domain, (5) Image Restoration, (6) Color Image Processing, (7) Morphological Image Processing, (8) Image Segmentation, (9) Wavelets and Multiresolution Processing, (10) Image Compression."
-    },
-    "id": "350088",
-    "name": {
-      "zh": "數位影像處理",
-      "en": "Digital Image Processing"
-    },
-    "stage": "1",
-    "credit": "3.0",
-    "hours": "3",
-    "courseType": "★",
-    "class": [
-      {
-        "name": "自動化所",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3165",
-        "code": "3165"
-      },
-      {
-        "name": "創新AI學位學程",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3183",
-        "code": "3183"
-      },
-      {
-        "name": "半導體學位學程",
-        "link": "Subj.jsp?format=-4&year=114&sem=1&code=3185",
-        "code": "3185"
-      }
-    ],
-    "teacher": [
-      {
-        "name": "陳金聖",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11077",
-        "code": "11077"
-      }
-    ],
-    "time": {
-      "sun": [],
-      "mon": [],
-      "tue": [],
-      "wed": [],
-      "thu": [
-        "6",
-        "7",
-        "8"
-      ],
-      "fri": [],
-      "sat": []
-    },
-    "classroom": [
-      {
-        "name": "三教505",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=62",
-        "code": "62"
-      }
-    ],
-    "people": "5",
-    "peopleWithdraw": "0",
-    "ta": [],
-    "language": "",
-    "notes": "自動化所和創新 AI、半導體合開",
-    "courseDescriptionLink": "Curr.jsp?format=-2&code=6105055",
-    "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=350088&code=11077"
-    ]
-  },
-  {
     "code": "6105063",
     "description": {
       "zh": "本課程主要探討多輸入多輸出系統 (MIMO) 其系統行為之描述，內容包括 MIMO 系統之穩定性分析、觀察性分析及其控制器設計，並探討 MIMO 系統的物理觀念及其數學描述的各種方法，是線性系統之進階課程，適合碩士班以上之學生學習。",
@@ -11103,7 +11034,9 @@
     "language": "",
     "notes": "經管所和 IMBA 合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=9805132",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=350338&code=21405"
+    ]
   },
   {
     "code": "9805139",
@@ -22542,6 +22475,7 @@
     "notes": "碩一必修",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351704&code=11429",
       "ShowSyllabus.jsp?snum=351704&code=11224"
     ]
   },
@@ -22616,6 +22550,7 @@
     "notes": "碩一",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245039",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351705&code=11429",
       "ShowSyllabus.jsp?snum=351705&code=11224"
     ]
   },
@@ -23041,7 +22976,9 @@
     "language": "",
     "notes": "碩一必修，9.07、9.14",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C275025",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351713&code=12436"
+    ]
   },
   {
     "code": "C275001",
@@ -24754,11 +24691,6 @@
       }
     ],
     "teacher": [
-      {
-        "name": "邱求慧",
-        "link": "Teach.jsp?format=-3&year=114&sem=1&code=21717",
-        "code": "21717"
-      },
       {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11396",
@@ -30980,7 +30912,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "全英 / 土木 208",
+    "notes": "土木 206",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4236122",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=352123&code=12632"
@@ -36433,6 +36365,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705443",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352490&code=11429",
       "ShowSyllabus.jsp?snum=352490&code=11315",
       "ShowSyllabus.jsp?snum=352490&code=22653"
     ]
