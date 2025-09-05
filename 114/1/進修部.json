@@ -9116,6 +9116,7 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351741&code=24039",
       "ShowSyllabus.jsp?snum=351741&code=11315",
       "ShowSyllabus.jsp?snum=351741&code=22653"
     ]
@@ -10717,18 +10718,12 @@
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教402",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=52",
-        "code": "52"
-      }
-    ],
+    "classroom": [],
     "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "北分署上課 僅提供原班同學上課",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=1401032",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=351775&code=23798"
@@ -15553,9 +15548,19 @@
     ],
     "teacher": [
       {
+        "name": "陳宏佳",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12452",
+        "code": "12452"
+      },
+      {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11396",
         "code": "11396"
+      },
+      {
+        "name": "顏廣杰",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=24585",
+        "code": "24585"
       }
     ],
     "time": {
@@ -16772,7 +16777,7 @@
         "code": "60"
       }
     ],
-    "people": "0",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16830,7 +16835,7 @@
         "code": "61"
       }
     ],
-    "people": "0",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16888,7 +16893,7 @@
         "code": "50"
       }
     ],
-    "people": "0",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16946,7 +16951,7 @@
         "code": "45"
       }
     ],
-    "people": "0",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16999,12 +17004,12 @@
     },
     "classroom": [
       {
-        "name": "三教207",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=41",
-        "code": "41"
+        "name": "三教209",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=43",
+        "code": "43"
       }
     ],
-    "people": "0",
+    "people": "67",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17062,7 +17067,7 @@
         "code": "154"
       }
     ],
-    "people": "0",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17120,7 +17125,7 @@
         "code": "44"
       }
     ],
-    "people": "0",
+    "people": "50",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17178,7 +17183,7 @@
         "code": "48"
       }
     ],
-    "people": "0",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",

@@ -4222,9 +4222,9 @@
     },
     "classroom": [
       {
-        "name": "科研大樓334",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=473",
-        "code": "473"
+        "name": "綜科610",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=301",
+        "code": "301"
       }
     ],
     "people": "9",
@@ -5695,6 +5695,11 @@
     ],
     "teacher": [
       {
+        "name": "林彥良",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=11732",
+        "code": "11732"
+      },
+      {
         "name": "梁斯寧",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=12382",
         "code": "12382"
@@ -6674,6 +6679,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705301",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=349841&code=24039",
       "ShowSyllabus.jsp?snum=349841&code=11315"
     ]
   },
@@ -14322,9 +14328,9 @@
     },
     "classroom": [
       {
-        "name": "分子207",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=109",
-        "code": "109"
+        "name": "分子BR6",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=274",
+        "code": "274"
       }
     ],
     "people": "10",
@@ -14833,9 +14839,9 @@
     },
     "classroom": [
       {
-        "name": "分子BR6",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=274",
-        "code": "274"
+        "name": "分子207",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=109",
+        "code": "109"
       }
     ],
     "people": "14",
@@ -23285,6 +23291,7 @@
     "notes": "(群組 1) 經營與策略管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C225019",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351741&code=24039",
       "ShowSyllabus.jsp?snum=351741&code=11315",
       "ShowSyllabus.jsp?snum=351741&code=22653"
     ]
@@ -31353,9 +31360,19 @@
     ],
     "teacher": [
       {
+        "name": "陳宏佳",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=12452",
+        "code": "12452"
+      },
+      {
         "name": "陳育威",
         "link": "Teach.jsp?format=-3&year=114&sem=1&code=11396",
         "code": "11396"
+      },
+      {
+        "name": "顏廣杰",
+        "link": "Teach.jsp?format=-3&year=114&sem=1&code=24585",
+        "code": "24585"
       }
     ],
     "time": {
@@ -36912,7 +36929,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5605040",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=352570&code=12628"
+    ]
   },
   {
     "code": "5415125",
@@ -38996,16 +39015,16 @@
     },
     "classroom": [
       {
-        "name": "三教309",
-        "link": "Croom.jsp?format=-3&year=114&sem=1&code=50",
-        "code": "50"
+        "name": "土木1F_2",
+        "link": "Croom.jsp?format=-3&year=114&sem=1&code=257",
+        "code": "257"
       }
     ],
     "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "總整課程",
+    "notes": "總整課程  土木 106",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C104005",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=353139&code=12243"
