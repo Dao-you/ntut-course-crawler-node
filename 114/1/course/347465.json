@@ -28,6 +28,20 @@
     "foreignLanguageTextbooks": false
   },
   {
+    "name": "陸一平",
+    "email": "luhyih19@gmail.com",
+    "latestUpdate": "2025-09-05 21:50:08",
+    "objective": "本課程以半導體製程與先進封裝為背景，深入探討半導體檢測的核心方法，並以白光干涉儀為重點，介紹其物理原理、量測技術及應用場域。課程同時引入人工智慧（AI）於製程檢測與封裝檢測中的輔助應用，包括影像處理、自動缺陷辨識與數據分析。適合對半導體製程、封裝測試及智慧量測有興趣的工程師、研究人員與大學部學生，幫助學生建立「製程–檢測–AI 輔助」的完整知識架構。\nThis course delves into core semiconductor testing methods within the context of semiconductor fabrication and advanced packaging, with a focus on white light interferometers. It covers their physical principles, measurement techniques, and application domains. The course also introduces the auxiliary application of artificial intelligence (AI) in process inspection and packaging inspection, including image processing, automated defect recognition, and data analysis. It is suitable for engineers, researchers, and undergraduate students interested in semiconductor processes, packaging testing, and smart measurement, helping students establish a comprehensive knowledge framework encompassing “Process–Inspection–AI-Assisted” methodologies.",
+    "schedule": "第 12 週：半導體製程與先進封裝簡介及 AI 輔助應用\n半導體製程流程（前段 / 後段）\n先進封裝技術（WLP、Fan-out、3D IC、Chiplet）\n檢測挑戰與需求\nAI 在製程與封裝中的應用案例\n\n第 13 週：半導體製程檢測及 AI 輔助應用\n製程檢測的目的與方法\n光學檢測、電子束檢測、散射檢測原理\n製程缺陷案例：微粒、薄膜厚度不均、線寬變異\nAI 應用：影像辨識、缺陷分類、異常檢測\n\n第 14 週：半導體先進封裝檢測及 AI 輔助應用\n先進封裝檢測挑戰（TSV、RDL、Bumping、Hybrid Bonding）\n常見檢測設備：X-ray、光學顯微、干涉儀、超音波檢測\n缺陷類型：空洞、錯位、翹曲、裂縫\nAI 應用：自動缺陷標註、封裝翹曲預測、可靠性分析\n\n第 15 週：白光干涉儀原理\n干涉與白光干涉基本物理\n白光干涉儀結構與模式\n量測方式：相位移法、掃描式干涉\n數據解析與精度限制\n\n第 16 週：白光干涉儀在製程與封裝檢測上的應用\n製程檢測：薄膜厚度、蝕刻深度、表面粗糙度\n封裝檢測：Bump 高度、RDL 平整度、封裝翹曲\n奈米級結構與 3D 封裝分析案例\n與其他檢測技術的比較\n\n第 17 週：白光干涉儀的 AI 輔助應用\n白光干涉數據的特徵與影像處理\nAI 模型應用：缺陷自動辨識、形貌分類、趨勢預測\n深度學習在干涉影像的應用（CNN、Transformer）\n智慧檢測與產線整合的未來發展\n\n第 18 週：白光干涉儀的 AI 輔助應用\n白光干涉數據的特徵與影像處理\nAI 模型應用：缺陷自動辨識、形貌分類、趨勢預測\n深度學習在干涉影像的應用（CNN、Transformer）\n智慧檢測與產線整合的未來發展",
+    "scorePolicy": "平時作業成績：50%\n出席：40%\n期末報告：10%\n課堂參與額外加分\n\n翹課一次扣總成績 10 分、請假第二次開始扣總成績 1 分、遲到早退一次扣總成績 1 分、學期缺課次數過多將增加總扣分數、作弊一律以不及格論",
+    "materials": "使用自編教材",
+    "consultation": "綜科館 711-2 分機 2069",
+    "課程對應SDGs指標": "SDG9：產業創新與基礎設施（Industry, Innovation and Infrastructure）SDG11：永續城市與社區（Sustainable Cities and Communities）",
+    "課程是否導入AI": "● 使用生成式 AI 作為教學過程的輔助工具（Use generative AI tools as an aid to the teaching process）● 鼓勵學生使用生成式 AI 工具（Encourage students to use generative AI tools）● 使用生成式 AI 進行課堂即時互動（Use generative AI for real-time classroom interaction）● 簡單介紹 AI 的基本概念（Briefly introduce the basic concept of AI）● 深入探討 AI 的原理與應用（Explore the principles and applications of AI in depth）",
+    "remarks": "",
+    "foreignLanguageTextbooks": false
+  },
+  {
     "name": "曾百由",
     "email": "stephen@ntut.edu.tw",
     "latestUpdate": "2025-08-30 00:54:41",
