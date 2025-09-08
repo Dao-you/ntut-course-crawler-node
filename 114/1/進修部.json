@@ -194,7 +194,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "42",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -251,7 +251,7 @@
         "code": "55"
       }
     ],
-    "people": "43",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -310,7 +310,7 @@
         "code": "47"
       }
     ],
-    "people": "39",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -369,7 +369,7 @@
         "code": "445"
       }
     ],
-    "people": "17",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -510,7 +510,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -608,7 +608,7 @@
         "code": "54"
       }
     ],
-    "people": "16",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -961,7 +961,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "24",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1250,7 +1250,7 @@
         "code": "423"
       }
     ],
-    "people": "15",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1309,7 +1309,7 @@
         "code": "434"
       }
     ],
-    "people": "14",
+    "people": "15",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2289,7 +2289,7 @@
         "code": "465"
       }
     ],
-    "people": "28",
+    "people": "30",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2348,7 +2348,7 @@
         "code": "42"
       }
     ],
-    "people": "43",
+    "people": "44",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -3816,7 +3816,7 @@
         "code": "45"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6558,7 +6558,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5201402",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=351301&code=24025"
+    ]
   },
   {
     "code": "5211422",
@@ -9672,7 +9674,8 @@
     "notes": "(群組 3) 工業與科技管理",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C215001",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=351751&code=11225"
+      "ShowSyllabus.jsp?snum=351751&code=11225",
+      "ShowSyllabus.jsp?snum=351751&code=12457"
     ]
   },
   {
@@ -13953,7 +13956,7 @@
         "code": "465"
       }
     ],
-    "people": "24",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14774,7 +14777,7 @@
         "code": "154"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16305,7 +16308,7 @@
         "code": "51"
       }
     ],
-    "people": "38",
+    "people": "40",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16857,7 +16860,7 @@
         "code": "61"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16973,7 +16976,7 @@
         "code": "45"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17709,7 +17712,7 @@
         "code": "465"
       }
     ],
-    "people": "28",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -17886,7 +17889,7 @@
         "code": "41"
       }
     ],
-    "people": "35",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18397,7 +18400,7 @@
         "code": "55"
       }
     ],
-    "people": "41",
+    "people": "43",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19104,7 +19107,7 @@
         "code": "491"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -19163,7 +19166,7 @@
         "code": "445"
       }
     ],
-    "people": "14",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -20443,6 +20446,8 @@
     "language": "",
     "notes": "碩一修，9/13.21,10/18.19,11/1.2.23",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C515017",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=357751&code=12095"
+    ]
   }
 ]
