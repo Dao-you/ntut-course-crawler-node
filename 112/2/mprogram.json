@@ -1,0 +1,2597 @@
+[
+  {
+    "name": "面板微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV2",
+    "course": [
+      {
+        "id": "332868",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3003108"
+      },
+      {
+        "id": "332866",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3104116"
+      },
+      {
+        "id": "332864",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3303102"
+      },
+      {
+        "id": "332861",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3534057"
+      },
+      {
+        "id": "331686",
+        "name": "半導體製程",
+        "href": "Curr.jsp?format=-2&code=3604102"
+      },
+      {
+        "id": "332867",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3600050"
+      },
+      {
+        "id": "331521",
+        "name": "製造程序",
+        "href": "Curr.jsp?format=-2&code=3701017"
+      },
+      {
+        "id": "331647",
+        "name": "製造程序",
+        "href": "Curr.jsp?format=-2&code=3701017"
+      },
+      {
+        "id": "331523",
+        "name": "製造程序",
+        "href": "Curr.jsp?format=-2&code=3701017"
+      },
+      {
+        "id": "332859",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3850001"
+      },
+      {
+        "id": "332882",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=5904357"
+      },
+      {
+        "id": "332881",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=3303102"
+      },
+      {
+        "id": "332862",
+        "name": "自主學習",
+        "href": "Curr.jsp?format=-2&code=A503235"
+      }
+    ]
+  },
+  {
+    "name": "創業家精神微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV3",
+    "course": [
+      {
+        "id": "328772",
+        "name": "創業與商業計畫",
+        "href": "Curr.jsp?format=-2&code=5705050"
+      },
+      {
+        "id": "332371",
+        "name": "創業講座 — 創業是一場馬拉松",
+        "href": "Curr.jsp?format=-2&code=5703110"
+      },
+      {
+        "id": "332373",
+        "name": "創業 0 到 2 的思維與實作",
+        "href": "Curr.jsp?format=-2&code=AA02001"
+      },
+      {
+        "id": "332375",
+        "name": "企業最愛：高質感簡報溝通力",
+        "href": "Curr.jsp?format=-2&code=AA02008"
+      },
+      {
+        "id": "332376",
+        "name": "微型創業實戰",
+        "href": "Curr.jsp?format=-2&code=AA02009"
+      },
+      {
+        "id": "332377",
+        "name": "職涯講座課程",
+        "href": "Curr.jsp?format=-2&code=AA04056"
+      },
+      {
+        "id": "332372",
+        "name": "創業講座 — 創業是一場馬拉松",
+        "href": "Curr.jsp?format=-2&code=5705049"
+      },
+      {
+        "id": "332378",
+        "name": "創業 0 到 2 的思維與實作",
+        "href": "Curr.jsp?format=-2&code=AA02001"
+      },
+      {
+        "id": "332380",
+        "name": "企業最愛：高質感簡報溝通力",
+        "href": "Curr.jsp?format=-2&code=AA02008"
+      },
+      {
+        "id": "332381",
+        "name": "微型創業實戰",
+        "href": "Curr.jsp?format=-2&code=AA02009"
+      }
+    ]
+  },
+  {
+    "name": "生醫輔助科技跨域微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV4",
+    "course": [
+      {
+        "id": "331244",
+        "name": "應用生物力學",
+        "href": "Curr.jsp?format=-2&code=3004072"
+      },
+      {
+        "id": "331684",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=3604145"
+      },
+      {
+        "id": "331748",
+        "name": "醫電工程概論",
+        "href": "Curr.jsp?format=-2&code=3615019"
+      },
+      {
+        "id": "331753",
+        "name": "醫電工程概論",
+        "href": "Curr.jsp?format=-2&code=3615019"
+      },
+      {
+        "id": "326701",
+        "name": "人因工程",
+        "href": "Curr.jsp?format=-2&code=3704012"
+      },
+      {
+        "id": "326724",
+        "name": "人因工程",
+        "href": "Curr.jsp?format=-2&code=3704012"
+      },
+      {
+        "id": "329898",
+        "name": "人因工程",
+        "href": "Curr.jsp?format=-2&code=3704012"
+      },
+      {
+        "id": "329021",
+        "name": "人工智能機器學習",
+        "href": "Curr.jsp?format=-2&code=4005131"
+      },
+      {
+        "id": "326123",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=5904362"
+      },
+      {
+        "id": "328964",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=5905189"
+      },
+      {
+        "id": "332374",
+        "name": "輔助科技導論",
+        "href": "Curr.jsp?format=-2&code=AA02002"
+      }
+    ]
+  },
+  {
+    "name": "能源材料微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV5",
+    "course": [
+      {
+        "id": "327025",
+        "name": "工程材料",
+        "href": "Curr.jsp?format=-2&code=3002010"
+      },
+      {
+        "id": "327039",
+        "name": "工程材料",
+        "href": "Curr.jsp?format=-2&code=3002010"
+      },
+      {
+        "id": "327115",
+        "name": "電化學",
+        "href": "Curr.jsp?format=-2&code=3202013"
+      },
+      {
+        "id": "325728",
+        "name": "能源材料",
+        "href": "Curr.jsp?format=-2&code=3314140"
+      },
+      {
+        "id": "331148",
+        "name": "電化學",
+        "href": "Curr.jsp?format=-2&code=3313168"
+      },
+      {
+        "id": "327716",
+        "name": "材料科學導論",
+        "href": "Curr.jsp?format=-2&code=3301022"
+      },
+      {
+        "id": "326525",
+        "name": "材料合成",
+        "href": "Curr.jsp?format=-2&code=3323016"
+      },
+      {
+        "id": "327966",
+        "name": "工程材料",
+        "href": "Curr.jsp?format=-2&code=3002010"
+      }
+    ]
+  },
+  {
+    "name": "離岸風電跨域微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV6",
+    "course": [
+      {
+        "id": "331514",
+        "name": "綠色科技",
+        "href": "Curr.jsp?format=-2&code=3003102"
+      },
+      {
+        "id": "331900",
+        "name": "電力系統保護與協調",
+        "href": "Curr.jsp?format=-2&code=3105102"
+      },
+      {
+        "id": "331606",
+        "name": "離岸風機工程調查與施工",
+        "href": "Curr.jsp?format=-2&code=C105006"
+      },
+      {
+        "id": "326073",
+        "name": "離岸風電之熱流與空氣動力學基礎",
+        "href": "Curr.jsp?format=-2&code=4504908"
+      },
+      {
+        "id": "331503",
+        "name": "新能源概論",
+        "href": "Curr.jsp?format=-2&code=4502607"
+      },
+      {
+        "id": "331453",
+        "name": "離岸風機工程調查與施工",
+        "href": "Curr.jsp?format=-2&code=C104006"
+      }
+    ]
+  },
+  {
+    "name": "木藝數位製造與管理微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV7",
+    "course": [
+      {
+        "id": "331878",
+        "name": "智慧製造與精實生產",
+        "href": "Curr.jsp?format=-2&code=3713024"
+      },
+      {
+        "id": "331880",
+        "name": "智慧製造與精實生產",
+        "href": "Curr.jsp?format=-2&code=3713024"
+      },
+      {
+        "id": "326751",
+        "name": "家具製造程序",
+        "href": "Curr.jsp?format=-2&code=3833029"
+      },
+      {
+        "id": "327307",
+        "name": "家具設計",
+        "href": "Curr.jsp?format=-2&code=3822002"
+      },
+      {
+        "id": "327317",
+        "name": "電腦輔助製造",
+        "href": "Curr.jsp?format=-2&code=3803082"
+      },
+      {
+        "id": "327842",
+        "name": "人因工程 (F)",
+        "href": "Curr.jsp?format=-2&code=3821001"
+      },
+      {
+        "id": "327850",
+        "name": "模型製作",
+        "href": "Curr.jsp?format=-2&code=3802013"
+      },
+      {
+        "id": "329726",
+        "name": "模型製作",
+        "href": "Curr.jsp?format=-2&code=3802013"
+      },
+      {
+        "id": "329982",
+        "name": "企業資源規劃初階",
+        "href": "Curr.jsp?format=-2&code=3862229"
+      },
+      {
+        "id": "331037",
+        "name": "電腦輔助製造 (二)",
+        "href": "Curr.jsp?format=-2&code=3862225"
+      },
+      {
+        "id": "330923",
+        "name": "家具生產管理",
+        "href": "Curr.jsp?format=-2&code=3871208"
+      },
+      {
+        "id": "327871",
+        "name": "設計實作",
+        "href": "Curr.jsp?format=-2&code=C300001"
+      },
+      {
+        "id": "328016",
+        "name": "設計實作",
+        "href": "Curr.jsp?format=-2&code=C300001"
+      },
+      {
+        "id": "328057",
+        "name": "財務管理",
+        "href": "Curr.jsp?format=-2&code=AB01024"
+      },
+      {
+        "id": "330962",
+        "name": "財務管理",
+        "href": "Curr.jsp?format=-2&code=AB01024"
+      },
+      {
+        "id": "331168",
+        "name": "虛擬實境應用與設計",
+        "href": "Curr.jsp?format=-2&code=AC03510"
+      }
+    ]
+  },
+  {
+    "name": "人工智慧與深度學習微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AV9",
+    "course": [
+      {
+        "id": "327061",
+        "name": "深度學習 TensorFlow 實務",
+        "href": "Curr.jsp?format=-2&code=3102102"
+      },
+      {
+        "id": "328159",
+        "name": "雲端運算",
+        "href": "Curr.jsp?format=-2&code=3105175"
+      },
+      {
+        "id": "331047",
+        "name": "資料探勘",
+        "href": "Curr.jsp?format=-2&code=3106007"
+      },
+      {
+        "id": "331542",
+        "name": "高等機器人與自動化應用",
+        "href": "Curr.jsp?format=-2&code=3105179"
+      },
+      {
+        "id": "331684",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=3604145"
+      },
+      {
+        "id": "328213",
+        "name": "物聯網與感測網路",
+        "href": "Curr.jsp?format=-2&code=3615047"
+      },
+      {
+        "id": "328215",
+        "name": "深度學習應用開發實務",
+        "href": "Curr.jsp?format=-2&code=3615050"
+      },
+      {
+        "id": "330085",
+        "name": "物聯網與感測網路",
+        "href": "Curr.jsp?format=-2&code=3615047"
+      },
+      {
+        "id": "331905",
+        "name": "自然語言處理與情感計算",
+        "href": "Curr.jsp?format=-2&code=3625045"
+      },
+      {
+        "id": "328784",
+        "name": "深度學習與商情預測",
+        "href": "Curr.jsp?format=-2&code=5705493"
+      },
+      {
+        "id": "326123",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=5904362"
+      },
+      {
+        "id": "327424",
+        "name": "資料科學導論",
+        "href": "Curr.jsp?format=-2&code=5902312"
+      },
+      {
+        "id": "328964",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=5905189"
+      },
+      {
+        "id": "332037",
+        "name": "巨量資料探勘與應用",
+        "href": "Curr.jsp?format=-2&code=5905187"
+      }
+    ]
+  },
+  {
+    "name": "智慧節能電源科技微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVA",
+    "course": [
+      {
+        "id": "326226",
+        "name": "機電整合學",
+        "href": "Curr.jsp?format=-2&code=3004060"
+      },
+      {
+        "id": "326259",
+        "name": "機電整合學",
+        "href": "Curr.jsp?format=-2&code=3004060"
+      },
+      {
+        "id": "326295",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326301",
+        "name": "數位訊號處理",
+        "href": "Curr.jsp?format=-2&code=3103066"
+      },
+      {
+        "id": "326324",
+        "name": "電機機械 (二)",
+        "href": "Curr.jsp?format=-2&code=3103017"
+      },
+      {
+        "id": "326325",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326355",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "331964",
+        "name": "數位訊號處理",
+        "href": "Curr.jsp?format=-2&code=3103066"
+      },
+      {
+        "id": "325891",
+        "name": "電力電子積體電路設計",
+        "href": "Curr.jsp?format=-2&code=3604129"
+      },
+      {
+        "id": "331920",
+        "name": "車輛動力學",
+        "href": "Curr.jsp?format=-2&code=4403020"
+      }
+    ]
+  },
+  {
+    "name": "智慧鐵道微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVB",
+    "course": [
+      {
+        "id": "331256",
+        "name": "智慧鐵道系統導論",
+        "href": "Curr.jsp?format=-2&code=3003123"
+      },
+      {
+        "id": "326225",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3003060"
+      },
+      {
+        "id": "326258",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3003060"
+      },
+      {
+        "id": "329883",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3003060"
+      },
+      {
+        "id": "326291",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326321",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326351",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "332932",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332938",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332934",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326649",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "326676",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "329839",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "332873",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "343472",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "343506",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326815",
+        "name": "鐵道車輛系統與維修基地",
+        "href": "Curr.jsp?format=-2&code=4403012"
+      },
+      {
+        "id": "326806",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=4403007"
+      },
+      {
+        "id": "329914",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=4403007"
+      },
+      {
+        "id": "326830",
+        "name": "實務專題（一）",
+        "href": "Curr.jsp?format=-2&code=4503001"
+      },
+      {
+        "id": "329927",
+        "name": "實務專題（一）",
+        "href": "Curr.jsp?format=-2&code=4503001"
+      },
+      {
+        "id": "337871",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326881",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=5903208"
+      },
+      {
+        "id": "326899",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=6504002"
+      },
+      {
+        "id": "332926",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332487",
+        "name": "鐵道通訊與資訊系統",
+        "href": "Curr.jsp?format=-2&code=C005005"
+      },
+      {
+        "id": "332488",
+        "name": "鐵道通訊與資訊系統",
+        "href": "Curr.jsp?format=-2&code=C005005"
+      },
+      {
+        "id": "332946",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332950",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332935",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      }
+    ]
+  },
+  {
+    "name": "智慧感測科技微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVC",
+    "course": [
+      {
+        "id": "325449",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=2B04009"
+      },
+      {
+        "id": "327007",
+        "name": "物理及演練",
+        "href": "Curr.jsp?format=-2&code=2A00014"
+      },
+      {
+        "id": "331256",
+        "name": "智慧鐵道系統導論",
+        "href": "Curr.jsp?format=-2&code=3003123"
+      },
+      {
+        "id": "326225",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3003060"
+      },
+      {
+        "id": "326258",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3003060"
+      },
+      {
+        "id": "327591",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327606",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "329883",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3003060"
+      },
+      {
+        "id": "326291",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326321",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326351",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "327061",
+        "name": "深度學習 TensorFlow 實務",
+        "href": "Curr.jsp?format=-2&code=3102102"
+      },
+      {
+        "id": "327621",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327634",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327647",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "328159",
+        "name": "雲端運算",
+        "href": "Curr.jsp?format=-2&code=3105175"
+      },
+      {
+        "id": "331047",
+        "name": "資料探勘",
+        "href": "Curr.jsp?format=-2&code=3106007"
+      },
+      {
+        "id": "330059",
+        "name": "大數據技術與管理",
+        "href": "Curr.jsp?format=-2&code=3105187"
+      },
+      {
+        "id": "331847",
+        "name": "化學與生醫感測器",
+        "href": "Curr.jsp?format=-2&code=AW00001"
+      },
+      {
+        "id": "326384",
+        "name": "專題研究（一）",
+        "href": "Curr.jsp?format=-2&code=3203072"
+      },
+      {
+        "id": "326424",
+        "name": "專題研究（一）",
+        "href": "Curr.jsp?format=-2&code=3203072"
+      },
+      {
+        "id": "326464",
+        "name": "專題研究（一）",
+        "href": "Curr.jsp?format=-2&code=3203072"
+      },
+      {
+        "id": "326504",
+        "name": "材料工程實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3313006"
+      },
+      {
+        "id": "327711",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "326527",
+        "name": "資源工程實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3323171"
+      },
+      {
+        "id": "327726",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "326563",
+        "name": "土木工程統整設計實作",
+        "href": "Curr.jsp?format=-2&code=3404122"
+      },
+      {
+        "id": "326594",
+        "name": "土木工程統整設計實作",
+        "href": "Curr.jsp?format=-2&code=3404122"
+      },
+      {
+        "id": "327743",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327756",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "326624",
+        "name": "專題研究",
+        "href": "Curr.jsp?format=-2&code=3503003"
+      },
+      {
+        "id": "326625",
+        "name": "物理化學",
+        "href": "Curr.jsp?format=-2&code=3534065"
+      },
+      {
+        "id": "327769",
+        "name": "基礎分子物理",
+        "href": "Curr.jsp?format=-2&code=3501008"
+      },
+      {
+        "id": "331684",
+        "name": "機器學習",
+        "href": "Curr.jsp?format=-2&code=3604145"
+      },
+      {
+        "id": "326649",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "326676",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "327784",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327799",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "328213",
+        "name": "物聯網與感測網路",
+        "href": "Curr.jsp?format=-2&code=3615047"
+      },
+      {
+        "id": "330085",
+        "name": "物聯網與感測網路",
+        "href": "Curr.jsp?format=-2&code=3615047"
+      },
+      {
+        "id": "330894",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "329839",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "326702",
+        "name": "專題製作 (二)",
+        "href": "Curr.jsp?format=-2&code=3713022"
+      },
+      {
+        "id": "331878",
+        "name": "智慧製造與精實生產",
+        "href": "Curr.jsp?format=-2&code=3713024"
+      },
+      {
+        "id": "326725",
+        "name": "專題製作 (二)",
+        "href": "Curr.jsp?format=-2&code=3713022"
+      },
+      {
+        "id": "331880",
+        "name": "智慧製造與精實生產",
+        "href": "Curr.jsp?format=-2&code=3713024"
+      },
+      {
+        "id": "331821",
+        "name": "雲端資料庫技術",
+        "href": "Curr.jsp?format=-2&code=4005924"
+      },
+      {
+        "id": "331837",
+        "name": "智能化生產技術",
+        "href": "Curr.jsp?format=-2&code=5605090"
+      },
+      {
+        "id": "327885",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=4401043"
+      },
+      {
+        "id": "328522",
+        "name": "智慧車輛動態與控制",
+        "href": "Curr.jsp?format=-2&code=4406122"
+      },
+      {
+        "id": "330932",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "326830",
+        "name": "實務專題（一）",
+        "href": "Curr.jsp?format=-2&code=4503001"
+      },
+      {
+        "id": "327898",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "329927",
+        "name": "實務專題（一）",
+        "href": "Curr.jsp?format=-2&code=4503001"
+      },
+      {
+        "id": "330944",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "326881",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=5903208"
+      },
+      {
+        "id": "327424",
+        "name": "資料科學導論",
+        "href": "Curr.jsp?format=-2&code=5902312"
+      },
+      {
+        "id": "329051",
+        "name": "物聯網應用技術",
+        "href": "Curr.jsp?format=-2&code=6105078"
+      },
+      {
+        "id": "331552",
+        "name": "光纖感測",
+        "href": "Curr.jsp?format=-2&code=6504581"
+      },
+      {
+        "id": "326899",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=6504002"
+      },
+      {
+        "id": "329299",
+        "name": "光纖感測",
+        "href": "Curr.jsp?format=-2&code=6505135"
+      },
+      {
+        "id": "331846",
+        "name": "化學與生醫感測器",
+        "href": "Curr.jsp?format=-2&code=AW00001"
+      },
+      {
+        "id": "327962",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327979",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      },
+      {
+        "id": "327994",
+        "name": "物理",
+        "href": "Curr.jsp?format=-2&code=1401041"
+      }
+    ]
+  },
+  {
+    "name": "太空科技微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVD",
+    "course": [
+      {
+        "id": "326291",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326295",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326298",
+        "name": "通訊系統",
+        "href": "Curr.jsp?format=-2&code=3103062"
+      },
+      {
+        "id": "326301",
+        "name": "數位訊號處理",
+        "href": "Curr.jsp?format=-2&code=3103066"
+      },
+      {
+        "id": "326321",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326325",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326328",
+        "name": "通訊系統",
+        "href": "Curr.jsp?format=-2&code=3103062"
+      },
+      {
+        "id": "326351",
+        "name": "實務專題 (一)",
+        "href": "Curr.jsp?format=-2&code=3113710"
+      },
+      {
+        "id": "326355",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "331964",
+        "name": "數位訊號處理",
+        "href": "Curr.jsp?format=-2&code=3103066"
+      },
+      {
+        "id": "331038",
+        "name": "衛星電機系統設計",
+        "href": "Curr.jsp?format=-2&code=3104124"
+      },
+      {
+        "id": "332551",
+        "name": "偏極合成孔徑雷達影像處理",
+        "href": "Curr.jsp?format=-2&code=3105201"
+      },
+      {
+        "id": "332932",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332938",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332934",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326649",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "326653",
+        "name": "數位通訊系統",
+        "href": "Curr.jsp?format=-2&code=3603074"
+      },
+      {
+        "id": "326676",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "330896",
+        "name": "微算機原理及應用",
+        "href": "Curr.jsp?format=-2&code=3602053"
+      },
+      {
+        "id": "329839",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=3604004"
+      },
+      {
+        "id": "329841",
+        "name": "數位通訊系統",
+        "href": "Curr.jsp?format=-2&code=3603074"
+      },
+      {
+        "id": "332873",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "343472",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "343506",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "337871",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326881",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=5903208"
+      },
+      {
+        "id": "331410",
+        "name": "感測技術基礎科學",
+        "href": "Curr.jsp?format=-2&code=C500001"
+      },
+      {
+        "id": "326899",
+        "name": "實務專題 (二)",
+        "href": "Curr.jsp?format=-2&code=6504002"
+      },
+      {
+        "id": "332926",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332946",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332950",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      }
+    ]
+  },
+  {
+    "name": "工程數位科技與人工智慧微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVE",
+    "course": [
+      {
+        "id": "331519",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331633",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331220",
+        "name": "人工智慧",
+        "href": "Curr.jsp?format=-2&code=3003116"
+      },
+      {
+        "id": "331377",
+        "name": "人工智慧",
+        "href": "Curr.jsp?format=-2&code=3003116"
+      },
+      {
+        "id": "327715",
+        "name": "程式設計實習",
+        "href": "Curr.jsp?format=-2&code=3301011"
+      },
+      {
+        "id": "326534",
+        "name": "地理資訊系統",
+        "href": "Curr.jsp?format=-2&code=3323116"
+      },
+      {
+        "id": "327730",
+        "name": "程式設計 (一)",
+        "href": "Curr.jsp?format=-2&code=3321010"
+      },
+      {
+        "id": "327745",
+        "name": "程式設計",
+        "href": "Curr.jsp?format=-2&code=3401110"
+      },
+      {
+        "id": "327758",
+        "name": "程式設計",
+        "href": "Curr.jsp?format=-2&code=3401110"
+      },
+      {
+        "id": "327772",
+        "name": "計算機程式及應用",
+        "href": "Curr.jsp?format=-2&code=3521008"
+      },
+      {
+        "id": "331906",
+        "name": "高階語言程式實習",
+        "href": "Curr.jsp?format=-2&code=3601009"
+      },
+      {
+        "id": "330908",
+        "name": "程式語言 (二)",
+        "href": "Curr.jsp?format=-2&code=3712009"
+      },
+      {
+        "id": "327887",
+        "name": "程式設計 (二)",
+        "href": "Curr.jsp?format=-2&code=4402092"
+      },
+      {
+        "id": "331449",
+        "name": "程式設計 (二)",
+        "href": "Curr.jsp?format=-2&code=4501113"
+      },
+      {
+        "id": "327952",
+        "name": "程式語言",
+        "href": "Curr.jsp?format=-2&code=6501003"
+      },
+      {
+        "id": "329218",
+        "name": "計算材料科學",
+        "href": "Curr.jsp?format=-2&code=7815190"
+      },
+      {
+        "id": "327967",
+        "name": "程式設計 (二)",
+        "href": "Curr.jsp?format=-2&code=4501113"
+      },
+      {
+        "id": "327997",
+        "name": "計算機程式",
+        "href": "Curr.jsp?format=-2&code=3201006"
+      },
+      {
+        "id": "331452",
+        "name": "工程模擬工具的開發",
+        "href": "Curr.jsp?format=-2&code=C103006"
+      },
+      {
+        "id": "332517",
+        "name": "數值分析",
+        "href": "Curr.jsp?format=-2&code=C105012"
+      },
+      {
+        "id": "331455",
+        "name": "工程模擬工具的開發",
+        "href": "Curr.jsp?format=-2&code=C103006"
+      },
+      {
+        "id": "332518",
+        "name": "數值分析",
+        "href": "Curr.jsp?format=-2&code=C105012"
+      },
+      {
+        "id": "328055",
+        "name": "程式設計 (二)",
+        "href": "Curr.jsp?format=-2&code=AB01010"
+      },
+      {
+        "id": "330960",
+        "name": "程式設計 (二)",
+        "href": "Curr.jsp?format=-2&code=AB01010"
+      }
+    ]
+  },
+  {
+    "name": "沉浸式影像創作與展演微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVF",
+    "course": [
+      {
+        "id": "326915",
+        "name": "展演藝術與表達",
+        "href": "Curr.jsp?format=-2&code=A503027"
+      },
+      {
+        "id": "327508",
+        "name": "動態影像新研究法",
+        "href": "Curr.jsp?format=-2&code=A502243"
+      },
+      {
+        "id": "328044",
+        "name": "藝術的幾何元素",
+        "href": "Curr.jsp?format=-2&code=A501222"
+      },
+      {
+        "id": "331168",
+        "name": "虛擬實境應用與設計",
+        "href": "Curr.jsp?format=-2&code=AC03510"
+      },
+      {
+        "id": "327536",
+        "name": "數位音樂創作",
+        "href": "Curr.jsp?format=-2&code=AC02504"
+      },
+      {
+        "id": "327541",
+        "name": "電腦動畫 II",
+        "href": "Curr.jsp?format=-2&code=AC12504"
+      },
+      {
+        "id": "328074",
+        "name": "數位文創應用",
+        "href": "Curr.jsp?format=-2&code=AC01504"
+      }
+    ]
+  },
+  {
+    "name": "先進材料化學微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVG",
+    "course": [
+      {
+        "id": "331847",
+        "name": "化學與生醫感測器",
+        "href": "Curr.jsp?format=-2&code=AW00001"
+      },
+      {
+        "id": "327121",
+        "name": "有機化學 (二)",
+        "href": "Curr.jsp?format=-2&code=3202038"
+      },
+      {
+        "id": "327139",
+        "name": "有機化學 (二)",
+        "href": "Curr.jsp?format=-2&code=3202038"
+      },
+      {
+        "id": "327157",
+        "name": "有機化學 (二)",
+        "href": "Curr.jsp?format=-2&code=3202038"
+      },
+      {
+        "id": "331146",
+        "name": "儀器分析",
+        "href": "Curr.jsp?format=-2&code=3323144"
+      },
+      {
+        "id": "331129",
+        "name": "冶金動力論",
+        "href": "Curr.jsp?format=-2&code=3323172"
+      },
+      {
+        "id": "326525",
+        "name": "材料合成",
+        "href": "Curr.jsp?format=-2&code=3323016"
+      },
+      {
+        "id": "331862",
+        "name": "高分子化學特論",
+        "href": "Curr.jsp?format=-2&code=3503016"
+      },
+      {
+        "id": "327229",
+        "name": "有機化學",
+        "href": "Curr.jsp?format=-2&code=3502016"
+      },
+      {
+        "id": "327237",
+        "name": "無機化學 (II)",
+        "href": "Curr.jsp?format=-2&code=3512024"
+      },
+      {
+        "id": "329864",
+        "name": "燃料電池概論",
+        "href": "Curr.jsp?format=-2&code=4504107"
+      }
+    ]
+  },
+  {
+    "name": "全球商務英語溝通微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVH",
+    "course": [
+      {
+        "id": "326085",
+        "name": "中英商務口譯",
+        "href": "Curr.jsp?format=-2&code=5404428"
+      },
+      {
+        "id": "329762",
+        "name": "全球英語概論",
+        "href": "Curr.jsp?format=-2&code=5401209"
+      },
+      {
+        "id": "327388",
+        "name": "英文簡報",
+        "href": "Curr.jsp?format=-2&code=5402211"
+      },
+      {
+        "id": "329755",
+        "name": "英文簡報",
+        "href": "Curr.jsp?format=-2&code=5402211"
+      },
+      {
+        "id": "329756",
+        "name": "英文簡報",
+        "href": "Curr.jsp?format=-2&code=5402211"
+      },
+      {
+        "id": "329750",
+        "name": "高階英文字彙習得與應用",
+        "href": "Curr.jsp?format=-2&code=5401206"
+      },
+      {
+        "id": "326871",
+        "name": "服務業管理",
+        "href": "Curr.jsp?format=-2&code=5703029"
+      }
+    ]
+  },
+  {
+    "name": "綠能與節能微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVI",
+    "course": [
+      {
+        "id": "331514",
+        "name": "綠色科技",
+        "href": "Curr.jsp?format=-2&code=3003102"
+      },
+      {
+        "id": "332932",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "325728",
+        "name": "能源材料",
+        "href": "Curr.jsp?format=-2&code=3314140"
+      },
+      {
+        "id": "332938",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332934",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332873",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "343472",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "343506",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326073",
+        "name": "離岸風電之熱流與空氣動力學基礎",
+        "href": "Curr.jsp?format=-2&code=4504908"
+      },
+      {
+        "id": "326830",
+        "name": "實務專題（一）",
+        "href": "Curr.jsp?format=-2&code=4503001"
+      },
+      {
+        "id": "331503",
+        "name": "新能源概論",
+        "href": "Curr.jsp?format=-2&code=4502607"
+      },
+      {
+        "id": "327374",
+        "name": "空調工程與設計",
+        "href": "Curr.jsp?format=-2&code=4502503"
+      },
+      {
+        "id": "327381",
+        "name": "能源應用",
+        "href": "Curr.jsp?format=-2&code=4504506"
+      },
+      {
+        "id": "331950",
+        "name": "冷凍空調節能技術",
+        "href": "Curr.jsp?format=-2&code=4504602"
+      },
+      {
+        "id": "329927",
+        "name": "實務專題（一）",
+        "href": "Curr.jsp?format=-2&code=4503001"
+      },
+      {
+        "id": "330001",
+        "name": "空調工程與設計",
+        "href": "Curr.jsp?format=-2&code=4502503"
+      },
+      {
+        "id": "331931",
+        "name": "空調工程與設計",
+        "href": "Curr.jsp?format=-2&code=4502503"
+      },
+      {
+        "id": "337871",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "327452",
+        "name": "空調工程與設計",
+        "href": "Curr.jsp?format=-2&code=4502503"
+      },
+      {
+        "id": "332926",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332946",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332950",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "332935",
+        "name": "校外實習",
+        "href": "Curr.jsp?format=-2&code=1400029"
+      },
+      {
+        "id": "326992",
+        "name": "新能源概論",
+        "href": "Curr.jsp?format=-2&code=4502607"
+      }
+    ]
+  },
+  {
+    "name": "人本自然語言處理與互動設計微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVJ",
+    "course": [
+      {
+        "id": "331519",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331633",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      }
+    ]
+  },
+  {
+    "name": "數據分析微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVK",
+    "course": [
+      {
+        "id": "331519",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331633",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      }
+    ]
+  },
+  {
+    "name": "房屋結構安全性能評估微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVL",
+    "course": [
+      {
+        "id": "327744",
+        "name": "工程靜力學",
+        "href": "Curr.jsp?format=-2&code=3401004"
+      },
+      {
+        "id": "327757",
+        "name": "工程靜力學",
+        "href": "Curr.jsp?format=-2&code=3401004"
+      },
+      {
+        "id": "331441",
+        "name": "BIM 建築資訊系統概論",
+        "href": "Curr.jsp?format=-2&code=3903481"
+      },
+      {
+        "id": "328013",
+        "name": "建築構造學（一）",
+        "href": "Curr.jsp?format=-2&code=3902012"
+      }
+    ]
+  },
+  {
+    "name": "綠建築微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVM",
+    "course": [
+      {
+        "id": "326575",
+        "name": "無人機攝影測量概論與實作",
+        "href": "Curr.jsp?format=-2&code=3403096"
+      },
+      {
+        "id": "331439",
+        "name": "循環經濟之建築設計",
+        "href": "Curr.jsp?format=-2&code=3903446"
+      }
+    ]
+  },
+  {
+    "name": "智慧製造管理微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVN",
+    "course": [
+      {
+        "id": "331843",
+        "name": "智慧製造 PBL 專題",
+        "href": "Curr.jsp?format=-2&code=3723068"
+      },
+      {
+        "id": "331933",
+        "name": "智慧製造 PBL 專題",
+        "href": "Curr.jsp?format=-2&code=3723068"
+      },
+      {
+        "id": "331878",
+        "name": "智慧製造與精實生產",
+        "href": "Curr.jsp?format=-2&code=3713024"
+      }
+    ]
+  },
+  {
+    "name": "國際領導力微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVP",
+    "course": [
+      {
+        "id": "331884",
+        "name": "全球議題與趨勢 (二)",
+        "href": "Curr.jsp?format=-2&code=14E4016"
+      },
+      {
+        "id": "328776",
+        "name": "國際廣告與媒體策略",
+        "href": "Curr.jsp?format=-2&code=5705254"
+      },
+      {
+        "id": "328777",
+        "name": "國際企業管理",
+        "href": "Curr.jsp?format=-2&code=5705257"
+      }
+    ]
+  },
+  {
+    "name": "文化經濟與體驗行銷微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVQ",
+    "course": [
+      {
+        "id": "326871",
+        "name": "服務業管理",
+        "href": "Curr.jsp?format=-2&code=5703029"
+      },
+      {
+        "id": "327410",
+        "name": "消費者行為",
+        "href": "Curr.jsp?format=-2&code=5702012"
+      },
+      {
+        "id": "326915",
+        "name": "展演藝術與表達",
+        "href": "Curr.jsp?format=-2&code=A503027"
+      },
+      {
+        "id": "326920",
+        "name": "文創產業與品牌、行銷、通路",
+        "href": "Curr.jsp?format=-2&code=A503236"
+      }
+    ]
+  },
+  {
+    "name": "半導體設備微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVR",
+    "course": [
+      {
+        "id": "331249",
+        "name": "機構設計",
+        "href": "Curr.jsp?format=-2&code=3003044"
+      },
+      {
+        "id": "326226",
+        "name": "機電整合學",
+        "href": "Curr.jsp?format=-2&code=3004060"
+      },
+      {
+        "id": "331274",
+        "name": "非傳統加工",
+        "href": "Curr.jsp?format=-2&code=3003083"
+      },
+      {
+        "id": "326259",
+        "name": "機電整合學",
+        "href": "Curr.jsp?format=-2&code=3004060"
+      },
+      {
+        "id": "331314",
+        "name": "自動化機構設計",
+        "href": "Curr.jsp?format=-2&code=3003078"
+      },
+      {
+        "id": "326295",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326325",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326355",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "329021",
+        "name": "人工智能機器學習",
+        "href": "Curr.jsp?format=-2&code=4005131"
+      },
+      {
+        "id": "331271",
+        "name": "半導體尖端設備與關鍵元件",
+        "href": "Curr.jsp?format=-2&code=4005143"
+      },
+      {
+        "id": "331273",
+        "name": "雷射加工技術",
+        "href": "Curr.jsp?format=-2&code=5605008"
+      },
+      {
+        "id": "326836",
+        "name": "控制理論",
+        "href": "Curr.jsp?format=-2&code=4503504"
+      },
+      {
+        "id": "330254",
+        "name": "真空系統理論與實務",
+        "href": "Curr.jsp?format=-2&code=4505308"
+      },
+      {
+        "id": "329869",
+        "name": "真空設備專論",
+        "href": "Curr.jsp?format=-2&code=4504907"
+      },
+      {
+        "id": "331239",
+        "name": "精密機械控制",
+        "href": "Curr.jsp?format=-2&code=5605016"
+      },
+      {
+        "id": "329050",
+        "name": "自動化系統設計與實習",
+        "href": "Curr.jsp?format=-2&code=6105076"
+      },
+      {
+        "id": "332831",
+        "name": "半導體機台基礎",
+        "href": "Curr.jsp?format=-2&code=C005006"
+      },
+      {
+        "id": "332832",
+        "name": "半導體設備元件基礎",
+        "href": "Curr.jsp?format=-2&code=C005007"
+      },
+      {
+        "id": "332833",
+        "name": "半導體機台基礎",
+        "href": "Curr.jsp?format=-2&code=C005006"
+      }
+    ]
+  },
+  {
+    "name": "資訊安全微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVS",
+    "course": [
+      {
+        "id": "331992",
+        "name": "資訊與生活",
+        "href": "Curr.jsp?format=-2&code=1410045"
+      },
+      {
+        "id": "331519",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331633",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "332244",
+        "name": "資訊與生活",
+        "href": "Curr.jsp?format=-2&code=1410045"
+      },
+      {
+        "id": "331117",
+        "name": "雲端與物聯網安全",
+        "href": "Curr.jsp?format=-2&code=5904373"
+      },
+      {
+        "id": "328971",
+        "name": "雲端與物聯網安全",
+        "href": "Curr.jsp?format=-2&code=5905201"
+      },
+      {
+        "id": "331623",
+        "name": "金融資訊安全",
+        "href": "Curr.jsp?format=-2&code=AB03059"
+      },
+      {
+        "id": "331626",
+        "name": "數位鑑識與調查",
+        "href": "Curr.jsp?format=-2&code=AB03039"
+      },
+      {
+        "id": "331529",
+        "name": "數位鑑識與調查",
+        "href": "Curr.jsp?format=-2&code=AB03039"
+      }
+    ]
+  },
+  {
+    "name": "半導體製程微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVT",
+    "course": [
+      {
+        "id": "331147",
+        "name": "固態電子元件",
+        "href": "Curr.jsp?format=-2&code=3313134"
+      },
+      {
+        "id": "331156",
+        "name": "矽奈米元件物理",
+        "href": "Curr.jsp?format=-2&code=3314191"
+      },
+      {
+        "id": "326525",
+        "name": "材料合成",
+        "href": "Curr.jsp?format=-2&code=3323016"
+      },
+      {
+        "id": "331804",
+        "name": "奈米分子材料",
+        "href": "Curr.jsp?format=-2&code=3504014"
+      },
+      {
+        "id": "331686",
+        "name": "半導體製程",
+        "href": "Curr.jsp?format=-2&code=3604102"
+      },
+      {
+        "id": "330118",
+        "name": "半導體元件物理",
+        "href": "Curr.jsp?format=-2&code=3645028"
+      },
+      {
+        "id": "331641",
+        "name": "半導體製程技術導論",
+        "href": "Curr.jsp?format=-2&code=6505148"
+      },
+      {
+        "id": "331163",
+        "name": "矽奈米元件物理",
+        "href": "Curr.jsp?format=-2&code=7815191"
+      },
+      {
+        "id": "332831",
+        "name": "半導體機台基礎",
+        "href": "Curr.jsp?format=-2&code=C005006"
+      },
+      {
+        "id": "332832",
+        "name": "半導體設備元件基礎",
+        "href": "Curr.jsp?format=-2&code=C005007"
+      },
+      {
+        "id": "332833",
+        "name": "半導體機台基礎",
+        "href": "Curr.jsp?format=-2&code=C005006"
+      }
+    ]
+  },
+  {
+    "name": "元宇宙微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVU",
+    "course": [
+      {
+        "id": "326204",
+        "name": "設計創業與管理",
+        "href": "Curr.jsp?format=-2&code=AC04503"
+      },
+      {
+        "id": "326980",
+        "name": "擴增實境應用與設計",
+        "href": "Curr.jsp?format=-2&code=AC03512"
+      },
+      {
+        "id": "331168",
+        "name": "虛擬實境應用與設計",
+        "href": "Curr.jsp?format=-2&code=AC03510"
+      }
+    ]
+  },
+  {
+    "name": "智慧創新網宇實體系統設計與開發微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVV",
+    "course": [
+      {
+        "id": "331669",
+        "name": "智能工廠專題實務 (二)",
+        "href": "Curr.jsp?format=-2&code=3003129"
+      },
+      {
+        "id": "331496",
+        "name": "計算機程式應用",
+        "href": "Curr.jsp?format=-2&code=3002816"
+      },
+      {
+        "id": "332201",
+        "name": "智能工廠專題實務 (二)",
+        "href": "Curr.jsp?format=-2&code=3003129"
+      }
+    ]
+  },
+  {
+    "name": "教育大數據微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVW",
+    "course": [
+      {
+        "id": "331519",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331633",
+        "name": "Python 程式設計概論與應用",
+        "href": "Curr.jsp?format=-2&code=1416019"
+      },
+      {
+        "id": "331118",
+        "name": "資料科學原理與教育數據應用",
+        "href": "Curr.jsp?format=-2&code=5904381"
+      },
+      {
+        "id": "327426",
+        "name": "數據程式設計",
+        "href": "Curr.jsp?format=-2&code=5902316"
+      },
+      {
+        "id": "328978",
+        "name": "資料科學原理與教育數據應用",
+        "href": "Curr.jsp?format=-2&code=5905211"
+      },
+      {
+        "id": "332504",
+        "name": "應用人工智慧於教育專題製作",
+        "href": "Curr.jsp?format=-2&code=AVW0002"
+      },
+      {
+        "id": "332507",
+        "name": "校務研究：教育場域數據分析實作",
+        "href": "Curr.jsp?format=-2&code=AVW0001"
+      },
+      {
+        "id": "332526",
+        "name": "校務研究：教育場域數據分析實作",
+        "href": "Curr.jsp?format=-2&code=AVW0001"
+      },
+      {
+        "id": "332527",
+        "name": "應用人工智慧於教育專題製作",
+        "href": "Curr.jsp?format=-2&code=AVW0002"
+      }
+    ]
+  },
+  {
+    "name": "循環經濟與淨零永續微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVX",
+    "course": [
+      {
+        "id": "331514",
+        "name": "綠色科技",
+        "href": "Curr.jsp?format=-2&code=3003102"
+      },
+      {
+        "id": "330991",
+        "name": "潔淨生產技術",
+        "href": "Curr.jsp?format=-2&code=3203104"
+      },
+      {
+        "id": "326524",
+        "name": "資源處理工程 (二)",
+        "href": "Curr.jsp?format=-2&code=3323013"
+      },
+      {
+        "id": "326537",
+        "name": "資源處理工程實習 (二)",
+        "href": "Curr.jsp?format=-2&code=3323157"
+      },
+      {
+        "id": "327729",
+        "name": "資源工程導論",
+        "href": "Curr.jsp?format=-2&code=3321008"
+      },
+      {
+        "id": "326561",
+        "name": "環境工程",
+        "href": "Curr.jsp?format=-2&code=3403010"
+      },
+      {
+        "id": "326592",
+        "name": "環境工程",
+        "href": "Curr.jsp?format=-2&code=3403010"
+      },
+      {
+        "id": "327209",
+        "name": "環境科學概論",
+        "href": "Curr.jsp?format=-2&code=3403074"
+      },
+      {
+        "id": "327223",
+        "name": "環境科學概論",
+        "href": "Curr.jsp?format=-2&code=3403074"
+      },
+      {
+        "id": "331439",
+        "name": "循環經濟之建築設計",
+        "href": "Curr.jsp?format=-2&code=3903446"
+      },
+      {
+        "id": "331503",
+        "name": "新能源概論",
+        "href": "Curr.jsp?format=-2&code=4502607"
+      },
+      {
+        "id": "328547",
+        "name": "能源管理技術",
+        "href": "Curr.jsp?format=-2&code=4505305"
+      },
+      {
+        "id": "328556",
+        "name": "能源工程",
+        "href": "Curr.jsp?format=-2&code=4505606"
+      },
+      {
+        "id": "328990",
+        "name": "再生能源與環境",
+        "href": "Curr.jsp?format=-2&code=6015029"
+      },
+      {
+        "id": "329010",
+        "name": "溫室氣體管理與實務",
+        "href": "Curr.jsp?format=-2&code=6030001"
+      },
+      {
+        "id": "331134",
+        "name": "企業永續與管理",
+        "href": "Curr.jsp?format=-2&code=6027038"
+      },
+      {
+        "id": "330602",
+        "name": "低碳與淨零社會建構",
+        "href": "Curr.jsp?format=-2&code=6030019"
+      },
+      {
+        "id": "331138",
+        "name": "再生能源與環境",
+        "href": "Curr.jsp?format=-2&code=6015029"
+      },
+      {
+        "id": "329146",
+        "name": "潔淨生產技術",
+        "href": "Curr.jsp?format=-2&code=7305019"
+      },
+      {
+        "id": "329175",
+        "name": "綠能產業政策與經濟分析",
+        "href": "Curr.jsp?format=-2&code=7305072"
+      },
+      {
+        "id": "330663",
+        "name": "綠能產業政策與經濟分析",
+        "href": "Curr.jsp?format=-2&code=7305072"
+      },
+      {
+        "id": "329232",
+        "name": "資源再生流程設計",
+        "href": "Curr.jsp?format=-2&code=7925103"
+      },
+      {
+        "id": "328000",
+        "name": "資源工程導論",
+        "href": "Curr.jsp?format=-2&code=3321008"
+      }
+    ]
+  },
+  {
+    "name": "人工智慧賦能跨域應用微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVY",
+    "course": [
+      {
+        "id": "332255",
+        "name": "人工智慧與量子計算應用介紹",
+        "href": "Curr.jsp?format=-2&code=1416025"
+      },
+      {
+        "id": "331499",
+        "name": "人工智慧跨域製造及物流之應用",
+        "href": "Curr.jsp?format=-2&code=3723071"
+      },
+      {
+        "id": "331500",
+        "name": "人工智慧跨域製造及物流之應用",
+        "href": "Curr.jsp?format=-2&code=3723071"
+      },
+      {
+        "id": "327817",
+        "name": "人工智慧導論與程式語言 (二)",
+        "href": "Curr.jsp?format=-2&code=3721011"
+      },
+      {
+        "id": "327830",
+        "name": "人工智慧導論與程式語言 (二)",
+        "href": "Curr.jsp?format=-2&code=3721011"
+      },
+      {
+        "id": "331380",
+        "name": "人工智慧跨域經營管理之應用",
+        "href": "Curr.jsp?format=-2&code=5723013"
+      },
+      {
+        "id": "332519",
+        "name": "人工智慧跨域專題實作",
+        "href": "Curr.jsp?format=-2&code=AVY0001"
+      }
+    ]
+  },
+  {
+    "name": "多媒體人機互動應用與設計微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AVZ",
+    "course": [
+      {
+        "id": "331744",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3603078"
+      },
+      {
+        "id": "331745",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3603078"
+      },
+      {
+        "id": "331758",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3603078"
+      },
+      {
+        "id": "327845",
+        "name": "程式設計入門",
+        "href": "Curr.jsp?format=-2&code=C300003"
+      },
+      {
+        "id": "329727",
+        "name": "程式設計入門",
+        "href": "Curr.jsp?format=-2&code=C300003"
+      },
+      {
+        "id": "328018",
+        "name": "程式設計入門",
+        "href": "Curr.jsp?format=-2&code=C300003"
+      },
+      {
+        "id": "331840",
+        "name": "電腦動畫與程式",
+        "href": "Curr.jsp?format=-2&code=AVZ0002"
+      },
+      {
+        "id": "331168",
+        "name": "虛擬實境應用與設計",
+        "href": "Curr.jsp?format=-2&code=AC03510"
+      }
+    ]
+  },
+  {
+    "name": "無人機微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ1",
+    "course": [
+      {
+        "id": "326212",
+        "name": "電機機械",
+        "href": "Curr.jsp?format=-2&code=2B03007"
+      },
+      {
+        "id": "331269",
+        "name": "微處理機",
+        "href": "Curr.jsp?format=-2&code=3003072"
+      },
+      {
+        "id": "326295",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326298",
+        "name": "通訊系統",
+        "href": "Curr.jsp?format=-2&code=3103062"
+      },
+      {
+        "id": "326325",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "326328",
+        "name": "通訊系統",
+        "href": "Curr.jsp?format=-2&code=3103062"
+      },
+      {
+        "id": "326355",
+        "name": "控制系統",
+        "href": "Curr.jsp?format=-2&code=3103021"
+      },
+      {
+        "id": "327053",
+        "name": "微處理機",
+        "href": "Curr.jsp?format=-2&code=3102041"
+      },
+      {
+        "id": "327059",
+        "name": "智慧型手機程式設計",
+        "href": "Curr.jsp?format=-2&code=3102100"
+      },
+      {
+        "id": "327072",
+        "name": "微處理機",
+        "href": "Curr.jsp?format=-2&code=3102041"
+      },
+      {
+        "id": "327078",
+        "name": "智慧型手機程式設計",
+        "href": "Curr.jsp?format=-2&code=3102100"
+      },
+      {
+        "id": "327091",
+        "name": "微處理機",
+        "href": "Curr.jsp?format=-2&code=3102041"
+      },
+      {
+        "id": "327097",
+        "name": "智慧型手機程式設計",
+        "href": "Curr.jsp?format=-2&code=3102100"
+      },
+      {
+        "id": "331016",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3113001"
+      },
+      {
+        "id": "331018",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3113001"
+      },
+      {
+        "id": "331020",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3113001"
+      },
+      {
+        "id": "326653",
+        "name": "數位通訊系統",
+        "href": "Curr.jsp?format=-2&code=3603074"
+      },
+      {
+        "id": "331743",
+        "name": "微處理機及自動控制應用實務",
+        "href": "Curr.jsp?format=-2&code=3603112"
+      },
+      {
+        "id": "331744",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3603078"
+      },
+      {
+        "id": "331745",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3603078"
+      },
+      {
+        "id": "330896",
+        "name": "微算機原理及應用",
+        "href": "Curr.jsp?format=-2&code=3602053"
+      },
+      {
+        "id": "331758",
+        "name": "物件導向程式設計",
+        "href": "Curr.jsp?format=-2&code=3603078"
+      },
+      {
+        "id": "331908",
+        "name": "電路學 (一)",
+        "href": "Curr.jsp?format=-2&code=3602002"
+      },
+      {
+        "id": "329841",
+        "name": "數位通訊系統",
+        "href": "Curr.jsp?format=-2&code=3603074"
+      },
+      {
+        "id": "326818",
+        "name": "微處理機",
+        "href": "Curr.jsp?format=-2&code=4403035"
+      },
+      {
+        "id": "327361",
+        "name": "電子學",
+        "href": "Curr.jsp?format=-2&code=4401023"
+      },
+      {
+        "id": "329990",
+        "name": "電子學",
+        "href": "Curr.jsp?format=-2&code=4401023"
+      },
+      {
+        "id": "327380",
+        "name": "電機機械",
+        "href": "Curr.jsp?format=-2&code=4503100"
+      },
+      {
+        "id": "330007",
+        "name": "電機機械",
+        "href": "Curr.jsp?format=-2&code=4503100"
+      }
+    ]
+  },
+  {
+    "name": "低軌衛星通訊電路與天線微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ2",
+    "course": [
+      {
+        "id": "328175",
+        "name": "無線傳收機設計",
+        "href": "Curr.jsp?format=-2&code=3105210"
+      },
+      {
+        "id": "326645",
+        "name": "高頻電路實習",
+        "href": "Curr.jsp?format=-2&code=3603007"
+      },
+      {
+        "id": "327250",
+        "name": "電磁學",
+        "href": "Curr.jsp?format=-2&code=3603063"
+      },
+      {
+        "id": "327268",
+        "name": "電磁學",
+        "href": "Curr.jsp?format=-2&code=3603063"
+      }
+    ]
+  },
+  {
+    "name": "低軌衛星通訊與接取網路微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ3",
+    "course": [
+      {
+        "id": "331691",
+        "name": "作業系統",
+        "href": "Curr.jsp?format=-2&code=3603059"
+      },
+      {
+        "id": "326880",
+        "name": "作業系統",
+        "href": "Curr.jsp?format=-2&code=5903206"
+      },
+      {
+        "id": "332555",
+        "name": "非地面通訊網路技術",
+        "href": "Curr.jsp?format=-2&code=C505008"
+      },
+      {
+        "id": "332558",
+        "name": "地面站網路切片與服務品質保證",
+        "href": "Curr.jsp?format=-2&code=C505009"
+      },
+      {
+        "id": "332545",
+        "name": "地面站網路切片與服務品質保證",
+        "href": "Curr.jsp?format=-2&code=C505009"
+      }
+    ]
+  },
+  {
+    "name": "低軌衛星系統應用微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ4",
+    "course": [
+      {
+        "id": "327255",
+        "name": "訊號與系統",
+        "href": "Curr.jsp?format=-2&code=3602068"
+      },
+      {
+        "id": "332556",
+        "name": "衛星無人機整合應用",
+        "href": "Curr.jsp?format=-2&code=C505010"
+      },
+      {
+        "id": "332557",
+        "name": "遙測影像處理",
+        "href": "Curr.jsp?format=-2&code=C503003"
+      },
+      {
+        "id": "332548",
+        "name": "衛星無人機整合應用",
+        "href": "Curr.jsp?format=-2&code=C505010"
+      }
+    ]
+  },
+  {
+    "name": "文化永續與社會創新 - 社會實踐微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ5",
+    "course": [
+      {
+        "id": "331976",
+        "name": "社會學概論",
+        "href": "Curr.jsp?format=-2&code=1415002"
+      },
+      {
+        "id": "332209",
+        "name": "創新思考",
+        "href": "Curr.jsp?format=-2&code=1418002"
+      },
+      {
+        "id": "332253",
+        "name": "勞動影像與當代台灣社會",
+        "href": "Curr.jsp?format=-2&code=1415016"
+      },
+      {
+        "id": "332275",
+        "name": "社會學概論",
+        "href": "Curr.jsp?format=-2&code=1415002"
+      },
+      {
+        "id": "332276",
+        "name": "攝影與社會",
+        "href": "Curr.jsp?format=-2&code=1415013"
+      },
+      {
+        "id": "332286",
+        "name": "社會學概論",
+        "href": "Curr.jsp?format=-2&code=1415002"
+      },
+      {
+        "id": "332290",
+        "name": "創新思考",
+        "href": "Curr.jsp?format=-2&code=1418002"
+      },
+      {
+        "id": "332297",
+        "name": "創新思考",
+        "href": "Curr.jsp?format=-2&code=1418002"
+      },
+      {
+        "id": "332339",
+        "name": "社會學概論",
+        "href": "Curr.jsp?format=-2&code=1415002"
+      },
+      {
+        "id": "327305",
+        "name": "產品設計",
+        "href": "Curr.jsp?format=-2&code=3812001"
+      },
+      {
+        "id": "327307",
+        "name": "家具設計",
+        "href": "Curr.jsp?format=-2&code=3822002"
+      },
+      {
+        "id": "329732",
+        "name": "跨域全齡商品設計開發",
+        "href": "Curr.jsp?format=-2&code=3824201"
+      },
+      {
+        "id": "327842",
+        "name": "人因工程 (F)",
+        "href": "Curr.jsp?format=-2&code=3821001"
+      },
+      {
+        "id": "328891",
+        "name": "跨域全齡商品設計開發",
+        "href": "Curr.jsp?format=-2&code=5825226"
+      },
+      {
+        "id": "331841",
+        "name": "跨域全齡商品設計開發",
+        "href": "Curr.jsp?format=-2&code=5825226"
+      },
+      {
+        "id": "326915",
+        "name": "展演藝術與表達",
+        "href": "Curr.jsp?format=-2&code=A503027"
+      },
+      {
+        "id": "328036",
+        "name": "文化史",
+        "href": "Curr.jsp?format=-2&code=A501015"
+      }
+    ]
+  },
+  {
+    "name": "城鄉環境永續 - 社會實踐微學程",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ6",
+    "course": [
+      {
+        "id": "326561",
+        "name": "環境工程",
+        "href": "Curr.jsp?format=-2&code=3403010"
+      },
+      {
+        "id": "326592",
+        "name": "環境工程",
+        "href": "Curr.jsp?format=-2&code=3403010"
+      },
+      {
+        "id": "327209",
+        "name": "環境科學概論",
+        "href": "Curr.jsp?format=-2&code=3403074"
+      },
+      {
+        "id": "327223",
+        "name": "環境科學概論",
+        "href": "Curr.jsp?format=-2&code=3403074"
+      },
+      {
+        "id": "331437",
+        "name": "城鄉空間再造",
+        "href": "Curr.jsp?format=-2&code=3908503"
+      },
+      {
+        "id": "327351",
+        "name": "建築設計競賽設計實務",
+        "href": "Curr.jsp?format=-2&code=3902025"
+      },
+      {
+        "id": "328455",
+        "name": "水情預警系統",
+        "href": "Curr.jsp?format=-2&code=4235007"
+      }
+    ]
+  },
+  {
+    "name": "全球參與之議題與趨勢微學程 (全英語)",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ7",
+    "course": [
+      {
+        "id": "329762",
+        "name": "全球英語概論",
+        "href": "Curr.jsp?format=-2&code=5401209"
+      },
+      {
+        "id": "329758",
+        "name": "流行與文化",
+        "href": "Curr.jsp?format=-2&code=5404310"
+      },
+      {
+        "id": "331361",
+        "name": "永續發展議題英文",
+        "href": "Curr.jsp?format=-2&code=14E3087"
+      }
+    ]
+  },
+  {
+    "name": "西方經典與當代詮釋微學程 (全英語)",
+    "href": "SearchMProgram.jsp?format=-2&year=112&sem=2&code=AZ8",
+    "course": [
+      {
+        "id": "329764",
+        "name": "現代西方文學",
+        "href": "Curr.jsp?format=-2&code=5402205"
+      },
+      {
+        "id": "329758",
+        "name": "流行與文化",
+        "href": "Curr.jsp?format=-2&code=5404310"
+      },
+      {
+        "id": "329752",
+        "name": "短篇故事選讀",
+        "href": "Curr.jsp?format=-2&code=5402105"
+      }
+    ]
+  }
+]
