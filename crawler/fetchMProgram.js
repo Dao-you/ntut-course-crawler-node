@@ -14,9 +14,10 @@ async function fetchProgramCourse(href, page) {
     const url = "https://aps.ntut.edu.tw/course/tw/" + href;
     $ = await fetchSinglePage(url);
   }
-  $("tr:first-child").remove();
+  const table = $("table").first();
+  const rows = table.find("tr").slice(1);
   const courses = [];
-  for (const tr of $("tr")) {
+  for (const tr of rows) {
     const id = $(tr)
       .children("td")
       .first()
