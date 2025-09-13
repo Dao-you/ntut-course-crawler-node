@@ -1,357 +1,107 @@
 [
   {
+    "id": "AV1",
     "name": "大腦科學工程微學程",
     "href": "SearchMProgram.jsp?format=-2&year=107&sem=2&code=AV1",
     "course": [
-      {
-        "id": "260235",
-        "name": "人工智慧",
-        "href": "Curr.jsp?format=-2&code=3003116"
-      },
-      {
-        "id": "257298",
-        "name": "程式設計",
-        "href": "Curr.jsp?format=-2&code=3401110"
-      },
-      {
-        "id": "257312",
-        "name": "程式設計",
-        "href": "Curr.jsp?format=-2&code=3401110"
-      },
-      {
-        "id": "257326",
-        "name": "計算機程式及應用",
-        "href": "Curr.jsp?format=-2&code=3521008"
-      },
-      {
-        "id": "260167",
-        "name": "機器學習",
-        "href": "Curr.jsp?format=-2&code=3625039"
-      },
-      {
-        "id": "260211",
-        "name": "高階語言程式實習",
-        "href": "Curr.jsp?format=-2&code=3601009"
-      },
-      {
-        "id": "257884",
-        "name": "人工智能機器學習",
-        "href": "Curr.jsp?format=-2&code=4005131"
-      },
-      {
-        "id": "259798",
-        "name": "人工智慧",
-        "href": "Curr.jsp?format=-2&code=4005019"
-      },
-      {
-        "id": "259430",
-        "name": "機器學習",
-        "href": "Curr.jsp?format=-2&code=5905189"
-      },
-      {
-        "id": "259250",
-        "name": "機器學習",
-        "href": "Curr.jsp?format=-2&code=6105061"
-      },
-      {
-        "id": "257513",
-        "name": "程式語言",
-        "href": "Curr.jsp?format=-2&code=6501003"
-      },
-      {
-        "id": "257588",
-        "name": "計算機程式及應用",
-        "href": "Curr.jsp?format=-2&code=3521008"
-      }
+      "260235",
+      "257298",
+      "257312",
+      "257326",
+      "260167",
+      "260211",
+      "257884",
+      "259798",
+      "259430",
+      "259250",
+      "257513",
+      "257588",
+      "258888"
     ]
   },
   {
+    "id": "AV2",
     "name": "面板微學程",
     "href": "SearchMProgram.jsp?format=-2&year=107&sem=2&code=AV2",
     "course": [
-      {
-        "id": "260627",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=3003108"
-      },
-      {
-        "id": "260621",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=3104116"
-      },
-      {
-        "id": "256250",
-        "name": "高分子光電材料",
-        "href": "Curr.jsp?format=-2&code=3522019"
-      },
-      {
-        "id": "259048",
-        "name": "半導體製程",
-        "href": "Curr.jsp?format=-2&code=3604102"
-      },
-      {
-        "id": "259831",
-        "name": "半導體製程",
-        "href": "Curr.jsp?format=-2&code=3604102"
-      },
-      {
-        "id": "260623",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=3702041"
-      },
-      {
-        "id": "260626",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=3850001"
-      },
-      {
-        "id": "260625",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=3908495"
-      },
-      {
-        "id": "260622",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=5904357"
-      },
-      {
-        "id": "259709",
-        "name": "顯示面板含實習",
-        "href": "Curr.jsp?format=-2&code=6504577"
-      },
-      {
-        "id": "260620",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=A503235"
-      },
-      {
-        "id": "260624",
-        "name": "自主學習",
-        "href": "Curr.jsp?format=-2&code=AB01020"
-      }
+      "260627",
+      "260621",
+      "256250",
+      "259048",
+      "259831",
+      "260623",
+      "260626",
+      "260625",
+      "260622",
+      "259709",
+      "260620",
+      "260624",
+      "260619"
     ]
   },
   {
+    "id": "AV3",
     "name": "創業家精神微學程",
     "href": "SearchMProgram.jsp?format=-2&year=107&sem=2&code=AV3",
     "course": [
-      {
-        "id": "260117",
-        "name": "創業與財務概論",
-        "href": "Curr.jsp?format=-2&code=1418004"
-      },
-      {
-        "id": "260128",
-        "name": "服務創新",
-        "href": "Curr.jsp?format=-2&code=1418011"
-      },
-      {
-        "id": "260140",
-        "name": "創業之品牌管理與行銷",
-        "href": "Curr.jsp?format=-2&code=1418008"
-      },
-      {
-        "id": "260150",
-        "name": "創業與財務概論",
-        "href": "Curr.jsp?format=-2&code=1418004"
-      },
-      {
-        "id": "260158",
-        "name": "創業與財務概論",
-        "href": "Curr.jsp?format=-2&code=1418004"
-      },
-      {
-        "id": "260159",
-        "name": "創業計畫書撰寫",
-        "href": "Curr.jsp?format=-2&code=1418006"
-      },
-      {
-        "id": "260053",
-        "name": "創新與創業",
-        "href": "Curr.jsp?format=-2&code=1418001"
-      },
-      {
-        "id": "260054",
-        "name": "創新與創業",
-        "href": "Curr.jsp?format=-2&code=1418001"
-      },
-      {
-        "id": "260055",
-        "name": "創新與創業",
-        "href": "Curr.jsp?format=-2&code=1418001"
-      },
-      {
-        "id": "260056",
-        "name": "創新思考",
-        "href": "Curr.jsp?format=-2&code=1418002"
-      },
-      {
-        "id": "260057",
-        "name": "創新思考",
-        "href": "Curr.jsp?format=-2&code=1418002"
-      },
-      {
-        "id": "260058",
-        "name": "創新思考",
-        "href": "Curr.jsp?format=-2&code=1418002"
-      },
-      {
-        "id": "260059",
-        "name": "創新思考",
-        "href": "Curr.jsp?format=-2&code=1418002"
-      },
-      {
-        "id": "260060",
-        "name": "創業概論",
-        "href": "Curr.jsp?format=-2&code=1418003"
-      },
-      {
-        "id": "260085",
-        "name": "創新思考",
-        "href": "Curr.jsp?format=-2&code=1418002"
-      },
-      {
-        "id": "260086",
-        "name": "創業概論",
-        "href": "Curr.jsp?format=-2&code=1418003"
-      },
-      {
-        "id": "260188",
-        "name": "創新講座 - 創意與創新思維 (三)",
-        "href": "Curr.jsp?format=-2&code=3844012"
-      },
-      {
-        "id": "256459",
-        "name": "創業管理",
-        "href": "Curr.jsp?format=-2&code=5703034"
-      }
+      "260117",
+      "260128",
+      "260140",
+      "260150",
+      "260158",
+      "260159",
+      "260053",
+      "260054",
+      "260055",
+      "260056",
+      "260057",
+      "260058",
+      "260059",
+      "260060",
+      "260085",
+      "260086",
+      "260188",
+      "256459",
+      "260189"
     ]
   },
   {
+    "id": "AV4",
     "name": "生醫輔助科技跨域微學程",
     "href": "SearchMProgram.jsp?format=-2&year=107&sem=2&code=AV4",
     "course": [
-      {
-        "id": "260235",
-        "name": "人工智慧",
-        "href": "Curr.jsp?format=-2&code=3003116"
-      },
-      {
-        "id": "260398",
-        "name": "生醫材料商品化流程",
-        "href": "Curr.jsp?format=-2&code=3204083"
-      },
-      {
-        "id": "255611",
-        "name": "醫療電子應用設計專題",
-        "href": "Curr.jsp?format=-2&code=3604113"
-      },
-      {
-        "id": "260167",
-        "name": "機器學習",
-        "href": "Curr.jsp?format=-2&code=3625039"
-      },
-      {
-        "id": "256312",
-        "name": "人因工程",
-        "href": "Curr.jsp?format=-2&code=3704012"
-      },
-      {
-        "id": "260174",
-        "name": "人因工程",
-        "href": "Curr.jsp?format=-2&code=3704012"
-      },
-      {
-        "id": "254070",
-        "name": "人因工程",
-        "href": "Curr.jsp?format=-2&code=3704012"
-      },
-      {
-        "id": "257884",
-        "name": "人工智能機器學習",
-        "href": "Curr.jsp?format=-2&code=4005131"
-      },
-      {
-        "id": "259798",
-        "name": "人工智慧",
-        "href": "Curr.jsp?format=-2&code=4005019"
-      },
-      {
-        "id": "259124",
-        "name": "機器學習",
-        "href": "Curr.jsp?format=-2&code=5904362"
-      },
-      {
-        "id": "259430",
-        "name": "機器學習",
-        "href": "Curr.jsp?format=-2&code=5905189"
-      }
+      "260235",
+      "260398",
+      "255611",
+      "260167",
+      "256312",
+      "260174",
+      "254070",
+      "257884",
+      "259798",
+      "259124",
+      "259430",
+      "260395"
     ]
   },
   {
+    "id": "AV5",
     "name": "能源材料微學程",
     "href": "SearchMProgram.jsp?format=-2&year=107&sem=2&code=AV5",
     "course": [
-      {
-        "id": "256589",
-        "name": "工程材料",
-        "href": "Curr.jsp?format=-2&code=3002010"
-      },
-      {
-        "id": "256603",
-        "name": "工程材料",
-        "href": "Curr.jsp?format=-2&code=3002010"
-      },
-      {
-        "id": "256617",
-        "name": "工程材料",
-        "href": "Curr.jsp?format=-2&code=3002010"
-      },
-      {
-        "id": "256042",
-        "name": "奈米材料導論",
-        "href": "Curr.jsp?format=-2&code=3203066"
-      },
-      {
-        "id": "259313",
-        "name": "電化學",
-        "href": "Curr.jsp?format=-2&code=3202013"
-      },
-      {
-        "id": "255475",
-        "name": "能源材料",
-        "href": "Curr.jsp?format=-2&code=3314140"
-      },
-      {
-        "id": "255476",
-        "name": "太陽光電電池材料與開發",
-        "href": "Curr.jsp?format=-2&code=3314148"
-      },
-      {
-        "id": "256748",
-        "name": "奈米科技概論",
-        "href": "Curr.jsp?format=-2&code=3313141"
-      },
-      {
-        "id": "257269",
-        "name": "材料科學導論",
-        "href": "Curr.jsp?format=-2&code=3301022"
-      },
-      {
-        "id": "256161",
-        "name": "材料合成",
-        "href": "Curr.jsp?format=-2&code=3323016"
-      },
-      {
-        "id": "256250",
-        "name": "高分子光電材料",
-        "href": "Curr.jsp?format=-2&code=3522019"
-      },
-      {
-        "id": "259269",
-        "name": "儲能材料及應用",
-        "href": "Curr.jsp?format=-2&code=7815182"
-      }
+      "256589",
+      "256603",
+      "256617",
+      "256042",
+      "259313",
+      "255475",
+      "255476",
+      "256748",
+      "257269",
+      "256161",
+      "256250",
+      "259269",
+      "257568"
     ]
   }
 ]
