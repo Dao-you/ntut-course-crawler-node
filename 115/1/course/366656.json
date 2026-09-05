@@ -2,9 +2,9 @@
   {
     "name": "吳建文",
     "email": "xcwwu@ntut.edu.tw",
-    "latestUpdate": "2026-08-20 18:34:11",
+    "latestUpdate": "2026-09-03 19:31:49",
     "objective": "本課程是教授學生人工智慧的基本概念與應用，激發學生在人工智慧領域的創新應用。課程內容包括: 人工智慧基礎、機器學習、大數據技術、深度學習、生成對抗網路、創業家思維、人工智慧與現代科技、人工智慧的製造業應用、人工智慧的服務業應用。\nThis course is to teach students the basic concepts and applications of artificial intelligence and to inspire students for innovative artificial intelligence applications. The course includes: artificial intelligence basics, machine learning, big data, deep learning, generative adversarial network, entrepreneurial thoughts, artificial intelligence and modern technologies, industrial applications of artificial intelligence, and services applications of artificial intelligence.",
-    "schedule": "1. 人工智慧基礎介紹\n2. 機器學習、深度學習\n3. 人工智慧與現代科技\n4. 人工智慧與商業模式\n5. 人工智慧的製造業應用\n6. 人工智慧的服務業應用",
+    "schedule": "週次\t建議主題\n1\t人工智慧導論：發展歷程與基本概念\n2\t人工智慧的類型、架構與應用範疇\n3\t機器學習與深度學習基礎\n4\t生成式人工智慧與大型語言模型\n5\t人工智慧與現代科技的整合發展\n6\t人工智慧發展趨勢與產業變革\n7\t生成式 AI 工具與工作生產力應用\n8\tNo-Code／Low-Code 人工智慧平台實作\n9\t人工智慧在企業營運與管理的應用\n10\t人工智慧與商業模式創新\n11\t人工智慧與企業數位轉型\n12\t人工智慧於製造業的應用\n13\t人工智慧於服務業的應用\n14\t人工智慧於行銷、顧客與決策分析的應用\n15\t人工智慧導入策略與組織變革\n16\t人工智慧治理、倫理與風險管理\n17\t人工智慧商業個案研讀與討論\n18\t人工智慧應用專題發表與綜合討論",
     "scorePolicy": "出席、課堂討論參與、作業",
     "materials": "教師提供投影片、作業、作業解答、相關論文",
     "consultation": "學生加退選簽核及諮詢課程問題管道：請加入 line ID = 0937143666 課程諮詢: 請加入 line ID: 0937143666 線上教學以 Google meet 進行，詳細網址將以 line 通知同學",
