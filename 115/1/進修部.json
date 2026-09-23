@@ -65,7 +65,33 @@
         "code": "2998"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "崔紘嘉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12442",
+        "code": "12442"
+      },
+      {
+        "name": "郭宏源",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12376",
+        "code": "12376"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "潘孟鉉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12231",
+        "code": "12231"
+      },
+      {
+        "name": "賴建宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12245",
+        "code": "12245"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -473,6 +499,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403006",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364920&code=12236",
       "ShowSyllabus.jsp?snum=364920&code=11321"
     ]
   },
@@ -507,12 +534,12 @@
     ],
     "time": {
       "sun": [],
-      "mon": [],
-      "tue": [
+      "mon": [
         "A",
         "B",
         "C"
       ],
+      "tue": [],
       "wed": [],
       "thu": [],
       "fri": [],
@@ -568,27 +595,17 @@
       "sun": [],
       "mon": [],
       "tue": [],
-      "wed": [
-        "A",
-        "B",
-        "C"
-      ],
+      "wed": [],
       "thu": [],
       "fri": [],
       "sat": []
     },
-    "classroom": [
-      {
-        "name": "三教206",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=40",
-        "code": "40"
-      }
-    ],
-    "people": "4",
+    "classroom": [],
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4404021",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=364926&code=24173"
@@ -748,11 +765,6 @@
         "code": "10822"
       },
       {
-        "name": "胡石政",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10870",
-        "code": "10870"
-      },
-      {
         "name": "陳清祺",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11684",
         "code": "11684"
@@ -811,7 +823,6 @@
       "ShowSyllabus.jsp?snum=364932&code=10996",
       "ShowSyllabus.jsp?snum=364932&code=10958",
       "ShowSyllabus.jsp?snum=364932&code=10822",
-      "ShowSyllabus.jsp?snum=364932&code=10870",
       "ShowSyllabus.jsp?snum=364932&code=11684",
       "ShowSyllabus.jsp?snum=364932&code=12467",
       "ShowSyllabus.jsp?snum=364932&code=11319",
@@ -2407,7 +2418,7 @@
         "code": "48"
       }
     ],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6420,7 +6431,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "46",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6654,7 +6665,7 @@
         "code": "67"
       }
     ],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6878,7 +6889,7 @@
         "code": "117"
       }
     ],
-    "people": "19",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9046,7 +9057,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9123,7 +9134,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9777,7 +9788,7 @@
         "code": "474"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11630,7 +11641,7 @@
         "code": "311"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11744,11 +11755,11 @@
         "code": "309"
       }
     ],
-    "people": "12",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "設計館 301 電腦教室",
+    "notes": "2 週【停開】",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3871112",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=365890&code=24682"
@@ -11803,7 +11814,7 @@
         "code": "42"
       }
     ],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14095,7 +14106,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14167,7 +14178,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16615,7 +16626,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18903,6 +18914,47 @@
     "ta": [],
     "language": "",
     "notes": "宏國德霖科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199998",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371910",
+    "name": {
+      "zh": "機動學",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "職跨校選課(大)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=483",
+        "code": "483"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "1",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "海洋大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199998",
     "syllabusLinks": []
   }
