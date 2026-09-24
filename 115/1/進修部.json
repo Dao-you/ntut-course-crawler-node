@@ -108,7 +108,10 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603009",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=364902&code=12376",
+      "ShowSyllabus.jsp?snum=364902&code=12231"
+    ]
   },
   {
     "code": "3603109",
@@ -4311,7 +4314,7 @@
         "code": "334"
       }
     ],
-    "people": "26",
+    "people": "25",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6948,7 +6951,7 @@
         "code": "117"
       }
     ],
-    "people": "19",
+    "people": "20",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7587,7 +7590,8 @@
     "notes": "楊侑倫 1",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5705268",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=365458&code=12384"
+      "ShowSyllabus.jsp?snum=365458&code=12384",
+      "ShowSyllabus.jsp?snum=365458&code=12276"
     ]
   },
   {
@@ -7639,7 +7643,7 @@
         "code": "487"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7751,16 +7755,16 @@
     },
     "classroom": [
       {
-        "name": "設計603",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=139",
-        "code": "139"
+        "name": "設計B01",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=319",
+        "code": "319"
       }
     ],
     "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "設計 603 教室",
+    "notes": "設計 b01",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5815006",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=365550&code=12437"
@@ -8910,6 +8914,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205034",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=365773&code=11429",
+      "ShowSyllabus.jsp?snum=365773&code=11403",
       "ShowSyllabus.jsp?snum=365773&code=10938",
       "ShowSyllabus.jsp?snum=365773&code=11396",
       "ShowSyllabus.jsp?snum=365773&code=11764"
@@ -9788,7 +9793,7 @@
         "code": "474"
       }
     ],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10522,7 +10527,7 @@
         "code": "490"
       }
     ],
-    "people": "15",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11583,7 +11588,7 @@
         "code": "311"
       }
     ],
-    "people": "14",
+    "people": "17",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11697,7 +11702,7 @@
         "code": "311"
       }
     ],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14069,6 +14074,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366139&code=11429",
+      "ShowSyllabus.jsp?snum=366139&code=11403",
       "ShowSyllabus.jsp?snum=366139&code=11088",
       "ShowSyllabus.jsp?snum=366139&code=12560"
     ]
@@ -14345,7 +14351,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14417,7 +14423,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15221,7 +15227,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "14",
+    "people": "16",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15778,7 +15784,7 @@
         "code": "334"
       }
     ],
-    "people": "23",
+    "people": "24",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16037,7 +16043,7 @@
         "code": "445"
       }
     ],
-    "people": "11",
+    "people": "12",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16468,7 +16474,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "16",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16790,6 +16796,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C245039",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366664&code=11429",
+      "ShowSyllabus.jsp?snum=366664&code=11403",
       "ShowSyllabus.jsp?snum=366664&code=10938",
       "ShowSyllabus.jsp?snum=366664&code=11396",
       "ShowSyllabus.jsp?snum=366664&code=11764"
@@ -17520,7 +17527,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "5",
+    "people": "6",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18157,6 +18164,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=C205030",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366904&code=11429",
+      "ShowSyllabus.jsp?snum=366904&code=11403",
       "ShowSyllabus.jsp?snum=366904&code=11088",
       "ShowSyllabus.jsp?snum=366904&code=12560"
     ]
