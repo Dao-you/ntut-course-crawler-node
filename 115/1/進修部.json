@@ -465,19 +465,9 @@
         "code": "12285"
       },
       {
-        "name": "陳明彥",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12627",
-        "code": "12627"
-      },
-      {
         "name": "陳斌豪",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=12143",
         "code": "12143"
-      },
-      {
-        "name": "黃秀英",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11321",
-        "code": "11321"
       },
       {
         "name": "黃晟豪",
@@ -502,8 +492,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4403006",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=364920&code=12236",
-      "ShowSyllabus.jsp?snum=364920&code=11321"
+      "ShowSyllabus.jsp?snum=364920&code=12236"
     ]
   },
   {
@@ -4314,7 +4303,7 @@
         "code": "334"
       }
     ],
-    "people": "25",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -9470,7 +9459,7 @@
         "code": "489"
       }
     ],
-    "people": "10",
+    "people": "11",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -10445,7 +10434,7 @@
         "code": "486"
       }
     ],
-    "people": "15",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -11588,7 +11577,7 @@
         "code": "311"
       }
     ],
-    "people": "17",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14351,7 +14340,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14423,7 +14412,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -15784,7 +15773,7 @@
         "code": "334"
       }
     ],
-    "people": "24",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -16474,7 +16463,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",

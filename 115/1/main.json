@@ -816,6 +816,7 @@
       "ShowSyllabus.jsp?snum=360765&code=11840",
       "ShowSyllabus.jsp?snum=360765&code=11826",
       "ShowSyllabus.jsp?snum=360765&code=12383",
+      "ShowSyllabus.jsp?snum=360765&code=12283",
       "ShowSyllabus.jsp?snum=360765&code=10777",
       "ShowSyllabus.jsp?snum=360765&code=12043",
       "ShowSyllabus.jsp?snum=360765&code=11018",
@@ -2374,7 +2375,10 @@
     "language": "",
     "notes": "化工大四合開; 選修專題須經指導教授同意",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3204079",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=360940&code=12573",
+      "ShowSyllabus.jsp?snum=360940&code=11357"
+    ]
   },
   {
     "code": "1004001",
@@ -2958,9 +2962,12 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361021&code=10796",
       "ShowSyllabus.jsp?snum=361021&code=12535",
+      "ShowSyllabus.jsp?snum=361021&code=11929",
       "ShowSyllabus.jsp?snum=361021&code=11364",
       "ShowSyllabus.jsp?snum=361021&code=10506",
+      "ShowSyllabus.jsp?snum=361021&code=12597",
       "ShowSyllabus.jsp?snum=361021&code=11820",
+      "ShowSyllabus.jsp?snum=361021&code=11235",
       "ShowSyllabus.jsp?snum=361021&code=11173"
     ]
   },
@@ -6181,7 +6188,7 @@
         "code": "525"
       }
     ],
-    "people": "46",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -6270,7 +6277,7 @@
         "code": "525"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -12872,7 +12879,13 @@
         "code": "3021"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "郭霽慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11535",
+        "code": "11535"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -12883,7 +12896,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "47",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13578,7 +13591,9 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3603009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361819&code=10605",
+      "ShowSyllabus.jsp?snum=361819&code=12572",
       "ShowSyllabus.jsp?snum=361819&code=12563",
+      "ShowSyllabus.jsp?snum=361819&code=11232",
       "ShowSyllabus.jsp?snum=361819&code=10618",
       "ShowSyllabus.jsp?snum=361819&code=11678",
       "ShowSyllabus.jsp?snum=361819&code=11894",
@@ -14758,7 +14773,68 @@
         "code": "3024"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹秦清",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12389",
+        "code": "12389"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "范書愷",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11573",
+        "code": "11573"
+      },
+      {
+        "name": "徐昕",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12436",
+        "code": "12436"
+      },
+      {
+        "name": "梁曉帆",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
+        "code": "11088"
+      },
+      {
+        "name": "陳協慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11552",
+        "code": "11552"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "陳隆昇",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12566",
+        "code": "12566"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11435",
+        "code": "11435"
+      },
+      {
+        "name": "鄭辰仰",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11764",
+        "code": "11764"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -14775,7 +14851,12 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361880&code=11225",
+      "ShowSyllabus.jsp?snum=361880&code=12436",
+      "ShowSyllabus.jsp?snum=361880&code=12566",
+      "ShowSyllabus.jsp?snum=361880&code=11435"
+    ]
   },
   {
     "code": "3723013",
@@ -15329,7 +15410,58 @@
         "code": "3025"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李育奇",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12494",
+        "code": "12494"
+      },
+      {
+        "name": "車振華",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11225",
+        "code": "11225"
+      },
+      {
+        "name": "林榮禾",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10821",
+        "code": "10821"
+      },
+      {
+        "name": "洪子晏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12298",
+        "code": "12298"
+      },
+      {
+        "name": "徐昕",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12436",
+        "code": "12436"
+      },
+      {
+        "name": "梁曉帆",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11088",
+        "code": "11088"
+      },
+      {
+        "name": "陳協慶",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11552",
+        "code": "11552"
+      },
+      {
+        "name": "陳凱瀛",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10988",
+        "code": "10988"
+      },
+      {
+        "name": "黃乾怡",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11401",
+        "code": "11401"
+      },
+      {
+        "name": "蔡佩芳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11435",
+        "code": "11435"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -15346,7 +15478,13 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3713021",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361900&code=12494",
+      "ShowSyllabus.jsp?snum=361900&code=11225",
+      "ShowSyllabus.jsp?snum=361900&code=10821",
+      "ShowSyllabus.jsp?snum=361900&code=12436",
+      "ShowSyllabus.jsp?snum=361900&code=11435"
+    ]
   },
   {
     "code": "3723013",
@@ -17994,6 +18132,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5703117",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362032&code=11429",
+      "ShowSyllabus.jsp?snum=362032&code=11893",
       "ShowSyllabus.jsp?snum=362032&code=10938",
       "ShowSyllabus.jsp?snum=362032&code=11224",
       "ShowSyllabus.jsp?snum=362032&code=12532",
@@ -18108,7 +18247,7 @@
         "code": "488"
       }
     ],
-    "people": "40",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18822,7 +18961,13 @@
         "code": "3033"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林家弘",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11291",
+        "code": "11291"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -19266,7 +19411,7 @@
         "code": "60"
       }
     ],
-    "people": "44",
+    "people": "45",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -27659,7 +27804,7 @@
         "code": "434"
       }
     ],
-    "people": "88",
+    "people": "89",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -32322,7 +32467,7 @@
         "code": "561"
       }
     ],
-    "people": "122",
+    "people": "127",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -38590,7 +38735,7 @@
         "code": "526"
       }
     ],
-    "people": "36",
+    "people": "37",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -39882,7 +40027,11 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=B203001",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=362708&code=11840",
+      "ShowSyllabus.jsp?snum=362708&code=11467",
+      "ShowSyllabus.jsp?snum=362708&code=11944"
+    ]
   },
   {
     "code": "B203002",
@@ -60558,7 +60707,7 @@
         "code": "424"
       }
     ],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -61615,7 +61764,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "139",
+    "people": "140",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76547,7 +76696,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76597,7 +76746,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "21",
+    "people": "22",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -82406,7 +82555,10 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3324178",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366062&code=12279",
+      "ShowSyllabus.jsp?snum=366062&code=11251"
+    ]
   },
   {
     "code": "5605021",
@@ -87429,7 +87581,7 @@
         "code": "62"
       }
     ],
-    "people": "22",
+    "people": "23",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -98423,9 +98575,9 @@
     },
     "classroom": [
       {
-        "name": "設計252",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=457",
-        "code": "457"
+        "name": "三教302",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=45",
+        "code": "45"
       }
     ],
     "people": "25",
@@ -108073,7 +108225,7 @@
         "code": "333"
       }
     ],
-    "people": "52",
+    "people": "57",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -111788,7 +111940,7 @@
         "code": "572"
       }
     ],
-    "people": "73",
+    "people": "74",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -118262,7 +118414,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "33",
+    "people": "32",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -120628,7 +120780,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -133277,7 +133429,18 @@
         "code": "2900"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "邱家吉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12176",
+        "code": "12176"
+      },
+      {
+        "name": "邱揚淳",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12535",
+        "code": "12535"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133318,7 +133481,18 @@
         "code": "2923"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "龍祈澔",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11680",
+        "code": "11680"
+      },
+      {
+        "name": "韓秉軒",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11969",
+        "code": "11969"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133359,7 +133533,13 @@
         "code": "2910"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林靜娟",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10450",
+        "code": "10450"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133400,7 +133580,18 @@
         "code": "3026"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "黃銘智",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11079",
+        "code": "11079"
+      },
+      {
+        "name": "鄭孟淙",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11540",
+        "code": "11540"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133441,7 +133632,28 @@
         "code": "3011"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "宋國明",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11009",
+        "code": "11009"
+      },
+      {
+        "name": "張致遠",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12303",
+        "code": "12303"
+      },
+      {
+        "name": "莊政達",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12201",
+        "code": "12201"
+      },
+      {
+        "name": "黃正民",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11551",
+        "code": "11551"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133842,7 +134054,28 @@
         "code": "3022"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "胡心卉",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11467",
+        "code": "11467"
+      },
+      {
+        "name": "高立人",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11433",
+        "code": "11433"
+      },
+      {
+        "name": "陳維昌",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11991",
+        "code": "11991"
+      },
+      {
+        "name": "譚巽言",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10304",
+        "code": "10304"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133883,7 +134116,13 @@
         "code": "2915"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "孫勤昱",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12387",
+        "code": "12387"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133924,7 +134163,18 @@
         "code": "3009"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "林正釧",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12383",
+        "code": "12383"
+      },
+      {
+        "name": "葉奕良",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12086",
+        "code": "12086"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -133965,7 +134215,13 @@
         "code": "2921"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "王雅璇",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12602",
+        "code": "12602"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -134006,7 +134262,13 @@
         "code": "3114"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "粘朝益",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12440",
+        "code": "12440"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -134047,7 +134309,18 @@
         "code": "3008"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李政宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12346",
+        "code": "12346"
+      },
+      {
+        "name": "粘朝益",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12440",
+        "code": "12440"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -134088,7 +134361,13 @@
         "code": "2891"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "李政宏",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12346",
+        "code": "12346"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
