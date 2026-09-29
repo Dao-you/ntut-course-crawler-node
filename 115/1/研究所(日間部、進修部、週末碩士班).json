@@ -1575,7 +1575,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3715014",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363498&code=12494"
@@ -2453,7 +2453,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機電、製科合開，限 25 人",
+    "notes": "配合 USR 計畫 機電、製科合開，限 25 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4005136",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363552&code=12351"
@@ -3043,7 +3043,18 @@
         "code": "3733"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "楊元森",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11397",
+        "code": "11397"
+      },
+      {
+        "name": "魏敏樺",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10986",
+        "code": "10986"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -5681,7 +5692,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "陳盈棻老師配合 USE 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5221103",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363832&code=12344",
@@ -5925,7 +5936,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5231417",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363879&code=12638"
@@ -11466,7 +11477,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505115",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=364509&code=12037"
@@ -18963,7 +18974,7 @@
         "code": "120"
       }
     ],
-    "people": "13",
+    "people": "14",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21036,7 +21047,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21192,7 +21203,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -21269,7 +21280,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "25",
+    "people": "26",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -25674,7 +25685,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "配合 USR 計畫",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5845203",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366071&code=12432"
@@ -26228,7 +26239,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -26300,7 +26311,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31890,7 +31901,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "創新所和設計博班合開；預選上限 15 人",
+    "notes": "配合 USR 計畫 創新所和設計博班合開；預選上限 15 人",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=5855009",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366461&code=12437"
@@ -32092,7 +32103,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "",
+    "notes": "社會責任實踐課程",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=A505113",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=366570&code=11979"
@@ -33490,7 +33501,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "26",
+    "people": "27",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -33646,7 +33657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "20",
+    "people": "21",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -37265,7 +37276,13 @@
         "code": "3733"
       }
     ],
-    "teacher": [],
+    "teacher": [
+      {
+        "name": "尹世洵",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11309",
+        "code": "11309"
+      }
+    ],
     "time": {
       "sun": [],
       "mon": [],
@@ -37517,7 +37534,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -42820,6 +42837,51 @@
     "ta": [],
     "language": "",
     "notes": "國立臺灣科技大學",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
+    "syllabusLinks": []
+  },
+  {
+    "code": "0199997",
+    "description": {
+      "zh": "",
+      "en": ""
+    },
+    "id": "371946",
+    "name": {
+      "zh": "人工智慧的應用素養",
+      "en": ""
+    },
+    "stage": "1",
+    "credit": "3.0",
+    "hours": "3",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "跨校選課(研)",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=481",
+        "code": "481"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        "7",
+        "8",
+        "9"
+      ],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "3",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "國立臺灣師範大學",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=0199997",
     "syllabusLinks": []
   }
