@@ -1349,7 +1349,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -2379,6 +2379,7 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=360940&code=11765",
       "ShowSyllabus.jsp?snum=360940&code=12301",
+      "ShowSyllabus.jsp?snum=360940&code=12462",
       "ShowSyllabus.jsp?snum=360940&code=12573",
       "ShowSyllabus.jsp?snum=360940&code=11355",
       "ShowSyllabus.jsp?snum=360940&code=11357",
@@ -4357,6 +4358,7 @@
       "ShowSyllabus.jsp?snum=361266&code=10450",
       "ShowSyllabus.jsp?snum=361266&code=12078",
       "ShowSyllabus.jsp?snum=361266&code=24409",
+      "ShowSyllabus.jsp?snum=361266&code=23242",
       "ShowSyllabus.jsp?snum=361266&code=24087",
       "ShowSyllabus.jsp?snum=361266&code=24368"
     ]
@@ -4876,6 +4878,7 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4504106",
     "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=361307&code=24683",
       "ShowSyllabus.jsp?snum=361307&code=11677"
     ]
   },
@@ -5153,6 +5156,7 @@
       "ShowSyllabus.jsp?snum=361319&code=12689",
       "ShowSyllabus.jsp?snum=361319&code=11733",
       "ShowSyllabus.jsp?snum=361319&code=11589",
+      "ShowSyllabus.jsp?snum=361319&code=11423",
       "ShowSyllabus.jsp?snum=361319&code=11679",
       "ShowSyllabus.jsp?snum=361319&code=12382",
       "ShowSyllabus.jsp?snum=361319&code=12565",
@@ -5891,6 +5895,7 @@
       "ShowSyllabus.jsp?snum=361409&code=12099",
       "ShowSyllabus.jsp?snum=361409&code=11979",
       "ShowSyllabus.jsp?snum=361409&code=12037",
+      "ShowSyllabus.jsp?snum=361409&code=11223",
       "ShowSyllabus.jsp?snum=361409&code=11222",
       "ShowSyllabus.jsp?snum=361409&code=11147"
     ]
@@ -19128,6 +19133,8 @@
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=362073&code=10939",
       "ShowSyllabus.jsp?snum=362073&code=11610",
+      "ShowSyllabus.jsp?snum=362073&code=11291",
+      "ShowSyllabus.jsp?snum=362073&code=12600",
       "ShowSyllabus.jsp?snum=362073&code=12630",
       "ShowSyllabus.jsp?snum=362073&code=11105",
       "ShowSyllabus.jsp?snum=362073&code=12147",
@@ -61917,7 +61924,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "142",
+    "people": "141",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -65830,7 +65837,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "39",
+    "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -69650,7 +69657,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "90",
+    "people": "91",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -70068,7 +70075,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "28",
+    "people": "29",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73422,7 +73429,7 @@
         "code": "462"
       }
     ],
-    "people": "47",
+    "people": "49",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -73481,7 +73488,7 @@
         "code": "565"
       }
     ],
-    "people": "37",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -79233,7 +79240,7 @@
         "code": "490"
       }
     ],
-    "people": "35",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -86108,7 +86115,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "18",
+    "people": "19",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -97173,7 +97180,7 @@
         "code": "474"
       }
     ],
-    "people": "50",
+    "people": "48",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -101658,7 +101665,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "27",
+    "people": "28",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -135647,7 +135654,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "0",
+    "people": "2",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
