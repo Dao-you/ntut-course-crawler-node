@@ -32,7 +32,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "143",
+    "people": "145",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -1631,7 +1631,7 @@
       }
     ],
     "people": "27",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -3945,7 +3945,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -5539,7 +5539,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -7880,7 +7880,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "資工所和創新資安合開",
@@ -11789,7 +11789,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資財所和創新資安合開",
@@ -14716,7 +14716,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -14757,7 +14757,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "40",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -18809,9 +18809,9 @@
     },
     "classroom": [
       {
-        "name": "三教510",
-        "link": "Croom.jsp?format=-3&year=115&sem=1&code=67",
-        "code": "67"
+        "name": "三教505",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=62",
+        "code": "62"
       }
     ],
     "people": "22",
@@ -24679,7 +24679,8 @@
     "notes": "日職碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=366018&code=10996"
+      "ShowSyllabus.jsp?snum=366018&code=10996",
+      "ShowSyllabus.jsp?snum=366018&code=24556"
     ]
   },
   {
@@ -25501,7 +25502,8 @@
     "notes": "日職碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=366058&code=10996"
+      "ShowSyllabus.jsp?snum=366058&code=10996",
+      "ShowSyllabus.jsp?snum=366058&code=24556"
     ]
   },
   {
@@ -27200,7 +27202,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資源所和 EOMP 合開",
@@ -29303,7 +29305,7 @@
         "code": "451"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -31297,7 +31299,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子所和電資外生所合開",
@@ -35301,7 +35303,7 @@
       }
     ],
     "people": "10",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科 327",
@@ -35547,7 +35549,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",

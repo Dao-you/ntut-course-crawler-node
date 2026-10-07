@@ -7979,7 +7979,7 @@
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
-    "notes": "機械三甲乙合開",
+    "notes": "部份課程在綜科 112_8 實驗室",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3003128",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361491&code=11840",
@@ -13360,7 +13360,7 @@
         "code": "61"
       }
     ],
-    "people": "19",
+    "people": "18",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -13666,7 +13666,7 @@
       }
     ],
     "people": "30",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室",
@@ -16651,7 +16651,7 @@
       }
     ],
     "people": "58",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "新增新聘兼任教師李金威",
@@ -18638,7 +18638,7 @@
       }
     ],
     "people": "89",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -20379,7 +20379,7 @@
       }
     ],
     "people": "69",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -23069,7 +23069,7 @@
       }
     ],
     "people": "62",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "機械二合開",
@@ -33642,7 +33642,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -37503,7 +37503,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "配合 USR 計畫",
@@ -41097,7 +41097,7 @@
         "code": "64"
       }
     ],
-    "people": "32",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -42775,7 +42775,7 @@
       }
     ],
     "people": "43",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -43340,7 +43340,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -56646,7 +56646,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -57223,6 +57223,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3001056",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=363171&code=12236",
+      "ShowSyllabus.jsp?snum=363171&code=24556",
       "ShowSyllabus.jsp?snum=363171&code=11098"
     ]
   },
@@ -62006,7 +62007,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "143",
+    "people": "145",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -63605,7 +63606,7 @@
       }
     ],
     "people": "27",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -65919,7 +65920,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "41",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -67513,7 +67514,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "30",
+    "people": "31",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -69854,7 +69855,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "資工所和創新資安合開",
@@ -73763,7 +73764,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資財所和創新資安合開",
@@ -76690,7 +76691,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "38",
+    "people": "39",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -76731,7 +76732,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "40",
+    "people": "42",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -77940,7 +77941,7 @@
       }
     ],
     "people": "33",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資工四和資工所合開",
@@ -81052,7 +81053,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "先鋒教室; 網路預選限 25 人 (大學部);化工四、所合開",
@@ -81299,7 +81300,8 @@
     "notes": "日職碩合開",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4505601",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=366018&code=10996"
+      "ShowSyllabus.jsp?snum=366018&code=10996",
+      "ShowSyllabus.jsp?snum=366018&code=24556"
     ]
   },
   {
@@ -83875,7 +83877,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -84181,7 +84183,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -85951,7 +85953,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資源所和 EOMP 合開",
@@ -86863,7 +86865,7 @@
       }
     ],
     "people": "17",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電機大四合開, 預選限 40 人",
@@ -87336,7 +87338,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "*D 班, 每週二、四 18:30~21:10 (開學第二週開始上課)",
@@ -87641,7 +87643,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=4502104",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=366228&code=24556"
+    ]
   },
   {
     "code": "6007101",
@@ -95143,7 +95147,7 @@
         "code": "451"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -96033,7 +96037,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度, 計中電腦教室",
@@ -98375,7 +98379,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子所和電資外生所合開",
@@ -101488,7 +101492,7 @@
     },
     "classroom": [],
     "people": "32",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "體適能 G",
@@ -106063,7 +106067,7 @@
       }
     ],
     "people": "26",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -106881,7 +106885,7 @@
       }
     ],
     "people": "47",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "以 CEFR B1 為目標，新制多益",
@@ -109484,7 +109488,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -110760,7 +110764,7 @@
       }
     ],
     "people": "83",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度",
@@ -111049,7 +111053,7 @@
         "code": "574"
       }
     ],
-    "people": "34",
+    "people": "35",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -111746,7 +111750,7 @@
       }
     ],
     "people": "90",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -112326,7 +112330,7 @@
       }
     ],
     "people": "56",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -112790,7 +112794,7 @@
         "code": "56"
       }
     ],
-    "people": "33",
+    "people": "34",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -112965,7 +112969,7 @@
       }
     ],
     "people": "69",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -113777,7 +113781,7 @@
       }
     ],
     "people": "27",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會責任實踐課程 自然與科學向度",
@@ -114299,7 +114303,7 @@
       }
     ],
     "people": "90",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -114414,7 +114418,7 @@
         "code": "21"
       }
     ],
-    "people": "54",
+    "people": "55",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -114995,7 +114999,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -115691,7 +115695,7 @@
       }
     ],
     "people": "57",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -116110,7 +116114,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "7",
+    "people": "8",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -117285,7 +117289,7 @@
     },
     "classroom": [],
     "people": "181",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "大研合開, 六週密集授課、科技大樓國際會議廳",
@@ -117688,7 +117692,7 @@
       }
     ],
     "people": "75",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -128435,7 +128439,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "1",
+    "people": "0",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -134612,7 +134616,9 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2B02016",
-    "syllabusLinks": []
+    "syllabusLinks": [
+      "ShowSyllabus.jsp?snum=371951&code=12440"
+    ]
   },
   {
     "code": "2B03015",
@@ -134665,7 +134671,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=2B03015",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=371952&code=12346"
+      "ShowSyllabus.jsp?snum=371952&code=12346",
+      "ShowSyllabus.jsp?snum=371952&code=12440"
     ]
   },
   {
