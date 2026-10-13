@@ -5659,7 +5659,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資工四和資工所合開",
@@ -23430,7 +23430,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -29660,7 +29660,7 @@
       }
     ],
     "people": "70",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子二甲和半導體二合開",
@@ -30918,7 +30918,7 @@
       }
     ],
     "people": "61",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室，工管二甲乙合開",
@@ -37153,7 +37153,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "必修: 光電。希望不排在六教",
@@ -38034,7 +38034,7 @@
       }
     ],
     "people": "96",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "建議優先安排先鋒 501 教室",
@@ -38916,7 +38916,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "限本系生 (含微學程) 30 人",
@@ -41098,7 +41098,7 @@
       }
     ],
     "people": "31",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -43676,7 +43676,7 @@
         "code": "54"
       }
     ],
-    "people": "48",
+    "people": "47",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -64810,7 +64810,7 @@
       }
     ],
     "people": "28",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "機電/製科/機械外生和機電博 (外生) 班合開, 20 人",
@@ -70346,7 +70346,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -74258,7 +74258,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "光電四、光電所選修和太空所必修合開、億光 405 教",
@@ -79085,7 +79085,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -87224,7 +87224,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "*B 班, 每週二、三 18:30~21:10 (開學第二週開始上課)",
@@ -94523,7 +94523,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "A 組 - 學號尾號奇數，僅限英文系學生修讀，限 24 人",
@@ -94784,7 +94784,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "電子四甲乙與電子所合開",
@@ -99724,7 +99724,7 @@
     },
     "classroom": [],
     "people": "32",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "籃球 B",
@@ -100972,7 +100972,7 @@
     },
     "classroom": [],
     "people": "28",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "籃球 F",
@@ -113491,7 +113491,7 @@
       }
     ],
     "people": "58",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -116662,7 +116662,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "",
@@ -119654,7 +119654,7 @@
     },
     "classroom": [],
     "people": "8",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "清大高宏宇 https://ppt.cc/fCH4qx",
@@ -135745,7 +135745,7 @@
       "sat": []
     },
     "classroom": [],
-    "people": "2",
+    "people": "3",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
