@@ -660,7 +660,7 @@
       }
     ],
     "people": "11",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科 219，請自備筆電，限 30 人",
@@ -2904,6 +2904,11 @@
         "code": "10796"
       },
       {
+        "name": "吳玉娟",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11236",
+        "code": "11236"
+      },
+      {
         "name": "吳明偉",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11711",
         "code": "11711"
@@ -2967,6 +2972,7 @@
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3314003",
     "syllabusLinks": [
       "ShowSyllabus.jsp?snum=361021&code=10796",
+      "ShowSyllabus.jsp?snum=361021&code=11236",
       "ShowSyllabus.jsp?snum=361021&code=11711",
       "ShowSyllabus.jsp?snum=361021&code=12535",
       "ShowSyllabus.jsp?snum=361021&code=11929",
@@ -6429,7 +6435,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "互動四與外生四合開, 排一般教室, 限 35 人",
@@ -13072,7 +13078,8 @@
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3503017",
     "syllabusLinks": [
-      "ShowSyllabus.jsp?snum=361798&code=11535"
+      "ShowSyllabus.jsp?snum=361798&code=11535",
+      "ShowSyllabus.jsp?snum=361798&code=11149"
     ]
   },
   {
@@ -13879,7 +13886,7 @@
       }
     ],
     "people": "63",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子三甲乙合開",
@@ -16406,7 +16413,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "需自備筆電",
@@ -22520,7 +22527,7 @@
       }
     ],
     "people": "29",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "綜科館 328-1",
@@ -27621,7 +27628,7 @@
       }
     ],
     "people": "24",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -31650,7 +31657,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "家室組",
@@ -38034,7 +38041,7 @@
       }
     ],
     "people": "96",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "建議優先安排先鋒 501 教室",
@@ -39857,7 +39864,7 @@
       }
     ],
     "people": "28",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計網電腦教室",
@@ -40033,7 +40040,7 @@
       }
     ],
     "people": "30",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -42547,7 +42554,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -52306,7 +52313,7 @@
       }
     ],
     "people": "61",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "產品組，請勿選錯組",
@@ -53042,7 +53049,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -53988,7 +53995,7 @@
       }
     ],
     "people": "30",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "車輛一和機電一合開；限非動力機械群畢業學生選修",
@@ -55539,7 +55546,7 @@
       }
     ],
     "people": "70",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -59239,7 +59246,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "請安排 PBL 或可供貼 / 評圖教室",
@@ -61126,7 +61133,7 @@
       }
     ],
     "people": "43",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "互動一與外生一合開, 限本系 35 人 (預選 13 人)",
@@ -66042,7 +66049,7 @@
       }
     ],
     "people": "17",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "車碩 / 車四合開",
@@ -70942,7 +70949,7 @@
       }
     ],
     "people": "148",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "10 / 19 科研國際會議廳",
@@ -81661,7 +81668,7 @@
       }
     ],
     "people": "46",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "需選修始可畢業",
@@ -82125,7 +82132,7 @@
       }
     ],
     "people": "67",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "需選修始可畢業",
@@ -82299,7 +82306,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "需選修始可畢業",
@@ -82682,7 +82689,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "請安排用粉筆的教室",
@@ -87795,7 +87802,7 @@
       }
     ],
     "people": "46",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "限外籍生修讀, 初級班（A0）",
@@ -88821,7 +88828,7 @@
       }
     ],
     "people": "9",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "光電四、光電所和太空所合開、億光 405 教室",
@@ -89356,7 +89363,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -94784,7 +94791,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "電子四甲乙與電子所合開",
@@ -95979,7 +95986,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度, 計中電腦教室",
@@ -96037,7 +96044,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度, 計中電腦教室",
@@ -103052,7 +103059,7 @@
     },
     "classroom": [],
     "people": "31",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "體適能 L",
@@ -107923,7 +107930,7 @@
       }
     ],
     "people": "19",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資財四甲和資財所合開",
@@ -111982,7 +111989,7 @@
       }
     ],
     "people": "78",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -113781,7 +113788,7 @@
       }
     ],
     "people": "27",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "社會責任實踐課程 自然與科學向度",
@@ -118211,6 +118218,11 @@
         "name": "李魁鵬",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=10996",
         "code": "10996"
+      },
+      {
+        "name": "蔡一豪",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=12561",
+        "code": "12561"
       },
       {
         "name": "顏維謀",
@@ -130237,7 +130249,7 @@
     },
     "classroom": [],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "教師謝榮鴻/教室/遠距教學",
