@@ -7770,7 +7770,7 @@
       }
     ],
     "people": "17",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "機械大三、技優三和半導體三合開",
@@ -13248,7 +13248,13 @@
       ],
       "sat": []
     },
-    "classroom": [],
+    "classroom": [
+      {
+        "name": "分子205",
+        "link": "Croom.jsp?format=-3&year=115&sem=1&code=277",
+        "code": "277"
+      }
+    ],
     "people": "41",
     "peopleWithdraw": "0",
     "ta": [],
@@ -14271,7 +14277,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子三甲乙合開",
@@ -16355,7 +16361,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室",
@@ -16899,7 +16905,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "",
@@ -21816,7 +21822,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24046,7 +24052,7 @@
       }
     ],
     "people": "21",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計網電腦教室, 預選限 50 人",
@@ -25628,7 +25634,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "網路預選限 50 人; 化工大二合開",
@@ -36311,7 +36317,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -39100,7 +39106,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室, 限 40 人",
@@ -40240,6 +40246,11 @@
         "name": "范育成",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=11246",
         "code": "11246"
+      },
+      {
+        "name": "徐曉萱",
+        "link": "Teach.jsp?format=-3&year=115&sem=1&code=11929",
+        "code": "11929"
       },
       {
         "name": "張元震",
@@ -51945,7 +51956,7 @@
       }
     ],
     "people": "53",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -55546,7 +55557,7 @@
       }
     ],
     "people": "70",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -64434,7 +64445,7 @@
       }
     ],
     "people": "30",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "配合 USR 計畫 機電、製科合開，限 25 人",
@@ -64881,7 +64892,7 @@
       }
     ],
     "people": "36",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "機電、製科合開，限 30 人，乙◎、製科◎",
@@ -70412,7 +70423,7 @@
       }
     ],
     "people": "39",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -70645,7 +70656,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "自動化所、智慧鐵道和創新半導體合開, 計中電腦教室",
@@ -71967,7 +71978,7 @@
       }
     ],
     "people": "62",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "網路預選限 60 人",
@@ -72031,7 +72042,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "先鋒教室; 化工所和創新半導體合開; 網路預選限 25 人",
@@ -77770,7 +77781,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -81494,7 +81505,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -94791,7 +94802,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "電子四甲乙與電子所合開",
@@ -104895,7 +104906,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -106834,7 +106845,7 @@
       }
     ],
     "people": "45",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "以 CEFR B1 為目標，新制多益",
@@ -110423,7 +110434,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -110829,7 +110840,7 @@
       }
     ],
     "people": "74",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -112976,7 +112987,7 @@
       }
     ],
     "people": "69",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -114542,7 +114553,7 @@
       }
     ],
     "people": "82",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -115586,7 +115597,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -115760,7 +115771,7 @@
       }
     ],
     "people": "57",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -117129,7 +117140,7 @@
     },
     "classroom": [],
     "people": "26",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "大研合開",
@@ -119717,7 +119728,7 @@
     },
     "classroom": [],
     "people": "58",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "政大蔡炎龍 https://ppt.cc/fCH4qx",
@@ -120153,7 +120164,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
