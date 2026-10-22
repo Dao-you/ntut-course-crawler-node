@@ -4564,7 +4564,7 @@
     },
     "classroom": [],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -4753,11 +4753,6 @@
         "code": "10996"
       },
       {
-        "name": "施陽正",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=10958",
-        "code": "10958"
-      },
-      {
         "name": "柯明村",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=10822",
         "code": "10822"
@@ -4813,7 +4808,6 @@
       "ShowSyllabus.jsp?snum=361306&code=10911",
       "ShowSyllabus.jsp?snum=361306&code=11167",
       "ShowSyllabus.jsp?snum=361306&code=10996",
-      "ShowSyllabus.jsp?snum=361306&code=10958",
       "ShowSyllabus.jsp?snum=361306&code=10822",
       "ShowSyllabus.jsp?snum=361306&code=11684",
       "ShowSyllabus.jsp?snum=361306&code=11319",
@@ -8114,7 +8108,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "機械三甲乙合開",
@@ -8713,7 +8707,7 @@
       }
     ],
     "people": "52",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "預選限 40 人, 3 選 2",
@@ -15166,7 +15160,7 @@
       }
     ],
     "people": "46",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -16479,7 +16473,7 @@
       }
     ],
     "people": "36",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "社會責任實踐課程 上限 20 人",
@@ -16963,7 +16957,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24052,7 +24046,7 @@
       }
     ],
     "people": "21",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "計網電腦教室, 預選限 50 人",
@@ -24472,7 +24466,7 @@
       }
     ],
     "people": "57",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -27634,7 +27628,7 @@
       }
     ],
     "people": "24",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -28653,7 +28647,7 @@
       }
     ],
     "people": "52",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -32317,7 +32311,7 @@
         "code": "46"
       }
     ],
-    "people": "45",
+    "people": "46",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -35222,7 +35216,7 @@
       }
     ],
     "people": "79",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -37106,7 +37100,7 @@
       }
     ],
     "people": "92",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資工二和電資二合開",
@@ -39106,7 +39100,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室, 限 40 人",
@@ -43427,7 +43421,7 @@
       }
     ],
     "people": "43",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -53060,7 +53054,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -55004,7 +54998,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -56111,7 +56105,7 @@
       }
     ],
     "people": "95",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -56545,7 +56539,7 @@
       }
     ],
     "people": "59",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -59199,7 +59193,7 @@
       }
     ],
     "people": "16",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "木工",
@@ -59797,7 +59791,7 @@
       }
     ],
     "people": "45",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "上限 20 人",
@@ -61144,7 +61138,7 @@
       }
     ],
     "people": "43",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "互動一與外生一合開, 限本系 35 人 (預選 13 人)",
@@ -68049,7 +68043,7 @@
       }
     ],
     "people": "18",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -79103,7 +79097,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -80697,7 +80691,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -81505,7 +81499,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -82085,7 +82079,7 @@
       }
     ],
     "people": "52",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "需選修始可畢業",
@@ -82502,7 +82496,7 @@
       }
     ],
     "people": "120",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "電子所、電資外生所和創新 AI 合開",
@@ -84136,7 +84130,7 @@
       }
     ],
     "people": "19",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -84260,7 +84254,7 @@
       }
     ],
     "people": "32",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -87002,7 +86996,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -87062,7 +87056,7 @@
       }
     ],
     "people": "25",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -87533,7 +87527,7 @@
       }
     ],
     "people": "27",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "可預修 (需額外繳交學分費)",
@@ -87813,7 +87807,7 @@
       }
     ],
     "people": "46",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "限外籍生修讀, 初級班（A0）",
@@ -88903,7 +88897,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "光電四、光電所選修和太空所必修合開、億光 405 教",
@@ -89258,7 +89252,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -91873,7 +91867,7 @@
         "code": "64"
       }
     ],
-    "people": "37",
+    "people": "38",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -97743,7 +97737,7 @@
       }
     ],
     "people": "24",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "光電所和電資外生所合開",
@@ -98934,7 +98928,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "建都碩和設計博班合開",
@@ -102342,7 +102336,7 @@
     },
     "classroom": [],
     "people": "29",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "肢體美學 C",
@@ -102394,7 +102388,7 @@
     },
     "classroom": [],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "足球 B",
@@ -106085,7 +106079,7 @@
       }
     ],
     "people": "26",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -108158,7 +108152,7 @@
       }
     ],
     "people": "5",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -109099,7 +109093,7 @@
         "code": "15"
       }
     ],
-    "people": "32",
+    "people": "33",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -109506,7 +109500,7 @@
       }
     ],
     "people": "51",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -109796,7 +109790,7 @@
       }
     ],
     "people": "60",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "創新與創業向度",
@@ -110492,7 +110486,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -110840,7 +110834,7 @@
       }
     ],
     "people": "74",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
@@ -111071,7 +111065,7 @@
         "code": "574"
       }
     ],
-    "people": "35",
+    "people": "36",
     "peopleWithdraw": "0",
     "ta": [],
     "language": "",
@@ -112581,7 +112575,7 @@
       }
     ],
     "people": "75",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -115132,8 +115126,8 @@
         "code": "15"
       }
     ],
-    "people": "27",
-    "peopleWithdraw": "0",
+    "people": "28",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -120052,7 +120046,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "工設二、建築二合開",

@@ -6056,7 +6056,7 @@
       }
     ],
     "people": "18",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -21063,6 +21063,7 @@
       "ShowSyllabus.jsp?snum=365773&code=11403",
       "ShowSyllabus.jsp?snum=365773&code=10938",
       "ShowSyllabus.jsp?snum=365773&code=11396",
+      "ShowSyllabus.jsp?snum=365773&code=11224",
       "ShowSyllabus.jsp?snum=365773&code=11764"
     ]
   },
@@ -24374,7 +24375,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -25219,7 +25220,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -25288,7 +25289,7 @@
       }
     ],
     "people": "120",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "電子所、電資外生所和創新 AI 合開",
@@ -28722,7 +28723,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "光電四、光電所選修和太空所必修合開、億光 405 教",
@@ -31003,7 +31004,7 @@
       }
     ],
     "people": "24",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "光電所和電資外生所合開",
@@ -31766,7 +31767,7 @@
       }
     ],
     "people": "15",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "建都碩和設計博班合開",
@@ -34581,7 +34582,7 @@
       }
     ],
     "people": "5",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
