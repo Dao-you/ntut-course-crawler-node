@@ -3853,7 +3853,7 @@
       }
     ],
     "people": "1",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "工管四甲乙和工管所合開",
@@ -4266,11 +4266,6 @@
         "name": "方俊凱",
         "link": "Teach.jsp?format=-3&year=115&sem=1&code=24623",
         "code": "24623"
-      },
-      {
-        "name": "吳耀庭",
-        "link": "Teach.jsp?format=-3&year=115&sem=1&code=24366",
-        "code": "24366"
       },
       {
         "name": "李立夫",
@@ -8707,7 +8702,7 @@
       }
     ],
     "people": "52",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "6",
     "ta": [],
     "language": "",
     "notes": "預選限 40 人, 3 選 2",
@@ -14335,7 +14330,7 @@
       }
     ],
     "people": "47",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "電子三甲乙合開，預選限 20 人",
@@ -15358,7 +15353,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "工管三甲乙合開",
@@ -23076,7 +23071,7 @@
       }
     ],
     "people": "62",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "機械二合開",
@@ -26964,7 +26959,7 @@
       }
     ],
     "people": "65",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "三選二項目",
@@ -37035,7 +37030,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "必修: 資工。二教 204",
@@ -39100,7 +39095,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "5",
+    "peopleWithdraw": "6",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室, 限 40 人",
@@ -51457,7 +51452,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室, 工管一甲乙合開",
@@ -53203,7 +53198,7 @@
       }
     ],
     "people": "65",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "建築一和創意一合開 (限主修建築系選課)",
@@ -63981,7 +63976,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "機電、外生專班合開，限 21 人",
@@ -80270,7 +80265,7 @@
       }
     ],
     "people": "35",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電機所和電資學院大研合開",
@@ -80504,7 +80499,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "排一般教室, 互動二與外生二合開, 限本系 30 人",
@@ -81499,7 +81494,7 @@
       }
     ],
     "people": "40",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "7",
     "ta": [],
     "language": "",
     "notes": "",
@@ -87807,7 +87802,7 @@
       }
     ],
     "people": "46",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "限外籍生修讀, 初級班（A0）",
@@ -89368,7 +89363,7 @@
       }
     ],
     "people": "23",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -89427,7 +89422,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "配合 USR 計畫",
@@ -91636,7 +91631,7 @@
       }
     ],
     "people": "32",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "中級",
@@ -107772,7 +107767,7 @@
     },
     "classroom": [],
     "people": "31",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "撞球 F",
@@ -110660,7 +110655,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "自然與科學向度",
@@ -111762,7 +111757,7 @@
       }
     ],
     "people": "90",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "人文與藝術向度",
