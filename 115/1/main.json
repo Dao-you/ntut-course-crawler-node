@@ -3515,7 +3515,7 @@
       }
     ],
     "people": "44",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電子四甲乙合開，預選限 20 人",
@@ -15289,7 +15289,7 @@
       }
     ],
     "people": "48",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "工管三甲乙合開",
@@ -21811,7 +21811,7 @@
       }
     ],
     "people": "20",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24041,7 +24041,7 @@
       }
     ],
     "people": "21",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "計網電腦教室, 預選限 50 人",
@@ -24401,7 +24401,7 @@
       }
     ],
     "people": "49",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24461,7 +24461,7 @@
       }
     ],
     "people": "57",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -24593,7 +24593,7 @@
       }
     ],
     "people": "60",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "計網電腦教室，電機二乙丙合開",
@@ -31652,7 +31652,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "家室組",
@@ -32366,7 +32366,7 @@
       }
     ],
     "people": "33",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "家室組，設計 301 電腦教室，上限 30 人",
@@ -36731,7 +36731,7 @@
       }
     ],
     "people": "113",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "電機二乙和電資二合開",
@@ -40277,6 +40277,7 @@
       "ShowSyllabus.jsp?snum=362708&code=11840",
       "ShowSyllabus.jsp?snum=362708&code=11467",
       "ShowSyllabus.jsp?snum=362708&code=11246",
+      "ShowSyllabus.jsp?snum=362708&code=11929",
       "ShowSyllabus.jsp?snum=362708&code=12501",
       "ShowSyllabus.jsp?snum=362708&code=12691",
       "ShowSyllabus.jsp?snum=362708&code=11944"
@@ -43684,7 +43685,7 @@
       }
     ],
     "people": "47",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -55366,7 +55367,7 @@
       }
     ],
     "people": "89",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -70353,7 +70354,7 @@
       }
     ],
     "people": "41",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "",
@@ -77889,7 +77890,7 @@
       }
     ],
     "people": "16",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資工四和資工所合開",
@@ -80201,7 +80202,7 @@
       }
     ],
     "people": "14",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -85566,7 +85567,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "高分所和 EOMP 合開",
@@ -104418,7 +104419,7 @@
       }
     ],
     "people": "9",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "社會責任實踐課程",
@@ -106320,7 +106321,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資財所和 IMBA 合開",
@@ -116669,7 +116670,7 @@
       }
     ],
     "people": "42",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "",
@@ -116728,7 +116729,7 @@
       }
     ],
     "people": "22",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "",
@@ -119868,7 +119869,7 @@
     },
     "classroom": [],
     "people": "4",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "台大李宗穎 https://ppt.cc/fCH4qx",
