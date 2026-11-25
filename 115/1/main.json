@@ -9320,7 +9320,7 @@
       }
     ],
     "people": "33",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "預選限 40 人, 3 選 2",
@@ -15352,8 +15352,8 @@
         "code": "480"
       }
     ],
-    "people": "41",
-    "peopleWithdraw": "7",
+    "people": "42",
+    "peopleWithdraw": "8",
     "ta": [],
     "language": "",
     "notes": "工管三甲乙合開",
@@ -24401,7 +24401,7 @@
       }
     ],
     "people": "49",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "2",
     "ta": [],
     "language": "",
     "notes": "",
@@ -41821,7 +41821,7 @@
       }
     ],
     "people": "34",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "限五專學生修習",
@@ -42115,7 +42115,7 @@
     },
     "classroom": [],
     "people": "32",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "至北科附工上課",
@@ -51512,7 +51512,7 @@
       }
     ],
     "people": "52",
-    "peopleWithdraw": "1",
+    "peopleWithdraw": "0",
     "ta": [],
     "language": "",
     "notes": "計中電腦教室",
@@ -52785,7 +52785,7 @@
       }
     ],
     "people": "45",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "6",
     "ta": [],
     "language": "",
     "notes": "產品組，上限 40 人",
@@ -62590,7 +62590,7 @@
       }
     ],
     "people": "54",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "",
@@ -69863,7 +69863,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "資工所和創新資安合開",
@@ -71909,7 +71909,7 @@
       }
     ],
     "people": "64",
-    "peopleWithdraw": "3",
+    "peopleWithdraw": "4",
     "ta": [],
     "language": "",
     "notes": "網路預選限 50 人",
@@ -74024,7 +74024,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "0",
+    "peopleWithdraw": "1",
     "ta": [],
     "language": "",
     "notes": "資財四甲、資財所和創新資安合開",
@@ -85567,7 +85567,7 @@
       }
     ],
     "people": "38",
-    "peopleWithdraw": "2",
+    "peopleWithdraw": "3",
     "ta": [],
     "language": "",
     "notes": "高分所和 EOMP 合開",
@@ -85700,7 +85700,7 @@
       }
     ],
     "people": "50",
-    "peopleWithdraw": "4",
+    "peopleWithdraw": "5",
     "ta": [],
     "language": "",
     "notes": "化工所、EOMP 和創新半導體合開；網路預選限 15 人",
@@ -115761,7 +115761,7 @@
       }
     ],
     "people": "57",
-    "peopleWithdraw": "8",
+    "peopleWithdraw": "9",
     "ta": [],
     "language": "",
     "notes": "社會與法治向度",
@@ -135805,6 +135805,88 @@
     "language": "",
     "notes": "",
     "courseDescriptionLink": "Curr.jsp?format=-2&code=3602066",
+    "syllabusLinks": []
+  },
+  {
+    "code": "AB04021",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用課餘至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during summer vocation, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "371983",
+    "name": {
+      "zh": "校外實習",
+      "en": "Intern Practice"
+    },
+    "stage": "1",
+    "credit": "5.0",
+    "hours": "24",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "資財四甲",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2922",
+        "code": "2922"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "16",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=AB04021",
+    "syllabusLinks": []
+  },
+  {
+    "code": "5703092",
+    "description": {
+      "zh": "本課程主要目的為增進學生之實務能力，學生利用學期間至相關機構實習（實習實際天數依「校外實習」實行辦法另訂之），參與校外合作機構所提供之訓練，觀摩學習專業企業之實際運作。實習期滿後須由實習機構出具實習證明及成績考核；學生必須撰寫實習心得報告，彙交系上保存。",
+      "en": "The course is developed to increase students' capability of on-job practice. Participation in one of the corporative company during curriculum session, practice and learn the real operation of the ing related fields . A practice intern and a well-prepared report must be completed to the course requirement."
+    },
+    "id": "371984",
+    "name": {
+      "zh": "校外實習（二）",
+      "en": "Intern Practice II"
+    },
+    "stage": "1",
+    "credit": "6.0",
+    "hours": "32",
+    "courseType": "★",
+    "class": [
+      {
+        "name": "經管四",
+        "link": "Subj.jsp?format=-4&year=115&sem=1&code=2914",
+        "code": "2914"
+      }
+    ],
+    "teacher": [],
+    "time": {
+      "sun": [],
+      "mon": [],
+      "tue": [],
+      "wed": [],
+      "thu": [],
+      "fri": [],
+      "sat": []
+    },
+    "classroom": [],
+    "people": "7",
+    "peopleWithdraw": "0",
+    "ta": [],
+    "language": "",
+    "notes": "",
+    "courseDescriptionLink": "Curr.jsp?format=-2&code=5703092",
     "syllabusLinks": []
   }
 ]
